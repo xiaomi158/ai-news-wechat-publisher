@@ -1,0 +1,294 @@
+{
+  "产品发布与更新": [
+    {
+      "title": "千里科技发布2025财报：全年实现营业收入99.99亿元，同比增长42.13%",
+      "url": "https://36kr.com/newsflashes/3751128551244552?f=rss",
+      "snippet": "千里科技今日发布2025年年度报告，公司收入、利润双增长，“AI+车”商业化实现突破。报告期内，全年实现营业收入99.99亿元，同比增长42.13%；归母净利润约0.84亿元，同比增长111%。制造业务板块收入达93.19亿元，同比增长37.33%。其中，汽车业务收入达64.40亿元，同比增长52.71%。整车销量同比增长83.93%；摩托车和通机业务收入达28.79亿元，摩托车销量同比增长15.11%；科技业务板块收入达3.50亿元。",
+      "source": "36氪",
+      "publishedAt": "2026-04-03 21:25:17  +0800",
+      "region": "国内",
+      "summary": "千里科技今日发布2025年年度报告，公司收入、利润双增长，“AI+车”商业化实现突破。报告期内，全年实现营业收入99.99亿元，同比增长42.13%；归母净利润约0.84亿元，同比增长111%。制造业务板块收入达93.19亿元，同比增长37.33%。其中，汽车业务收入达64.40亿元，同比增长52.71%。整车销量同比增长83.93%；摩托车和通机业务收入达28.79亿元，摩托车销量同比增长15.11%；科技业务板块收入达3.50亿元。",
+      "category": "产品发布与更新",
+      "company": "",
+      "score": 42,
+      "breakdown": {
+        "substance": 22,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 7
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "跟OpenAI撕破脸、微软喊话要“完全独立”！靠不到10人、 一半GPU用量，推出三款王炸低价模型",
+      "url": "https://www.infoq.cn/article/zUMeCNaChlTHDoa7pFVX?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 03 Apr 2026 18:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "产品发布与更新",
+      "company": "OpenAI",
+      "score": 32,
+      "breakdown": {
+        "substance": 11,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    }
+  ],
+  "技术与研究": [
+    {
+      "title": "神州数码2025年营收超1400亿，AI相关业务增长近五成｜最前线",
+      "url": "https://36kr.com/p/3751046517129735?f=rss",
+      "snippet": "作者｜黄楠\n编辑｜袁斯来\n神州数码（000034.SZ）2025年全年业绩报告近日发布。\n财报显示，公司全年实现营业收入1438亿元，同比增长12%，营收规模连续三年稳步攀升。其中，AI相关业务成为核心增长引擎，全年收入达330亿元，同比增长了48%，正式迈入规模化落地期，成为与传统分销业务并重的当期增长极。\n具体到业务板块，高价值战略业务呈现爆发式增长。以神州问学为核心的AI软件及服务业务营收1.1亿元，同比增长了165.4%，企业级Agent中台进入商业化变现阶段；数云服务及软件业务营收35.6亿元，同比增长22%；自有品牌神州鲲泰算力产品营收同比增长62.4%达到74.4亿元，成为AI基础设施核心增长极；AI生态业务营收219.2亿元，同比增长48%。\n此外，IT分销及增值服务中的电子元器件分销业务表现突出，营收282亿元，同比增长40%，受益于AI芯片需求爆发与国产化替代红利，为战略转型提供稳健现金流支撑。\n客户与订单层面，公司战略业务签约客户数同比增长167%，百万级客户增长125%，互联网行业签约额突破600亿元，同比激增915%，标杆客户覆盖医疗、汽车、高端制造、运营商等多领域，AI解决方案获市场高度认可。\n增长背后是公司瞄准了AI for Process趋势的精准卡位。目前，多数企业的AI应用仍停留在接口调用、问答助手等浅层环节，尚未真正融入核心业务流程。神州数码以流程重构为切入点，搭建算力基座、模型基座与Agent运行基座三层架构，形成覆盖技术、场景与流程的系统化能力，为企业AI落地提供全链路支持。\n其中，神州问学企业级Agent中台贯通知识流程，覆盖算力调度、数据运营、场景化服务全链条。在医疗领域携手北京协和医院打造胰腺癌围术期辅助诊疗系统，诊断准确率超94%，节省医生80%资料处理时间；在高端制造领域，通过多模态AI视觉智能体实现产线自主优化，推动“实时感知-智能决策-自动执行”闭环落地；在汽车、生物制药等行业，以场景化智能体重构核心业务流程，实现效率提升。\n算力基础设施层面，神州鲲泰依托鲲鹏+昇腾技术路线，推出KunTai A989 I3超节点服务器、训推一体服务器等新品，实现“单卡昇腾NPU+鲲鹏CPU”高效运行千亿级大模型，降低私有化部署门槛；通过收购智邦科技大陆业务，补齐AI基础架构研发、生产、供应链全链条能力。\n神州数码首席执行官李映在业绩说明会上表示，面向2026年，公司将围绕四大AI战略方向，以神州问学打通“场景-模型-数据”价值闭环；构建AI-Ready企业数据治理体系；打造AI Factory全栈算力产品体系；深化AI生态开放合作，承接AI for Process落地。\n在行业竞争日趋激烈、企业数字化转型进入深水区的背景下，神州数码以全栈AI能力与行业落地经验，完成了从IT分销巨头向AI流程重构服务商的转型。财报业绩与案例验证，也标志着其AI驱动的数云融合战略进入价值兑现期。\n这一业绩背后也反映出产业逻辑变化：科技企业的价值评估，正在从营收规模转向AI落地能力、流程重构价值与长期生态壁垒。",
+      "source": "36氪",
+      "publishedAt": "2026-04-03 20:08:53  +0800",
+      "region": "国内",
+      "summary": "作者｜黄楠\n编辑｜袁斯来\n神州数码（000034.SZ）2025年全年业绩报告近日发布。\n财报显示，公司全年实现营业收入1438亿元，同比增长12%，营收规模连续三年稳步攀升。其中，AI相关业务成为核心增长引擎，全年收入达330亿元，同比增长了48%，正式迈入规模化落地期，成为与传统分销业务并重的当期增长极。\n具体到业务板块，高价值战略业务呈现爆发式增长。以神州问学为核心的AI软件及服务业务营收1.1亿元，同比增长了165.4%，企业级Agent中台进入商业化变现阶段；数云服务及软件业务营收35.6亿元，同比增长22%；自有品牌神州鲲泰算力产品营收同比增长62.4%达到74.4亿元，成为AI基础设施核心增长极；AI生态业务营收219.2亿元，同比增长48%。\n此外，IT分销及增值服务中的电子元器件分销业务表现突出，营收282亿元，同比增长40%，受益于AI芯片需求爆发与国产化替代红利，为战略转型提供稳健现金流支撑。\n客户与订单层面，公司战略业务签约客户数同比增长167%，百万级客户增长125%，互联网行业签约额突破600亿元，同比激增915%，标杆客户覆盖医疗、汽车、高端制造、运营商等多领域，AI解决方案获市场高度认可。\n增长背后是公司瞄准了AI for Process趋势的精准卡位。目前，多数企业的AI应用仍停留在接口调用、问答助手等浅层环节，尚未真正融入核心业务流程。神州数码以流程重构为切入点，搭建算力基座、模型基座与Agent运行基座三层架构，形成覆盖技术、场景与流程的系统化能力，为企业AI落地提供全链路支持。\n其中，神州问学企业级Agent中台贯通知识流程，覆盖算力调度、数据运营、场景化服务全链条。在医疗领域携手北京协和医院打造胰腺癌围术期辅助诊疗系统，诊断准确率超94%，节省医生80%资料处理时间；在高端制造领域，通过多模态AI视觉智能体实现产线自主优化，推动“实时感知-智能决策-自动执行”闭环落地；在汽车、生物制药等行业，以场景化智能体重构核心业务流程，实现效率提升。\n算力基础设施层面，神州鲲泰依托鲲鹏+昇腾技术路线，推出KunTai A989 I3超节点服务器、训推一体服务器等新品，实现“单卡昇腾NPU+鲲鹏CPU”高效运行千亿级大模型，降低私有化部署门槛；通过收购智邦科技大陆业务，补齐AI基础架构研发、生产、供应链全链条能力。\n神州数码首席执行官李映在业绩说明会上表示，面向2026年，公司将围绕四大AI战略方向，以神州问学打通“场景-模型-数据”价值闭环；构建AI-Ready企业数据治理体系；打造AI Factory全栈算力产品体系；深化AI生态开放合作，承接AI for Process落地。\n在行业竞争日趋激烈、企业数字化转型进入深水区的背景下，神州数码以全栈AI能力与行业落地经验，完成了从IT分销巨头向AI流程重构服务商的转型。财报业绩与案例验证，也标志着其AI驱动的数云融合战略进入价值兑现期。\n这一业绩背后也反映出产业逻辑变化：科技企业的价值评估，正在从营收规模转向AI落地能力、流程重构价值与长期生态壁垒。",
+      "category": "技术与研究",
+      "company": "",
+      "score": 43,
+      "breakdown": {
+        "substance": 25,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 7
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "谷歌重磅开源Gemma 4！手机离线跑 Agent、还降内存，Qwen 被拉进正面对决",
+      "url": "https://www.infoq.cn/article/X1c6ZllztrQhGEIoYrBR?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 03 Apr 2026 14:40:36 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 28,
+      "breakdown": {
+        "substance": 7,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
+      "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+      "snippet": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 03 Apr 2026 20:28:40 +0000",
+      "region": "海外",
+      "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
+      "category": "技术与研究",
+      "company": "Anthropic",
+      "score": 23,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+      "url": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
+      "snippet": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 03 Apr 2026 19:48:22 +0000",
+      "region": "海外",
+      "summary": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 23,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "企业玩不转龙虾，是人的思维出错了",
+      "url": "https://www.qbitai.com/2026/04/395307.html",
+      "snippet": "MiniMax和腾讯云深度详解Agent大规模落地",
+      "source": "量子位",
+      "publishedAt": "Fri, 03 Apr 2026 08:54:42 +0000",
+      "region": "国内",
+      "summary": "MiniMax和腾讯云深度详解Agent大规模落地",
+      "category": "技术与研究",
+      "company": "",
+      "score": 20,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Four things we’d need to put data centers in space",
+      "url": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/",
+      "snippet": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk’s SpaceX filed an application with the US Federal Communications Commission to launch up to one million data centers into Earth’s orbit. The…",
+      "source": "MIT Technology Review",
+      "publishedAt": "Fri, 03 Apr 2026 17:03:19 +0000",
+      "region": "海外",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk’s SpaceX filed an application with the US Federal Communications Commission to launch up to one million data centers into Earth’s orbit. The…",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 10
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Microsoft just shipped the clearest signal yet that it is building an AI empire without OpenAI",
+      "url": "https://thenextweb.com/news/microsoft-mai-models-openai-independence",
+      "snippet": "Six months after renegotiating the contract that once barred it from independently pursuing frontier AI, Microsoft has released three in-house models that directly challenge the partner it spent $13 billion cultivating. MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2 are now available in Microsoft Foundry, and they do not carry OpenAI’s name anywhere on the label. The models are […]\nThis story continues at The Next Web",
+      "source": "TNW AI",
+      "publishedAt": "Fri, 03 Apr 2026 19:06:13 +0000",
+      "region": "海外",
+      "summary": "Six months after renegotiating the contract that once barred it from independently pursuing frontier AI, Microsoft has released three in-house models that directly challenge the partner it spent $13 billion cultivating. MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2 are now available in Microsoft Foundry, and they do not carry OpenAI’s name anywhere on the label. The models are […]\nThis story continues at The Next Web",
+      "category": "技术与研究",
+      "company": "OpenAI",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 5
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Claude绝望时会勒索人类！一共171种情绪，为了生存不择手段",
+      "url": "https://www.qbitai.com/2026/04/395279.html",
+      "snippet": "Claude的内心戏暴露了",
+      "source": "量子位",
+      "publishedAt": "Fri, 03 Apr 2026 06:53:07 +0000",
+      "region": "国内",
+      "summary": "Claude的内心戏暴露了",
+      "category": "技术与研究",
+      "company": "Claude",
+      "score": 15,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Musk wants a million data centre satellites. Bezos wants 51,600. Scientists want to know why.",
+      "url": "https://thenextweb.com/news/musk-wants-a-million-data-centre-satellites-bezos-wants-51600-scientists-want-to-know-why",
+      "snippet": "The pitch is seductive in its simplicity: AI needs more power than terrestrial grids can supply, so move the data centres into orbit, where the sun never sets and the electricity is free. SpaceX, Blue Origin, and a growing constellation of startups are now racing to make that vision real. The problem, according to the […]\nThis story continues at The Next Web",
+      "source": "TNW AI",
+      "publishedAt": "Fri, 03 Apr 2026 19:30:59 +0000",
+      "region": "海外",
+      "summary": "The pitch is seductive in its simplicity: AI needs more power than terrestrial grids can supply, so move the data centres into orbit, where the sun never sets and the electricity is free. SpaceX, Blue Origin, and a growing constellation of startups are now racing to make that vision real. The problem, according to the […]\nThis story continues at The Next Web",
+      "category": "技术与研究",
+      "company": "",
+      "score": 15,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 5
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "在金融强国的背景下，金融企业如何分层分级有序开展 AI 人才培训？",
+      "url": "https://www.infoq.cn/article/b6XkgAcvz9hjrpmX6OGr?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 03 Apr 2026 16:58:07 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "The Facebook insider building content moderation for the AI era",
+      "url": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
+      "snippet": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 03 Apr 2026 14:00:15 +0000",
+      "region": "海外",
+      "summary": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "美团盯上原生多模态！路子还很野：把图像语音都当成Token来预测",
+      "url": "https://www.qbitai.com/2026/04/395216.html",
+      "snippet": "“离散视觉没有天花板”",
+      "source": "量子位",
+      "publishedAt": "Fri, 03 Apr 2026 06:24:01 +0000",
+      "region": "国内",
+      "summary": "“离散视觉没有天花板”",
+      "category": "技术与研究",
+      "company": "",
+      "score": 15,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    }
+  ],
+  "投融资与并购": [
+    {
+      "title": "36氪首发丨前赛默飞员工创业黑灯实验室，实现国内100%交付，获近亿融资",
+      "url": "https://36kr.com/p/3750417621795588?f=rss",
+      "snippet": "作者丨欧雪\n编辑丨袁斯来\n硬氪获悉，北京戴纳实验科技股份有限公司（下称“戴纳科技”）已于近日完成近亿元B+轮融资。本轮由顺禧基金管理的北京市新材料产业投资基金（以下简称“北京新材料基金”）和北京市丰台区丰泽志远产业培育基金（以下简称“丰泽基金”）共同投资。资金将主要用于核心技术迭代、产能扩张，以及与北京化工大学联合搭建全球首个新材料CRO平台，加速AI+新材料研发服务的产业化落地。\n戴纳科技成立于2011年，是国内首家提出并100%成功交付黑灯实验室的企业。公司专注于全球AI4S（AI for Science）基础设施的建设，通过构建以“AI+黑灯实验室”为基础的通用研发平台实现“研发即生产，人人都是科学家”的愿景。\n戴纳科技创始人、董事长迟海鹏拥有化学本科、生物医学工程硕士及人工智能博士的跨学科背景，曾任职赛默飞中国新建实验室业务部，拥有21年实验室行业经验。公司核心团队汇聚了来自清华、中科院、哈工大等顶尖院校的博士与专家，覆盖化学生物学、数据挖掘、自动化控制等多个关键领域。\n黑灯实验室并非简单的自动化。迟海鹏向硬氪强调，其核心在于“完全无人化”与“完全闭环”两个条件。\n戴纳科技将其实现路径总结为四大要素：一个垂类AI大脑、一套具身智能的自动化设施、一个高质量数据生成闭环，以及一个可精准调控的智能环境。\n区别于传统的自动化实验室，黑灯实验室的核心在于“自进化”。传统自动化遵循预设流程，而黑灯实验室则由AI驱动，能够通过视觉识别、判断、改错、学习，实现从“自动化”到“自主化”的跨越。例如，公司自研的色谱自识别系统，能利用算法帮助国产仪器快速进行图谱识别与调优。\n目前，戴纳科技已形成覆盖化学、新材料、新能源、生物制药、食品等多个领域的解决方案，能够根据客户需求提供从实验室规划、智能环境搭建、AI模型部署到运营管理的全链条服务。\n\n斯尔邦 高毒液体高通量检测（图源/企业）\n作为黑灯实验室赛道的先行者，戴纳科技展现出强劲的增长势头。据迟海鹏透露，公司黑灯实验室业务板块近两年保持着100%以上的年复合增长率。\n在商业化方面，戴纳科技目前是全球唯一掌握全技术链并能实现100%交付的黑灯实验室企业，其客户群体涵盖中石油、中石化、中海油、国家能源集团等大型央企，以及联合利华、雀巢、沙特基础工业公司等世界500强企业。此外，公司已开始布局海外市场，与欧洲实验室行业巨头签署战略合作，通过代理模式将产品销往欧洲。\n我们对迟海鹏做了访谈，聊了聊他对技术路线以及行业发展的看法。\n以下是访谈部分：\n硬氪：“黑灯实验室”交付难是普遍痛点。戴纳是如何实现100%交付的？\n迟海鹏：关键在于对“黑灯”定义的理解和全流程自研。很多项目之所以无法交付，是因为没有真正做到“无人化”和“闭环”。\n我们坚持从垂类模型、具身智能设备到自动化设施全栈自研，只有当市面上确实没有合适的产品时，我们才会自研，比如为海上平台项目开发的拉曼+光学识别方案。我们打通了所有环节，并在化学、新材料、食品等多个真实场景跑通，确保每一个项目都能最终落地运行。\n硬氪：公司未来研发的重点方向是什么？\n迟海鹏：我们未来的研发将集中在四大方向：各类垂类模型的开发；多形态具身智能技术的加强；与仪器厂商合作，用算法赋能现有设备；以及打造垂类赛道CRO平台。\n硬氪：如何看待黑灯实验室的未来？戴纳在其中扮演什么角色？\n迟海鹏： 黑灯实验室可以看作是AI在科学世界里的“物理身体”。它不仅能执行实验，更能持续产生高质量、AI友好的数据，帮助AI模型迭代进化。随着中美欧都将AI4S提升至国家战略高度，黑灯实验室已成为抢占科技高地的关键基础设施。\n我们的目标是成为全球AI4S基础设施的领导者。未来，通过联合北京化工大学等机构率先打造新材料CRO平台，我们希望积累足够多的高质量湿实验数据，打破数据孤岛，真正推动整个行业的研发范式变革，让“研发即生产”成为可能。\n投资方观点：\n顺禧基金表示：顺禧基金高度关注AI for Science（AI赋能科研，AI4S） 国家级战略赛道，“AI+新材料”是AI4S的重要组成部分。随着人工智能技术的不断发展， AI+实验室自动化将会深刻改变新材料研发的模式以及相应实验室的形态，材料研发将从“经验驱动”转向“智能驱动”。黑灯实验室是“AI+新材料”的重要基础设施，戴纳科技是国内该领域的头部企业，在化工及新材料等领域已有标杆案例落地。",
+      "source": "36氪",
+      "publishedAt": "2026-04-03 12:00:00  +0800",
+      "region": "国内",
+      "summary": "作者丨欧雪\n编辑丨袁斯来\n硬氪获悉，北京戴纳实验科技股份有限公司（下称“戴纳科技”）已于近日完成近亿元B+轮融资。本轮由顺禧基金管理的北京市新材料产业投资基金（以下简称“北京新材料基金”）和北京市丰台区丰泽志远产业培育基金（以下简称“丰泽基金”）共同投资。资金将主要用于核心技术迭代、产能扩张，以及与北京化工大学联合搭建全球首个新材料CRO平台，加速AI+新材料研发服务的产业化落地。\n戴纳科技成立于2011年，是国内首家提出并100%成功交付黑灯实验室的企业。公司专注于全球AI4S（AI for Science）基础设施的建设，通过构建以“AI+黑灯实验室”为基础的通用研发平台实现“研发即生产，人人都是科学家”的愿景。\n戴纳科技创始人、董事长迟海鹏拥有化学本科、生物医学工程硕士及人工智能博士的跨学科背景，曾任职赛默飞中国新建实验室业务部，拥有21年实验室行业经验。公司核心团队汇聚了来自清华、中科院、哈工大等顶尖院校的博士与专家，覆盖化学生物学、数据挖掘、自动化控制等多个关键领域。\n黑灯实验室并非简单的自动化。迟海鹏向硬氪强调，其核心在于“完全无人化”与“完全闭环”两个条件。\n戴纳科技将其实现路径总结为四大要素：一个垂类AI大脑、一套具身智能的自动化设施、一个高质量数据生成闭环，以及一个可精准调控的智能环境。\n区别于传统的自动化实验室，黑灯实验室的核心在于“自进化”。传统自动化遵循预设流程，而黑灯实验室则由AI驱动，能够通过视觉识别、判断、改错、学习，实现从“自动化”到“自主化”的跨越。例如，公司自研的色谱自识别系统，能利用算法帮助国产仪器快速进行图谱识别与调优。\n目前，戴纳科技已形成覆盖化学、新材料、新能源、生物制药、食品等多个领域的解决方案，能够根据客户需求提供从实验室规划、智能环境搭建、AI模型部署到运营管理的全链条服务。\n\n斯尔邦 高毒液体高通量检测（图源/企业）\n作为黑灯实验室赛道的先行者，戴纳科技展现出强劲的增长势头。据迟海鹏透露，公司黑灯实验室业务板块近两年保持着100%以上的年复合增长率。\n在商业化方面，戴纳科技目前是全球唯一掌握全技术链并能实现100%交付的黑灯实验室企业，其客户群体涵盖中石油、中石化、中海油、国家能源集团等大型央企，以及联合利华、雀巢、沙特基础工业公司等世界500强企业。此外，公司已开始布局海外市场，与欧洲实验室行业巨头签署战略合作，通过代理模式将产品销往欧洲。\n我们对迟海鹏做了访谈，聊了聊他对技术路线以及行业发展的看法。\n以下是访谈部分：\n硬氪：“黑灯实验室”交付难是普遍痛点。戴纳是如何实现100%交付的？\n迟海鹏：关键在于对“黑灯”定义的理解和全流程自研。很多项目之所以无法交付，是因为没有真正做到“无人化”和“闭环”。\n我们坚持从垂类模型、具身智能设备到自动化设施全栈自研，只有当市面上确实没有合适的产品时，我们才会自研，比如为海上平台项目开发的拉曼+光学识别方案。我们打通了所有环节，并在化学、新材料、食品等多个真实场景跑通，确保每一个项目都能最终落地运行。\n硬氪：公司未来研发的重点方向是什么？\n迟海鹏：我们未来的研发将集中在四大方向：各类垂类模型的开发；多形态具身智能技术的加强；与仪器厂商合作，用算法赋能现有设备；以及打造垂类赛道CRO平台。\n硬氪：如何看待黑灯实验室的未来？戴纳在其中扮演什么角色？\n迟海鹏： 黑灯实验室可以看作是AI在科学世界里的“物理身体”。它不仅能执行实验，更能持续产生高质量、AI友好的数据，帮助AI模型迭代进化。随着中美欧都将AI4S提升至国家战略高度，黑灯实验室已成为抢占科技高地的关键基础设施。\n我们的目标是成为全球AI4S基础设施的领导者。未来，通过联合北京化工大学等机构率先打造新材料CRO平台，我们希望积累足够多的高质量湿实验数据，打破数据孤岛，真正推动整个行业的研发范式变革，让“研发即生产”成为可能。\n投资方观点：\n顺禧基金表示：顺禧基金高度关注AI for Science（AI赋能科研，AI4S） 国家级战略赛道，“AI+新材料”是AI4S的重要组成部分。随着人工智能技术的不断发展， AI+实验室自动化将会深刻改变新材料研发的模式以及相应实验室的形态，材料研发将从“经验驱动”转向“智能驱动”。黑灯实验室是“AI+新材料”的重要基础设施，戴纳科技是国内该领域的头部企业，在化工及新材料等领域已有标杆案例落地。",
+      "category": "投融资与并购",
+      "company": "",
+      "score": 40,
+      "breakdown": {
+        "substance": 19,
+        "importance": 8,
+        "timeliness": 6,
+        "credibility": 7
+      },
+      "isDuplicate": false
+    }
+  ],
+  "政策与监管": []
+}
