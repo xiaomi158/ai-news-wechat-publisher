@@ -1,0 +1,216 @@
+{
+  "产品发布与更新": [],
+  "技术与研究": [
+    {
+      "title": "智元机器人，要做AI大模型平台和开放生态",
+      "url": "https://36kr.com/p/3770721219035649?f=rss",
+      "snippet": "文｜王毓婵\n编辑｜杨轩\n当一家机器人公司决定做AI大模型平台和开放生态，它会给行业带来什么？\n上个月，智元刚刚跨过“机器人量产下线一万台”的门槛。4月17日，这家由前华为“天才少年”彭志辉与前华为副总裁邓泰华共同创立的机器人公司在合作伙伴大会上，花了大量的时间和篇幅介绍软件上的新产品。相较之下，硬件的篇幅反倒很少。\n智元推出了六大AI模型、七大生产力解决方案，并首次公开AIMA（AI Machine Architecture）全栈生态技术体系。这些软件产品将与硬件机器人一起，组成智元“一体三智”的架构。\n所谓“一体三智”，“一体”指的是机器人本体；\"三智\"则包括：运动智能（基础智能，承担物理载体的执行器功能）；交互智能（高阶智能，为情绪价值入口）；作业智能（高阶智能，提供劳动生产力）。\n“智元并不仅仅只是一家机器人公司，更是一家具身智能公司。如果没有跟本体深度耦合的智能，机器人只是一个工具，并不是真正的具身智能。”彭志辉说。\n如何让机器人不止会按照写好的程序跳舞、翻跟头，而是在工业、商业和家庭环境里自主承担工作，关键的变量就在于机器人大脑。现在，智元希望做这个“孵化机器人大脑”的平台。\n\n智元联合创始人、总裁兼CTO彭志辉\n一口气推出六款AI模型，智元要做“开放生态”\n智元创始人、董事长兼CEO邓泰华宣布，智元将于今年推出的六款AI模型，覆盖“一体三智”中的运动智能、交互智能和作业智能。\n运动智能方面，将推出两大基座模型：支持感控融合的全身运控基座模型（通过环境感知实现自适应运动控制），以及生成式运控基座模型（以多模态交互实时生成任意动作，无需预编排）。\n交互智能方面，在已规模应用的WITA大模型基础上，三季度将发布行业首个端到端具身多模态交互大模型WITA Omni 1.0。该模型保留对话情感、语境、音调、环境等信息，实现自然拟人的情感交互表达，支持中途插话、打断、纠正。\n作业智能投入最大、算法人才密度最高。智元近期已发布融合大小脑的GO-2模型、动作世界模型GE-2、开源数据集AGIBOT WORLD 2026、仿真平台Genie Sim 3.0及Genie Studio 2.0。第三季度，还将推出GO-3模型，融合ViLLA架构和世界模型架构，具备了规划推演能力，也具备复杂任务的推理执行能力，数据规模达GO-2的数十至百倍。\n邓泰华向台下的产业界合作伙伴们展示了一张图——具身智能发展的XYZ曲线。\n\n具身智能发展的XYZ曲线\nX曲线（2022年至2025年）为开发尝鲜期，完成从原型到规模量产的跨越。2023年首款人形机器人发布，完成技术可行性验证；2025年实现5000台量产，机器���从\"展品\"变成\"商品\"，机器人能“动\"起来了。\nY曲线（2026年至2030年）为部署成长期。2026年3月智元机器人万台下线，交互智能与作业智能规模化落地，机器人生产力持续逼近人类水平。\nZ曲线（2030年及以后）为部署普及期，具身智能涌现时刻到来——机器人在制造、物流、服务等重点领域的生产力全面超越人类，学习效率和进化速度极度领先，群体智能开始涌现。\n按照智元的规划，公司三年走过 X 曲线，实现首个十亿营收；五年走过 Y 曲线，完成万台部署，实现百亿营收；八年迎来 Z 曲线，与全球生态伙伴共创，实现规模化从 1 到 N 推广。这个规划被称为“358宏图计划”，而2026年作为Y曲线的开端，被称为\"部署态元年\"。\n总裁兼CTO彭志辉说，智元判断2026年为突破点，是因为“有三个要素在今年同时成立”——大模型的突破；机器人的本体和数据飞轮。\n首先，在大模型方面，模型已经让机器人开始能够看懂世界、理解世界。更重要的是这些模型不再是孤立的算法，而是形成了开源的生态，整个加速了机器人技术的迭代。\n其次，在机器人本体方面，机器人已经实现了大规模量产，并可以实现7×24小时的稳定运行。\n最后，在数据飞轮方面，彭志辉说：“数据飞轮部署的机器人越多，飞轮转得越快，采集的数据也越多，模型的训练能力也就越强。这个飞轮一旦转起来，就将产生指数级的网络效应，智元的判断是2026年飞轮也会开始加速转动。”\n基于这样的判断，智元接下来的思路是——本体量产、模型迭代、开源数据，开放生态平台。彭志辉称之为“一条最难，但是也最有复利的路径”。\n缺少数据的行业，和重复造轮子的竞争对手\n机器人公司在2026年尝试与竞争对手一起走向开放，某种程度上也是资源缺失导致的必然。\n2026年，大语言模型和视频生成大模型都在疯狂烧Token，而具身机器人行业却正在经历“无Token可烧”的局面。大模型能像人一样读书，而具身智能要去真实的世界里摸爬滚打才能获取数据——数据的匮乏成为了卡住全行业的瓶颈。\n在合作伙伴大会举办的前一天，智元机器人旗下觅蜂科技先发布了一个“一站式物理 AI 数据服务平台”，它的定位是面向其他机器人公司的To B数据服务平台。\n“谁是AI时代最大的Token消费者？不是聊天软件，不是代码助手，也不是图片视频生成器——而是具身智能体。”彭志辉说，“具身智能体的任务空间横跨数字世界与整个物理世界，一个在物理世界中持续运行的机器人，每时每刻都在消耗Token。”\n机器人已经量产了，大模型也已经造出来了，现在还差“数据飞轮”。\n“GPT5用了100万亿tokens的训练语料。1token约等于0.75个英语单词，如果一个正常人一分钟能说150个词，这个语料级就等于一个人要说100亿个小时才能说完。”觅蜂科技董事长兼 CEO 姚卯青说，“但具身智能不一样。今天，全世界的高质量数据汇聚在一起，可能也只有50万小时的规模。”\n在大会后的采访环节，彭志辉再次对包括智能涌现在内的媒体谈起“数据荒”的问题。\n“具身智能的数据缺口还是比较大，现在对行业来说是很大的瓶颈。而且它采集要求高，因为你要在物理世界产生真实的接触，统计摩擦力、重力等等各种数据。”彭志辉说，“所以我们一直在推出数据采集的产品和商业方案，同时积极建设各种开放的数据生态。”\n而且，行业至今仍然没有形成标准化，这导致了重复造轮子的问题。\n彭志辉的另一个身份，是工信部人形机器人与具身智能标准化技术委员会副主任委员。“国内有上层引导，我也参与标准建设，（希望）大家能合心齐力推动发展。”彭志辉说，智元一方面会继续扩大本体部署，让更多机器人进入真实的工作流去采集这个数据，另外也希望能吸引更多的第三方开发者去共建。\n开放生态，是为了共同解决数据荒，也是为了形成“标准”，避免行业内的公司各自闷头重复造轮子。\n“开源的东西多了，才容易形成生态。参与生态的人多了，才能形成一个‘事实标准’，这也是我们推进标准化的一条路径。”彭志辉说。\n根据海外权威机构及国务院发展研究中心的数据，到2050年左右，具身智能产业将达到5万亿美元的规模。10年之后的2035年，仅中国具身智能产业就将到1万亿人民币的规模。\n类比汽车产业，目前全球汽车保有量约为16亿辆，对应的市场规模接近5万亿美元。也就是说，具身智能将在25年之间“再造一个汽车产业”。\n面对如此庞大而又遥远的一个蛋糕，这个正在数据瓶颈上挣扎的行业还远未到谈论竞争的时候。\n“我们所有伙伴合作都不要求排他，不独占，不要求二选一，全部面向整个产业开放。如果在智元体系能力基础上，别家跑出来了，推动了产业发展，我们也是欢迎的。产业成功了，生产力进步了，我们每个人都是受益者。”邓泰华说。",
+      "source": "36氪",
+      "publishedAt": "2026-04-18 10:00:00  +0800",
+      "region": "国内",
+      "summary": "文｜王毓婵\n编辑｜杨轩\n当一家机器人公司决定做AI大模型平台和开放生态，它会给行业带来什么？\n上个月，智元刚刚跨过“机器人量产下线一万台”的门槛。4月17日，这家由前华为“天才少年”彭志辉与前华为副总裁邓泰华共同创立的机器人公司在合作伙伴大会上，花了大量的时间和篇幅介绍软件上的新产品。相较之下，硬件的篇幅反倒很少。\n智元推出了六大AI模型、七大生产力解决方案，并首次公开AIMA（AI Machine Architecture）全栈生态技术体系。这些软件产品将与硬件机器人一起，组成智元“一体三智”的架构。\n所谓“一体三智”，“一体”指的是机器人本体；\"三智\"则包括：运动智能（基础智能，承担物理载体的执行器功能）；交互智能（高阶智能，为情绪价值入口）；作业智能（高阶智能，提供劳动生产力）。\n“智元并不仅仅只是一家机器人公司，更是一家具身智能公司。如果没有跟本体深度耦合的智能，机器人只是一个工具，并不是真正的具身智能。”彭志辉说。\n如何让机器人不止会按照写好的程序跳舞、翻跟头，而是在工业、商业和家庭环境里自主承担工作，关键的变量就在于机器人大脑。现在，智元希望做这个“孵化机器人大脑”的平台。\n\n智元联合创始人、总裁兼CTO彭志辉\n一口气推出六款AI模型，智元要做“开放生态”\n智元创始人、董事长兼CEO邓泰华宣布，智元将于今年推出的六款AI模型，覆盖“一体三智”中的运动智能、交互智能和作业智能。\n运动智能方面，将推出两大基座模型：支持感控融合的全身运控基座模型（通过环境感知实现自适应运动控制），以及生成式运控基座模型（以多模态交互实时生成任意动作，无需预编排）。\n交互智能方面，在已规模应用的WITA大模型基础上，三季度将发布行业首个端到端具身多模态交互大模型WITA Omni 1.0。该模型保留对话情感、语境、音调、环境等信息，实现自然拟人的情感交互表达，支持中途插话、打断、纠正。\n作业智能投入最大、算法人才密度最高。智元近期已发布融合大小脑的GO-2模型、动作世界模型GE-2、开源数据集AGIBOT WORLD 2026、仿真平台Genie Sim 3.0及Genie Studio 2.0。第三季度，还将推出GO-3模型，融合ViLLA架构和世界模型架构，具备了规划推演能力，也具备复杂任务的推理执行能力，数据规模达GO-2的数十至百倍。\n邓泰华向台下的产业界合作伙伴们展示了一张图——具身智能发展的XYZ曲线。\n\n具身智能发展的XYZ曲线\nX曲线（2022年至2025年）为开发尝鲜期，完成从原型到规模量产的跨越。2023年首款人形机器人发布，完成技术可行性验证；2025年实现5000台量产，机器���从\"展品\"变成\"商品\"，机器人能“动\"起来了。\nY曲线（2026年至2030年）为部署成长期。2026年3月智元机器人万台下线，交互智能与作业智能规模化落地，机器人生产力持续逼近人类水平。\nZ曲线（2030年及以后）为部署普及期，具身智能涌现时刻到来——机器人在制造、物流、服务等重点领域的生产力全面超越人类，学习效率和进化速度极度领先，群体智能开始涌现。\n按照智元的规划，公司三年走过 X 曲线，实现首个十亿营收；五年走过 Y 曲线，完成万台部署，实现百亿营收；八年迎来 Z 曲线，与全球生态伙伴共创，实现规模化从 1 到 N 推广。这个规划被称为“358宏图计划”，而2026年作为Y曲线的开端，被称为\"部署态元年\"。\n总裁兼CTO彭志辉说，智元判断2026年为突破点，是因为“有三个要素在今年同时成立”——大模型的突破；机器人的本体和数据飞轮。\n首先，在大模型方面，模型已经让机器人开始能够看懂世界、理解世界。更重要的是这些模型不再是孤立的算法，而是形成了开源的生态，整个加速了机器人技术的迭代。\n其次，在机器人本体方面，机器人已经实现了大规模量产，并可以实现7×24小时的稳定运行。\n最后，在数据飞轮方面，彭志辉说：“数据飞轮部署的机器人越多，飞轮转得越快，采集的数据也越多，模型的训练能力也就越强。这个飞轮一旦转起来，就将产生指数级的网络效应，智元的判断是2026年飞轮也会开始加速转动。”\n基于这样的判断，智元接下来的思路是——本体量产、模型迭代、开源数据，开放生态平台。彭志辉称之为“一条最难，但是也最有复利的路径”。\n缺少数据的行业，和重复造轮子的竞争对手\n机器人公司在2026年尝试与竞争对手一起走向开放，某种程度上也是资源缺失导致的必然。\n2026年，大语言模型和视频生成大模型都在疯狂烧Token，而具身机器人行业却正在经历“无Token可烧”的局面。大模型能像人一样读书，而具身智能要去真实的世界里摸爬滚打才能获取数据——数据的匮乏成为了卡住全行业的瓶颈。\n在合作伙伴大会举办的前一天，智元机器人旗下觅蜂科技先发布了一个“一站式物理 AI 数据服务平台”，它的定位是面向其他机器人公司的To B数据服务平台。\n“谁是AI时代最大的Token消费者？不是聊天软件，不是代码助手，也不是图片视频生成器——而是具身智能体。”彭志辉说，“具身智能体的任务空间横跨数字世界与整个物理世界，一个在物理世界中持续运行的机器人，每时每刻都在消耗Token。”\n机器人已经量产了，大模型也已经造出来了，现在还差“数据飞轮”。\n“GPT5用了100万亿tokens的训练语料。1token约等于0.75个英语单词，如果一个正常人一分钟能说150个词，这个语料级就等于一个人要说100亿个小时才能说完。”觅蜂科技董事长兼 CEO 姚卯青说，“但具身智能不一样。今天，全世界的高质量数据汇聚在一起，可能也只有50万小时的规模。”\n在大会后的采访环节，彭志辉再次对包括智能涌现在内的媒体谈起“数据荒”的问题。\n“具身智能的数据缺口还是比较大，现在对行业来说是很大的瓶颈。而且它采集要求高，因为你要在物理世界产生真实的接触，统计摩擦力、重力等等各种数据。”彭志辉说，“所以我们一直在推出数据采集的产品和商业方案，同时积极建设各种开放的数据生态。”\n而且，行业至今仍然没有形成标准化，这导致了重复造轮子的问题。\n彭志辉的另一个身份，是工信部人形机器人与具身智能标准化技术委员会副主任委员。“国内有上层引导，我也参与标准建设，（希望）大家能合心齐力推动发展。”彭志辉说，智元一方面会继续扩大本体部署，让更多机器人进入真实的工作流去采集这个数据，另外也希望能吸引更多的第三方开发者去共建。\n开放生态，是为了共同解决数据荒，也是为了形成“标准”，避免行业内的公司各自闷头重复造轮子。\n“开源的东西多了，才容易形成生态。参与生态的人多了，才能形成一个‘事实标准’，这也是我们推进标准化的一条路径。”彭志辉说。\n根据海外权威机构及国务院发展研究中心的数据，到2050年左右，具身智能产业将达到5万亿美元的规模。10年之后的2035年，仅中国具身智能产业就将到1万亿人民币的规模。\n类比汽车产业，目前全球汽车保有量约为16亿辆，对应的市场规模接近5万亿美元。也就是说，具身智能将在25年之间“再造一个汽车产业”。\n面对如此庞大而又遥远的一个蛋糕，这个正在数据瓶颈上挣扎的行业还远未到谈论竞争的时候。\n“我们所有伙伴合作都不要求排他，不独占，不要求二选一，全部面向整个产业开放。如果在智元体系能力基础上，别家跑出来了，推动了产业发展，我们也是欢迎的。产业成功了，生产力进步了，我们每个人都是受益者。”邓泰华说。",
+      "category": "技术与研究",
+      "company": "",
+      "score": 43,
+      "breakdown": {
+        "substance": 25,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 7
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "AI 写代码太快，人类测试跟不上了，Meta 用新方法把 bug 检出率提升 4 倍",
+      "url": "https://www.infoq.cn/article/IEaQFYPKeZwDKNFuYY4D?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Sun, 19 Apr 2026 08:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "Meta",
+      "score": 29,
+      "breakdown": {
+        "substance": 6,
+        "importance": 5,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "谷歌基于Apache 2.0协议开源Gemma 4，搭载多模态与智能体能力",
+      "url": "https://www.infoq.cn/article/ry64GrNLAEEf1qdZABb0?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Sat, 18 Apr 2026 10:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 26,
+      "breakdown": {
+        "substance": 7,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "“闪电”完成2026人形机器人半马",
+      "url": "https://36kr.com/newsflashes/3773065501852161?f=rss",
+      "snippet": "今天，由北京市人民政府、中央广播电视总台等联合主办的2026人形机器人半程马拉松鸣枪开跑，参赛队伍超百支。自主导航与遥控赛队同台竞技，统一排名，两组别成绩分别按1.0与1.2的加权系数进行核算。\n\n来自北京荣耀的“闪电”以48分19秒的净成绩率先冲线完赛。该机器人也是首个出发的选手。（央视新闻）",
+      "source": "36氪",
+      "publishedAt": "2026-04-19 09:20:42  +0800",
+      "region": "国内",
+      "summary": "今天，由北京市人民政府、中央广播电视总台等联合主办的2026人形机器人半程马拉松鸣枪开跑，参赛队伍超百支。自主导航与遥控赛队同台竞技，统一排名，两组别成绩分别按1.0与1.2的加权系数进行核算。\n\n来自北京荣耀的“闪电”以48分19秒的净成绩率先冲线完赛。该机器人也是首个出发的选手。",
+      "category": "技术与研究",
+      "company": "",
+      "score": 24,
+      "breakdown": {
+        "substance": 7,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 7
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "AI chip startup Cerebras files for IPO",
+      "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+      "snippet": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sat, 18 Apr 2026 19:19:11 +0000",
+      "region": "海外",
+      "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 21,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "AI开始接管实验室了！玻尔·跃迁实验室：试剂、设备、数据一个入口搞定，1800+设备即插即用",
+      "url": "https://www.qbitai.com/2026/04/402988.html",
+      "snippet": "自然语言控制设备，零编程编排流程",
+      "source": "量子位",
+      "publishedAt": "Sat, 18 Apr 2026 15:58:07 +0000",
+      "region": "国内",
+      "summary": "自然语言控制设备，零编程编排流程",
+      "category": "技术与研究",
+      "company": "",
+      "score": 17,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Nvidia’s Huang warns DeepSeek running on Huawei chips would be ‘horrible’ for the US",
+      "url": "https://thenextweb.com/news/nvidia-huang-deepseek-huawei-chips-horrible-outcome",
+      "snippet": "In short: Nvidia CEO Jensen Huang warned on the Dwarkesh Podcast that DeepSeek optimising its AI models for Huawei’s Ascend chips instead of American hardware would be “a horrible outcome” for the United States, as the Chinese AI lab prepares to launch its V4 foundation model on Huawei’s Ascend 950PR processor. The migration from Nvidia’s […]\nThis story continues at The Next Web",
+      "source": "TNW AI",
+      "publishedAt": "Sat, 18 Apr 2026 11:14:03 +0000",
+      "region": "海外",
+      "summary": "In short: Nvidia CEO Jensen Huang warned on the Dwarkesh Podcast that DeepSeek optimising its AI models for Huawei’s Ascend chips instead of American hardware would be “a horrible outcome” for the United States, as the Chinese AI lab prepares to launch its V4 foundation model on Huawei’s Ascend 950PR processor. The migration from Nvidia’s […]\nThis story continues at The Next Web",
+      "category": "技术与研究",
+      "company": "NVIDIA",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 5
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Anthropic’s Amodei meets Wiles and Bessent at the White House in first step toward resolving Mythos standoff",
+      "url": "https://thenextweb.com/news/anthropic-amodei-wiles-mythos-white-house-pentagon-cybersecurity-2",
+      "snippet": "In short: Anthropic CEO Dario Amodei met White House Chief of Staff Susie Wiles and Treasury Secretary Scott Bessent on Friday in what the White House called “productive and constructive” talks over access to Mythos, the frontier AI model capable of finding thousands of zero-day vulnerabilities. The meeting signals a thaw in the standoff that […]\nThis story continues at The Next Web",
+      "source": "TNW AI",
+      "publishedAt": "Sat, 18 Apr 2026 10:54:22 +0000",
+      "region": "海外",
+      "summary": "In short: Anthropic CEO Dario Amodei met White House Chief of Staff Susie Wiles and Treasury Secretary Scott Bessent on Friday in what the White House called “productive and constructive” talks over access to Mythos, the frontier AI model capable of finding thousands of zero-day vulnerabilities. The meeting signals a thaw in the standoff that […]\nThis story continues at The Next Web",
+      "category": "技术与研究",
+      "company": "Anthropic",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 5
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "宇树称打破人类1500米世界纪录",
+      "url": "https://36kr.com/newsflashes/3773059870294537?f=rss",
+      "snippet": "4月19日，宇树科技发布消息称，16号北京人形机器人马拉松排位赛，宇树H1（2023年改版）自主跑完1.9公里多弯道赛程，用时4分13秒，打破人类1500米世界纪录（按比例计算）。",
+      "source": "36氪",
+      "publishedAt": "2026-04-19 09:20:41  +0800",
+      "region": "国内",
+      "summary": "4月19日，宇树科技发布消息称，16号北京人形机器人马拉松排位赛，宇树H1（2023年改版）自主跑完1.9公里多弯道赛程，用时4分13秒，打破人类1500米世界纪录（按比例计算）。",
+      "category": "技术与研究",
+      "company": "",
+      "score": 24,
+      "breakdown": {
+        "substance": 7,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 7
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "多云时代AI Agent治理难题，亚马逊云科技想用一个注册表解决",
+      "url": "https://www.infoq.cn/article/gL44mioSTWOY6WAClSAl?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Sun, 19 Apr 2026 08:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Europe is pouring tens of billions of public money into VC. The hard part is making it work",
+      "url": "https://thenextweb.com/news/europe-public-money-vc-scaleups-growth-problems",
+      "snippet": "The European Investment Fund is raising a €15 billion fund of funds called ETCI 2 that aims to unlock up to €80 billion in scaleup funding across Europe. Germany’s WIN initiative is targeting €12 billion by 2030. France’s Tibi programme has pledged €7 billion in private capital and labelled 92 VC and growth funds with […]\nThis story continues at The Next Web",
+      "source": "TNW AI",
+      "publishedAt": "Sat, 18 Apr 2026 11:31:44 +0000",
+      "region": "海外",
+      "summary": "The European Investment Fund is raising a €15 billion fund of funds called ETCI 2 that aims to unlock up to €80 billion in scaleup funding across Europe. Germany’s WIN initiative is targeting €12 billion by 2030. France’s Tibi programme has pledged €7 billion in private capital and labelled 92 VC and growth funds with […]\nThis story continues at The Next Web",
+      "category": "技术与研究",
+      "company": "",
+      "score": 11,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 5
+      },
+      "isDuplicate": false
+    }
+  ],
+  "投融资与并购": [],
+  "政策与监管": []
+}
