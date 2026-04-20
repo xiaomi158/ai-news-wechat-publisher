@@ -1,0 +1,237 @@
+{
+  "产品发布与更新": [
+    {
+      "title": "Cursor 3 推出智能体优先界面，突破传统 IDE 模式",
+      "url": "https://www.infoq.cn/article/G6hkU9pDHzwd6GCWQ0BH?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Sun, 19 Apr 2026 10:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "产品发布与更新",
+      "company": "",
+      "score": 28,
+      "breakdown": {
+        "substance": 9,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "高德发布全球首个面向AGI的全栈具身技术体系“ABot”：15项SOTA，构建持续进化的具身智能闭环",
+      "url": "https://www.qbitai.com/2026/04/403505.html",
+      "snippet": "打造出全球首个面向AGI的全栈具身技术体系。",
+      "source": "量子位",
+      "publishedAt": "Sun, 19 Apr 2026 07:50:32 +0000",
+      "region": "国内",
+      "summary": "打造出全球首个面向AGI的全栈具身技术体系。",
+      "category": "产品发布与更新",
+      "company": "",
+      "score": 24,
+      "breakdown": {
+        "substance": 4,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Java 近期资讯：JDK 27 发布计划、Hibernate、LangChain4j、Keycloak、Helidon 和 Junie CLI",
+      "url": "https://www.infoq.cn/article/45AierI5NQrz9AgLoMFU?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Mon, 20 Apr 2026 08:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "产品发布与更新",
+      "company": "",
+      "score": 19,
+      "breakdown": {
+        "substance": 1,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    }
+  ],
+  "技术与研究": [
+    {
+      "title": "科氪 | 荣耀齐天大圣队机器人“闪电”夺冠  领跑2026亦庄人形机器人马拉松赛场",
+      "url": "https://36kr.com/p/3773492357169920?f=rss",
+      "snippet": "4月19日，2026北京亦庄人形机器人半程马拉松比赛成功举办。荣耀齐天大圣队参赛选手机器人“闪电”以50分26秒（净用时）的成绩斩获赛事冠军，另一款参赛机器人“元气仔”以优美的跑姿同步完成赛事，展现了荣耀在人形机器人领域的深厚技术积淀与领先实力。\n\n现场图片\n据了解，本次赛道全长21.0975公里，涵盖多种复杂路况，对机器人的运动稳定性、续航能力及散热性能提出了极高要求，是对人形机器人技术实力的全面检验。荣耀参赛的两款机器人中，“闪电”身高169cm，外观采用潮酷机甲风设计；“元气仔”身高136.9cm，采用银色亲和化设计，两款机器人外观简约大气，贴合赛事运动属性。\n此次参赛是荣耀人形机器人技术从实验室走向实际场景的重要突破，这得益于荣耀全栈自研技术的强力支撑。散热方面，该机器人搭载荣耀自研液冷散热系统，液冷管道可像毛细血管般深入电机内部带走热量，高功率液泵可实现每分钟超4升的换热流量，高效解决高负荷运动状态下的散热难题；动力方面，机器人采用荣耀自研一体化关节模组，峰值扭矩可达400牛米；控制方面，依托荣耀全栈自研的高动态运控算法、多传感器融合技术，“闪电”能够快速自适应赛道复杂路况，精准把控重心，全程保持稳定奔跑状态。\n同时，荣耀在消费电子领域的长期技术积累也是这次机器人取得突破性进展不可或缺的一环。从散热技术与材料到轻量化设计，再到硬件的可靠性，这些在移动终端上的技术为机器人综合能力的快速提升提供了强有力的支撑。\n未来，荣耀将持续聚焦具身智能领域技术创新，依托全栈自研优势深耕商场、工厂、家庭三大场景，不断优化人形机器人性能，推动技术成果加速走向消费级场景应用，助力人形机器人产业高质量发展，为行业创新升级注入更多新动能。",
+      "source": "36氪",
+      "publishedAt": "2026-04-19 16:35:02  +0800",
+      "region": "国内",
+      "summary": "4月19日，2026北京亦庄人形机器人半程马拉松比赛成功举办。荣耀齐天大圣队参赛选手机器人“闪电”以50分26秒（净用时）的成绩斩获赛事冠军，另一款参赛机器人“元气仔”以优美的跑姿同步完成赛事，展现了荣耀在人形机器人领域的深厚技术积淀与领先实力。\n\n现场图片\n据了解，本次赛道全长21.0975公里，涵盖多种复杂路况，对机器人的运动稳定性、续航能力及散热性能提出了极高要求，是对人形机器人技术实力的全面检验。荣耀参赛的两款机器人中，“闪电”身高169cm，外观采用潮酷机甲风设计；“元气仔”身高136.9cm，采用银色亲和化设计，两款机器人外观简约大气，贴合赛事运动属性。\n此次参赛是荣耀人形机器人技术从实验室走向实际场景的重要突破，这得益于荣耀全栈自研技术的强力支撑。散热方面，该机器人搭载荣耀自研液冷散热系统，液冷管道可像毛细血管般深入电机内部带走热量，高功率液泵可实现每分钟超4升的换热流量，高效解决高负荷运动状态下的散热难题；动力方面，机器人采用荣耀自研一体化关节模组，峰值扭矩可达400牛米；控制方面，依托荣耀全栈自研的高动态运控算法、多传感器融合技术，“闪电”能够快速自适应赛道复杂路况，精准把控重心，全程保持稳定奔跑状态。\n同时，荣耀在消费电子领域的长期技术积累也是这次机器人取得突破性进展不可或缺的一环。从散热技术与材料到轻量化设计，再到硬件的可靠性，这些在移动终端上的技术为机器人综合能力的快速提升提供了强有力的支撑。\n未来，荣耀将持续聚焦具身智能领域技术创新，依托全栈自研优势深耕商场、工厂、家庭三大场景，不断优化人形机器人性能，推动技术成果加速走向消费级场景应用，助力人形机器人产业高质量发展，为行业创新升级注入更多新动能。",
+      "category": "技术与研究",
+      "company": "",
+      "score": 27,
+      "breakdown": {
+        "substance": 9,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 7
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "OpenAI’s existential questions",
+      "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "snippet": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sun, 19 Apr 2026 21:24:06 +0000",
+      "region": "海外",
+      "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+      "category": "技术与研究",
+      "company": "OpenAI",
+      "score": 23,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "大模型架构的下半场",
+      "url": "https://www.qbitai.com/2026/04/403515.html",
+      "snippet": "面向大模型深度扩展的Flash Depth Attention与混合深度注意力",
+      "source": "量子位",
+      "publishedAt": "Sun, 19 Apr 2026 10:12:10 +0000",
+      "region": "国内",
+      "summary": "面向大模型深度扩展的Flash Depth Attention与混合深度注意力",
+      "category": "技术与研究",
+      "company": "",
+      "score": 21,
+      "breakdown": {
+        "substance": 6,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "The 12-month window",
+      "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+      "snippet": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sun, 19 Apr 2026 19:30:00 +0000",
+      "region": "海外",
+      "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Google is in talks with Marvell to build custom AI inference chips as it diversifies beyond Broadcom",
+      "url": "https://thenextweb.com/news/google-marvell-ai-chips-inference-tpu-broadcom",
+      "snippet": "Summary: Google is in talks with Marvell Technology to develop two new AI chips – a memory processing unit and an inference-optimised TPU – adding a third design partner alongside Broadcom and MediaTek in its custom silicon supply chain. The discussions, which have not yet produced a signed contract, came days after Broadcom locked in […]\nThis story continues at The Next Web",
+      "source": "TNW AI",
+      "publishedAt": "Sun, 19 Apr 2026 15:17:39 +0000",
+      "region": "海外",
+      "summary": "Summary: Google is in talks with Marvell Technology to develop two new AI chips – a memory processing unit and an inference-optimised TPU – adding a third design partner alongside Broadcom and MediaTek in its custom silicon supply chain. The discussions, which have not yet produced a signed contract, came days after Broadcom locked in […]\nThis story continues at The Next Web",
+      "category": "技术与研究",
+      "company": "Google",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 5
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "恒指开盘涨0.17%，恒生科技指数涨0.34%",
+      "url": "https://36kr.com/newsflashes/3774482914542336?f=rss",
+      "snippet": "36氪获悉，恒指开盘涨0.17%，恒生科技指数涨0.34%；GEO概念、半导体领涨，MINIMAX-WP涨超3%，壁仞科技、澜起科技涨超2%；石化、煤炭板块跌幅居前，元亨燃气跌超5%，中国石油股份跌超2%。",
+      "source": "36氪",
+      "publishedAt": "2026-04-20 09:22:34  +0800",
+      "region": "国内",
+      "summary": "36氪获悉，恒指开盘涨0.17%，恒生科技指数涨0.34%；GEO概念、半导体领涨，MINIMAX-WP涨超3%，壁仞科技、澜起科技涨超2%；石化、煤炭板块跌幅居前，元亨燃气跌超5%，中国石油股份跌超2%。",
+      "category": "技术与研究",
+      "company": "",
+      "score": 27,
+      "breakdown": {
+        "substance": 10,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 7
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "横扫全球15项SOTA！高德首个面向AGI的全栈具身技术体系大公开",
+      "url": "https://www.qbitai.com/2026/04/403226.html",
+      "snippet": "当行业在底层基础设施上开始成型，局面就会迅速收敛",
+      "source": "量子位",
+      "publishedAt": "Sun, 19 Apr 2026 10:13:54 +0000",
+      "region": "国内",
+      "summary": "当行业在底层基础设施上开始成型，局面就会迅速收敛",
+      "category": "技术与研究",
+      "company": "",
+      "score": 20,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+      "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+      "snippet": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sun, 19 Apr 2026 16:01:00 +0000",
+      "region": "海外",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    }
+  ],
+  "投融资与并购": [
+    {
+      "title": "36氪首发｜「东犁退休俱乐部」完成亿元级B轮融资，为300万活力银发族打造“线上+线下”社交生活方式",
+      "url": "https://36kr.com/p/3719736708200068?f=rss",
+      "snippet": "36氪独家获悉，「上海东犁退休俱乐部」近日完成亿元级B轮融资，由恒旭资本领投，德同资本跟投。本轮资金将用于拓展多元化银发服务场景、加强上游供应链合作，以及推动AI技术与数据中台升级。\n上海东犁退休俱乐部（以下简称“东犁”）是一家面向退休人群的社交娱乐服务平台，专注为50-80岁活力银发群体提供旅游、聚会、商品、兴趣爱好等综合性服务。\n截至目前，东犁已累计服务超300万用户，覆盖江浙沪地区，复购率超过60%。2025年全年，其旅游业务营收超8亿元，银发电商业务预计今年突破3-4亿元。\n从电视制片人到银发创业者\n东犁创始人吕辰晔有SMG工作背景及日本留学经历。吕辰晔创办东犁，契机源于一次日本考察——他看到上市公司Halmek通过“电台节目+线下沙龙+内容杂志”的模式服务银发族，深受触动。\n“我们当时借鉴了Halmek的模式，用电视代替电台，用公众号代替杂志，同时保留了线下沙龙的形式。”吕辰晔告诉36氪。\n彼时，国内退休人群的消费以电视购物为主，旅游市场则充斥低价购物团。东犁首先从旅游产品入手，剔除购物和自费环节，重新设计线路，并提升餐饮、住宿标准。\n这种“内容先行”的模式迅速建立了用户信任。东犁旗下节目《我们退休啦》在上海都市频道播出期间，收视率大约在1%，覆盖40万人次/天。节目积累的观众逐渐转化为小程序用户，并进一步沉淀至私域。 “电视圈有句话叫‘得阿姨妈妈者得天下’，我的内容受众其实一直没变。”吕辰晔总结。\n如今，东犁的内容矩阵已覆盖微信视频号、抖音、小红书等平台，拥有数百个矩阵账号；其小程序的注册用户超过300万，社群月发帖数过万。\n回顾创业历程，让吕辰晔印象深刻的一个场景，是一位白发苍苍的老太太，下雨天坐地铁来上课，课后独自戴着老花镜，用单指在键盘上敲打。“她把人生很重要的一段时间用在了你提供的服务上，你会觉得真的应该对他们更好一点。”\n长途旅游到高频聚会，构造产品金字塔\n2020年前，东犁以出境游和国内长线为主。突如其来的疫情导致长途旅游受阻，团队开始探索周边聚餐、聚会等短频快业务，意外发现退休人群对高频次、高质量、重场景的社交需求远超预期。\n如今，东犁已形成清晰的产品金字塔：塔基是高频的本地聚会，向上依次是国内中长线、出境游及、私家团。吕辰晔解释：“退休人群每一周可能聚会一两次，高频带动低频消费，综合复购率就上去了。”\n\n东犁的旅游用户\n这一产品结构演变并非事先规划而成，而是由市场需求推着走。“我们起初并未重视聚会业务的营收潜力，但实际运营后发现它成长非常快。”吕辰晔坦言。以聚餐产品为例，国际饭店套餐销量近2万份，全聚德套餐已破4万单，证明了银发族对本地高品质社交的渴求。\n线下的“壹天聚乐部是这一逻辑的自然延伸。目前东犁在上海开设了4家壹天聚乐部门店，面积均超过3000平米，主题包括“岁月情怀”“时光照相馆”“环球主题馆”“世界之窗”，用户人均消费100多元，可享受两顿正餐及棋牌、KTV、舞池等全天服务。门店选址紧邻地铁、居民密集区，店内设沉浸式打卡点，满足用户“九宫格发朋友圈”的社交需求。\n\n东犁的线下业态“壹天聚乐部”\n盈利方面，首店“壹天聚”（共康店）18个月实现回本。吕辰晔强调，人均百元含两餐的定价属于低客单价，盈利关键在于持续流量输入与较高的复购频次：“我们不是先做壹天聚乐部再做退休俱乐部，而是反过来的。没有持续的流量和品牌口碑积累，单店很难存活。上海乃至全国，可能只有我们的壹天聚乐部能够实现短期内盈利。”\n与传统餐饮不同，壹天聚乐部采用套餐制，每三个月换一次菜单，通过集中采购控制成本，减少后厨能耗浪费。同时，利用退休人群时间灵活的特点，填补商场、影院、面包房等业态的客流潮汐时段，形成良性互补的跨业态合作。\n在上海模式跑通后，吕辰晔对异地扩张仍然极为谨慎。“壹天聚乐部在外地很难简单复制，除非是重庆、成都这样消费活力强劲、老年人口占比高的城市。”\n未来两年，东犁将重点发力两大方向：电商（聚焦视频号及私域）和主题游（不一样系列）。\n其中，主题游计划开发500-600条线路，以8-10人小团为主，满足分餐制、深度体验等新兴需求。“如果能把主题游做好，以产品为纲，无论平台怎么变，都会有好结果。”东犁联合创始人李萍介绍到，“公司近期上线的‘不一样的黄山’系列，以超过4000元的客单价，凭借‘全程分餐制+当地特色美食’的餐饮颠覆、‘挖掘小众深度文化体验’的行程设计以及‘住得不一样’的品质住宿，重新定义中老年黄山之旅。线路一经推出，未来3个月班期即售罄，销量破千单。”\n从资深内容制作者到银发经济探索者，吕辰晔希望东犁成为“活力退休人群的生活方式平台”。而这场关于“夕阳”的生意，朝阳才刚刚升起。\n投资人观点：\n作为本轮领投方，恒旭资本高度看好兼具社会价值与商业价值的银发经济赛道。恒旭资本认为，东犁拥有敏锐的行业洞察、专业的内容基因和精细的运营能力，有潜力成为中国银发经济的领导者。恒旭资本于2019年创立，聚焦硬科技、健康消费等符合国家转型和新质生产力要求的投资机遇，累计管理规模已超过400亿元人民币。此次领投东犁，是其在健康消费领域的又一重要布局。\n跟投方德同资本十余年来深耕先进制造、医疗健康与AI等核心领域。日前，发起设立十亿规模文化科技基金，联合安徽文旅投控、芜湖高新产业发展基金、杭州文投等共同出资，旨在推动AI与实体经济深度融合，引领科技文化投资前沿。基金首关后迅速布局银发经济，投资了东犁项目。德同资本认为，东犁定义了新一代“旅游-娱乐-社交-消费”的适老化产品与服务，积淀了“信任”护城河，德同将以优势资源助力其加速银发产业升级发展。",
+      "source": "36氪",
+      "publishedAt": "2026-04-20 09:00:00  +0800",
+      "region": "国内",
+      "summary": "36氪独家获悉，「上海东犁退休俱乐部」近日完成亿元级B轮融资，由恒旭资本领投，德同资本跟投。本轮资金将用于拓展多元化银发服务场景、加强上游供应链合作，以及推动AI技术与数据中台升级。\n上海东犁退休俱乐部（以下简称“东犁”）是一家面向退休人群的社交娱乐服务平台，专注为50-80岁活力银发群体提供旅游、聚会、商品、兴趣爱好等综合性服务。\n截至目前，东犁已累计服务超300万用户，覆盖江浙沪地区，复购率超过60%。2025年全年，其旅游业务营收超8亿元，银发电商业务预计今年突破3-4亿元。\n从电视制片人到银发创业者\n东犁创始人吕辰晔有SMG工作背景及日本留学经历。吕辰晔创办东犁，契机源于一次日本考察——他看到上市公司Halmek通过“电台节目+线下沙龙+内容杂志”的模式服务银发族，深受触动。\n“我们当时借鉴了Halmek的模式，用电视代替电台，用公众号代替杂志，同时保留了线下沙龙的形式。”吕辰晔告诉36氪。\n彼时，国内退休人群的消费以电视购物为主，旅游市场则充斥低价购物团。东犁首先从旅游产品入手，剔除购物和自费环节，重新设计线路，并提升餐饮、住宿标准。\n这种“内容先行”的模式迅速建立了用户信任。东犁旗下节目《我们退休啦》在上海都市频道播出期间，收视率大约在1%，覆盖40万人次/天。节目积累的观众逐渐转化为小程序用户，并进一步沉淀至私域。 “电视圈有句话叫‘得阿姨妈妈者得天下’，我的内容受众其实一直没变。”吕辰晔总结。\n如今，东犁的内容矩阵已覆盖微信视频号、抖音、小红书等平台，拥有数百个矩阵账号；其小程序的注册用户超过300万，社群月发帖数过万。\n回顾创业历程，让吕辰晔印象深刻的一个场景，是一位白发苍苍的老太太，下雨天坐地铁来上课，课后独自戴着老花镜，用单指在键盘上敲打。“她把人生很重要的一段时间用在了你提供的服务上，你会觉得真的应该对他们更好一点。”\n长途旅游到高频聚会，构造产品金字塔\n2020年前，东犁以出境游和国内长线为主。突如其来的疫情导致长途旅游受阻，团队开始探索周边聚餐、聚会等短频快业务，意外发现退休人群对高频次、高质量、重场景的社交需求远超预期。\n如今，东犁已形成清晰的产品金字塔：塔基是高频的本地聚会，向上依次是国内中长线、出境游及、私家团。吕辰晔解释：“退休人群每一周可能聚会一两次，高频带动低频消费，综合复购率就上去了。”\n\n东犁的旅游用户\n这一产品结构演变并非事先规划而成，而是由市场需求推着走。“我们起初并未重视聚会业务的营收潜力，但实际运营后发现它成长非常快。”吕辰晔坦言。以聚餐产品为例，国际饭店套餐销量近2万份，全聚德套餐已破4万单，证明了银发族对本地高品质社交的渴求。\n线下的“壹天聚乐部是这一逻辑的自然延伸。目前东犁在上海开设了4家壹天聚乐部门店，面积均超过3000平米，主题包括“岁月情怀”“时光照相馆”“环球主题馆”“世界之窗”，用户人均消费100多元，可享受两顿正餐及棋牌、KTV、舞池等全天服务。门店选址紧邻地铁、居民密集区，店内设沉浸式打卡点，满足用户“九宫格发朋友圈”的社交需求。\n\n东犁的线下业态“壹天聚乐部”\n盈利方面，首店“壹天聚”（共康店）18个月实现回本。吕辰晔强调，人均百元含两餐的定价属于低客单价，盈利关键在于持续流量输入与较高的复购频次：“我们不是先做壹天聚乐部再做退休俱乐部，而是反过来的。没有持续的流量和品牌口碑积累，单店很难存活。上海乃至全国，可能只有我们的壹天聚乐部能够实现短期内盈利。”\n与传统餐饮不同，壹天聚乐部采用套餐制，每三个月换一次菜单，通过集中采购控制成本，减少后厨能耗浪费。同时，利用退休人群时间灵活的特点，填补商场、影院、面包房等业态的客流潮汐时段，形成良性互补的跨业态合作。\n在上海模式跑通后，吕辰晔对异地扩张仍然极为谨慎。“壹天聚乐部在外地很难简单复制，除非是重庆、成都这样消费活力强劲、老年人口占比高的城市。”\n未来两年，东犁将重点发力两大方向：电商（聚焦视频号及私域）和主题游（不一样系列）。\n其中，主题游计划开发500-600条线路，以8-10人小团为主，满足分餐制、深度体验等新兴需求。“如果能把主题游做好，以产品为纲，无论平台怎么变，都会有好结果。”东犁联合创始人李萍介绍到，“公司近期上线的‘不一样的黄山’系列，以超过4000元的客单价，凭借‘全程分餐制+当地特色美食’的餐饮颠覆、‘挖掘小众深度文化体验’的行程设计以及‘住得不一样’的品质住宿，重新定义中老年黄山之旅。线路一经推出，未来3个月班期即售罄，销量破千单。”\n从资深内容制作者到银发经济探索者，吕辰晔希望东犁成为“活力退休人群的生活方式平台”。而这场关于“夕阳”的生意，朝阳才刚刚升起。\n投资人观点：\n作为本轮领投方，恒旭资本高度看好兼具社会价值与商业价值的银发经济赛道。恒旭资本认为，东犁拥有敏锐的行业洞察、专业的内容基因和精细的运营能力，有潜力成为中国银发经济的领导者。恒旭资本于2019年创立，聚焦硬科技、健康消费等符合国家转型和新质生产力要求的投资机遇，累计管理规模已超过400亿元人民币。此次领投东犁，是其在健康消费领域的又一重要布局。\n跟投方德同资本十余年来深耕先进制造、医疗健康与AI等核心领域。日前，发起设立十亿规模文化科技基金，联合安徽文旅投控、芜湖高新产业发展基金、杭州文投等共同出资，旨在推动AI与实体经济深度融合，引领科技文化投资前沿。基金首关后迅速布局银发经济，投资了东犁项目。德同资本认为，东犁定义了新一代“旅游-娱乐-社交-消费”的适老化产品与服务，积淀了“信任”护城河，德同将以优势资源助力其加速银发产业升级发展。",
+      "category": "投融资与并购",
+      "company": "",
+      "score": 37,
+      "breakdown": {
+        "substance": 7,
+        "importance": 13,
+        "timeliness": 10,
+        "credibility": 7
+      },
+      "isDuplicate": false
+    }
+  ],
+  "政策与监管": []
+}
