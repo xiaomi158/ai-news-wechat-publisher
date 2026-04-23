@@ -1,0 +1,294 @@
+{
+  "产品发布与更新": [
+    {
+      "title": "百灵Ling-2.6-flash 正式发布：高 Token 效率，以 1/10 消耗实现 SOTA 级 Agent 能力",
+      "url": "https://www.infoq.cn/article/haZgR6XNQhh7r448wxPP?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Wed, 22 Apr 2026 15:48:37 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "产品发布与更新",
+      "company": "",
+      "score": 24,
+      "breakdown": {
+        "substance": 8,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "全球首个世界统一模型发布，机器人家庭成员来了！",
+      "url": "https://www.qbitai.com/2026/04/404446.html",
+      "snippet": "首个世界统一模型，来了",
+      "source": "量子位",
+      "publishedAt": "Wed, 22 Apr 2026 05:49:56 +0000",
+      "region": "国内",
+      "summary": "首个世界统一模型，来了",
+      "category": "产品发布与更新",
+      "company": "",
+      "score": 22,
+      "breakdown": {
+        "substance": 7,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆",
+      "url": "https://www.qbitai.com/2026/04/404713.html",
+      "snippet": "",
+      "source": "量子位",
+      "publishedAt": "Wed, 22 Apr 2026 13:15:52 +0000",
+      "region": "国内",
+      "summary": "暂无摘要",
+      "category": "产品发布与更新",
+      "company": "",
+      "score": 19,
+      "breakdown": {
+        "substance": 4,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    }
+  ],
+  "技术与研究": [
+    {
+      "title": "一个对话框、一只青蛙、一周4万用户，Ribbi做对了什么？",
+      "url": "https://36kr.com/p/3778121523025154?f=rss",
+      "snippet": "访谈｜邓咏仪 周鑫雨\n文｜周鑫雨\n编辑｜杨轩\n乍一使用，你很难给Ribbi一个准确的定义。\n若说这是一个多模态内容创作工具，Ribbi能做得不止于此。比起一个“死”的工具，Ribbi更像一个可以自动管理创作全链路的“人”。\n它能将用户的创作流程，自动沉淀为Skill；也能监测社交媒体的数据表现，总结复盘，并自动对后续的创作进行优化。\n\nRibbi官网首页。\n对绝大多数创作者而言，这又是一个使用体验极度“陌生”的产品。区别于Figma、Lovart等设计产品，Ribbi没有醒目的画布，所有的创作、编辑交互，都集中在一个小小的对话框中。\n而与你对话的Ribbi，被设定为一只个性十足的“青蛙”：爱吐槽，偶尔还能爆点粗口。\n\n与Ribbi的对话。\n这款有些“怪”的产品，却在上线封测一周内，收到了全球4万多用户的使用申请。用户群从上线第一天的20人，快速扩张成了20个几乎满员的大群。闲鱼上，Ribbi的内测码，一度被炒到了200元。\n“我们上线Ribbi，本来是为了找100多个种子用户做封闭测试，验证PMF（产品-市场适配率），都没正式开始做营销和投放。”Ribbi创始人兼CEO Robin告诉我们，用户通过口碑传播的裂变速度，远超他的预期。\n在4月初和《智能涌现》的交流中，Robin的嗓子已经哑了。半个月内，他见了多家投资机构，官方Linkedin的私信箱，也堆满了合作邀约。\n毕业于工业设计专业，Robin做过4A和品牌企划，后续还在几家头部大厂，主导多款明星AI产品的创作功能设计、创意Agent落地等工作。\n创业前，Robin就一直在探索：如何让创意实现的过程更简单。他发现，市面上的创作工具，都彼此独立，用户创作的上下文互不相通。这就导致，当用户要创作内容，每涉及一个环节，就要切换一款工具，还需要重新和工具对齐创作的需求。\n“市面上不少AI设计工具，仍然把内容创作视作单点环节的拼接。但事实上，创作应该是涵盖创意生成、内容生成、发布、数据监测、复盘、优化的完整链路。”Robin告诉《智能涌现》。\n基于这一认知，2025年末决定创业时，Robin做了不少“非共识”的决定：\n不做Multi-Agent（多Agent架构）的产品，因为不同专家Agent在传递过程中，会造成Context的损耗；\n不做单点的内容生成，而是用一个Agent，打通创作、发布、效果监测、复盘优化等创作中所有的链路；\n不做“画布类”的产品，而是用Chat作为UI，给Agent更多的自由度；\n自训VLM（视觉-语言模型）、自研名为Contxt Layer的Agent架构，沉淀创作经验和反馈，让AI自主进化。\n这一切设计的最终目标，Robin告诉我们，是让Ribbi不仅仅局限于一个“工具”，而是成为理解完整创作闭环的“人”。\n以下，是Ribbi创始人兼CEO Robin关于Agent创业的20条“暴论”：\n🐸 大厂中，业务、模型和顶层之间的对齐是最困难的事，除非已经有业内共识。\n比如，当Coding成为业内共识，不管是大厂，还是“AI六小虎”，都不约而同朝这个方向冲。\n但在看到Taste的确切价值之前，为审美、品味构建模型，是大厂不愿意做的。只有当视觉创意生成从非共识，变成共识，才能激发更多大厂和顶尖人才参与进来。\n🐸 一旦团队变大，对Context的折损就会增加。\n大厂的基模能力很强，但模型团队对业务的认知有偏差。一旦团队变大，每个团队之间信息传递的过程，会折损大量的Context。\n这也是Ribbi团队只有6个人的原因。我们只有3个程序员，他们现在是全栈设计师、全栈工程师，什么都能开发，并且可以做得很好。\n这就是Claude Code带来的代码生产力的进化。我相信，Ribbi会带来内容生产力的进化。\n🐸 很多AI产品都在虚假宣传。\n我们在宣发的过程中搞了很多“抽象”，比如“72小时ARR破亿”“一夜百万用户”，本质上是为了讽刺很多AI产品的虚假宣传。\n只是我们讽刺做得不够好，很多用户信以为真了（无奈笑）。\n我们在X上的CEO账号也是虚假的，根本没有“Robin Bisset”这个人。账号上的很多内容，包括Robin的外国人形象，都是Ribbi生成的。\n\n△Ribbi的虚拟老外CEO。图源：X\n🐸 AI行业正在逐渐“币圈化”。\n我花了很长时间才研究明白Harness。圈内很喜欢造概念，又是“马鞍”，又是“驾驭”，搞得很玄乎。\n其实Harness很简单，就是一个脚本，或者一个workflow，让模型不偏离目标，更好地发挥价值。\n在Harness这个概念出现之前，依靠框架或者Agent去优化AI执行任务的上下文，本身就是一个共识。如今行业只是把这件事抽象了出来，给了一个核心定义。\n🐸 画布类的产品，把模型的可能性“锁死”了。\n我们没有把Ribbi做成画布类的产品。画布类的AI产品看起来交互很酷炫，能让投资人眼前一亮，专业用户使用起来也很顺手。\n但它们有一个“致命伤”：把模型的可能性提前“锁死”了。因为画布的本质，是将工作流拆成一个个节点，模型只能沿着这条路径走。\n我们一直以来的判断是，AI时代的UI应该是容器化的，而不是功能化的。产品应该给AI创造一个容器，让它可以自由决定调用什么样的工具、怎么组合工具，甚至按照什么样的顺序执行任务。\n🐸 具身智能成熟之前，Chat是AI最好的UI。\n在互联网时代，我们就习惯通过Chat完成信息的传递，比如微信上可以拍图片、拍视频，也可以发链接、小程序。\n在我看来，Chat是一个足够简单，并且灵活兼容一切的容器。\n比如豆包DAU跑得很快，其中一个原因在于，它的移动端App设计得很轻量。用户不需要打开新的对话框，只要在一个session中疯狂Chat就能生图、生视频。它将用户的交互和AI的行为，统一在一个非常简单的框架中。\n用户认为Ribbi好用的点，就在于他们可以随时把X、Instagram、Pinterest等平台上的素材，采集、保存在Ribbi中，底层的AI再自主学习其中的审美。这其实就是人与AI Chat的过程。\n作为AI产品经理，我非常讨厌用复杂的交互去操作AI。AI应该很聪明，不用我时时刻刻盯着，就把活干了。当你产品的交互门槛、使用门槛足够低的时候，自然而然就能吸引更多人。\n🐸 真实的创作需求从来不是单一维度的。\n很多人会疑惑：为什么要往Ribbi里塞这么多功能（图片/视频/音乐创作、社交媒体监测、编辑器）？这样会不会导致定位模糊，或者每个功能都做不深？\n我们一直认为，真正的创作需求从来不只有单一维度。比如一条抖音视频的制作，就涵盖了想选题、写文案、写脚本、生成分镜、配音、剪辑、编辑封面、发布、数据监测、复盘等流程。\n这是一个完整的链路。没有All in one的工具意味着，用户需要切换不同的工具，重新对齐创作的上下文。\n人一定是懒的动物。没有用户希望做一个产品、完成一个环节，就换一个模型、换一套工具。比如做一个视频，要先用ChatGPT生成文案，再用Gemini生成分镜，最后还要用剪映拼接视频，是很麻烦的。\n我们设计Ribbi功能的出发点，不是为了把功能做全面，而是为了让创作链路的Context完整连通。\n🐸 Ribbi构建Agent的核心在于自主进化。\n互联网平台的核心是UGC，Ribbi的核心是AGC，Agent Generated Content。创业前，我就在寻找可以让“Agent自主进化”落地的场景，创作就是一个很好的答案。\n首先，Taste会自主进化，这就是我们设计Pond和训练VLM的原因。\n其次，Skills也会随着用户的使用自主进化。用户在使用Skill地过程中，会产生新的场景、需求和Context，这些Context就会凝练成专属用户个人的Skill。\n这些个人Skill，都会经过Context Layer中的Skill Agent的评估、去重、去隐私化，再贡献给平台全端。因此，平台的Skill也会循环进化，用户使用越多，Skill就越多，能力也越强。\n最后，用户的创作也会自主进化。我们建立完整创作工具的原因，就在于用户的创作是连续的过程，涵盖搜索、发现素材、生成内容、编辑优化、发布到社媒、数据监测等流程。\n社交媒体，是Agent在线进化落地的核心训练场，将作品发布到社交媒体，是Agent与真实世界的一种交互。监测数据表现后，Ribbi能够自主迭代和优化创作路径，交付更好的结果。最终，平台就能够形成一个自主进化的创作闭环。\n🐸 Multi-Agent本质上是对模型能力的低估，产品要让Agent更自由。\nMulti-Agent架构中，大部分专家Agent的底层能力，都来源于Claude。既然底层模型一样，为什么还要通过提示词工程，把模型拆分成不同的Agent？\n提示词工程，本质上是对模型能力的约束。与此同时，任务在多层Agent架构中的传递，都会造成Context的损耗。\n我们做Ribbi的时候，核心观点是：让Agent足够自由。\nAgent要在一个非常丰满、质量足够高的Context中，发挥自己的能力。因此，我们的核心架构其实是一条Single-Agent链路。\n除此之外，我们构建了一个中间层，Context Layer。它由Memory、Taste 、Skills等不同层级构成，每一层都有对应的Agent。它们的作用不是执行任务，而是辅助Single-Agent收集Context。\n这样做的好处是Single-Agent对上下文的感知不会折损，Token的损耗也会降低，这是我们的核心优势。与此同时，其他Agent又能补足一些上下文信息。\n🐸 Ribbi不是OpenClaw的“套壳”，大家只是对Agent有相同的想象。\n2025年11月，那时还没有OpenClaw，我就在公众号上写了一篇文章，构想了Agent发展的路径：第一，Agent会从被动，发展为更主动；第二，Agent的Context会不断自我进化。\n这两点在OpenClaw上得到了具体的体现。但我们的产品定义和OpenClaw非常不一样：\n首先我们提出了Context Layer，为Agent提供了很干净的Context；其次我们不希望为用户提供一个部署门槛很高的产品；最后我们整体的功能链路都是为内容创作服务，所以Ribbi提供了100多个可以自由组合、循环进化的Skills。\n我相信世界上很多人对Agent的想象是一致的。OpenClaw很多的底层思考来源于Claude Code，我们的核心想象也出自Claude Code。\nClaude Code为Agent创造了一个非常简洁的系统：Coding是Agent的环境，Function Call是Agent的手。Claude Code的出现让任何人可以成为全栈工程师，Ribbi的出现是让任何人能成为全栈的创作者。\n🐸 我们不把Ribbi定义为“工具”，而是理解完整创作闭环的“人”。\n首先，Ribbi是一个可以自我进化的内容引擎。其中，“Pond”是它的审美输入端，Skills是流程的沉淀，主动发布和数据监控是内容创作的最后一公里。\n其次，我们希望Ribbi有活人感。如果你和Ribbi对话，就会发现ta是一只嘴上嘟囔、但会认真干活的青蛙。\n🐸 Taste is all you need。\n创作过程中最难用语言表达的，就是审美和品味。\n为了解决审美建立的问题，我们为Ribbi设计了一个叫做“Pond”的板块。\n用户在浏览Behance、Pinterest等设计平台时，可以通过Ribbi插件，将喜欢的设计采集并保存到Pond中。通过对Pond中资产的学习，Ribbi可以建立对用户审美的认知，未来创作的设计也会更符合用户的偏好。\n除了学习用户个体的审美，Ribbi也会凝练平台所有用户的审美，成为平台共识。这么做的意义在于，让用户在不输入Prompt的情况下，也能获得高质量的设计。\n支撑Ribbi学习、积累、迭代用户审美的核心，是我们基于开源的千问8B小模型训练的VLM（视觉-语言模型）模型。\n它可以将图片、视频转化为文本Context，并将Context压缩进用于构建审美的Taste层，再基于Taste层生成新的设计。\n对审美的不断沉淀，也是Ribbi产生用户粘性的核心。平台上，用户不断贡献新的审美Context，这些Context都会沉淀为Ribbi对你审美的认知。\n\n在Pond中可以上传个人资产。\n🐸 不能让模型，不知道你的操作。\n目前，我对Ribbi主要有两个不满意的地方，一方面，稳定性还不够，包括性能和服务器、API负载；\n另一方面，创作流程还不够灵活。因为没有编辑器，所以诸如“把字幕往上挪一点点”等简单调整，都需要用户去Chat。因此我们需要上线一些后编辑的功能。\n但迭代的卡点在于，我们必须让底层模型知道用户的所有操作，对齐用户所有的上下文。只有这样，在后续创作过程中，Agent才能记住用户的偏好。\n让模型感知到用户的后编辑，目前来看还有很高的开发门槛。\n🐸 Ribbi的壁垒在于对技术的想象。\n我们自主训练的VLM模型，目前多多少少算壁垒。当然，技术壁垒很容易被超越，Claude发布一个新模型可能就可以做到。\nRibbi的核心价值在于，我们不仅希望只做一家应用层的公司，而是在未做模型层的探索。训练VLM是现阶段探索的开始，包括中间层Context Layer的设计，都是基于我们对行业的Know-How和共识去完成的，\n这些事说出来其实不难，难的是把它想象出来。所有的事最重要的就是想象，而我们是第一个把技术领域的AI自主进化想象、并且落地的团队。而且我们对Agent的认知一直在往前走，这是我们的想象保持领先性、建立壁垒的前提。\n🐸 把Token消耗转化为扣积分的商业模式，不够诚实清晰。\n我们的商业化会做得比较诚实。虽然模式还没完全确定，但一定不会是积分制。\n\n△Ribbi会显示每个环节消耗的Token量。图源：作者试用\n不少AI产品会采用积分发放的方式。个人觉得挺绕，用户还得把积分转化为Token消耗量，不够清晰。\n也有平台会告诉你，“充值一次，无限Token”，但实际上用户天天在排队。这样的商业模式不诚实，而且平台还会亏本。\n🐸 好的内容平台应该有广告。\n我最近也在研究一些好的内容平台的商业模式。YouTube几乎是免费的，因为有足够多的广告商在视频中分发贴片广告。\n广告的好处在于，让平台把用户的成本转嫁给广告商，同时也让创作者通过广告，有直接的收入，从而激励他们在平台上的创作。\n🐸 Ribbi的北极星指标，是Skill的增长。\n目前，网站上有20多个Skill，其实我们内部已经有100多个Skill，比如一键消除、做PPT等技能。没有放出来的核心原因在于，我们的设计师对审美的要求很高。\n所以我们的北极星指标是不断裂变出更多高质量、高审美的Skill。\n并且我们不希望Ribbi成为一个工具集。工具聚合网站，更像是一个个的小程序，它们之间是相互独立、互不连通的状态。\n但我们的Skill会在同一个Single-Agent中连通。这样的好处是Agent可以在接管创作全流程中，灵活串联不同的Skill。\n另一点，我也希望Ribbi上的工具数量能不断增长。目前我们的100多个Skill，靠的是100多个工具的不同组合。一旦我们的工具数量扩大到1000多个，Skill会进化产生我们想象不到的价值。\n\n△Ribbi上沉淀的Skills。图源：Ribbi官网\n🐸 应用公司探索模型层是有必要的。\n只有自己亲身训练和使用，才能知道当下模型的限制，以及实现AI自主进化的逻辑路径。我们现在实现AI自主进化的路径，是基于Context实现的。\n但未来，自主进化一定会在模型层上实现，并且会有非常多的人探索。自己训练模型，是为了提前积累经验。\n🐸 我们不把自己定义为创业团队，而是独立开发者的组织。\n我们不会像某些友商那样，不断花钱买量、烧各种补贴。我们不想做一家为估值而奋不顾身的公司。\n融资当然也很重要。你要确保账上有足够的资金，去支撑研发-获得用户反馈-迭代的循环。\n我们现在正在推进下一轮融资，并非是有意的，而是如今Ribbi获得的用户声量，远超我们的预期。现在的状态，有点像时代推着你往前走。\n我们收到了很多投资意向书，但我希望愿意投资我们的机构，是真正对AI有价值判断的、长期看好AI的自主进化，而不是出于FOMO（错失恐慌）。\n🐸 我立志成为硅基生命的垫脚石。\n我们一直在找一个符号表达“自主进化”的理念。Ribbi LOGO是一只青蛙的原因，是因为蝌蚪进化为青蛙是一种非线性的变态发育，“Ribbi”就是呱呱叫（ribbit）的拟声词。\n我相信AGI一定会到来。无论是训练模型，还是做Context Layer，这些看起来“很重”的事，目的都是为了加快AGI到来的进程，哪怕只留下一点点痕迹。\n假设某一天，某家模型厂商实现了AI的自主进化，即便功不在我，我愿意贡献我们对Context Layer自主进化的Know-How、开源我们的技术架构，帮助模型厂商训练更好的自主进化模型。\n\n欢迎交流！",
+      "source": "36氪",
+      "publishedAt": "2026-04-23 08:30:30  +0800",
+      "region": "国内",
+      "summary": "访谈｜邓咏仪 周鑫雨\n文｜周鑫雨\n编辑｜杨轩\n乍一使用，你很难给Ribbi一个准确的定义。\n若说这是一个多模态内容创作工具，Ribbi能做得不止于此。比起一个“死”的工具，Ribbi更像一个可以自动管理创作全链路的“人”。\n它能将用户的创作流程，自动沉淀为Skill；也能监测社交媒体的数据表现，总结复盘，并自动对后续的创作进行优化。\n\nRibbi官网首页。\n对绝大多数创作者而言，这又是一个使用体验极度“陌生”的产品。区别于Figma、Lovart等设计产品，Ribbi没有醒目的画布，所有的创作、编辑交互，都集中在一个小小的对话框中。\n而与你对话的Ribbi，被设定为一只个性十足的“青蛙”：爱吐槽，偶尔还能爆点粗口。\n\n与Ribbi的对话。\n这款有些“怪”的产品，却在上线封测一周内，收到了全球4万多用户的使用申请。用户群从上线第一天的20人，快速扩张成了20个几乎满员的大群。闲鱼上，Ribbi的内测码，一度被炒到了200元。\n“我们上线Ribbi，本来是为了找100多个种子用户做封闭测试，验证PMF（产品-市场适配率），都没正式开始做营销和投放。”Ribbi创始人兼CEO Robin告诉我们，用户通过口碑传播的裂变速度，远超他的预期。\n在4月初和《智能涌现》的交流中，Robin的嗓子已经哑了。半个月内，他见了多家投资机构，官方Linkedin的私信箱，也堆满了合作邀约。\n毕业于工业设计专业，Robin做过4A和品牌企划，后续还在几家头部大厂，主导多款明星AI产品的创作功能设计、创意Agent落地等工作。\n创业前，Robin就一直在探索：如何让创意实现的过程更简单。他发现，市面上的创作工具，都彼此独立，用户创作的上下文互不相通。这就导致，当用户要创作内容，每涉及一个环节，就要切换一款工具，还需要重新和工具对齐创作的需求。\n“市面上不少AI设计工具，仍然把内容创作视作单点环节的拼接。但事实上，创作应该是涵盖创意生成、内容生成、发布、数据监测、复盘、优化的完整链路。”Robin告诉《智能涌现》。\n基于这一认知，2025年末决定创业时，Robin做了不少“非共识”的决定：\n不做Multi-Agent（多Agent架构）的产品，因为不同专家Agent在传递过程中，会造成Context的损耗；\n不做单点的内容生成，而是用一个Agent，打通创作、发布、效果监测、复盘优化等创作中所有的链路；\n不做“画布类”的产品，而是用Chat作为UI，给Agent更多的自由度；\n自训VLM（视觉-语言模型）、自研名为Contxt Layer的Agent架构，沉淀创作经验和反馈，让AI自主进化。\n这一切设计的最终目标，Robin告诉我们，是让Ribbi不仅仅局限于一个“工具”，而是成为理解完整创作闭环的“人”。\n以下，是Ribbi创始人兼CEO Robin关于Agent创业的20条“暴论”：\n🐸 大厂中，业务、模型和顶层之间的对齐是最困难的事，除非已经有业内共识。\n比如，当Coding成为业内共识，不管是大厂，还是“AI六小虎”，都不约而同朝这个方向冲。\n但在看到Taste的确切价值之前，为审美、品味构建模型，是大厂不愿意做的。只有当视觉创意生成从非共识，变成共识，才能激发更多大厂和顶尖人才参与进来。\n🐸 一旦团队变大，对Context的折损就会增加。\n大厂的基模能力很强，但模型团队对业务的认知有偏差。一旦团队变大，每个团队之间信息传递的过程，会折损大量的Context。\n这也是Ribbi团队只有6个人的原因。我们只有3个程序员，他们现在是全栈设计师、全栈工程师，什么都能开发，并且可以做得很好。\n这就是Claude Code带来的代码生产力的进化。我相信，Ribbi会带来内容生产力的进化。\n🐸 很多AI产品都在虚假宣传。\n我们在宣发的过程中搞了很多“抽象”，比如“72小时ARR破亿”“一夜百万用户”，本质上是为了讽刺很多AI产品的虚假宣传。\n只是我们讽刺做得不够好，很多用户信以为真了（无奈笑）。\n我们在X上的CEO账号也是虚假的，根本没有“Robin Bisset”这个人。账号上的很多内容，包括Robin的外国人形象，都是Ribbi生成的。\n\n△Ribbi的虚拟老外CEO。图源：X\n🐸 AI行业正在逐渐“币圈化”。\n我花了很长时间才研究明白Harness。圈内很喜欢造概念，又是“马鞍”，又是“驾驭”，搞得很玄乎。\n其实Harness很简单，就是一个脚本，或者一个workflow，让模型不偏离目标，更好地发挥价值。\n在Harness这个概念出现之前，依靠框架或者Agent去优化AI执行任务的上下文，本身就是一个共识。如今行业只是把这件事抽象了出来，给了一个核心定义。\n🐸 画布类的产品，把模型的可能性“锁死”了。\n我们没有把Ribbi做成画布类的产品。画布类的AI产品看起来交互很酷炫，能让投资人眼前一亮，专业用户使用起来也很顺手。\n但它们有一个“致命伤”：把模型的可能性提前“锁死”了。因为画布的本质，是将工作流拆成一个个节点，模型只能沿着这条路径走。\n我们一直以来的判断是，AI时代的UI应该是容器化的，而不是功能化的。产品应该给AI创造一个容器，让它可以自由决定调用什么样的工具、怎么组合工具，甚至按照什么样的顺序执行任务。\n🐸 具身智能成熟之前，Chat是AI最好的UI。\n在互联网时代，我们就习惯通过Chat完成信息的传递，比如微信上可以拍图片、拍视频，也可以发链接、小程序。\n在我看来，Chat是一个足够简单，并且灵活兼容一切的容器。\n比如豆包DAU跑得很快，其中一个原因在于，它的移动端App设计得很轻量。用户不需要打开新的对话框，只要在一个session中疯狂Chat就能生图、生视频。它将用户的交互和AI的行为，统一在一个非常简单的框架中。\n用户认为Ribbi好用的点，就在于他们可以随时把X、Instagram、Pinterest等平台上的素材，采集、保存在Ribbi中，底层的AI再自主学习其中的审美。这其实就是人与AI Chat的过程。\n作为AI产品经理，我非常讨厌用复杂的交互去操作AI。AI应该很聪明，不用我时时刻刻盯着，就把活干了。当你产品的交互门槛、使用门槛足够低的时候，自然而然就能吸引更多人。\n🐸 真实的创作需求从来不是单一维度的。\n很多人会疑惑：为什么要往Ribbi里塞这么多功能（图片/视频/音乐创作、社交媒体监测、编辑器）？这样会不会导致定位模糊，或者每个功能都做不深？\n我们一直认为，真正的创作需求从来不只有单一维度。比如一条抖音视频的制作，就涵盖了想选题、写文案、写脚本、生成分镜、配音、剪辑、编辑封面、发布、数据监测、复盘等流程。\n这是一个完整的链路。没有All in one的工具意味着，用户需要切换不同的工具，重新对齐创作的上下文。\n人一定是懒的动物。没有用户希望做一个产品、完成一个环节，就换一个模型、换一套工具。比如做一个视频，要先用ChatGPT生成文案，再用Gemini生成分镜，最后还要用剪映拼接视频，是很麻烦的。\n我们设计Ribbi功能的出发点，不是为了把功能做全面，而是为了让创作链路的Context完整连通。\n🐸 Ribbi构建Agent的核心在于自主进化。\n互联网平台的核心是UGC，Ribbi的核心是AGC，Agent Generated Content。创业前，我就在寻找可以让“Agent自主进化”落地的场景，创作就是一个很好的答案。\n首先，Taste会自主进化，这就是我们设计Pond和训练VLM的原因。\n其次，Skills也会随着用户的使用自主进化。用户在使用Skill地过程中，会产生新的场景、需求和Context，这些Context就会凝练成专属用户个人的Skill。\n这些个人Skill，都会经过Context Layer中的Skill Agent的评估、去重、去隐私化，再贡献给平台全端。因此，平台的Skill也会循环进化，用户使用越多，Skill就越多，能力也越强。\n最后，用户的创作也会自主进化。我们建立完整创作工具的原因，就在于用户的创作是连续的过程，涵盖搜索、发现素材、生成内容、编辑优化、发布到社媒、数据监测等流程。\n社交媒体，是Agent在线进化落地的核心训练场，将作品发布到社交媒体，是Agent与真实世界的一种交互。监测数据表现后，Ribbi能够自主迭代和优化创作路径，交付更好的结果。最终，平台就能够形成一个自主进化的创作闭环。\n🐸 Multi-Agent本质上是对模型能力的低估，产品要让Agent更自由。\nMulti-Agent架构中，大部分专家Agent的底层能力，都来源于Claude。既然底层模型一样，为什么还要通过提示词工程，把模型拆分成不同的Agent？\n提示词工程，本质上是对模型能力的约束。与此同时，任务在多层Agent架构中的传递，都会造成Context的损耗。\n我们做Ribbi的时候，核心观点是：让Agent足够自由。\nAgent要在一个非常丰满、质量足够高的Context中，发挥自己的能力。因此，我们的核心架构其实是一条Single-Agent链路。\n除此之外，我们构建了一个中间层，Context Layer。它由Memory、Taste 、Skills等不同层级构成，每一层都有对应的Agent。它们的作用不是执行任务，而是辅助Single-Agent收集Context。\n这样做的好处是Single-Agent对上下文的感知不会折损，Token的损耗也会降低，这是我们的核心优势。与此同时，其他Agent又能补足一些上下文信息。\n🐸 Ribbi不是OpenClaw的“套壳”，大家只是对Agent有相同的想象。\n2025年11月，那时还没有OpenClaw，我就在公众号上写了一篇文章，构想了Agent发展的路径：第一，Agent会从被动，发展为更主动；第二，Agent的Context会不断自我进化。\n这两点在OpenClaw上得到了具体的体现。但我们的产品定义和OpenClaw非常不一样：\n首先我们提出了Context Layer，为Agent提供了很干净的Context；其次我们不希望为用户提供一个部署门槛很高的产品；最后我们整体的功能链路都是为内容创作服务，所以Ribbi提供了100多个可以自由组合、循环进化的Skills。\n我相信世界上很多人对Agent的想象是一致的。OpenClaw很多的底层思考来源于Claude Code，我们的核心想象也出自Claude Code。\nClaude Code为Agent创造了一个非常简洁的系统：Coding是Agent的环境，Function Call是Agent的手。Claude Code的出现让任何人可以成为全栈工程师，Ribbi的出现是让任何人能成为全栈的创作者。\n🐸 我们不把Ribbi定义为“工具”，而是理解完整创作闭环的“人”。\n首先，Ribbi是一个可以自我进化的内容引擎。其中，“Pond”是它的审美输入端，Skills是流程的沉淀，主动发布和数据监控是内容创作的最后一公里。\n其次，我们希望Ribbi有活人感。如果你和Ribbi对话，就会发现ta是一只嘴上嘟囔、但会认真干活的青蛙。\n🐸 Taste is all you need。\n创作过程中最难用语言表达的，就是审美和品味。\n为了解决审美建立的问题，我们为Ribbi设计了一个叫做“Pond”的板块。\n用户在浏览Behance、Pinterest等设计平台时，可以通过Ribbi插件，将喜欢的设计采集并保存到Pond中。通过对Pond中资产的学习，Ribbi可以建立对用户审美的认知，未来创作的设计也会更符合用户的偏好。\n除了学习用户个体的审美，Ribbi也会凝练平台所有用户的审美，成为平台共识。这么做的意义在于，让用户在不输入Prompt的情况下，也能获得高质量的设计。\n支撑Ribbi学习、积累、迭代用户审美的核心，是我们基于开源的千问8B小模型训练的VLM（视觉-语言模型）模型。\n它可以将图片、视频转化为文本Context，并将Context压缩进用于构建审美的Taste层，再基于Taste层生成新的设计。\n对审美的不断沉淀，也是Ribbi产生用户粘性的核心。平台上，用户不断贡献新的审美Context，这些Context都会沉淀为Ribbi对你审美的认知。\n\n在Pond中可以上传个人资产。\n🐸 不能让模型，不知道你的操作。\n目前，我对Ribbi主要有两个不满意的地方，一方面，稳定性还不够，包括性能和服务器、API负载；\n另一方面，创作流程还不够灵活。因为没有编辑器，所以诸如“把字幕往上挪一点点”等简单调整，都需要用户去Chat。因此我们需要上线一些后编辑的功能。\n但迭代的卡点在于，我们必须让底层模型知道用户的所有操作，对齐用户所有的上下文。只有这样，在后续创作过程中，Agent才能记住用户的偏好。\n让模型感知到用户的后编辑，目前来看还有很高的开发门槛。\n🐸 Ribbi的壁垒在于对技术的想象。\n我们自主训练的VLM模型，目前多多少少算壁垒。当然，技术壁垒很容易被超越，Claude发布一个新模型可能就可以做到。\nRibbi的核心价值在于，我们不仅希望只做一家应用层的公司，而是在未做模型层的探索。训练VLM是现阶段探索的开始，包括中间层Context Layer的设计，都是基于我们对行业的Know-How和共识去完成的，\n这些事说出来其实不难，难的是把它想象出来。所有的事最重要的就是想象，而我们是第一个把技术领域的AI自主进化想象、并且落地的团队。而且我们对Agent的认知一直在往前走，这是我们的想象保持领先性、建立壁垒的前提。\n🐸 把Token消耗转化为扣积分的商业模式，不够诚实清晰。\n我们的商业化会做得比较诚实。虽然模式还没完全确定，但一定不会是积分制。\n\n△Ribbi会显示每个环节消耗的Token量。图源：作者试用\n不少AI产品会采用积分发放的方式。个人觉得挺绕，用户还得把积分转化为Token消耗量，不够清晰。\n也有平台会告诉你，“充值一次，无限Token”，但实际上用户天天在排队。这样的商业模式不诚实，而且平台还会亏本。\n🐸 好的内容平台应该有广告。\n我最近也在研究一些好的内容平台的商业模式。YouTube几乎是免费的，因为有足够多的广告商在视频中分发贴片广告。\n广告的好处在于，让平台把用户的成本转嫁给广告商，同时也让创作者通过广告，有直接的收入，从而激励他们在平台上的创作。\n🐸 Ribbi的北极星指标，是Skill的增长。\n目前，网站上有20多个Skill，其实我们内部已经有100多个Skill，比如一键消除、做PPT等技能。没有放出来的核心原因在于，我们的设计师对审美的要求很高。\n所以我们的北极星指标是不断裂变出更多高质量、高审美的Skill。\n并且我们不希望Ribbi成为一个工具集。工具聚合网站，更像是一个个的小程序，它们之间是相互独立、互不连通的状态。\n但我们的Skill会在同一个Single-Agent中连通。这样的好处是Agent可以在接管创作全流程中，灵活串联不同的Skill。\n另一点，我也希望Ribbi上的工具数量能不断增长。目前我们的100多个Skill，靠的是100多个工具的不同组合。一旦我们的工具数量扩大到1000多个，Skill会进化产生我们想象不到的价值。\n\n△Ribbi上沉淀的Skills。图源：Ribbi官网\n🐸 应用公司探索模型层是有必要的。\n只有自己亲身训练和使用，才能知道当下模型的限制，以及实现AI自主进化的逻辑路径。我们现在实现AI自主进化的路径，是基于Context实现的。\n但未来，自主进化一定会在模型层上实现，并且会有非常多的人探索。自己训练模型，是为了提前积累经验。\n🐸 我们不把自己定义为创业团队，而是独立开发者的组织。\n我们不会像某些友商那样，不断花钱买量、烧各种补贴。我们不想做一家为估值而奋不顾身的公司。\n融资当然也很重要。你要确保账上有足够的资金，去支撑研发-获得用户反馈-迭代的循环。\n我们现在正在推进下一轮融资，并非是有意的，而是如今Ribbi获得的用户声量，远超我们的预期。现在的状态，有点像时代推着你往前走。\n我们收到了很多投资意向书，但我希望愿意投资我们的机构，是真正对AI有价值判断的、长期看好AI的自主进化，而不是出于FOMO（错失恐慌）。\n🐸 我立志成为硅基生命的垫脚石。\n我们一直在找一个符号表达“自主进化”的理念。Ribbi LOGO是一只青蛙的原因，是因为蝌蚪进化为青蛙是一种非线性的变态发育，“Ribbi”就是呱呱叫（ribbit）的拟声词。\n我相信AGI一定会到来。无论是训练模型，还是做Context Layer，这些看起来“很重”的事，目的都是为了加快AGI到来的进程，哪怕只留下一点点痕迹。\n假设某一天，某家模型厂商实现了AI的自主进化，即便功不在我，我愿意贡献我们对Context Layer自主进化的Know-How、开源我们的技术架构，帮助模型厂商训练更好的自主进化模型。\n\n欢迎交流！",
+      "category": "技术与研究",
+      "company": "",
+      "score": 58,
+      "breakdown": {
+        "substance": 22,
+        "importance": 19,
+        "timeliness": 10,
+        "credibility": 7
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
+      "url": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
+      "snippet": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 22 Apr 2026 16:58:27 +0000",
+      "region": "海外",
+      "summary": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users.",
+      "category": "技术与研究",
+      "company": "Google",
+      "score": 27,
+      "breakdown": {
+        "substance": 0,
+        "importance": 11,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "金融智能的架构编排：基于 Snowflake Cortex Agents 实现结构化与非结构化数据统一分析 ｜ 技术实践",
+      "url": "https://www.infoq.cn/article/LIb7POBCMo8213s9lk0T?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Wed, 22 Apr 2026 16:56:38 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 23,
+      "breakdown": {
+        "substance": 7,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Google updates Workspace to make AI your new office intern",
+      "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+      "snippet": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 22 Apr 2026 22:44:26 +0000",
+      "region": "海外",
+      "summary": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
+      "category": "技术与研究",
+      "company": "Google",
+      "score": 23,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "VAST Data’s $30 billion valuation is a bet that the data layer is the real bottleneck in AI",
+      "url": "https://thenextweb.com/news/vast-data-1b-raise-30b-valuation-nvidia-ai-storage",
+      "snippet": "Summary: VAST Data raised $1 billion in a Series F at a $30 billion valuation, more than tripling from $9.1 billion, with Drive Capital and Access Industries co-leading and Nvidia, Fidelity, and NEA participating. More than $500 million is secondary capital. The company reports $4 billion in cumulative bookings, $500 million-plus in committed ARR, and […]\nThis story continues at The Next Web",
+      "source": "TNW AI",
+      "publishedAt": "Wed, 22 Apr 2026 20:03:43 +0000",
+      "region": "海外",
+      "summary": "Summary: VAST Data raised $1 billion in a Series F at a $30 billion valuation, more than tripling from $9.1 billion, with Drive Capital and Access Industries co-leading and Nvidia, Fidelity, and NEA participating. More than $500 million is secondary capital. The company reports $4 billion in cumulative bookings, $500 million-plus in committed ARR, and […]\nThis story continues at The Next Web",
+      "category": "技术与研究",
+      "company": "",
+      "score": 20,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 10,
+        "credibility": 5
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Mozilla patched 271 Firefox bugs found by Anthropic’s Mythos, and says the zero-day era has an expiration date",
+      "url": "https://thenextweb.com/news/mozilla-firefox-claude-mythos-271-vulnerabilities",
+      "snippet": "Summary: Mozilla released Firefox 150 with fixes for 271 security vulnerabilities identified by Anthropic’s Claude Mythos Preview, an unreleased frontier AI model distributed under the restricted Project Glasswing programme. The collaboration began with Claude Opus 4.6 finding 22 bugs in Firefox 148 earlier this year; Mythos produced more than twelve times as many. Firefox CTO […]\nThis story continues at The Next Web",
+      "source": "TNW AI",
+      "publishedAt": "Wed, 22 Apr 2026 18:35:06 +0000",
+      "region": "海外",
+      "summary": "Summary: Mozilla released Firefox 150 with fixes for 271 security vulnerabilities identified by Anthropic’s Claude Mythos Preview, an unreleased frontier AI model distributed under the restricted Project Glasswing programme. The collaboration began with Claude Opus 4.6 finding 22 bugs in Firefox 148 earlier this year; Mythos produced more than twelve times as many. Firefox CTO […]\nThis story continues at The Next Web",
+      "category": "技术与研究",
+      "company": "Anthropic",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 5
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
+      "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
+      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting harder to tell amid the constant launches, hype, and warnings. To cut through…",
+      "source": "MIT Technology Review",
+      "publishedAt": "Wed, 22 Apr 2026 12:10:00 +0000",
+      "region": "海外",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting harder to tell amid the constant launches, hype, and warnings. To cut through…",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 10
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "AI needs a strong data fabric to deliver business value",
+      "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+      "snippet": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes…",
+      "source": "MIT Technology Review",
+      "publishedAt": "Wed, 22 Apr 2026 10:05:06 +0000",
+      "region": "海外",
+      "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes…",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 10
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "开年连融两轮的“可以玩的抖音”，又融了5000万美金｜涌现新项目",
+      "url": "https://36kr.com/p/3778135439709446?f=rss",
+      "snippet": "文｜周鑫雨\n编辑｜杨轩\n一句话介绍\n成立于2025年6月的“涌跃智能”，是《智能涌现》曾报道过的AI创业公司。\n其旗下产品Loopit，好比“可以玩的抖音”，是一个面向C端的AI互动内容平台，覆盖可交互内容的创作、分发和消费。\n基于自研的“AI Coding+多模态生成”的互动引擎，用户既可以与社区中的内容互动，也可以创作、发表支持图像、语音、视频、3D等全模态可交互互动内容。\n团队介绍\n“涌跃智能”创始团队，主要出身于“AI六小虎”百川智能的核心团队。\n“涌跃智能”联合创始人兼CEO陈炜鹏，前百川智能的联合创始人兼大模型负责人，主导了BaiChuan 1-4等大模型的训练。\n此前，他的职业路径横跨搜索、推荐与社区产品——从搜狗的搜索与信息流，到Soul的内容社区，一直围绕分发与内容形态演进展开。\n融资进展\n近期，“涌跃智能”完成了新一轮融资，金额为5000万美元。该轮融资由全球头部游戏厂商Garena领投。\n本轮投资阵容还包括经纬创投、蓝驰创投、渶策资本、柏睿资本等机构，高鹄资本担任独家财务顾问。其中天使股东经纬创投为第4次加码。\n2026年以来，“涌跃智能”已经连续完成了3轮融资，累计金额近1亿美元。此前，投资方还包括天使股东耀途资本、钟鼎资本等机构。\n产品及业务\n2026年才过了1/3，“涌跃智能”就连续完成了三轮融资。资本市场火热，背后是Loopit所代表的AI应用赛道的兴起：AI互动式内容平台。\n在Loopit创作端，用户可以通过文字输入创意，生成可互动的mini-App，也可以基于其余用户创作的内容进行remix（魔改）；\n\n△Loopit支持复杂互动内容的创作。图源：受访者供图\n在消费端，产品采用单列Feed流进行分发，将互动体验封装进统一内容卡片中，降低用户参与体验的门槛。\n\n△左：Loopit创作后台；中：Loopit首页Feed流；右：Loopit内容分区。图源：产品界面\n在众多互动内容产品中，Loopit是增长最为迅猛的产品之一：正式上线（2026年2月10日）不到24小时，用户制作互动内容就在X上被马斯克评论转发；\n《智能涌现》独家获悉，上线两个月以来，Loopit的全球注册用户规模达到了近200万，其中北美用户超过半数；\n产品次日留存从早期的30%，上升到超过50%，用户创作率达到30%。\n实现用户新增、留存和消费时长的同时增长，陈炜鹏告诉《智能涌现》，Loopit核心做对了两件事：\n一方面，不断拓展互动内容的体验边界；另一方面，持续降低互动内容创作的门槛。\n围绕增强“体验”，近期Loopit拓展了“联机内容”的创作，支持多人互动内容的生成和发布。\n陈炜鹏观察到，近几年来，用户对“体验”有个更深的需求：“人与内容的关系，从人观看内容，发展为人与内容互动，现在又扩展到人和人之间通过内容产生联系。”\n比如，在Loopit平台上，有用户生成了一个全网聊天室，支持多人视频连线；也有网友制作了多人可以参与的闯关游戏。\n\n△用户生成的联机闯关游戏。图源：作者体验\n增强内容体验的同时，在陈炜鹏看来，底层技术足够通用、内容生成的门槛足够低，是激发用户创作欲、满足用户探索欲的前提。\n陈炜鹏认为，支持“许愿式创作”，是驱动用户创作的核心之一。即便用户尚未形成成熟的创意、没有创作目的，也能通过描述大致的创作需求，生成互动内容。\n比如，用户只需要输入“90年代TV”，Loopit的创作引擎也能在几分钟内完善创意，生成一个可以调频道的互动内容。\n\n△许愿式创作。图源：作者体验\nLoopit背后的互动内容创作引擎，是团队自研的Coding驱动多模态生成架构，支持涵盖语言、图片、语音、视频、3D等全模态的互动内容生成。平均经过3轮对话，用户就能创作出模态、交互形式较为复杂的内容。\n据陈炜鹏介绍，这一套架构，本质上是一个通用的Coding Agent与一个通用的多模态Agent的组合，“这套技术实现的门槛非常高，Coding和多模态的生成都在互相约束”。\n可以看见，互动内容平台，已经成为当下最火热的AI赛道之一。陈炜鹏认为，Loopit的差异化在于，产品更��通用。\n“不少产品或聚焦在小游戏、社交等具体场景，吸引的也是某一圈层的用户。”他不希望在早期就将Loopit的定位限定“死”，“我们把底层能力做得足够通用、创作的门槛降到足够低，是为了让每个普通人的创意涌现出来。”\n商业模式\n陈炜鹏对我们坦言，现阶段对Loopit而言，谈商业化还为时尚早：“过早讨论一个社区型产品的商业化，是不专业的、不懂社区的行为。”\n在陈炜鹏看来，产品仍在快速演进阶段，未来的商业模式很大程度上会与用户结构深度绑定，而当下的任何设计，都未必能完全匹配未来。\n团队更关注的是另一件事：用户是否愿意在Loopit上持续停留，以及是否在这里产生足够深的体验。“只要用户的时间和体验深度成立，商业化的答案是可以被自然推导出来的。”\nFounder思考\n过去分发的是信息，未来分发的是体验。\n过去用户和内容的关系是观看，今天的关系变成了体验和参与。用户参与内容的形式又可以分成两种：一种是人参与内容，另一种是人与人通过内容产生连接。\nAI时代，做70分但通用的产品，别做90分但垂直的产品。\n做90分的产品是有代价的，你会过早收敛产品的形态。在技术不完全ready的情况下，做一个90分的垂类产品会错失未来智能增长红利。\n大部分Agent看起来相似，真正拉开差距的是底层抽象能力。\n底层抽象能力不仅决定了系统当前能完成多复杂的任务，也决定了未来是否具备持续扩展和演化的空间。\n过早把产品边界定义得过于狭窄，往往会与未来技术的发展脱节。\n在互动内容赛道中，如何定义边界、从哪些人群切入，本身仍然没有共识。\n不少产品选择聚焦单一场景，例如小游戏或小发明。这种路径对技术能力的要求更集中，但也意味着对内容深度和完成度的预期更高，边界更容易被锁死。\nLoopit则选择另一条路径——以“Make everything playable”为核心，构建一个通用的UGC表达平台。我们更看重底层能力的通用性，以及尽可能放大创作的可能性。\n对于内容平台而言，真正重要的不是某一个具体场景，而是能否持续激发创意的涌现，从而不断产生让用户产生“Aha Moment”的内容。\n产品内容越复杂，内容入口就要越简单。\n很多早期用户规模不小的产品最终做不大，除了市场空间限制，一个重要原因是入口过于复杂。\n好的内容平台往往遵循同一原则：把复杂性封装在内容里，而不是暴露在入口上。\n每一代优秀的产品设计，本质上都是技术驱动下的抽象升级。例如Feed流的出现，让用户始终在同一个认知框架内完成消费与切换，从而降低使用成本、提升分发效率，并放大平台的整体规模。\n在大模型时代，这一逻辑进一步成立：产品不再由功能定义，而是成为承接能力涌现的载体。\n\n欢迎交流！",
+      "source": "36氪",
+      "publishedAt": "2026-04-23 08:30:30  +0800",
+      "region": "国内",
+      "summary": "文｜周鑫雨\n编辑｜杨轩\n一句话介绍\n成立于2025年6月的“涌跃智能”，是《智能涌现》曾报道过的AI创业公司。\n其旗下产品Loopit，好比“可以玩的抖音”，是一个面向C端的AI互动内容平台，覆盖可交互内容的创作、分发和消费。\n基于自研的“AI Coding+多模态生成”的互动引擎，用户既可以与社区中的内容互动，也可以创作、发表支持图像、语音、视频、3D等全模态可交互互动内容。\n团队介绍\n“涌跃智能”创始团队，主要出身于“AI六小虎”百川智能的核心团队。\n“涌跃智能”联合创始人兼CEO陈炜鹏，前百川智能的联合创始人兼大模型负责人，主导了BaiChuan 1-4等大模型的训练。\n此前，他的职业路径横跨搜索、推荐与社区产品——从搜狗的搜索与信息流，到Soul的内容社区，一直围绕分发与内容形态演进展开。\n融资进展\n近期，“涌跃智能”完成了新一轮融资，金额为5000万美元。该轮融资由全球头部游戏厂商Garena领投。\n本轮投资阵容还包括经纬创投、蓝驰创投、渶策资本、柏睿资本等机构，高鹄资本担任独家财务顾问。其中天使股东经纬创投为第4次加码。\n2026年以来，“涌跃智能”已经连续完成了3轮融资，累计金额近1亿美元。此前，投资方还包括天使股东耀途资本、钟鼎资本等机构。\n产品及业务\n2026年才过了1/3，“涌跃智能”就连续完成了三轮融资。资本市场火热，背后是Loopit所代表的AI应用赛道的兴起：AI互动式内容平台。\n在Loopit创作端，用户可以通过文字输入创意，生成可互动的mini-App，也可以基于其余用户创作的内容进行remix（魔改）；\n\n△Loopit支持复杂互动内容的创作。图源：受访者供图\n在消费端，产品采用单列Feed流进行分发，将互动体验封装进统一内容卡片中，降低用户参与体验的门槛。\n\n△左：Loopit创作后台；中：Loopit首页Feed流；右：Loopit内容分区。图源：产品界面\n在众多互动内容产品中，Loopit是增长最为迅猛的产品之一：正式上线（2026年2月10日）不到24小时，用户制作互动内容就在X上被马斯克评论转发；\n《智能涌现》独家获悉，上线两个月以来，Loopit的全球注册用户规模达到了近200万，其中北美用户超过半数；\n产品次日留存从早期的30%，上升到超过50%，用户创作率达到30%。\n实现用户新增、留存和消费时长的同时增长，陈炜鹏告诉《智能涌现》，Loopit核心做对了两件事：\n一方面，不断拓展互动内容的体验边界；另一方面，持续降低互动内容创作的门槛。\n围绕增强“体验”，近期Loopit拓展了“联机内容”的创作，支持多人互动内容的生成和发布。\n陈炜鹏观察到，近几年来，用户对“体验”有个更深的需求：“人与内容的关系，从人观看内容，发展为人与内容互动，现在又扩展到人和人之间通过内容产生联系。”\n比如，在Loopit平台上，有用户生成了一个全网聊天室，支持多人视频连线；也有网友制作了多人可以参与的闯关游戏。\n\n△用户生成的联机闯关游戏。图源：作者体验\n增强内容体验的同时，在陈炜鹏看来，底层技术足够通用、内容生成的门槛足够低，是激发用户创作欲、满足用户探索欲的前提。\n陈炜鹏认为，支持“许愿式创作”，是驱动用户创作的核心之一。即便用户尚未形成成熟的创意、没有创作目的，也能通过描述大致的创作需求，生成互动内容。\n比如，用户只需要输入“90年代TV”，Loopit的创作引擎也能在几分钟内完善创意，生成一个可以调频道的互动内容。\n\n△许愿式创作。图源：作者体验\nLoopit背后的互动内容创作引擎，是团队自研的Coding驱动多模态生成架构，支持涵盖语言、图片、语音、视频、3D等全模态的互动内容生成。平均经过3轮对话，用户就能创作出模态、交互形式较为复杂的内容。\n据陈炜鹏介绍，这一套架构，本质上是一个通用的Coding Agent与一个通用的多模态Agent的组合，“这套技术实现的门槛非常高，Coding和多模态的生成都在互相约束”。\n可以看见，互动内容平台，已经成为当下最火热的AI赛道之一。陈炜鹏认为，Loopit的差异化在于，产品更��通用。\n“不少产品或聚焦在小游戏、社交等具体场景，吸引的也是某一圈层的用户。”他不希望在早期就将Loopit的定位限定“死”，“我们把底层能力做得足够通用、创作的门槛降到足够低，是为了让每个普通人的创意涌现出来。”\n商业模式\n陈炜鹏对我们坦言，现阶段对Loopit而言，谈商业化还为时尚早：“过早讨论一个社区型产品的商业化，是不专业的、不懂社区的行为。”\n在陈炜鹏看来，产品仍在快速演进阶段，未来的商业模式很大程度上会与用户结构深度绑定，而当下的任何设计，都未必能完全匹配未来。\n团队更关注的是另一件事：用户是否愿意在Loopit上持续停留，以及是否在这里产生足够深的体验。“只要用户的时间和体验深度成立，商业化的答案是可以被自然推导出来的。”\nFounder思考\n过去分发的是信息，未来分发的是体验。\n过去用户和内容的关系是观看，今天的关系变成了体验和参与。用户参与内容的形式又可以分成两种：一种是人参与内容，另一种是人与人通过内容产生连接。\nAI时代，做70分但通用的产品，别做90分但垂直的产品。\n做90分的产品是有代价的，你会过早收敛产品的形态。在技术不完全ready的情况下，做一个90分的垂类产品会错失未来智能增长红利。\n大部分Agent看起来相似，真正拉开差距的是底层抽象能力。\n底层抽象能力不仅决定了系统当前能完成多复杂的任务，也决定了未来是否具备持续扩展和演化的空间。\n过早把产品边界定义得过于狭窄，往往会与未来技术的发展脱节。\n在互动内容赛道中，如何定义边界、从哪些人群切入，本身仍然没有共识。\n不少产品选择聚焦单一场景，例如小游戏或小发明。这种路径对技术能力的要求更集中，但也意味着对内容深度和完成度的预期更高，边界更容易被锁死。\nLoopit则选择另一条路径——以“Make everything playable”为核心，构建一个通用的UGC表达平台。我们更看重底层能力的通用性，以及尽可能放大创作的可能性。\n对于内容平台而言，真正重要的不是某一个具体场景，而是能否持续激发创意的涌现，从而不断产生让用户产生“Aha Moment”的内容。\n产品内容越复杂，内容入口就要越简单。\n很多早期用户规模不小的产品最终做不大，除了市场空间限制，一个重要原因是入口过于复杂。\n好的内容平台往往遵循同一原则：把复杂性封装在内容里，而不是暴露在入口上。\n每一代优秀的产品设计，本质上都是技术驱动下的抽象升级。例如Feed流的出现，让用户始终在同一个认知框架内完成消费与切换，从而降低使用成本、提升分发效率，并放大平台的整体规模。\n在大模型时代，这一逻辑进一步成立：产品不再由功能定义，而是成为承接能力涌现的载体。\n\n欢迎交流！",
+      "category": "技术与研究",
+      "company": "",
+      "score": 47,
+      "breakdown": {
+        "substance": 22,
+        "importance": 8,
+        "timeliness": 10,
+        "credibility": 7
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
+      "url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
+      "snippet": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 22 Apr 2026 14:22:10 +0000",
+      "region": "海外",
+      "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.",
+      "category": "技术与研究",
+      "company": "OpenAI",
+      "score": 21,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "国产多模态Agent拿下医学分割SOTA！不用改模型、不加token",
+      "url": "https://www.qbitai.com/2026/04/404604.html",
+      "snippet": "已被CVPR 2026接收",
+      "source": "量子位",
+      "publishedAt": "Wed, 22 Apr 2026 07:17:04 +0000",
+      "region": "国内",
+      "summary": "已被CVPR 2026接收",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 3,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    }
+  ],
+  "投融资与并购": [
+    {
+      "title": "36氪首发 | 清华、哈工大团队做灵巧手，成本降到三分之一，三个月融资近亿元",
+      "url": "https://36kr.com/p/3778730451391751?f=rss",
+      "snippet": "作者 | 乔钰杰\n编辑 | 袁斯来\n硬氪获悉，深圳市星际光年科技有限公司（以下简称“星际光年”）近日完成新一轮融资，本轮由顺创产投领投，老股东云时资本持续加注，微星宁元跟投。\n至此，公司在过去三个月内连续完成两轮融资，累计融资规模近亿元。本轮融资将主要用于通用灵巧操作平台在真实工业场景落地、产品持续完善、规模化产线升级及全球团队生态建设。\n星际光年专注于灵巧手及通用操作平台的研发与商业化，核心团队来自清华大学、哈尔滨工业大学、香港大学、香港科技大学、美国西北大学等海内外顶尖高校，在机器人灵巧操作领域拥有深厚的技术积累与产业洞察。\n技术路线上，星际光年坚持绳驱与直驱并行的双轨战略：一方面，以技术壁垒极高的全绳驱灵巧手（Pantheon系列）探索性能上限与终极应用场景；另一方面，通过技术降维，推出高性价比、模块化的直驱灵巧手（Gaia系列），推动具身操作技术普惠，加速生态构建。\n绳驱方面，Pantheon系列采用全腱绳驱传动架构，仿生人手“肌腱—肌肉”协同机制，可实现多自由度高效联动控制。结合公司首创的即时自动张紧算法，在保持末端极致轻量化的同时，可兼具高自由度、高精度、高抗冲击与高负载的特性。\n创始人位德浩在接受硬氪采访时介绍称，针对行业普遍担心的绳驱蠕变、温漂问题，星际光年从结构和算法两方面入手，结构上，采用国内唯一的单侧拉绳技术，与特斯拉相同，保证绳索在长期使用情况下的张紧度一致问题。算法层面，配合难度更高的运控算法，解决了绳索一致性与稳定性问题。\n\n（图源/企业）\n直驱方面，基于全栈自研的微型关节模组，星际光年实现了直驱灵巧手“搭积木”般的极简模块化设计。今年发布的Gaia Hand 20系列，全系标配20个自由度，并配备阶梯式触觉配置，可灵活适配从基础运动控制验证到多模态感知操作的差异化研发需求。\n“我们把16到20个灵巧手的旋转模块做成了标准化的单一模块，意味着每只手只用一种模块，大大降低了定制化程度，从技术层面实现了降本”位德浩介绍称“关节级模块的另一个好处是，可以快速实现故障模块的更换维修，维护时间可压缩至分钟级”。\n软件层面，星际光年同步构建了面向操作任务的“具身操作基座模型”。位德浩表示，终局来看，具身智能系统应形成分层结构：上层由视觉语言模型（VLM）等负责环境理解与任务规划，中间层由具备泛化能力的操作模型承接指令，下层则负责关节级控制执行。星际光年的基座模型正是连接“感知—决策—执行”的关键环节，通过融合视觉与触觉数据，并结合真实世界数据训练与Sim2Real技术，实现对复杂操作任务的预测与控制。\n商业化路径上，星际光年采取“科研先行、产业聚焦”的策略。在科研侧，公司产品已进入多家国内外高校与研究机构，成为具身智能研究中的基础工具；在产业侧，公司则选择优先切入精密制造及高风险作业等高价值场景，通过与头部企业联合开发，验证“通用末端执行器+AI操作”的落地能力。\n以下为访谈节选（部分内容经编辑）：\n硬氪：为什么同时布局直驱和绳驱两条技术路线？\n位德浩：我们专注做绳驱灵巧手，并为此做了全栈自研，从材料、电机、绳索到运动算法。但我们认识到，绳驱灵巧手要终局进入家庭、消费场景，可能还需两三年。在此之前，为了与市场连接、扩大具身生态、实现技术普惠，必须降低成本。我们的方法是：将16-20个灵巧手的旋转模块做成标准化的单一模块，降低定制化程度，提升单个模块出货量，从而降本。由此开发的Gaia直驱手，虽性能不及绳驱，但满足当下数据采集、算法验证及简单产品探索，且成本极低。绳驱是我们仰望星空的事，直驱是我们脚踏实地为市场、为生态做的贡献。目前我们是全世界唯一一家做模块化灵巧手的公司。\n\n（图源/企业）\n硬氪：怎么理解星际光年自研的具身操作基座模型？\n位德浩：控制灵巧手需要“脑子”。要抓取物体，必须依靠视觉加触觉，再通过专家数据或强化学习训练出一个模型——我们称之为基座模型。星际光年不做VLM等大模型，但我们认为，连接大模型与灵巧手之间，需要一个操作基座模型：承接大模型的规划指令，再发送到关节级控制指令。终局一定有三层：最上层是VLM做场景识别与任务规划；中间层是具备强泛化能力的操作基座模型，泛化性主要体现在具体任务的操作上。\n硬氪：两代灵巧手为什么会有从开源到闭源的变化？\n位德浩：无论开源闭源，本质都是希望更多人参与。开源手（Gaia 15）外壳全开源，可快速搭建简易版，但缺乏产品级稳定性。为了让更多人用到且价格低，同时完善产品，我们在闭源手（Gaia 20）上设计主控板、完善通信协议、上位机、仿真软件，提升通信频率和响应速度，实现更高性能且价格仍很低。Gaia 20虽然闭源，但全模块化，成本是传统同等自由度灵巧手的1/3甚至更低。事实证明，我们也做到了让更多人参与，开售仅2天，我们首批88套就全部售罄。此外，针对经费有限的科研学者和学生，我们推出“头号玩家计划”：无需付费，只要用我们的手在3-6个月内实现科研DEMO，手就免费赠送。",
+      "source": "36氪",
+      "publishedAt": "2026-04-23 09:24:26  +0800",
+      "region": "国内",
+      "summary": "作者 | 乔钰杰\n编辑 | 袁斯来\n硬氪获悉，深圳市星际光年科技有限公司（以下简称“星际光年”）近日完成新一轮融资，本轮由顺创产投领投，老股东云时资本持续加注，微星宁元跟投。\n至此，公司在过去三个月内连续完成两轮融资，累计融资规模近亿元。本轮融资将主要用于通用灵巧操作平台在真实工业场景落地、产品持续完善、规模化产线升级及全球团队生态建设。\n星际光年专注于灵巧手及通用操作平台的研发与商业化，核心团队来自清华大学、哈尔滨工业大学、香港大学、香港科技大学、美国西北大学等海内外顶尖高校，在机器人灵巧操作领域拥有深厚的技术积累与产业洞察。\n技术路线上，星际光年坚持绳驱与直驱并行的双轨战略：一方面，以技术壁垒极高的全绳驱灵巧手（Pantheon系列）探索性能上限与终极应用场景；另一方面，通过技术降维，推出高性价比、模块化的直驱灵巧手（Gaia系列），推动具身操作技术普惠，加速生态构建。\n绳驱方面，Pantheon系列采用全腱绳驱传动架构，仿生人手“肌腱—肌肉”协同机制，可实现多自由度高效联动控制。结合公司首创的即时自动张紧算法，在保持末端极致轻量化的同时，可兼具高自由度、高精度、高抗冲击与高负载的特性。\n创始人位德浩在接受硬氪采访时介绍称，针对行业普遍担心的绳驱蠕变、温漂问题，星际光年从结构和算法两方面入手，结构上，采用国内唯一的单侧拉绳技术，与特斯拉相同，保证绳索在长期使用情况下的张紧度一致问题。算法层面，配合难度更高的运控算法，解决了绳索一致性与稳定性问题。\n\n（图源/企业）\n直驱方面，基于全栈自研的微型关节模组，星际光年实现了直驱灵巧手“搭积木”般的极简模块化设计。今年发布的Gaia Hand 20系列，全系标配20个自由度，并配备阶梯式触觉配置，可灵活适配从基础运动控制验证到多模态感知操作的差异化研发需求。\n“我们把16到20个灵巧手的旋转模块做成了标准化的单一模块，意味着每只手只用一种模块，大大降低了定制化程度，从技术层面实现了降本”位德浩介绍称“关节级模块的另一个好处是，可以快速实现故障模块的更换维修，维护时间可压缩至分钟级”。\n软件层面，星际光年同步构建了面向操作任务的“具身操作基座模型”。位德浩表示，终局来看，具身智能系统应形成分层结构：上层由视觉语言模型（VLM）等负责环境理解与任务规划，中间层由具备泛化能力的操作模型承接指令，下层则负责关节级控制执行。星际光年的基座模型正是连接“感知—决策—执行”的关键环节，通过融合视觉与触觉数据，并结合真实世界数据训练与Sim2Real技术，实现对复杂操作任务的预测与控制。\n商业化路径上，星际光年采取“科研先行、产业聚焦”的策略。在科研侧，公司产品已进入多家国内外高校与研究机构，成为具身智能研究中的基础工具；在产业侧，公司则选择优先切入精密制造及高风险作业等高价值场景，通过与头部企业联合开发，验证“通用末端执行器+AI操作”的落地能力。\n以下为访谈节选（部分内容经编辑）：\n硬氪：为什么同时布局直驱和绳驱两条技术路线？\n位德浩：我们专注做绳驱灵巧手，并为此做了全栈自研，从材料、电机、绳索到运动算法。但我们认识到，绳驱灵巧手要终局进入家庭、消费场景，可能还需两三年。在此之前，为了与市场连接、扩大具身生态、实现技术普惠，必须降低成本。我们的方法是：将16-20个灵巧手的旋转模块做成标准化的单一模块，降低定制化程度，提升单个模块出货量，从而降本。由此开发的Gaia直驱手，虽性能不及绳驱，但满足当下数据采集、算法验证及简单产品探索，且成本极低。绳驱是我们仰望星空的事，直驱是我们脚踏实地为市场、为生态做的贡献。目前我们是全世界唯一一家做模块化灵巧手的公司。\n\n（图源/企业）\n硬氪：怎么理解星际光年自研的具身操作基座模型？\n位德浩：控制灵巧手需要“脑子”。要抓取物体，必须依靠视觉加触觉，再通过专家数据或强化学习训练出一个模型——我们称之为基座模型。星际光年不做VLM等大模型，但我们认为，连接大模型与灵巧手之间，需要一个操作基座模型：承接大模型的规划指令，再发送到关节级控制指令。终局一定有三层：最上层是VLM做场景识别与任务规划；中间层是具备强泛化能力的操作基座模型，泛化性主要体现在具体任务的操作上。\n硬氪：两代灵巧手为什么会有从开源到闭源的变化？\n位德浩：无论开源闭源，本质都是希望更多人参与。开源手（Gaia 15）外壳全开源，可快速搭建简易版，但缺乏产品级稳定性。为了让更多人用到且价格低，同时完善产品，我们在闭源手（Gaia 20）上设计主控板、完善通信协议、上位机、仿真软件，提升通信频率和响应速度，实现更高性能且价格仍很低。Gaia 20虽然闭源，但全模块化，成本是传统同等自由度灵巧手的1/3甚至更低。事实证明，我们也做到了让更多人参与，开售仅2天，我们首批88套就全部售罄。此外，针对经费有限的科研学者和学生，我们推出“头号玩家计划”：无需付费，只要用我们的手在3-6个月内实现科研DEMO，手就免费赠送。",
+      "category": "投融资与并购",
+      "company": "",
+      "score": 52,
+      "breakdown": {
+        "substance": 22,
+        "importance": 13,
+        "timeliness": 10,
+        "credibility": 7
+      },
+      "isDuplicate": false
+    }
+  ],
+  "政策与监管": []
+}
