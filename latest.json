@@ -1,141 +1,87 @@
 {
-  "date": "2026/5/2",
-  "count": 15,
+  "date": "2026/5/3",
+  "count": 9,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Fri, 01 May 2026 06:28:46 +0000",
-      "summary": "真机部署“零微调”",
-      "score": 34
-    },
-    {
-      "section": "技术与研究",
-      "title": "美股三大指数收盘涨跌不一，大型科技股多数上涨",
+      "title": "在硅谷，中美具身公司聊了聊了4个问题的解法",
       "company": "",
       "source": "36氪",
-      "publishedAt": "2026-05-02 08:47:43  +0800",
-      "summary": "36氪获悉，5月1日收盘，美股三大指数涨跌不一，道指跌0.31%，道指跌0.31%，标普500指数涨0.29%。大型科技股多数上涨，英特尔涨超5%，苹果涨超3%，微软、亚马逊涨超1%，谷歌小幅上涨，英伟达、Meta小幅下跌。热门中概股多数下跌，截至发稿，蔚来跌超7%，小鹏集团跌近3%，理想汽车、京东跌超1%，阿里巴巴、拼多多、百度、哔哩哔哩小幅下跌。",
-      "score": 32
+      "publishedAt": "2026-05-02 21:01:36  +0800",
+      "summary": "文｜周鑫雨\n编辑｜杨轩\n规模化落地，今年的具身公司都在谈这个。\n数字竞速，不约而同出现在具身公司的产线、招股书、出货量上——2026年4月以来，智元机器人宣布第1万台机器人量产下线，5000到10000，只用了三个多月；宇树科技的IPO招股书也摊开了激进商业化的一角：2025年营收17.07亿元，出货量超过5500台。\n激进的数字背后，是“低价、高性能”的中国机器人在全球的扩张。宇树科技创始人王兴兴曾在2025年世界机器人大会上提到，过去几年，宇树的海外营收一直占总营收的50%以上。\n在这些具身玩家中，魔法原子MagicLab近期提出了一个相当激进的营收目标：2036年，要实现140亿美元的营收规模。\n在全球范围内打响品牌，也让这家公司，将发布会开进了硅谷。美西时间2026年4月28日，在云集Adobe、TikTok、IBM等公司的圣何塞，魔法原子发起了全球具身智能创新大会（GEIS）。\n\n魔法原子机器人MagicBot Z1现场给张艺兴表演。作者拍摄\n在会上，魔法原子发布了从底层模型本体的一系列新产品：\n世界模型Magic-Mix：魔法原子自研的“自主进化模型”。Magix-Mix由两个引擎构成：让机器人学会理解真实世界的Magic-WAM，以及可以离线生成大批量许年数据的Magic-Creator——这意味着，Mix可以在“数据生成-模型训练-真实世界反馈-数据在生成”的闭环中持续自主迭代。\n\nMagic-Mix架构。图源：魔法原子\n灵巧手MagicHand H01：搭载了20 DOF（自由度，人手约24-27 DOF）和44个高分辨率三维触觉传感器，主打工业制造、服务护理等场景的精细操作。\n\nMagicHand H01。图源：魔法原子\n人形机器人MagicBot X1：一款身高180cm、体重70kg、全身搭载31个主动DOF、极限关节扭矩达450N·m的机器人。基于无限续航双电系统，X1可以7*24连续作业。产品分为标准版和科研版，前者商业部署效率高、开箱即用，后者则面向高校、实验室、开发者和产业伙伴，支持底层二次开发和外形定制。\n\nMagicBot X1。图源：魔法原子\n在会上，Openmind、PrismaX、Chestnut Roborics等来自硅谷的具身大脑和本体公司，也出现在现场。有关大脑、本体、数据的解决方案，这些公司给出了不同的解决思路。\n以下是《智能涌现》关于现场讨论的整理：\n用机器合成数据训练，效果会比真实世界数据更好吗？\n高质量数据的稀缺，一直是掣肘具身模型训练的瓶颈。当前真机数据采集一直存在成本高、周期长、场景覆盖等问题。\n机器合成数据，就是解决方案之一。然而，合成数据的局限性在于真实信息的缺失，比如摩擦系数、延迟、触觉反馈等。这也造成业界对“sim-to-real-gap”的担忧。\n混合数据训练，是当下中美具身智能企业提出的主流解决方案。比如，魔法原子总裁顾诗韬介绍，魔法原子日均采集约16000条数据，再通过数据合成实现1万倍的体量扩展。她提到，由于产品迭代快、60%-70%的工序依赖人工，新能源汽车制造业，是数据采集的富矿。\n判断使用真实数据，还是机器合成数据，行业的共识是：基于具体训练目的和应用场景。\n亚马逊前沿AI与机器人研究院科学家Haozhi Qi提到，合成数据适用于让机器学习单一的反应基本技能，但难以让机器获得类似于做早餐之类的长程技能。此时，引入真实数据训练是有必要的，因为构建一个足够丰富的模拟环境，成本很高。\n英伟达GEAR Lab高级研究科学家Zhengyi Luo则透露，团队目前采用50%的模拟数据，用于基础训练；15%的动捕数据、25%的互联网视频数据，用于理解人类的动作；同时，训练还会添加10%的高质量真实世界数据。他还提到，有些公司甚至会使用社交媒体上的数据，来指导机器人的本体设计。\nVLA（视觉-语言-行动）是具身“大脑”最好的解决方案吗？\n由于强大的任务泛化能力，当下VLA已经成为具身模型最主流的架构范式。\n但事实上，当人类用手指旋转一个篮球时，只用依靠触觉和本体感知，并不需要视觉——这意味着，VLA在这两个感知系统上，存在短板。\n在GEIS大会上，亚马逊前沿AI与机器人研究院科学家Haozhi Qi认为，VLA的流行，与硬件传感器的发展程度有关：当下，视觉传感器趋于成熟，但触觉传感器还在初级开发阶段。\n因此，在他看来，具身系统需要通过其他感觉的输入，来补足不太成熟的传感系统，从而维持本体的操作。因此，通过视觉和语言补足触觉缺陷的VLA，成了当下最好的解决方案之一。不过，未来随着传感器和硬件层面的发展，算法也会随之迭代。\n灵巧手的三大路线之争：连杆、腱绳与直驱\n当下，有关灵巧手设计的核心迷思是：要不要像人手？围绕这一命题，诞生了连杆、腱绳、直驱三种设计方案。\n其中，“连杆”最不像人手，但胜在成本低、易于控制；“腱绳”最像人手，可以做精细化操作，但成本高、控制难。“直驱”则是一种折中方案，将驱动单元直接集成在每个关节上，但成本不低，同时力传导效率和热管理上仍然面临工程层面的挑战。\n混合架构路线，则是近期兴起的灵巧手技术解决方案。Chestnut Robotics创始人、前Tesla Optimus灵巧手核心成员Evan Tao介绍，当下团队已经选择了混合架构路线，以可以完成精细化操作的腱绳结构为主，辅以AI控制和自主学习系统。未来的方案，“都会在灵活度和工程可靠性之间寻求平衡。”他提到。\n机器人如何真正规模化落地？\n在数据层，引入真实世界数据，依然被认为是让机器人真正理解应用场景、学习复杂任务操作的关键。\n比如，XGSynBot CEO Zizheng Li提到，他们采取的混合数据策略，依然引入了少量高质真实世界数据，控制成本的同时，也能提升模型能力和泛化水平。\n在系统层，XGSynBot CEO Zizheng Li认为，机器人需要从“单一功能设备”向“多任务通用平台”演进，比如XGSynBot的机械臂，带有6个Quick-chage的模块化系统，这样做的好处是，一台机器人可以在不同工序间灵活切换，提高落地场景的广泛性。\n最后，OpenMind创始人、斯坦福大学生物工程副教授Jan Liphardt总结：机器人进入真实世界，越早越好。\n他发现，实验室环境无法模拟所有复杂的现实场景，比如过亮的光线、泥泞潮湿的地面、生锈的门铰链、多个系统同时运行的负载——这些复杂的真实场景，往往导致机器人在离开实验室后，出现系统故障。\n因此，机器人落地前，不应该仅仅待在实验室中。Jan Liphardt建议，尽早让机器人在家庭、学校、机场、幼儿园和其他公共场景的实际部署中，收集交互数据，持续迭代。",
+      "score": 43
     },
     {
       "section": "技术与研究",
-      "title": "借航天展推“反向技术输出”，自然堂试炼叙事资源转化的产品力｜最前线",
+      "title": "卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线",
       "company": "",
       "source": "36氪",
-      "publishedAt": "2026-05-01 09:42:35  +0800",
-      "summary": "在中国美妆行业竞争日趋激烈、技术叙事不断升级的背景下，企业如何构建差异化“护城河”成为核心议题。近日，中国化妆品集团自然堂联合上海天文馆推出的航天主题科普展，为观察本土品牌在科研与品牌叙事之间的平衡提供了一个样本。\n4月24日（第十一个“中国航天日”）前后，自然堂与上海天文馆在上海奉贤“东方美谷”园区内举办“遇见宇宙 发现更美”主题展览。展览面向公众免费开放一个月，内容涵盖宇宙起源、中国空间站建设以及太空生活等多个维度，并通过模型展示、VR体验等形式强化互动性。\n从形式上看，这类跨界活动近年来在美妆行业并不罕见，但其背后所指向的“科技背书”，正在成为品牌竞争的重要组成部分——国际美妆巨头近年来持续加码研发投入，例如欧莱雅集团与雅诗兰黛集团均在生物科技、皮肤科学及AI研发领域建立长期投入机制，本土品牌则更强调“成分自主”和“供应链上游能力”。在这一趋势下，自然堂将“航天科技”作为技术叙事核心，试图强化其在原料端的控制力与差异化定位。\n自然堂由郑春颖2001年在上海创立。这位出生于辽宁辽阳的创始人，早年以文科第二名考入东北财经大学，毕业后在辽阳市财政局工作十年，后辞职下海创业。品牌名\"自然堂\"取意\"师法自然之道\"，英文 CHANDO 即\"禅道\"音译。\n值得一提的是，2024年10月至2025年8月，自然堂集团先后引入欧莱雅和加华资本作为战略投资者，其中欧莱雅投资4.42亿元，加华资本投资3亿元。两大投资者IPO前合计持有自然堂控股逾10%股份，自然堂估值定在71.4亿元。\n展览之外，更值得关注的是其披露的一系列研发路径。根据现场信息，自然堂自2013年起参与中国航天相关实验项目，将生物护肤研究送入太空环境进行诱变育种；2023年，部分源自高原环境的微生物样本随载人航天任务进入空间站并完成在轨实验。相关研究随后由企业与高校联合开展转化。\n这一技术路径的核心逻辑在于利用极端环境（如微重力、辐射等）加速微生物或植物细胞的性状变化，从而筛选出具有更强稳定性或活性的原料。类似方法在农业和生物工程领域已有应用，但在美妆行业的大规模商业化仍处于早期阶段。因此，其实际效果与可复制性，仍需更多长期数据验证。\n从商业化层面看，自然堂强调“原料自研”带来的成本优势。企业披露，其核心成分之一已应用于数十个产品配方，并在收入结构中占据较高比例，同时相较外购原料显著降低成本。 这一模式与当前行业“去依赖外部原料商”的趋势一致，即通过自建发酵、生物培养等能力，提高毛利率并增强供应链安全性。\n不过，从第三方观察角度看，这一路径也面临挑战。一方面，原料研发具有高投入、长周期特征，短期内难以对整体业绩形成稳定支撑；另一方面，“航天概念”在营销层面的溢价空间，取决于消费者对其科学性的认知程度。过去几年，市场上围绕“太空成分”“极地成分”的传播已趋于常态，如何避免概念泛化，是企业需要解决的问题。\n值得注意的是，本次活动中还涉及“反向技术输出”，即为航天员提供在轨使用的个护产品，例如免冲洗清洁用品等。这一方向在逻辑上属于特种场景产品开发，其技术门槛与日常消费品存在差异，但若能形成标准化能力，理论上有助于提升企业在功能性产品领域的技术积累。\n整体来看，自然堂的案例反映出中国美妆企业正在从“渠道驱动”向“技术驱动”转型的一个缩影。一方面，通过跨界航天等高科技领域强化品牌认知；另一方面，加速在原料端建立自主体系，以应对原材料价格波动与供应链不确定性。\n但从行业长期发展看，真正决定竞争格局的仍是研发成果的可持续转化能力，以及消费者端的实际体验反馈。航天科技能否从“叙事资源”转化为“产品力”，仍需在未来几年内通过市场表现来验证。",
-      "score": 29
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "Mistral AI 推出 Workflows，用于编排企业 AI 工作流",
-      "company": "Mistral",
-      "source": "InfoQ",
-      "publishedAt": "Fri, 01 May 2026 10:00:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 22
+      "publishedAt": "2026-05-02 21:17:06  +0800",
+      "summary": "文｜肖漫\n编辑｜李勤\n当下的智能汽车领域，物理 AI 已成为高频词汇，绝大多数智能驾驶算法厂商都在往“物理AI”转型。\n卓驭在北京车展上也发布了面向移动物理 AI 的原生多模态基础模型。在卓驭科技副总裁于贝贝看来，算法厂商向物理AI转型不是为了迎合资本市场而编织的想象空间，而是一条关乎厂商存亡的生存法则。\n“如果不上这条技术路线，很可能今后就跑不出来了。”于贝贝说。\n在新的竞争维度上，算法厂商的对手不再仅仅是曾经的同行，还包括那些从数字 AI 领域跨界而来的巨头、具身智能公司等。\n这场全新的竞赛让算法厂商进入全新维度的淘汰赛中，而此次能真正跑出来的玩家，其商业空间也将随着打开。\n基于移动基座模型，卓驭已经开始尝试打破传统Tier 1“卖硬件、收开发费”的单一逻辑。在第二增长曲线中，通过将乘用车技术拓展至 Robotaxi、RoboVan 等 L4 级领域，卓驭正在探索一种基于订阅、利润分成以及“动作令牌（Action Token）”的新商业形态。\n近日，36氪汽车与卓驭科技副总裁于贝贝聊了聊物理AI的底层逻辑、商业化可能性，以及在这场即将开始的淘汰赛中，卓驭又该如何建立护城河。\n以下是36氪汽车和卓驭科技副总裁于贝贝的交流内容，经编辑：\n36氪：能否详细介绍一下原生多模态基础模型？\n于贝贝：原生多模态这个概念的提出，可以追溯到去年我们开始做VLA 1.0，那时的做法比较接近视觉与动作对齐的模型，将大语言模型从后面附加上去的，因此存在很多问题，比如对语言和语义理解的局限性，以及响应延迟等。\n我们认为把所有信息都转译到一个语言空间里去理解，然后再尝试通过这个语言转译的结果去理解物理世界，是一种反常识的做法。\n真正合理的路径是，视觉、音频、动作都是一个模态、规则或推理也是一个模态，这些都应该在预训练阶段就一并加入，让模型能够天生地、在多种模态的共同空间里去理解物理世界，这才是更合适的做法。\n36氪：现在有把语言模态拿掉吗？\n于贝贝：当前我们车端模型确实还没有开放语言这一路输入。这和小鹏发布的VLA 2.0其实是类似的，我们做的是类似方向的东西，都在向这个范式切换，底层的骨干网络已经改变了。\n36氪：卓驭也进入了VLA2.0的阶段？\n于贝贝：是的。业界正处于一个范式切换的转折点，摆在我们面前的选择是：到底是沿着以前做专家模型这类小模型的范式继续做下去，还是果断切到大模型的范式上来。\n我们比较看好大模型的范式。如果放在移动物理AI的语境下来看，希望移动能力能够在各种各样的载具上使用，这本质上就到达了规模化应用的阶段。\n大语言模型的历史经验告诉我们，以前做视觉语言模型时，也有人做专家模型，有人做通用模型，也就是所谓的基座模型。\n现在来看，最终跑出来的是做基座模型的这一批人。以前那些专注于看病的专家模型，其实都没有真正跑出来。在物理AI领域，我们相信演进的规律是一样的，因此我们也会坚定地走基础模型的范式。\n36氪：厂商很多玩家都在这么干，但目前也还未能真正训练出一个可以让各种不同载体统一接入的模型，本质上大家仍然是在解决车上的问题。\n于贝贝：这是分阶段推进的。2025年，大家基本上都切换到了数据驱动，这意味着模型的基础能力已经达到了大概70分的水平。此时，想把它再提升到90分，那20分的差距仍然需要做后训练、采集数据和做泛化，但是其间的差距已经从当初的40分到80分，缩小为现在70分到90分的差距了。\n后续，随着模型基础能力进一步提高，我们的目标肯定是做到零样本泛化，也就是所谓的“开箱即用”。\n如果模型能力能够开箱就达到95分，那么后面的后训练、泛化、开城等工作几乎都可以忽略不计。虽然现在还没有到开箱95分的水平，但已经达到了开箱70分。\n36氪：在现阶段，卓驭是否已经把各种场景都统一到同一个模型里实际运行过了，并认为它已经可以在各个领域都量产且实现泛化，还是说处于一个比较早期的阶段？\n于贝贝：在这个时间点，还远不能说已经做到了开箱即用。什么才是物理AI最终的终极范式，什么样的架构才能真正理解物理世界，目前业界尚无定论。\n36氪：您怎么看待当前大多数方案厂商都在向物理AI方向转型的现象？这是不是向资本市场讲一个更有想象空间的故事？\n于贝贝：我们认为这已经不单单是商业或战略上的选择，最终应该会上升为一种生存法则层面的事情。如果不上这条技术路线，很可能今后就跑不出来了。\n这和大语言模型爆发前夜一样，以前涌现出很多看病的专家模型，但通用大模型一出来，就把它们都替代掉了，以前的那些最终都没有跑出来。\n36氪：在这个范式下做一个通用模型，但在其他场景下的数据，或者其他前期训练所需的条件，是不是还不够充分？\n于贝贝：我们现在在训练自己的基础模型时，30%的数据来自于车辆采集的真实数据，30%来自于机器人，另外40%来自于互联网。\n这种移动能力的数据，事实上在互联网上，只需要获取第一人称视角的、在移动中的视频即可，这不一定非得是乘用车或商用车，也可以人走路时拍摄的视频，这类数据的规模庞大，并且相对容易获取。\n很多企业都宣称要做移动物理AI，模型能力固然是一方面，但更重要的，具身智能必须部署到一个具体的硬件上去，它的分发过程是很难的。它不像数字AI，可以通过手机实现一传十、十传百的病毒式传播，从一个用户迅速扩展到上亿用户，传播极快。\n所以，建立一个分发平台和分发网络，也是其中非常关键的一环，这关乎如何把这个能力具体地部署到移动载具、部署到物理实体上。\n36氪：卓驭在分发上是怎么做的？\n于贝贝：我们有自己的一套方法，比如与合作伙伴合作，定义硬件的标准，将这个硬件标准定义出来之后，通过合作伙伴进行硬件授权与分发，这属于硬件分发的部分。\n在软件分发方面，比如我们的移动能力SDK，可以将模型能力封装成SDK，提供给那些不具备后训练模型能力的合作伙伴去使用。也可以将其包装成“移动AI”，也就是把模型做得足够好之后，将其开源，让其他方可以基于这个模型去做后训练，这又是一种分发方式。\n还可以直接做成“移动智能体”，未来对于一些低安全、低实时性的应用，比如扫地机器人或割草机，只需要把视频流传输到云端，由云端计算好之后，直接下发一条轨迹给这个小机器，这或许就是另一种分发方式了。\n36氪：这几种分发的方式，是否对应着卓驭的商业收费模式？\n于贝贝：是的，而且它们面向的商业场景也都不太一样。\n传统的方式，像做乘用车或商用车，就是销售硬件、销售软件许可，并收取开发费和非重复性工程费用，我们内部称作第一增长曲线的业务。\n第二增长曲线，则是将乘用车上已经验证过的技术，拓展到Robotaxi、RoboVan等领域。虽然也卖硬件，也可能收取开发费，但一般不收取软件许可费。\n软件部分是通过利润分成来获取收益的，比如L4级业务，作为服务提供方，需要持续参与软件的迭代，甚至要参与到运营中去，所以需要一个持续性的收入，这就演变成了订阅和分润的模式。\n36氪：听起来第二增长曲线更挣钱。\n于贝贝：相比第一增长曲线的收入，其利润结构是要更好的。\n我们可能会有不同的算法分发方式，以“移动智能体”为例，这种分发方式就有点像是在分发所谓的“动作令牌”。\n相当于某个消费级电子设备将视频流传输给云端推理的模型，模型再下发一条轨迹，其收费模式可能就是按照该消费级设备的使用次数、行驶里程来收取类似“动作令牌”的费用，这又是另一种形式的订阅。\n36氪：后续运维各方面的东西，都是卓驭来做吗？\n于贝贝：对于L2的系统，本身不涉及到运维。只有到了L4级别才涉及运维，需要有一个所谓的远程监控系统，始终监控着车辆的运行过程，在必要时进行远程接管接入。\n这有点像过去的安吉星服务，使用这个服务时是需要交费的。一旦车辆启用了L4功能，无论是干线物流还是乘用车，只要启用了L4，就需要额外交一部分费用。\n甚至以后，乘用车的传感器配置、算力配置都能够支持L4级别时，平时车主可能还是用L2+系统，当他需要启用L4功能时，就需要为L4模式下每公里的行驶，额外再支付一点费用，因为始终会有一个系统在监控着它。\n36氪：你认为L2和L4会是完全不一样的商业模式？\n于贝贝：没错，L2和L4是完全不同的商业模式。从我们的观点来看，我们认为L4应该是先在城区落地，��后再拓展到高速场景。\n从工程安全角度来看，同样性质的一个事故，在高速上产生的伤害程度，要远比在城区产生的伤害严重得多。\n36氪：行业玩家都在往物理AI方向做，这是新一轮淘汰赛的开始吗？\n于贝贝：新一轮的行业洗牌可能即将开始。所有做自动驾驶的公司，应该都会在不久的将来，转变为移动物理AI公司。\n如果是在移动物理AI这个赛道上进行竞争，这本身就变成了一种跨界竞争，甚至可能都不是这个行业内既有玩家之间的竞争了，还需要和一些本来做数字AI，现在也想转型做具身智能、做物理AI的玩家去竞争。\n36氪：那卓驭的护城河究竟是什么？\n于贝贝：我们认为有两点。第一，是模型能力。现在大家的迭代范式，乃至最终采用什么样的模型架构，都还没有定论。也许我们认为以后特别高级的3D DiT或V-JEPA等全新架构会跑出来，但这些都是未知数。\n第二，分发能力其实是一个非常高的门槛。如何建立一个分发平台和分发网络，创建一个生态，联合不同的合作伙伴共同进行分发，这一定是一个非常高的门槛。",
+      "score": 39
     },
     {
       "section": "技术与研究",
-      "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
+      "title": "AI-generated actors and scripts are now ineligible for Oscars",
       "company": "",
       "source": "TechCrunch AI",
-      "publishedAt": "Fri, 01 May 2026 17:44:29 +0000",
-      "summary": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk’s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the […]",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-      "company": "Microsoft",
-      "source": "TechCrunch AI",
-      "publishedAt": "Fri, 01 May 2026 16:02:36 +0000",
-      "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
-      "company": "OpenAI",
-      "source": "量子位",
-      "publishedAt": "Fri, 01 May 2026 06:21:38 +0000",
-      "summary": "瓜多到吃不完",
-      "score": 20
-    },
-    {
-      "section": "技术与研究",
-      "title": "当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Fri, 01 May 2026 14:00:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 19
-    },
-    {
-      "section": "技术与研究",
-      "title": "Meta missed mobile. It is building the operating system for humanoids",
-      "company": "Meta",
-      "source": "TNW AI",
-      "publishedAt": "Fri, 01 May 2026 18:19:27 +0000",
-      "summary": "Lerrel Pinto co-founded Fauna Robotics, a startup that built an approachable bipedal robot called Sprout. He left in 2025. Amazon acquired Fauna in March, along with its 50 employees and its $50,000, three-and-a-half-foot-tall dancing humanoid, to enter the consumer robotics market. Pinto then co-founded Assured Robot Intelligence with Xiaolong Wang, a former Nvidia researcher and associate […]\nThis story continues at The Next Web",
+      "publishedAt": "Sat, 02 May 2026 21:54:58 +0000",
+      "summary": "Bad news for Tilly Norwood.",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "The question nobody asked Zuckerberg",
+      "title": "Foreign automakers are not staging a comeback in China. They are learning to be the junior partner.",
       "company": "",
       "source": "TNW AI",
-      "publishedAt": "Fri, 01 May 2026 16:40:11 +0000",
-      "summary": "Mark Zuckerberg’s earnings call on Wednesday was about AI. It was about the $125 billion to $145 billion Meta plans to spend on capital expenditure in 2026. It was about Llama models and recommendation engines and the advertising systems that generate $56 billion in quarterly revenue. It was not about children. No investor asked Zuckerberg […]\nThis story continues at The Next Web",
+      "publishedAt": "Sat, 02 May 2026 17:09:21 +0000",
+      "summary": "In January and February 2026, Volkswagen reclaimed the top position in China’s passenger vehicle market with a 13.9 per cent share, narrowly ahead of Geely at 13.8 per cent. Toyota’s joint ventures held 7.8 per cent. BYD, which dominated 2024 and much of 2025 as the world’s largest EV maker, slipped to fourth at 7.1 […]\nThis story continues at The Next Web",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
+      "title": "Nvidia built the AI engine. Alphabet is building the car, the road, and the toll booth. The market is pricing accordingly.",
+      "company": "NVIDIA",
+      "source": "TNW AI",
+      "publishedAt": "Sat, 02 May 2026 16:47:10 +0000",
+      "summary": "On Thursday, Alphabet’s share price rose nearly 10 per cent after the company reported first-quarter revenue of $109.9 billion, a 22 per cent increase year over year that beat analyst estimates by almost $3 billion. Google Cloud crossed $20 billion in quarterly revenue for the first time, growing 63 per cent. The cloud backlog nearly […]\nThis story continues at The Next Web",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "The best AI dictation apps, tested and ranked",
       "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Fri, 01 May 2026 10:00:00 +0000",
-      "summary": "Smack dab between Australia and South America, the US National Oceanic and Atmospheric Administration (NOAA) research vessel Rainier is currently on a mission to map more than 8,000 square nautical miles of the Pacific seafloor in search of critical mineral deposits. But it isn’t doing it alone; for a month starting this week, it will…",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sat, 02 May 2026 16:00:00 +0000",
+      "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
       "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "A new US phone network for Christians aims to block porn and gender-related content",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Fri, 01 May 2026 09:00:00 +0000",
-      "summary": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out a filter…",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "五角大楼与七家AI巨头签约，Anthropic遭排除",
-      "company": "Anthropic",
-      "source": "36氪",
-      "publishedAt": "2026-05-02 09:28:31  +0800",
-      "summary": "五角大楼5月1日宣布，已与七家领先的人工智能公司达成协议，将其先进技术部署到国防部的机密网络中。SpaceX、OpenAI、谷歌、英伟达、Reflection、微软和亚马逊云服务入选，而Anthropic因安全限制争议被排除在外。",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "Seven AI companies signed the Pentagon’s terms. The one that refused is worth $900 billion.",
-      "company": "",
-      "source": "TNW AI",
-      "publishedAt": "Fri, 01 May 2026 16:20:38 +0000",
-      "summary": "The Pentagon announced on 1 May that it has signed agreements with Nvidia, Microsoft, Amazon Web Services, and Reflection AI for expanded use of advanced artificial intelligence on classified military networks. The deals bring the total number of companies with such agreements to seven, following similar arrangements with SpaceX, OpenAI, and Google, which signed its own […]\nThis story continues at The Next Web",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "他用AI办了个音乐节，主题：别读博",
-      "company": "",
+      "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+      "company": "Claude",
       "source": "量子位",
-      "publishedAt": "Fri, 01 May 2026 13:20:15 +0000",
-      "summary": "一代科研人的赛博苦中作乐",
+      "publishedAt": "Sat, 02 May 2026 03:30:12 +0000",
+      "summary": "暂无摘要",
       "score": 15
+    },
+    {
+      "section": "技术与研究",
+      "title": "又一算力独角兽，冲击IPO",
+      "company": "",
+      "source": "36氪",
+      "publishedAt": "2026-05-02 15:38:58  +0800",
+      "summary": "作者丨韦香惠\n来源丨东四十条资本\nA股即将迎来一只“算力独角兽”，估值已站上500亿元门槛。\n主角是来自河南的超聚变数字技术股份有限公司。从今年1月提交上市辅导备案，到IPO辅导工作完成，仅用四个多月时间。\n这家公司并非“从零起步”，其前身是华为X86服务器业务，2021年受外部环境影响被整体剥离，并独立运营。随后，河南超聚能科技有限公司成为控股股东，持股31.38%，后者大股东则为河南国资平台豫信电子科技集团。此外，超聚变第二大股东系中国移动旗下中移资本，持股15.14%。成立至今，核聚变已至少完成8轮股权融资，身后VC/PE超过30家。\n超聚变之所以受资本青睐，离不开“算力即国运”的时代背书。2026年《政府工作报告》明确提出“打造智能经济新形态”，并将“超大规模智算集群、算电协同”等纳入新型基础设施重点方向。在此背景下，从东部沿海到西部内陆，从一线城市到新兴节点城市，算力基础设施建设正呈现出全面铺开的态势。\n华为子公司落地河南\n超聚变的起点，并不寻常。\n其前身是华为的 x86 服务器业务。2021年，在国际环境变化的背景下，华为将该业务整体剥离，由超聚变承接并以独立主体运营。但这并非简单的资产切割，而是一次“整建制平移”：核心团队、技术专利、产品体系乃至客户资源，被整体迁移至新公司，确保业务连续性与竞争力不被削弱。\n也因此，超聚变在成立之初便具备成熟的产品与市场基础。公司业务延续华为体系，聚焦通用服务器、人工智能服务器以及关键业务服务器三大方向，直接切入企业级计算的核心赛道。据《河南日报》披露，公司自2021年底设立以来营收持续高增：2023年突破280亿元，2024年超过400亿元，2025年上半年已达300亿元，全年有望冲击600亿元。这一速度，在重资产、长周期的服务器行业中并不多见。\n现任副董事长刘宏云曾是华为核心高管，历任亚太地区部总裁，长期负责服务器业务。在公司创立初期，他以董事长兼总经理身份主导了剥离后的整合工作，使技术体系与市场体系得以平稳过渡。直到2025年11月，公司董事长一职由原河南周口市委常委马剑平出任。\n资本层面，超聚变同样获得了密集加注。工商信息显示，公司成立至今已完成至少8轮融资，背后聚集了超过30家机构投资者。其中，中国移动旗下中移资本持股15.14%，为第二大股东。自2021年股改引入联通中金、中移资本等产业与金融资本后，中国电信、招商局资本、工商银行等相继入局，随后深圳特区建发集团、中电科网信基金等持续跟进。至2025年，诚通基金通过国调基金战略投资，叠加地方国资与市场化机构共同参与，形成了多层次股东结构。\n2025年9月，东方明珠拟通过基金方式受让部分股权，2026年初披露间接持股1.3182%，有市场测算其对应估值已达800亿至900亿元区间。2025年12月发布的《全球独角兽企业500强报告》显示，超聚变估值已提升至910亿元。\n多地抢滩算力\n超聚变如果上市成功，将成为“中部算力第一股”，这也是河南算力产业崛起的实力注脚。2024年11月发布的《河南省算力基础设施发展规划（2024—2026年）》提出，统筹推进“通算+智算+超算”协同发展，构建以郑州（含航空港区）为核心，洛阳、鹤壁、商丘、信阳为增长极的“一核四极多点”格局，推动算力中心集约化布局，目标直指全国算力高地。\n2025年3月，《河南省2025年推进“人工智能+”行动工作要点》进一步细化路径，将“提升算力供给能力”列为重点任务：一方面，加速智算中心建设，推动国家超算互联网核心节点落地；另一方面，推进河南空港智算中心、中原算谷等项目建设，并强化“嵩山”“中原”等公共算力平台的开放能力，提升一站式服务水平。按照规划，到2025年底，全省算力规模将突破94EFLOPS，跻身全国第一梯队。\n值得注意的是，不仅是河南，算力已经成为多个城市的“战略性资源”。行业测算显示，2026年中国算力市场规模有望突破2.5万亿元，年增速超过40%；到2030年，这一数字或将进一步攀升至5万亿元。高速增长的预期，直接推动各地竞相加码，算力竞争迅速升温。\n东部发达地区率先提速，珠三角的广州在黄埔区落地首批4个算力新基建项目，总投资48.39亿元，预计新增智算规模超4万P；长三角的上海，智能算力规模已突破120EFLOPS，并通过每年发放10亿元“算力券”的方式，降低企业使用门槛，激活需求侧。\n中西部地区同样不再“跟跑”。宁夏中卫依托能源与气候优势，吸引中国移动投资61.49亿元建设数据中心园区，已集聚美团、阿里巴巴、腾讯等多家互联网企业；甘肃庆阳则围绕“东数西算”战略，由甘肃能源投资43.77亿元推进绿电聚合试点项目，探索算力与能源协同的新路径。\n算电协同的竞争已在各区域城市之间悄然打响，依据不同的资源禀赋，现在还很难说谁会成为冠军，但可以确定的是，只有那些率先抓住窗口期的城市，才有更大机会在新的产业竞逐中拿到关键“入场券”。\n本文来自微信公众号“东四十条资本”，作者：韦香惠，36氪经授权发布。",
+      "score": 38
+    },
+    {
+      "section": "技术与研究",
+      "title": "The EVs America is losing in 2026 are not failing. They are being tariffed out of existence.",
+      "company": "",
+      "source": "TNW AI",
+      "publishedAt": "Sat, 02 May 2026 12:43:37 +0000",
+      "summary": "At least a dozen electric vehicle models have been discontinued, paused, or cancelled in the United States this year. The list includes some of the most recognisable names in the industry: Tesla’s Model S and Model X, Honda’s entire 0 Series, the Volvo EX30, the BMW i4 and iX, the Hyundai Kona Electric and […]\nThis story continues at The Next Web",
+      "score": 11
     }
   ]
 }
