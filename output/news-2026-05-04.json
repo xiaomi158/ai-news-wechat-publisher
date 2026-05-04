@@ -1,0 +1,218 @@
+{
+  "产品发布与更新": [
+    {
+      "title": "Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+      "url": "https://www.infoq.cn/article/KSmLVsumhdf7OiLXYaj3?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Mon, 04 May 2026 09:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "产品发布与更新",
+      "company": "",
+      "score": 26,
+      "breakdown": {
+        "substance": 8,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Sauce Labs 推出 AI 智能体，实现测试创建自动化",
+      "url": "https://www.infoq.cn/article/8k6MQWB5duEDY8wulZYk?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Sun, 03 May 2026 13:37:48 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "产品发布与更新",
+      "company": "",
+      "score": 26,
+      "breakdown": {
+        "substance": 12,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    }
+  ],
+  "技术与研究": [
+    {
+      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+      "url": "https://www.qbitai.com/2026/05/412870.html",
+      "snippet": "与全球社区共同推动具身智能创新",
+      "source": "量子位",
+      "publishedAt": "Sun, 03 May 2026 03:56:44 +0000",
+      "region": "国内",
+      "summary": "与全球社区共同推动具身智能创新",
+      "category": "技术与研究",
+      "company": "",
+      "score": 34,
+      "breakdown": {
+        "substance": 14,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+      "url": "https://www.qbitai.com/2026/05/412080.html",
+      "snippet": "瓜多到吃不完",
+      "source": "量子位",
+      "publishedAt": "Sun, 03 May 2026 09:43:20 +0000",
+      "region": "国内",
+      "summary": "瓜多到吃不完",
+      "category": "技术与研究",
+      "company": "OpenAI",
+      "score": 20,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "OpenAI just turned ChatGPT into the backend for the most popular open-source project in history. Anthropic banned it.",
+      "url": "https://thenextweb.com/news/openai-openclaw-chatgpt-subscription-agent",
+      "snippet": "Sam Altman posted on X at 2:33 a.m. on 2 May: “you can sign in to openclaw with your chatgpt account now and use your subscription there! happy lobstering.” The announcement, delivered with the casual register of a founder pushing a minor product update, is anything but minor. OpenAI has made its ChatGPT subscription […]\nThis story continues at The Next Web",
+      "source": "TNW AI",
+      "publishedAt": "Sun, 03 May 2026 21:15:46 +0000",
+      "region": "海外",
+      "summary": "Sam Altman posted on X at 2:33 a.m. on 2 May: “you can sign in to openclaw with your chatgpt account now and use your subscription there! happy lobstering.” The announcement, delivered with the casual register of a founder pushing a minor product update, is anything but minor. OpenAI has made its ChatGPT subscription […]\nThis story continues at The Next Web",
+      "category": "技术与研究",
+      "company": "OpenAI",
+      "score": 20,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 10,
+        "credibility": 5
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "‘This is fine’ creator says AI startup stole his art",
+      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "snippet": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sun, 03 May 2026 20:16:51 +0000",
+      "region": "海外",
+      "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "The US has banned the world’s best drones. It has not figured out how to make them.",
+      "url": "https://thenextweb.com/news/us-drone-dji-ban-supply-chain",
+      "snippet": "Skydio, the largest American drone manufacturer, announced in late April that it would invest $3.5 billion over five years to expand US drone production, open a factory five times larger than its current facility, create more than 2,000 direct jobs and 3,000 supplier jobs, and build a domestic component supply chain through an initiative it […]\nThis story continues at The Next Web",
+      "source": "TNW AI",
+      "publishedAt": "Sun, 03 May 2026 23:33:49 +0000",
+      "region": "海外",
+      "summary": "Skydio, the largest American drone manufacturer, announced in late April that it would invest $3.5 billion over five years to expand US drone production, open a factory five times larger than its current facility, create more than 2,000 direct jobs and 3,000 supplier jobs, and build a domestic component supply chain through an initiative it […]\nThis story continues at The Next Web",
+      "category": "技术与研究",
+      "company": "",
+      "score": 15,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 5
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "直播出问题，AI 不一定救得了：Netflix 的新解法",
+      "url": "https://www.infoq.cn/article/I34jAMiF0VAqVcDNxE87?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Mon, 04 May 2026 08:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "不好！1930年的AI都来抢程序员饭碗了",
+      "url": "https://www.qbitai.com/2026/05/412896.html",
+      "snippet": "完全无需互联网数据",
+      "source": "量子位",
+      "publishedAt": "Sun, 03 May 2026 09:42:55 +0000",
+      "region": "国内",
+      "summary": "完全无需互联网数据",
+      "category": "技术与研究",
+      "company": "",
+      "score": 15,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "The $599 Mac Mini is dead. AI data centres killed it.",
+      "url": "https://thenextweb.com/news/apple-mac-mini-price-dram-ai-shortage",
+      "snippet": "Apple has discontinued the 256 gigabyte Mac Mini worldwide. The company’s cheapest desktop computer, the M4 Mac Mini with 16 gigabytes of RAM and 256 gigabytes of storage, was available for $599 until last week. It is gone. The Mac Mini now starts at $799 with 512 gigabytes of storage. The 256 gigabyte configuration has […]\nThis story continues at The Next Web",
+      "source": "TNW AI",
+      "publishedAt": "Sun, 03 May 2026 19:37:48 +0000",
+      "region": "海外",
+      "summary": "Apple has discontinued the 256 gigabyte Mac Mini worldwide. The company’s cheapest desktop computer, the M4 Mac Mini with 16 gigabytes of RAM and 256 gigabytes of storage, was available for $599 until last week. It is gone. The Mac Mini now starts at $799 with 512 gigabytes of storage. The 256 gigabyte configuration has […]\nThis story continues at The Next Web",
+      "category": "技术与研究",
+      "company": "",
+      "score": 13,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 5
+      },
+      "isDuplicate": false
+    }
+  ],
+  "投融资与并购": [
+    {
+      "title": "韩国政府将向AI初创公司Upstage投资5600亿韩元",
+      "url": "https://36kr.com/newsflashes/3793154827000832?f=rss",
+      "snippet": "韩国金融监管部门周日表示，已批准向韩国本土人工智能（AI）初创公司Upstage投资5600亿韩元（约合3.806亿美元），这是韩国国家增长基金的第二笔直接投资。韩国金融服务委员会（FSC）称，该决定已于周四举行的基金审议委员会会议上获得批准。Upstage成立于2020年，是一家估值超过1万亿韩元的独角兽初创公司，致力于开发人工智能解决方案和大型语言模型（LLM）。该公司是继Rebellions之后，第二家获得该政策基金投资的企业。",
+      "source": "36氪",
+      "publishedAt": "2026-05-03 17:00:29  +0800",
+      "region": "国内",
+      "summary": "韩国金融监管部门周日表示，已批准向韩国本土人工智能（AI）初创公司Upstage投资5600亿韩元（约合3.806亿美元），这是韩国国家增长基金的第二笔直接投资。韩国金融服务委员会（FSC）称，该决定已于周四举行的基金审议委员会会议上获得批准。Upstage成立于2020年，是一家估值超过1万亿韩元的独角兽初创公司，致力于开发人工智能解决方案和大型语言模型（LLM）。该公司是继Rebellions之后，第二家获得该政策基金投资的企业。",
+      "category": "投融资与并购",
+      "company": "",
+      "score": 27,
+      "breakdown": {
+        "substance": 14,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 7
+      },
+      "isDuplicate": false
+    }
+  ],
+  "政策与监管": []
+}
