@@ -1,105 +1,105 @@
 {
-  "date": "2026/5/4",
+  "date": "2026/5/5",
   "count": 11,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+      "title": "五月，适合想清楚一件事｜幕启",
       "company": "",
-      "source": "量子位",
-      "publishedAt": "Sun, 03 May 2026 03:56:44 +0000",
-      "summary": "与全球社区共同推动具身智能创新",
+      "source": "36氪",
+      "publishedAt": "2026-05-04 20:41:30  +0800",
+      "summary": "图源：公众号「有三思  U  Sense」\n5月4日，一个被默认为“青年专属”的日期。\n但在我看来，“青年”一词从来不只和年龄挂钩，每一个还在试探人生的节拍与正轨的人，身体里都住着一位渴望力量的青年。\n[1]\n敲定新品牌命名的那一刻其实很轻。在讨论方案的脑暴会上，我夸了实习生一句“有Sense”，他眼神一亮：“这个词好诶。”\n许多年前，我还是一个初入职场的新人，在猎头行业学习如何阅读简历、判断人、理解组织。那时候，我的老板总时不时夸团队里的同学“有Sense”。\n“有Sense”是咨询行业爱用的职场黑话，也是一句高度浓缩的赞美。努力是苦劳，聪明是天赋，而Sense，是前辈不必手把手教你，你也能和他们同频思考的那种东西。\n很多年过去，当我转行做科技新闻，开始用另一种方式阅读人和组织，我发现自己依然在寻找那种“有Sense”的状态——并不是指作为老板对下属的期待，而是关于自我要求。\n它至少有三重意思。\nInformation Sense，在信息过载的噪音中抓住重要信号和异常值。某个人的离职时间恰好对应前公司某次架构调整，一个行业薪资数据出现了反常波动。遇到问题，不只看表面，而是追问终极目的和WHY。\nSocial Sense，在进退之间掌握分寸。知道什么时候推进、什么时候退让，能判断对方的情绪状态和真实动机，而不是急于达到自己的目的。\nDirection Sense，是在他人指令之外，眼里有活，心里有方向。上司布置了A，便能联想到B和C；市场一旦出现新动向，会主动去做mapping，而不是等KPI压下来。\n三个维度，合起来才是完整的“有Sense”。而“三”这个数字，本身就有一种奇妙的叙事完整性。\n哈利波特里有三个主角。三个臭皮匠，顶个诸葛亮。那个72小时杀入GitHub全球榜的文科生，背后有三个AI agent在协同工作。戏剧理论里，三幕剧是最为经典的结构——亚里士多德在《诗学》第七章中提出“头、身、尾”的行动整一律，后世将其提炼为“开端、冲突、解决”的三段式叙事逻辑。\n我们的职业生涯，也像一部三幕剧——\n入局之思，是初心，是找到兴趣、热爱与发力感的时刻。你不知道自己能否胜任，但你感觉到了某种召唤。\n纷争之思，是面对竞争环境与行业趋势，从擅长之处起手，在碰撞中培养优势的时刻。你不再只是凭直觉行事，你开始理解规则，甚至质疑规则。\n和解之思，是找到独特卡位，产生稀缺价值，踩准红利的时刻。比起妥协，这更像是斗争后的清醒——你知道自己是谁，也知道世界需要什么。\n三是叙事的最小完整单元。一个人从“找感觉”到“有Sense”，往往也要走过这三幕。它并不是线性的。有人反复入局，有人长期纷争，有人在和解后又重新进入了冲突。\n而在每一“幕”之间起决定作用的，是选择。\n[2]\n在电影《猜火车》的那段著名开场独白里，Mark Renton用戏谑而粗粝的念白，拆解了主流社会为青年们规划好的“标准人生轨道”：选择工作，选择家庭，选择房贷和分期付款，选择洗衣机、汽车和电动开罐器，选择低胆固醇和牙科保险。\n然后Mark说：“但我是谁啊？我会想去做那些事情？我选择不选择生活：我选择一些别的什么东西。理由？没有理由。有了海洛因，谁还需要理由呢？”\n这段1996年问世的台词，精准戳中了每一代年轻人的困境：当主流社会给你画好了“正确”的人生路线，人潜意识里总会有“不想选”的叛逆。但反叛本身如果只是一种逃避，就会像Mark一样坠入更虚无的泥潭。\n二十年后，博伊尔在《猜火车2》里让中年Mark再次面对这段台词。这一次，他离开了海洛因，选择回归主流，完成了对“选择”的闭环回答——无论选择哪条路，直面选择、承担结果本身，就是生活的意义。\n熟悉我们的读者知道，《职场Bonus》创办以来，我们写行业、写公司、写商业环境的潮起潮落。但始终有一类内容让我个人更着迷：那些具体的、在“三幕剧”中跋涉过的人，他们在关键节点做出的选择，他们与风口之间的关联，他们如何在个体的局限中寻找突破口。\n因此，我们把《职场Bonus》里的人物向栏目「红利人物」，关注职业生存状况的报道，以及各类有助于青年自我成长的内容——无论是对AI、科技、出海的探索，还是关于认知方法论的拆解——迁移到这里，《有三思》。一条边界线是：我们不打算鼓吹什么新的“正确人生路线”。\n两个账号，两种观察风口和红利的方式。《职场Bonus》将继续聚焦行业环境、公司与人才流动。\n报道和写作，一直是一个让我能安静下来学习思考、抵抗熵增、专注于研究某项重要事情的契机。对于编辑部来说，我们希望以做选题的方式和读者们一起成长——把生活、工作中一切可能对自我成长有帮助的细节，解构变成有价值的课题，这是《有三思》内容的隐性目标。\n[3]\n最后，关于这个名字。\n有三思，是“有Sense”的谐音，也是“三思而后行”的古训新说。我们相信，每位青年身上，都已具备某种原始的Sense，只是需要被唤醒、被校准、被验证。\n1919年5月4日，一群青年走上街头，选择用呐喊对抗一个他们不认同的世界。一百零七年后的今天，我们选择用记录与思考，对抗另一种形式的麻木——那种在信息洪流中放弃筛选、在标准轨道中放弃追问、在重复劳作中放弃方向的麻木。\n青年节从来不只是纪念。它是一个提醒：每一代人都有权利重新选择自己的活法。\n五月，适合想清楚一件事，然后去做。三幕剧开启了，这里有我们相伴成长的约定，欢迎你来。\n◎ 他们的回忆，选择，与寄语\n（按姓氏首字母排序）\n邓江\n● 缘启智慧 ｜ 创始人\n2015年离开银行，是我人生最实际的一个决定。那份稳定很好，但它给不了我“从无到有创造一个东西”的体验。\n创业之后，每个决策都直接关联着公司的生死和团队的饭碗。路是自己选的，所以每一步都得踩实。回头看，这个选择没给我“退路”，但给了我“全部的路”——现在的业务、团队，还有这十年的所有体验，都从这里长出来。\n\n图源：公众号「有三思  U  Sense」\nDavin YC Dong\n● Cookiy AI ｜ Founder & CEO\n我人生中最重要的选择之一，是从一条看起来足够确定的大厂高管路径里走出来创业。\n过去我管业务更关注规模和效率；后来我越来越相信，AI时代真正稀缺的，不只是更强的模型，而是对真实人类的深入理解。\n所以我创立Cookiy AI，希望成为AI与真实人类之间的连接桥梁：让机器更懂人的声音、判断、感受和选择，也让每一个普通人的观点被听见。\n祝每一个还在选择中的年轻人，都能听见内心真正的声音。\n（上图：与团队合影；下图：与Y Combinator的CEO合影。）\n\n图源：公众号「有三思  U  Sense」\n\n图源：公众号「有三思  U  Sense」\n杜雨\n● 未可知AI ｜ 创始人\n刚毕业那会儿，手里攥着好几个offer，纠结了好久没跟风选薪资最高的。\n记得当时站在宿舍楼道跟我妈打电话商量，她跟我说了句实在话：跟着兴趣走才走得长远。\n行业总有起起落落，应届生起薪差距，大多是行业风口造成的，跟个人真正能力关系不大。只有真心喜欢一件事，才愿意沉下心扎根深耕，慢慢磨出自己的核心价值，路才能走得稳、走得久。\n\n图源：公众号「有三思  U  Sense」\n高学亨\n● FUNDel 汎迪 ｜ 創始人及首席执行官\n「終身學習」是恩師在最後一課留下的錦囊，自此成為我的座右銘。\n多年來堅持「日間工作、夜間進修」，從EMBA攻讀至法律博士，在校園結識了一群跨行業的共成長共欢樂的夥伴。\n如今即便工作繁忙，仍堅持走進校園，身分雖從學生轉為教授，但初心未改。透過教學相長與學生亦師亦友、互相啟發，以另一種身份繼續學習旅程。\n\n图源：公众号「有三思  U  Sense」\n郭人杰\n● 乐享科技 ｜ 创始人、CEO\n几年前我发现，中国已经有全世界最好的技术、最好的产品，但是很多人还没意识到，或者不愿意相信。\n所以我们想，不仅自己要做出来全球最好的技术跟产品，还要让所有人知道这个事实。不光做到了，也要说出来。中国有最聪明、最高速迭代的技术人员，这件事还会继续下去。\n\n图源：公众号「有三思  U  Sense」\n \n郭晓力 \n● 原则科技 ｜ CEO \n2021年9月，我离开字节，再次创业。不是因为看到了确定的机会，而是因为我只有在做自己真正相信的事时，才是真实的自己。我想做自己的产品，做芦笋录屏、芦笋提词器，每一天都比上班快乐。 希望每一个年轻人都能早一点找到那件让自己心动的事——不一定是创业，可以是任何形式——然后义无反顾地靠近它。\n\n图源：公众号「有三思  U  Sense」\n何方舟\n● NEED! ｜ 联合创始人\n2021年五月去阿那亚参加“招待会音乐节”， 舞台演出结束后我们用音响放着歌，步行去海边看日出：这群人有招待会刚认识的朋友，也有路边跟着我们的音响一起走向阿那亚礼堂的陌生人。 月亮还很亮，而海岸线已经破晓。\n那年“招待会”，我们认识了很多后来的好朋友， 其中也有一起做 NEED! 品牌的合��人，在阿那亚礼堂看日出的时刻成为了这些友谊的开始，那些美好回忆也鼓舞着我们。\n快五年了，虽然这群朋友们已经不在同一个城市，但我们仍然保持联系，见面和一起去海边旅游，每次见到她们就觉得自己还很年轻，we are infinite!\n\n图源：公众号「有三思  U  Sense」\n刘晓宇\n● 少年纵横 ｜ 创始人\n选“关键选择”这个方向：\n我做过最关键的几次选择，都是在一切“看起来还不错”的时候离开。不是因为走投无路，而是因为不甘心只走一条被安排好的路。\n后来才明白，人生里很多真正重要的选择，都不是在“确定”里发生的，而是在隐约觉得“这件事我不做会后悔”。\n选择本身未必让你赢，但它会决定你成为谁。\n\n图源：公众号「有三思  U  Sense」\n李盛祥\n● 六度智囊 ｜ CEO\n特地去看了下对于青年的年龄定义，刚过24岁，25岁那年的时候选择的创业（正好脱离青年的稚嫩了？），其实算挺早的。\n从上海的高档写字楼到蜗居借住在杭州别人的办公室里，草根创业，无知无畏，期待用专家知识能让商业决策变得更好一些，期待让来自于产业的人通过我们再度服务于产业——创立“六度智囊”。我信奉创业就是披巾斩棘，打怪升级。\n（图片是创业第一个月被第一个招募加入的员工偷拍的。）\n\n图源：公众号「有三思  U  Sense」\nCathy Mao\n● ASML China ｜ HR Head\n2003年的五月，非典碎了留学梦。看着身边同学纷纷加入车企和四大，踌躇满志的我面临就业即失业的窘境。父亲说：“撞了墙就转弯，人生全是活法。”我先是加入了一家小公司，走进职场的浩瀚海洋，也找到奋斗至今的职业领域。\n找到热爱，也懂得放下，学会坚持，更感恩遇见。祝年轻的你们直面选择，勇毅前行！\n\n图源：公众号「有三思  U  Sense」\n沈斐\n● 蔚来 ｜ 高级副总裁，兼乐道总裁\n11年前，我在电力行业，从没想过要跨界。\n遇见蔚来时，我好奇：电动车和能源互联网，能碰撞出什么？跨界能学到什么？\n好奇心赢了。\n入职后第一个周末，我和新同事一起跑了上海马拉松。那是我加入蔚来的第一场马拉松。\n11年过去，这场马拉松还在继续。我很庆幸，当时选择了好奇，而不是沿着惯性往前走。\n最好的成长，往往在你不熟悉的赛道上。\nPS. 当时蔚来汽车的英文还不叫NIO。\n\n图源：公众号「有三思  U  Sense」\n孙辰昕 Kelvin\n● DINQ ｜ 联合创始人\n2019 年 3 月，我开始了第一次创业。第一天入驻办公室，桌上只有电脑、笔记本、乱七八糟的线，和一堆不确定。\n那一刻我想到Jeff Bezos创立Amazon早期的照片：伟大的事业，起点也可以很普通。创业就是在没人看见、什么都还没有的时候，依然选择相信并继续往前推。\nAlways Day One，把这个游戏一直玩下去。",
       "score": 34
     },
     {
-      "section": "投融资与并购",
-      "title": "韩国政府将向AI初创公司Upstage投资5600亿韩元",
-      "company": "",
+      "section": "产品发布与更新",
+      "title": "豆包将在免费模式外新增付费订阅，推出三档月包/年包价格｜最前线",
+      "company": "豆包",
       "source": "36氪",
-      "publishedAt": "2026-05-03 17:00:29  +0800",
-      "summary": "韩国金融监管部门周日表示，已批准向韩国本土人工智能（AI）初创公司Upstage投资5600亿韩元（约合3.806亿美元），这是韩国国家增长基金的第二笔直接投资。韩国金融服务委员会（FSC）称，该决定已于周四举行的基金审议委员会会议上获得批准。Upstage成立于2020年，是一家估值超过1万亿韩元的独角兽初创公司，致力于开发人工智能解决方案和大型语言模型（LLM）。该公司是继Rebellions之后，第二家获得该政策基金投资的企业。",
-      "score": 27
+      "publishedAt": "2026-05-04 17:49:40  +0800",
+      "summary": "近日，豆包App Store页面出现付费版本服务声明。声明称，为更好地服务专业用户，豆包将在免费版的基础上，推出包含更多增值服务的付费版本。同时，该页面还披露了三档订阅价格：标准版连续包月每月68元（连续包年688元）、加强版连续包月每月200元（连续包年2048元）、专业版连续包月每月500元（连续包年5088元）。\n \n\n豆包\n \n目前，尚未在豆包产品中看到相关的付费选项和功能。豆包官方回应称，“豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，以满足不同用户的差异化需求。相关方案细节目前还在测试阶段，正式上线时会通过官方渠道发布完整信息。”\n据接近豆包的人士透露，付费功能将主要专注在复杂任务和生产力场景，如PPT生成、数据分析、影视制作等。随着模型能力持续升级，产品已经能满足越来越多的复杂高价值任务。但此类任务需消耗更多算力与推理时间，因此豆包计划上线付费服务，满足好这部分复杂场景需求。免费版本则继续面向用户的日常使用。",
+      "score": 32
     },
     {
       "section": "产品发布与更新",
-      "title": "Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+      "title": "Cloudflare 推出 Agent Memory：面向 AI 智能体的持久记忆托管服务",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Mon, 04 May 2026 09:00:00 GMT",
+      "publishedAt": "Mon, 04 May 2026 12:22:35 GMT",
       "summary": "点击查看原文>",
-      "score": 26
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "Sauce Labs 推出 AI 智能体，实现测试创建自动化",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Sun, 03 May 2026 13:37:48 GMT",
-      "summary": "点击查看原文>",
-      "score": 26
+      "score": 22
     },
     {
       "section": "技术与研究",
-      "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
-      "company": "OpenAI",
-      "source": "量子位",
-      "publishedAt": "Sun, 03 May 2026 09:43:20 +0000",
-      "summary": "瓜多到吃不完",
-      "score": 20
-    },
-    {
-      "section": "技术与研究",
-      "title": "OpenAI just turned ChatGPT into the backend for the most popular open-source project in history. Anthropic banned it.",
-      "company": "OpenAI",
+      "title": "AI is now an F1 sponsor, a strategist, and a tech director. The race weekend has changed.",
+      "company": "",
       "source": "TNW AI",
-      "publishedAt": "Sun, 03 May 2026 21:15:46 +0000",
-      "summary": "Sam Altman posted on X at 2:33 a.m. on 2 May: “you can sign in to openclaw with your chatgpt account now and use your subscription there! happy lobstering.” The announcement, delivered with the casual register of a founder pushing a minor product update, is anything but minor. OpenAI has made its ChatGPT subscription […]\nThis story continues at The Next Web",
-      "score": 20
+      "publishedAt": "Mon, 04 May 2026 18:51:52 +0000",
+      "summary": "Eight AI partnerships signed in six months. Williams runs Claude. McLaren runs Gemini. Red Bull runs Oracle. The 2026 regulation overhaul has turned the paddock into one of the largest live commercial AI deployments in sport. The teams in the Formula One paddock have always quietly run on data. They have just become noisier about […]\nThis story continues at The Next Web",
+      "score": 19
     },
     {
       "section": "技术与研究",
-      "title": "‘This is fine’ creator says AI startup stole his art",
+      "title": "Java 世界的 MCP：将架构策略应用于 LLM 集成",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Tue, 05 May 2026 09:00:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
       "company": "",
       "source": "TechCrunch AI",
-      "publishedAt": "Sun, 03 May 2026 20:16:51 +0000",
-      "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
-      "score": 18
+      "publishedAt": "Mon, 04 May 2026 16:45:55 +0000",
+      "summary": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
+      "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "The US has banned the world’s best drones. It has not figured out how to make them.",
+      "title": "Denmark built Europe’s cleanest grid. AI data centres are overloading it.",
       "company": "",
       "source": "TNW AI",
-      "publishedAt": "Sun, 03 May 2026 23:33:49 +0000",
-      "summary": "Skydio, the largest American drone manufacturer, announced in late April that it would invest $3.5 billion over five years to expand US drone production, open a factory five times larger than its current facility, create more than 2,000 direct jobs and 3,000 supplier jobs, and build a domestic component supply chain through an initiative it […]\nThis story continues at The Next Web",
+      "publishedAt": "Mon, 04 May 2026 21:14:57 +0000",
+      "summary": "Denmark generates more than 80 per cent of its electricity from renewable sources. Its wind farms, both onshore and offshore, have made the country a global model for clean energy transition. Its grid operator, Energinet, has spent decades building the infrastructure to support a decarbonised power system. In March, Energinet paused all new grid […]\nThis story continues at The Next Web",
       "score": 15
     },
     {
       "section": "技术与研究",
-      "title": "直播出问题，AI 不一定救得了：Netflix 的新解法",
+      "title": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
+      "company": "",
+      "source": "TechCrunch AI",
+      "publishedAt": "Mon, 04 May 2026 13:00:00 +0000",
+      "summary": "DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content.",
+      "score": 14
+    },
+    {
+      "section": "技术与研究",
+      "title": "恒生科技指数涨近4%，小米集团涨逾10%",
+      "company": "",
+      "source": "36氪",
+      "publishedAt": "2026-05-04 11:19:12  +0800",
+      "summary": "36氪获悉，港股持续走强，恒生科技指数涨近4%。MINIMAX-W涨逾12%，小米集团涨逾10%，阿里巴巴涨逾6%，百度涨逾5%。",
+      "score": 28
+    },
+    {
+      "section": "技术与研究",
+      "title": "GitLab 新增采用固定费率的代码审查服务、Free-Tier AI 访问以及支出上限设置",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Mon, 04 May 2026 08:00:00 GMT",
+      "publishedAt": "Mon, 04 May 2026 12:12:58 GMT",
       "summary": "点击查看原文>",
-      "score": 18
+      "score": 17
     },
     {
       "section": "技术与研究",
-      "title": "不好！1930年的AI都来抢程序员饭碗了",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Sun, 03 May 2026 09:42:55 +0000",
-      "summary": "完全无需互联网数据",
-      "score": 15
-    },
-    {
-      "section": "技术与研究",
-      "title": "The $599 Mac Mini is dead. AI data centres killed it.",
+      "title": "Every government has an AI strategy. Dubai just gave its private sector a deadline.",
       "company": "",
       "source": "TNW AI",
-      "publishedAt": "Sun, 03 May 2026 19:37:48 +0000",
-      "summary": "Apple has discontinued the 256 gigabyte Mac Mini worldwide. The company’s cheapest desktop computer, the M4 Mac Mini with 16 gigabytes of RAM and 256 gigabytes of storage, was available for $599 until last week. It is gone. The Mac Mini now starts at $799 with 512 gigabytes of storage. The 256 gigabyte configuration has […]\nThis story continues at The Next Web",
-      "score": 13
+      "publishedAt": "Mon, 04 May 2026 21:06:22 +0000",
+      "summary": "Every major government now has an AI strategy. Most involve pilot programmes, task forces, and multi-year roadmaps that promise transformation without specifying a deadline. Dubai has taken a different approach. On Sunday, Crown Prince Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum launched an initiative to transition the emirate’s entire private sector toward agentic AI […]\nThis story continues at The Next Web",
+      "score": 15
     }
   ]
 }
