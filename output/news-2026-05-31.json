@@ -1,0 +1,197 @@
+{
+  "产品发布与更新": [],
+  "技术与研究": [
+    {
+      "title": "小米技术：MiMo-V2.5实现五大核心突破，降价后仍能实现收支平衡",
+      "url": "https://36kr.com/newsflashes/3832525007284097?f=rss",
+      "snippet": "36氪获悉，小米MiMo大模型团队在官方技术博客发布文章，首次完整公开MiMo-V2.5系列大模型API永久降价背后的技术路径。文章称，MiMO-V2.5实现了KVCache双池+SWA-aware前缀树、GCache分布式缓存、KVCache亲和调度、Decode阶段MTP加速、多模态推理优化五大核心突破，降价后仍能维持收支平衡。此外，4月28日推出的“百万亿Token创造者激励计划”，总申请人数超过54万人，累计发放100万亿免费Token，折合人民币超6500万元。",
+      "source": "36氪",
+      "publishedAt": "2026-05-31 09:26:02  +0800",
+      "region": "国内",
+      "summary": "36氪获悉，小米MiMo大模型团队在官方技术博客发布文章，首次完整公开MiMo-V2.5系列大模型API永久降价背后的技术路径。文章称，MiMO-V2.5实现了KVCache双池+SWA-aware前缀树、GCache分布式缓存、KVCache亲和调度、Decode阶段MTP加速、多模态推理优化五大核心突破，降价后仍能维持收支平衡。此外，4月28日推出的“百万亿Token创造者激励计划”，总申请人数超过54万人，累计发放100万亿免费Token，折合人民币超6500万元。",
+      "category": "技术与研究",
+      "company": "",
+      "score": 43,
+      "breakdown": {
+        "substance": 21,
+        "importance": 5,
+        "timeliness": 10,
+        "credibility": 7
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "海光信息完成阶跃星辰Step 3.7 Flash适配",
+      "url": "https://36kr.com/newsflashes/3831356538529409?f=rss",
+      "snippet": "36氪获悉，5月29日，阶跃星辰发布Step 3.7 Flash，海光团队依托DTK异构计算平台与全栈软件栈，于发布当天即完成全流程适配与深度调优，实现“发布即适配、适配即高效”。即日起，开发者即可在海光平台上高效运行该模型，快速搭建多模态Agent、智能代码助手和复杂工作流应用，大幅降低接入与编排成本。",
+      "source": "36氪",
+      "publishedAt": "2026-05-30 13:37:24  +0800",
+      "region": "国内",
+      "summary": "36氪获悉，5月29日，阶跃星辰发布Step 3.7 Flash，海光团队依托DTK异构计算平台与全栈软件栈，于发布当天即完成全流程适配与深度调优，实现“发布即适配、适配即高效”。即日起，开发者即可在海光平台上高效运行该模型，快速搭建多模态Agent、智能代码助手和复杂工作流应用，大幅降低接入与编排成本。",
+      "category": "技术与研究",
+      "company": "",
+      "score": 31,
+      "breakdown": {
+        "substance": 18,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 7
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "snippet": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sat, 30 May 2026 15:30:00 +0000",
+      "region": "海外",
+      "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
+      "category": "技术与研究",
+      "company": "Google",
+      "score": 27,
+      "breakdown": {
+        "substance": 0,
+        "importance": 11,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家",
+      "url": "https://www.qbitai.com/2026/05/426706.html",
+      "snippet": "（可能是）大模型圈里最会弹钢琴的人",
+      "source": "量子位",
+      "publishedAt": "Sat, 30 May 2026 06:43:26 +0000",
+      "region": "国内",
+      "summary": "（可能是）大模型圈里最会弹钢琴的人",
+      "category": "技术与研究",
+      "company": "Gemini",
+      "score": 21,
+      "breakdown": {
+        "substance": 0,
+        "importance": 6,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "snippet": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sat, 30 May 2026 16:30:00 +0000",
+      "region": "海外",
+      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 21,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
+      "url": "https://www.qbitai.com/2026/05/426662.html",
+      "snippet": "让世界模型迈向多智能体交互仿真",
+      "source": "量子位",
+      "publishedAt": "Sat, 30 May 2026 06:33:58 +0000",
+      "region": "国内",
+      "summary": "让世界模型迈向多智能体交互仿真",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 3,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Anthropic named eight firms selling its shares illegally. After the backlash, it quietly removed four.",
+      "url": "https://thenextweb.com/news/anthropic-cuts-unauthorized-platform-list-965-billion-valuation",
+      "snippet": "Anthropic updated its warning about unauthorized secondary market platforms selling its shares, cutting the list from eight firms to four. The revised version names only Open Door Partners, Unicorns Exchange, Pachamama, and Upmarket. Several of the most prominent names in private market trading, including Hiive, were removed. The original notice, published earlier this month, stated […]\nThis story continues at The Next Web",
+      "source": "TNW AI",
+      "publishedAt": "Sat, 30 May 2026 14:50:14 +0000",
+      "region": "海外",
+      "summary": "Anthropic updated its warning about unauthorized secondary market platforms selling its shares, cutting the list from eight firms to four. The revised version names only Open Door Partners, Unicorns Exchange, Pachamama, and Upmarket. Several of the most prominent names in private market trading, including Hiive, were removed. The original notice, published earlier this month, stated […]\nThis story continues at The Next Web",
+      "category": "技术与研究",
+      "company": "Anthropic",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 5
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "A startup with Eric Trump as adviser is testing humanoid robots in Ukraine. It wants them on US front lines within 18 months.",
+      "url": "https://thenextweb.com/news/foundation-humanoid-robots-military-ukraine-eric-trump",
+      "snippet": "Foundation Future Industries, a San Francisco startup founded in 2024, sent two of its Phantom MK-1 humanoid robots to Ukraine earlier this year. The company described it as the first known deployment of humanoid robots in a combat theatre. The tests, backed by the US government and conducted with Ukrainian officials, focused on logistics in […]\nThis story continues at The Next Web",
+      "source": "TNW AI",
+      "publishedAt": "Sat, 30 May 2026 14:30:14 +0000",
+      "region": "海外",
+      "summary": "Foundation Future Industries, a San Francisco startup founded in 2024, sent two of its Phantom MK-1 humanoid robots to Ukraine earlier this year. The company described it as the first known deployment of humanoid robots in a combat theatre. The tests, backed by the US government and conducted with Ukrainian officials, focused on logistics in […]\nThis story continues at The Next Web",
+      "category": "技术与研究",
+      "company": "",
+      "score": 13,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 5
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "智元机器人合伙人姚卯青：今年上半年智元海外收入占比已近20%",
+      "url": "https://36kr.com/newsflashes/3832506045818500?f=rss",
+      "snippet": "在BEYOND Expo 2026上，智元机器人合伙人、具身业务部总裁姚卯青采访中透露，未来海外收入将成为公司业绩的很大一块。去年全年海外收入贡献占比不到10%。今年上半年的话，这个数字已经接近20%。其中，北美、欧洲、日韩是公司计划未来进行大规模突破的市场。（财联社）",
+      "source": "36氪",
+      "publishedAt": "2026-05-31 09:58:39  +0800",
+      "region": "国内",
+      "summary": "在BEYOND Expo 2026上，智元机器人合伙人、具身业务部总裁姚卯青采访中透露，未来海外收入将成为公司业绩的很大一块。去年全年海外收入贡献占比不到10%。今年上半年的话，这个数字已经接近20%。其中，北美、欧洲、日韩是公司计划未来进行大规模突破的市场。",
+      "category": "技术与研究",
+      "company": "",
+      "score": 29,
+      "breakdown": {
+        "substance": 7,
+        "importance": 5,
+        "timeliness": 10,
+        "credibility": 7
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Meta is reportedly developing an AI pendant",
+      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "snippet": "Meta seems to be making big bets on AI-powered hardware.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sat, 30 May 2026 15:59:58 +0000",
+      "region": "海外",
+      "summary": "Meta seems to be making big bets on AI-powered hardware.",
+      "category": "技术与研究",
+      "company": "Meta",
+      "score": 21,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    }
+  ],
+  "投融资与并购": [],
+  "政策与监管": []
+}
