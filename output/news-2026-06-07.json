@@ -1,0 +1,237 @@
+{
+  "产品发布与更新": [
+    {
+      "title": "特锐德：推出算力中心供电站“算电岛” Token成本可降低30%",
+      "url": "https://36kr.com/newsflashes/3841455348746496?f=rss",
+      "snippet": "特锐德推出算力中心高压交直流预制舱供电站“算电岛”，重构智算中心供电底层架构，设备工厂模块化预制，可直入110/220kV高压，800V直流直供机房。建设周期缩至150天；依托碳化硅SST技术，供电效率98.5%；依托算电协同AI平台优化调度，Token用电成本下降约30%；800V母线直挂储能，实现绿电就地100%消纳；集成化方案使项目综合造价下降20%、运维成本降低40%。（财联社）",
+      "source": "36氪",
+      "publishedAt": "2026-06-06 16:50:27  +0800",
+      "region": "国内",
+      "summary": "特锐德推出算力中心高压交直流预制舱供电站“算电岛”，重构智算中心供电底层架构，设备工厂模块化预制，可直入110/220kV高压，800V直流直供机房。建设周期缩至150天；依托碳化硅SST技术，供电效率98.5%；依托算电协同AI平台优化调度，Token用电成本下降约30%；800V母线直挂储能，实现绿电就地100%消纳；集成化方案使项目综合造价下降20%、运维成本降低40%。",
+      "category": "产品发布与更新",
+      "company": "",
+      "score": 38,
+      "breakdown": {
+        "substance": 25,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 7
+      },
+      "isDuplicate": false
+    }
+  ],
+  "技术与研究": [
+    {
+      "title": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
+      "url": "https://www.qbitai.com/2026/06/431401.html",
+      "snippet": "高一致性、低延迟、实时超分全梭哈",
+      "source": "量子位",
+      "publishedAt": "Sun, 07 Jun 2026 01:13:21 +0000",
+      "region": "国内",
+      "summary": "高一致性、低延迟、实时超分全梭哈",
+      "category": "技术与研究",
+      "company": "",
+      "score": 34,
+      "breakdown": {
+        "substance": 10,
+        "importance": 5,
+        "timeliness": 10,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "港股鞋王千百度，一夜完成AI数据公司转型",
+      "url": "https://www.qbitai.com/2026/06/431056.html",
+      "snippet": "形成「鞋履+人工智能数据」双主业",
+      "source": "量子位",
+      "publishedAt": "Sat, 06 Jun 2026 03:35:47 +0000",
+      "region": "国内",
+      "summary": "形成「鞋履+人工智能数据」双主业",
+      "category": "技术与研究",
+      "company": "百度",
+      "score": 24,
+      "breakdown": {
+        "substance": 4,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "snippet": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sat, 06 Jun 2026 20:32:24 +0000",
+      "region": "海外",
+      "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+      "category": "技术与研究",
+      "company": "OpenAI",
+      "score": 23,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "得物推荐 AI Harness：从“狂野代码”到“按目标生产”｜AICon上海",
+      "url": "https://www.infoq.cn/article/pOwoNlmEL9zV0aodLVB9?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Sun, 07 Jun 2026 10:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 21,
+      "breakdown": {
+        "substance": 3,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Self-replicating Miasma worm hits 73 Microsoft GitHub repositories in supply chain attack",
+      "url": "https://thenextweb.com/news/miasma-worm-microsoft-github-supply-chain",
+      "snippet": "The self-replicating Miasma worm has reached Microsoft‘s own GitHub repositories. GitHub disabled 73 repositories across four Microsoft organisations, including Azure, Azure-Samples, Microsoft, and MicrosoftDocs, after the worm planted malicious code that harvests developer credentials. It is the most significant escalation yet in an ongoing supply chain attack campaign that has been spreading across the open-source […]\nThis story continues at The Next Web",
+      "source": "TNW AI",
+      "publishedAt": "Sat, 06 Jun 2026 12:46:50 +0000",
+      "region": "海外",
+      "summary": "The self-replicating Miasma worm has reached Microsoft‘s own GitHub repositories. GitHub disabled 73 repositories across four Microsoft organisations, including Azure, Azure-Samples, Microsoft, and MicrosoftDocs, after the worm planted malicious code that harvests developer credentials. It is the most significant escalation yet in an ongoing supply chain attack campaign that has been spreading across the open-source […]\nThis story continues at The Next Web",
+      "category": "技术与研究",
+      "company": "Microsoft",
+      "score": 19,
+      "breakdown": {
+        "substance": 3,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 5
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "snippet": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sat, 06 Jun 2026 17:42:15 +0000",
+      "region": "海外",
+      "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Audi’s 1,001 PS Nuvolari is its fastest car ever, and it’s not electric",
+      "url": "https://thenextweb.com/news/audi-nuvolari-supercar-hybrid-1001ps",
+      "snippet": "Audi has revealed the Nuvolari, the fastest and most powerful production vehicle in its history. The hybrid supercar produces 1,001 PS (736 kW) from a 4.0-litre V8 biturbo paired with three axial flux electric motors. Only 499 will be built, starting at €600,000. The V8 alone delivers 800 PS and revs to 10,000 rpm, territory […]\nThis story continues at The Next Web",
+      "source": "TNW AI",
+      "publishedAt": "Sat, 06 Jun 2026 20:57:03 +0000",
+      "region": "海外",
+      "summary": "Audi has revealed the Nuvolari, the fastest and most powerful production vehicle in its history. The hybrid supercar produces 1,001 PS (736 kW) from a 4.0-litre V8 biturbo paired with three axial flux electric motors. Only 499 will be built, starting at €600,000. The V8 alone delivers 800 PS and revs to 10,000 rpm, territory […]\nThis story continues at The Next Web",
+      "category": "技术与研究",
+      "company": "",
+      "score": 15,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 5
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "证监会主席吴清：坚决遏制概念炒作、复杂嵌套、过度投机、通道空转等伪创新、乱创新",
+      "url": "https://36kr.com/newsflashes/3841354006645248?f=rss",
+      "snippet": "证监会官网发布吴清主席在中国证券投资基金业协会第四届会员代表大会上的致辞。吴清表示，随着人工智能等前沿技术蓬勃发展，基金行业经营模式和发展生态正在发生深刻变革。行业机构要持续提升产品、服务、业务、组织等方面创新的广度和深度，更加全面、更加有效对接市场需求。要加强科技赋能，稳妥有序探索运用人工智能、大数据等新技术，有效赋能投资投研、客户服务、内控管理等重点场景，加快数字化、智能化转型。要突出错位发展，头部机构要全面提升综合竞争实力，中小机构不要拼规模要拼特色，要立足自身资源禀赋与核心优势，聚焦重点业务领域深耕细作，走出特色化、精品化发展路线。要统筹好发展与安全，加强创新全过程风险防控，坚持创新节奏、力度与管理能力相适配，坚决遏制概念炒作、复杂嵌套、过度投机、通道空转等伪创新、乱创新。（证券时报）",
+      "source": "36氪",
+      "publishedAt": "2026-06-06 15:07:22  +0800",
+      "region": "国内",
+      "summary": "证监会官网发布吴清主席在中国证券投资基金业协会第四届会员代表大会上的致辞。吴清表示，随着人工智能等前沿技术蓬勃发展，基金行业经营模式和发展生态正在发生深刻变革。行业机构要持续提升产品、服务、业务、组织等方面创新的广度和深度，更加全面、更加有效对接市场需求。要加强科技赋能，稳妥有序探索运用人工智能、大数据等新技术，有效赋能投资投研、客户服务、内控管理等重点场景，加快数字化、智能化转型。要突出错位发展，头部机构要全面提升综合竞争实力，中小机构不要拼规模要拼特色，要立足自身资源禀赋与核心优势，聚焦重点业务领域深耕细作，走出特色化、精品化发展路线。要统筹好发展与安全，加强创新全过程风险防控，坚持创新节奏、力度与管理能力相适配，坚决遏制概念炒作、复杂嵌套、过度投机、通道空转等伪创新、乱创新。",
+      "category": "技术与研究",
+      "company": "",
+      "score": 21,
+      "breakdown": {
+        "substance": 8,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 7
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
+      "url": "https://www.qbitai.com/2026/06/431287.html",
+      "snippet": "观众投币定前十！",
+      "source": "量子位",
+      "publishedAt": "Sat, 06 Jun 2026 07:15:13 +0000",
+      "region": "国内",
+      "summary": "观众投币定前十！",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 3,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Bank of England governor warns AI may need to be rationed because of energy limits",
+      "url": "https://thenextweb.com/news/bailey-bank-of-england-ai-rationing-energy",
+      "snippet": "Bank of England Governor Andrew Bailey warned on Friday that artificial intelligence may need to be rationed because the power supply cannot keep up with its capabilities. He said companies and governments face “very big social choices” as energy constraints force trade-offs between sectors. The question is not whether AI can do more, but whether […]\nThis story continues at The Next Web",
+      "source": "TNW AI",
+      "publishedAt": "Sat, 06 Jun 2026 13:48:36 +0000",
+      "region": "海外",
+      "summary": "Bank of England Governor Andrew Bailey warned on Friday that artificial intelligence may need to be rationed because the power supply cannot keep up with its capabilities. He said companies and governments face “very big social choices” as energy constraints force trade-offs between sectors. The question is not whether AI can do more, but whether […]\nThis story continues at The Next Web",
+      "category": "技术与研究",
+      "company": "",
+      "score": 11,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 5
+      },
+      "isDuplicate": false
+    }
+  ],
+  "投融资与并购": [
+    {
+      "title": "韩国投资者持续买入中国硬科技",
+      "url": "https://36kr.com/newsflashes/3842433670941190?f=rss",
+      "snippet": "近期，韩国投资者正持续加码布局中国硬科技资产。数据显示，过去1个月，寒武纪、麦格米特、机器人ETF华夏、宁德时代等成为最受韩国投资者青睐的A股投资标的，AI芯片龙头寒武纪更是获得近2000万美元净买入。此外，多只在美上市的海外中国科技ETF也迎来资金显著净流入。多家外资机构认为，中国科技领域兼具高增长空间与估值优势，在全球资产配置中具备稀缺投资价值，海外资金正加速捕捉中国科技产业发展红利。 (上海证券报)",
+      "source": "36氪",
+      "publishedAt": "2026-06-07 09:47:31  +0800",
+      "region": "国内",
+      "summary": "近期，韩国投资者正持续加码布局中国硬科技资产。数据显示，过去1个月，寒武纪、麦格米特、机器人ETF华夏、宁德时代等成为最受韩国投资者青睐的A股投资标的，AI芯片龙头寒武纪更是获得近2000万美元净买入。此外，多只在美上市的海外中国科技ETF也迎来资金显著净流入。多家外资机构认为，中国科技领域兼具高增长空间与估值优势，在全球资产配置中具备稀缺投资价值，海外资金正加速捕捉中国科技产业发展红利。",
+      "category": "投融资与并购",
+      "company": "",
+      "score": 27,
+      "breakdown": {
+        "substance": 10,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 7
+      },
+      "isDuplicate": false
+    }
+  ],
+  "政策与监管": []
+}
