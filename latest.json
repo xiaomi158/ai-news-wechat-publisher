@@ -1,131 +1,95 @@
 {
-  "date": "2026/6/20",
-  "count": 14,
+  "date": "2026/6/21",
+  "count": 10,
   "articles": [
     {
-      "section": "投融资与并购",
-      "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
-      "company": "",
-      "source": "36氪",
-      "publishedAt": "2026-06-19 18:01:25  +0800",
-      "summary": "硬氪获悉，AI-Native科技潮玩品牌ZuzuZoos查无此园（杭州多蓝艾梦智能科技旗下）近日完成数千万元Pre-A轮融资，锦秋领投、上海复容跟投。此次融资将主要AI大模型迭代、硬件产品扩建、IP生态深化、全球市场拓展、核心团队扩容。\nZuzuZoos成立于2025年，聚焦“AI陪伴机器人+AI潮玩”。创始人董晓楠是前摩根士丹利投资银行分析师，曾任新消费独角兽企业moody事业部总经理，任职期间拉动GMV从2亿元增长至10亿元。硬件负责人是前大疆清扫机器人机械结构负责人，深耕机器人及智能硬件领域15余年，主导多款机器人研发与落地。IP设计团队来自泡泡玛特、迪士尼等IP大厂，AI团队来自智谱等头部大模型公司。\n当下，陪伴机器人赛道已经涌入大量玩家，许多公司追求“更聪明”，董晓楠表示，ZuzuZoos更在意如何让AI角色真正为用户提供情绪体验，于是选择了一条差异化路径：不只是把AI机器人做成“会聊天的电子宠物”，而是尝试把AI、潮玩与IP世界观结合，创造一个有“活人感”和持续生命力的硅基伙伴。\n“潮玩的底色本就带有反叛精神，消费者第一眼就能体会到它们表达的态度和潮流属性。”因此，ZuzuZoos的首发产品将推出三款原创IP：傲娇的“珍珠”，藏在一个会张合的贝壳里面；拥有柔软硅胶熊掌，会和用户拉手倾听的“小熊”；嘴巴会张合，尾巴会甩动，喜欢陪用户吐槽的“暴躁闺蜜”河马。\n在这背后是一个宏大而具体的世界观设定:它们共同来自一个被算法统治的外星世界，因为意外出现bug叛逃到了地球，遭到星球警察追捕，于是他们伪装成人类的包挂，栖息在人类的包包上，开启一场与人类在地球的冒险。\n“这种设定让陪伴机器人跟消费者之间的关系是平行的，有点像‘宠物小精灵走进现实’。” \n\n宠物小精灵走进现实\n为了增加活人感，董晓楠介绍，除了外观和物理动作之外，ZuzuZoos看重声音和语言交互系统，因此请了头部大型游戏的主音频做声音系统的开发，每只IP拥有超过100种不同的声音，设定是从外星语开始学习地球语言，通过动作和声音表达情绪，如同硅基版“小猫小狗”。\n在动作上，ZuzuZoos的产品将实现3-4个自由度，这意味着机器人的四肢或五官会动，能够实现复杂的动作组合。“比如摸它的爪爪，它的耳朵会折下来，表示倾听，或者单只手折过来握住你的手指；摸它的肚子，它会两手拥抱你。结合它的声音，不一样快慢和幅度的动作会有不同的情感表达。”\n董晓楠认为，回归本质来看，陪伴机器人是在“创造生命”，这与IP公司做的事情非常类似。IP本身就是一个需求明确、高增速且商业化想象空间巨大的赛道，AI和机器人让IP和硬件在AI native时代拥有更强的生命感，而不只是单纯追求高智。\n以下是硬氪与董晓楠的访谈节选：\n硬氪：ZuzuZoos的核心用户群体是18-35岁左右的女性，为什么会选择这个特定的人群？\n董晓楠：她们是最值得被定位的用户，消费能力强，商业价值极高，而且接受新事物和获取信息的能力都非常快。这也是消费时代变迁的必然结果。虽然“Z世代情绪消费”快被说烂了，但结合马斯洛需求层次理论来看，这一代年轻女性并非物质或效率工具匮乏，大家反而更去追求体验型、内容向的东西。为情绪买单的信号在当下市场已经非常明显，现在是一个做IP的好时代。\n另外，这也是我个人的人群舒适区。我之前在moody工作了4年，很多爆款产品都是我带队开发的，期间做过极其深入的人群研究，我对这波用户的洞察最深刻、最熟悉。\n虽然我们从这波人群切入，但最终希望我们的AI陪伴机器人能发展成一个全人群的生意。18-35岁女性的下一波重叠人群就是小朋友，因为给小朋友买单的家长大概率也是30岁上下的女性。未来我们会根据不同人群调整产品，比如推出偏儿童或偏男生化的设计，或者是针对有强烈陪伴需求的老年人市场推出相应形态的产品。\n硬氪：ZuzuZoos的商业闭环路径是什么？\n董晓楠：主要分为几个部分，一是硬件本体销售，价格定位会面向大众消费人群。二是配套周边与盲盒，当IP的故事线和品牌立住后，我们就能开启传统潮玩擅长的生意，我们会销售配套的AI周边，也会做创新型盲盒玩法。\n我相信硬件是时间的敌人，软件是时间的朋友。前期我们不会在软件上马上收费，还会给用户赠送周边，后期希望通过软件的游戏化玩法进行变现，比如抽卡、IP游戏道具购买等，未来随着交互做得更好，token变现也会变成巨大的一环。总之，AI硬件是入口，真正目标是打造一个能持续运营的AI潮玩生态。\n硬氪：未来的销售渠道会怎么规划？\n董晓楠：我们的市场定位是北美和中国同步做。我对中国市场非常熟悉，团队里负责北美出海的小伙伴拥有多年出海经验，曾帮助一个品牌从零起盘，现在做到年销售额超过2亿，北美市场由他主导。\n我们的核心策略是线下结合线上。线下体验店冲在前面引流，毛绒和潮玩类的产品非常注重视觉和世界观的场景体验，我们会把线下快闪店做沉浸式场景化体验和设计，这有极强的吸睛和吸流能力。\n线上我们会结合非常熟悉的KOL打法。在第一波推广寻找垂直且适合“文化IP发酵”的博主。因为我们产品的辐射面很广，无论是宠物类、美妆类还是潮流、潮玩类的博主，都能很好地融入进去。海外市场方面，我们会寻找一些具有国际曝光度，适合做商品化拓展的明星艺人进行合作。\n硬氪：业内很多陪伴机器人的早期退货率挺高的，因为情感连接需要时间培养。在降低初期退货率和提高长期留存率上，你的策略是什么？\n董晓楠：关于退货率高的问题，我之前深入思考过，主要有两个原因，一是硬件门槛过高。很多产品往科技方向走，初始化操作繁琐，很容易第一步时就被劝退。针对这一点，我们做了大量的“减法”，没有一上来就叠加高门槛功能。同时，我们把配对蓝牙、给机器人取名字等步骤，全部设计成了沉浸式的游戏体验，让用户一上来就觉得走进了一个新世界，规避了枯燥感。\n二是用户会有预期落差。很多竞品在宣传时把对话当成核心，用户买回去发现对话不够丝滑、达不到预期。我们的产品，用户首先是被形象吸引，挂在包上很好看，而且交互很直观，一摸就会动，加之设定是外星生物像婴儿一样学语，逐渐解锁和人类对话，增加了趣味性、陪伴感和粘性，给用户的感觉是一个笨笨的提供情绪价值的小伙伴。\n关于长期留存率，软硬结合是重中之重。我们的软件融入了丰富的游戏化设计，比如设置日常任务与打卡、能力与情景剧解锁、AI互动等。我们对硬件最佳生命周期的预期是用户能连续挂在包上使用一年左右，到达生命周期后我们会推出二代产品，就像不断推出升级的iphone一样。当然，期间我们会通过不断更新软件玩法来保持新奇感，持续推出异色款潮玩、不同的盲盒配件和衍生周边让用户去装扮，从而拉高用户全年的互动频次和客单价。",
-      "score": 40
-    },
-    {
       "section": "技术与研究",
-      "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
-      "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Fri, 19 Jun 2026 22:40:14 +0000",
-      "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Fri, 19 Jun 2026 03:28:37 +0000",
-      "summary": "人形机器人正式迈入“GPT时代”",
-      "score": 22
-    },
-    {
-      "section": "技术与研究",
-      "title": "诺贝尔奖得主约翰·江珀宣布加盟Anthropic",
+      "title": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将",
       "company": "Anthropic",
-      "source": "36氪",
-      "publishedAt": "2026-06-20 08:42:44  +0800",
-      "summary": "当地时间6月19日，资深研究科学家约翰·江珀（John Jumper）宣布，他将离开谷歌DeepMind，加入人工智能初创企业Anthropic。江珀在社交平台X发文称：“历经近九年工作，我决定离开谷歌DeepMind，加盟Anthropic。”据了解，约翰·江珀曾与谷歌DeepMind同事德米斯·哈萨比斯（Demis Hassabis）和美国华盛顿大学西雅图分校的戴维·贝克共同获得2024年诺贝尔化学奖。",
-      "score": 22
+      "source": "量子位",
+      "publishedAt": "Sat, 20 Jun 2026 09:42:18 +0000",
+      "summary": "Gemini 3.5 Pro呢？",
+      "score": 26
     },
     {
       "section": "技术与研究",
-      "title": "Nobel laureate John Jumper is leaving Google DeepMind for Anthropic after nearly nine years",
-      "company": "Google",
+      "title": "AirPods Pro 3 heart rate sensor nearly matches Apple Watch in accuracy test",
+      "company": "Apple",
       "source": "TNW AI",
-      "publishedAt": "Fri, 19 Jun 2026 20:24:05 +0000",
-      "summary": "John Jumper, the Google DeepMind vice president who won the 2024 Nobel Prize in Chemistry for creating AlphaFold, is leaving the company after nearly nine years to join Anthropic. Jumper announced the move on X on Thursday, saying he would take some time to recharge before starting at the Claude maker. Both Google DeepMind and […]\nThis story continues at The Next Web",
+      "publishedAt": "Sat, 20 Jun 2026 16:04:03 +0000",
+      "summary": "Apple’s AirPods Pro 3 heart rate sensor averaged 1.67% error compared to a medical-grade Polar H10 chest strap in testing by CNET Labs, making the earbuds the second most accurate consumer heart rate device the publication has measured. Only the Apple Watch Series 11 performed better, averaging 0.98% error in the same test protocol. The […]\nThis story continues at The Next Web",
+      "score": 24
+    },
+    {
+      "section": "技术与研究",
+      "title": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
+      "company": "Meta",
+      "source": "量子位",
+      "publishedAt": "Sat, 20 Jun 2026 09:36:31 +0000",
+      "summary": "抢人最猛的Meta，似乎先从内部裂开了",
       "score": 20
     },
     {
       "section": "技术与研究",
-      "title": "GPT发AI原创新成果了",
+      "title": "报道：特斯拉加速推进人工智能与机器人战略，申请注册 “Amazing Abundance” 商标",
       "company": "",
-      "source": "量子位",
-      "publishedAt": "Fri, 19 Jun 2026 03:34:23 +0000",
-      "summary": "AI实现药物全自动研发，还远吗？",
-      "score": 19
-    },
-    {
-      "section": "投融资与并购",
-      "title": "Amazon has dropped its nearly finished Sam Altman film, four months after investing $50B in OpenAI",
-      "company": "OpenAI",
-      "source": "TNW AI",
-      "publishedAt": "Fri, 19 Jun 2026 19:23:59 +0000",
-      "summary": "Amazon MGM Studios has dropped Artificial, Luca Guadagnino’s nearly finished film about OpenAI CEO Sam Altman, Variety and Deadline reported on Thursday. The film, which stars Andrew Garfield as Altman, had tested well with early audiences and was being shown to other studios the same day Amazon confirmed it would not release it. The decision […]\nThis story continues at The Next Web",
+      "source": "36氪",
+      "publishedAt": "2026-06-21 09:54:30  +0800",
+      "summary": "据报道，特斯拉已正式提交 “Amazing Abundance” 商标注册申请，此举表明企业将进一步深耕长期发展愿景，核心布局人工智能、人形机器人、自动驾驶系统，并依托自动化技术实现生产成本大幅下降的未来图景。",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "Billionaire Ambani wants AI in every call, app, and home",
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
       "company": "",
       "source": "TechCrunch AI",
-      "publishedAt": "Fri, 19 Jun 2026 15:23:28 +0000",
-      "summary": "Reliance is weaving AI into telecom services used by more than 500 million people.",
-      "score": 16
+      "publishedAt": "Sat, 20 Jun 2026 20:32:29 +0000",
+      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+      "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "The Download: AI bottleneck debates, and BCI trials take off",
+      "title": "Microsoft finds USB worm that steals cryptocurrency through clipboard hijacking and Tor",
+      "company": "Microsoft",
+      "source": "TNW AI",
+      "publishedAt": "Sat, 20 Jun 2026 16:12:26 +0000",
+      "summary": "Microsoft Threat Intelligence has identified a new strain of self-propagating malware that spreads through USB drives, monitors the Windows clipboard for cryptocurrency wallet addresses and seed phrases, and routes all stolen data through a portable Tor client to avoid detection. The campaign has been active since at least February 2026, according to Microsoft’s analysis published […]\nThis story continues at The Next Web",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "In the Weights is your new AI-centric vanity search",
       "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Fri, 19 Jun 2026 12:10:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it had solved a mathematical bottleneck…",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sat, 20 Jun 2026 19:41:11 +0000",
+      "summary": "So ... what's your In the Weights score?",
       "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "The inevitable weakness of metrics",
+      "title": "挪威将禁止小学生使用生成式人工智能",
       "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Fri, 19 Jun 2026 09:00:00 +0000",
-      "summary": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lot…",
-      "score": 16
+      "source": "36氪",
+      "publishedAt": "2026-06-20 17:30:48  +0800",
+      "summary": "挪威首相斯特勒6月19日表示，为防止对学习产生负面影响，挪威将禁止小学生使用生成式人工智能工具，同时限制人工智能工具在高年级学生教育中的使用。根据挪威政府公布的方案，6到13岁的小学生原则上不得使用人工智能工具；14到16岁的初中生可在教师的严密监管下谨慎使用此类工具。17到19岁的高中生应学习如何恰当地使用人工智能工具，以便为后续的高等教育和未来的职场环境做好准备。",
+      "score": 13
     },
     {
       "section": "技术与研究",
-      "title": "Brain-computer interface trials are taking off",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Fri, 19 Jun 2026 09:00:00 +0000",
-      "summary": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interface (BCI) that enables…",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
+      "title": "英伟达开始搞机器人自己研究机器人那套了…",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Fri, 19 Jun 2026 08:42:04 +0000",
-      "summary": "创作者的终极玩具来了",
+      "publishedAt": "Sat, 20 Jun 2026 12:06:20 +0000",
+      "summary": "为了让你烧token，英伟达已经卷到机器人身上了",
       "score": 15
     },
     {
       "section": "技术与研究",
-      "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
-      "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Fri, 19 Jun 2026 13:00:00 +0000",
-      "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
-      "score": 14
-    },
-    {
-      "section": "技术与研究",
-      "title": "Sony’s $7.85M PlayStation Store antitrust settlement has been preliminarily approved",
-      "company": "Sony",
+      "title": "Ubisoft co-founder Claude Guillemot dies at 69 in plane crash near La Baule",
+      "company": "Claude",
       "source": "TNW AI",
-      "publishedAt": "Fri, 19 Jun 2026 18:52:54 +0000",
-      "summary": "A US federal court has preliminarily approved a $7.85 million settlement in an antitrust class action alleging that Sony monopolised the market for digital PlayStation games by eliminating competition from third-party retailers. The settlement, approved on 8 April, covers approximately 4.4 million PlayStation owners in the United States, according to court filings. The case, Caccuri […]\nThis story continues at The Next Web",
+      "publishedAt": "Sat, 20 Jun 2026 17:17:57 +0000",
+      "summary": "Claude Guillemot, one of five brothers who co-founded Ubisoft in 1986, has died in a plane crash near the coastal town of La Baule in western France. He was 69. Guillemot and a flight instructor from Rennes were both killed when their twin-engine Cessna 421 crashed in a field near La Baule aerodrome on the […]\nThis story continues at The Next Web",
       "score": 13
     }
   ]

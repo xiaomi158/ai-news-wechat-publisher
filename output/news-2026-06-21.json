@@ -1,0 +1,197 @@
+{
+  "产品发布与更新": [],
+  "技术与研究": [
+    {
+      "title": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将",
+      "url": "https://www.qbitai.com/2026/06/436980.html",
+      "snippet": "Gemini 3.5 Pro呢？",
+      "source": "量子位",
+      "publishedAt": "Sat, 20 Jun 2026 09:42:18 +0000",
+      "region": "国内",
+      "summary": "Gemini 3.5 Pro呢？",
+      "category": "技术与研究",
+      "company": "Anthropic",
+      "score": 26,
+      "breakdown": {
+        "substance": 0,
+        "importance": 11,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "AirPods Pro 3 heart rate sensor nearly matches Apple Watch in accuracy test",
+      "url": "https://thenextweb.com/news/airpods-pro-3-heart-rate-accuracy-apple-watch-cnet-test",
+      "snippet": "Apple’s AirPods Pro 3 heart rate sensor averaged 1.67% error compared to a medical-grade Polar H10 chest strap in testing by CNET Labs, making the earbuds the second most accurate consumer heart rate device the publication has measured. Only the Apple Watch Series 11 performed better, averaging 0.98% error in the same test protocol. The […]\nThis story continues at The Next Web",
+      "source": "TNW AI",
+      "publishedAt": "Sat, 20 Jun 2026 16:04:03 +0000",
+      "region": "海外",
+      "summary": "Apple’s AirPods Pro 3 heart rate sensor averaged 1.67% error compared to a medical-grade Polar H10 chest strap in testing by CNET Labs, making the earbuds the second most accurate consumer heart rate device the publication has measured. Only the Apple Watch Series 11 performed better, averaging 0.98% error in the same test protocol. The […]\nThis story continues at The Next Web",
+      "category": "技术与研究",
+      "company": "Apple",
+      "score": 24,
+      "breakdown": {
+        "substance": 6,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 5
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
+      "url": "https://www.qbitai.com/2026/06/436966.html",
+      "snippet": "抢人最猛的Meta，似乎先从内部裂开了",
+      "source": "量子位",
+      "publishedAt": "Sat, 20 Jun 2026 09:36:31 +0000",
+      "region": "国内",
+      "summary": "抢人最猛的Meta，似乎先从内部裂开了",
+      "category": "技术与研究",
+      "company": "Meta",
+      "score": 20,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "报道：特斯拉加速推进人工智能与机器人战略，申请注册 “Amazing Abundance” 商标",
+      "url": "https://36kr.com/newsflashes/3862280121865219?f=rss",
+      "snippet": "据报道，特斯拉已正式提交 “Amazing Abundance” 商标注册申请，此举表明企业将进一步深耕长期发展愿景，核心布局人工智能、人形机器人、自动驾驶系统，并依托自动化技术实现生产成本大幅下降的未来图景。（新浪财经）",
+      "source": "36氪",
+      "publishedAt": "2026-06-21 09:54:30  +0800",
+      "region": "国内",
+      "summary": "据报道，特斯拉已正式提交 “Amazing Abundance” 商标注册申请，此举表明企业将进一步深耕长期发展愿景，核心布局人工智能、人形机器人、自动驾驶系统，并依托自动化技术实现生产成本大幅下降的未来图景。",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 1,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 7
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "snippet": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sat, 20 Jun 2026 20:32:29 +0000",
+      "region": "海外",
+      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Microsoft finds USB worm that steals cryptocurrency through clipboard hijacking and Tor",
+      "url": "https://thenextweb.com/news/microsoft-crypto-clipper-usb-malware-tor-cryptocurrency-theft",
+      "snippet": "Microsoft Threat Intelligence has identified a new strain of self-propagating malware that spreads through USB drives, monitors the Windows clipboard for cryptocurrency wallet addresses and seed phrases, and routes all stolen data through a portable Tor client to avoid detection. The campaign has been active since at least February 2026, according to Microsoft’s analysis published […]\nThis story continues at The Next Web",
+      "source": "TNW AI",
+      "publishedAt": "Sat, 20 Jun 2026 16:12:26 +0000",
+      "region": "海外",
+      "summary": "Microsoft Threat Intelligence has identified a new strain of self-propagating malware that spreads through USB drives, monitors the Windows clipboard for cryptocurrency wallet addresses and seed phrases, and routes all stolen data through a portable Tor client to avoid detection. The campaign has been active since at least February 2026, according to Microsoft’s analysis published […]\nThis story continues at The Next Web",
+      "category": "技术与研究",
+      "company": "Microsoft",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 5
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "In the Weights is your new AI-centric vanity search",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "snippet": "So ... what's your In the Weights score?",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sat, 20 Jun 2026 19:41:11 +0000",
+      "region": "海外",
+      "summary": "So ... what's your In the Weights score?",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "挪威将禁止小学生使用生成式人工智能",
+      "url": "https://36kr.com/newsflashes/3861257682129921?f=rss",
+      "snippet": "挪威首相斯特勒6月19日表示，为防止对学习产生负面影响，挪威将禁止小学生使用生成式人工智能工具，同时限制人工智能工具在高年级学生教育中的使用。根据挪威政府公布的方案，6到13岁的小学生原则上不得使用人工智能工具；14到16岁的初中生可在教师的严密监管下谨慎使用此类工具。17到19岁的高中生应学习如何恰当地使用人工智能工具，以便为后续的高等教育和未来的职场环境做好准备。（央视新闻）",
+      "source": "36氪",
+      "publishedAt": "2026-06-20 17:30:48  +0800",
+      "region": "国内",
+      "summary": "挪威首相斯特勒6月19日表示，为防止对学习产生负面影响，挪威将禁止小学生使用生成式人工智能工具，同时限制人工智能工具在高年级学生教育中的使用。根据挪威政府公布的方案，6到13岁的小学生原则上不得使用人工智能工具；14到16岁的初中生可在教师的严密监管下谨慎使用此类工具。17到19岁的高中生应学习如何恰当地使用人工智能工具，以便为后续的高等教育和未来的职场环境做好准备。",
+      "category": "技术与研究",
+      "company": "",
+      "score": 13,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 7
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "英伟达开始搞机器人自己研究机器人那套了…",
+      "url": "https://www.qbitai.com/2026/06/437041.html",
+      "snippet": "为了让你烧token，英伟达已经卷到机器人身上了",
+      "source": "量子位",
+      "publishedAt": "Sat, 20 Jun 2026 12:06:20 +0000",
+      "region": "国内",
+      "summary": "为了让你烧token，英伟达已经卷到机器人身上了",
+      "category": "技术与研究",
+      "company": "",
+      "score": 15,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Ubisoft co-founder Claude Guillemot dies at 69 in plane crash near La Baule",
+      "url": "https://thenextweb.com/news/claude-guillemot-ubisoft-co-founder-dies-plane-crash-69",
+      "snippet": "Claude Guillemot, one of five brothers who co-founded Ubisoft in 1986, has died in a plane crash near the coastal town of La Baule in western France. He was 69. Guillemot and a flight instructor from Rennes were both killed when their twin-engine Cessna 421 crashed in a field near La Baule aerodrome on the […]\nThis story continues at The Next Web",
+      "source": "TNW AI",
+      "publishedAt": "Sat, 20 Jun 2026 17:17:57 +0000",
+      "region": "海外",
+      "summary": "Claude Guillemot, one of five brothers who co-founded Ubisoft in 1986, has died in a plane crash near the coastal town of La Baule in western France. He was 69. Guillemot and a flight instructor from Rennes were both killed when their twin-engine Cessna 421 crashed in a field near La Baule aerodrome on the […]\nThis story continues at The Next Web",
+      "category": "技术与研究",
+      "company": "Claude",
+      "score": 13,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 5
+      },
+      "isDuplicate": false
+    }
+  ],
+  "投融资与并购": [],
+  "政策与监管": []
+}
