@@ -1,141 +1,132 @@
 {
-  "date": "2026/7/17",
-  "count": 15,
+  "date": "2026/7/19",
+  "count": 14,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "独家 | 智谱 ARR 达到10 亿美元，半年增长 15 倍",
-      "company": "智谱",
-      "source": "36氪",
-      "publishedAt": "2026-07-17 09:05:04  +0800",
-      "summary": "文 | 周鑫雨\n编辑 | 张雨忻\n智能涌现从多个独立信源处获悉，截至 2026 年 7 月， 智谱的 ARR（年度经常性收入）已经达到 10 亿美元。\n截至发稿前，针对上述信息，智谱未回复。\n过去一年，AI Coding 和视频生成模型已经成为全球造血能力最强的 AI 赛道。\n海外，Anthropic 的 Claude Code 仅发布半年，ARR 就飙升至 10 亿美金。这一现金牛产品，也将 Anthropic 的整体 估值抬高到万亿美金（2026 年 5 月），超过了 OpenAI。\n但此前，对于国内大模型公司能否复刻 Anthropic 的财富神话，市场一直抱有疑问。一方面，背靠企业付费意愿高、订阅生态成熟的北美市场，Anthropic 有天然优渥的商业化土壤。另一方面，Anthropic 的估值，与智谱最新市值仍存在一个数量级的差距——这意味着，Anthropic 有更大量的资金能获取训练资源，这是国内模型厂商还比不了的。\n但智谱达到 10 亿美金 ARR 的速度，远超预期。曾有投资人对我们表示，智谱的 ARR 预计到 2026 年底，才能达到 10 亿-15 亿美金。\n一个更直观的对比是：根据Anthropic 的官方数据和智谱财报数据，ARR 从 1 亿美金增长到 10 亿美金，Anthropic 用了 15 个月，智谱仅用了 5 个月。据知情人士，在2026 年 1 月到7 月期间，智谱的 ARR 增长了 15 倍。\n智谱是国内最早押注 Coding 路线的模型厂商之一。2025年初，智谱就开始将力量收敛到了对模型 Coding 能力的提升上。智谱创始人唐杰曾形容智谱押注了 Coding 和 Reasoning——一种能与 Agent 共生共荣的模型能力。\n后续，智谱以平均两个月一版的速度，发布了一系列 Coding 能力位于全球第一梯队的旗舰模型。2026 年 6 月最新上线的 GLM-5.2，即便开源，多个核心指标依然追平甚至超过了 Claude Opus 4.8 以及 GPT-5.5。\n智谱官方曾提到，大模型的商业价值可以理解为“智能上限 × Token 消耗规模”，只要模型能力继续领先，调用量就会不断增长。财报显示，今年 Q1，GLM 的 API 价格累计调高约 83%，海外订阅价格甚至接近 Claude Code，但调用量仍增长约 400%。\n在用 Token 消耗衡量模型商业化水平的当下，Coding 和视频生成模型代表了两种范式：前者为企业和开发者直接提供生产力，后者则是进入到了工业化内容生产的核心环节。\n从营收数据上看，Coding 的市场需求已经走向确定，视频生成也是。据智能涌现了解，Seedance2.0 的月营收接近 10 亿元；而高盛预测，可灵 AI 的 ARR 到年底能达到 10 亿美金。\n不过，确定性的生意，也意味着更激烈的竞争。6 月，MiniMax 发布了 M3，重点强化了 Coding 和 Agent 能力。7 月 16 日，月之暗面也发布了 K3，一个参数量 达 2.8 万亿、综合智力水平仅次于 Claude Fable 5 和 GPT-5.6 Sol 的开源模型。\n就连海外，随着 GPT-5.6 的发布、ChatGPT 与 CodeX 的合并，OpenAI 在 Coding 领域，也显示出了逆袭 Anthropic 的势头。\n在当下这个时间点，Coding 之战还远未结束。",
-      "score": 55
-    },
-    {
-      "section": "技术与研究",
-      "title": "8点1氪丨长鑫科技网上发行初步中签率为0.40995452%；特朗普头像将被印上硬币，面值1美元；多家NFC鲜榨果汁生产车间被曝无水果",
+      "title": "国家数据局：全国已建成高质量数据集12万个",
       "company": "",
       "source": "36氪",
-      "publishedAt": "2026-07-17 08:05:38  +0800",
-      "summary": "今日热点导览\nSpaceX市值蒸发近8500亿美元\n韩国将暂停新的单一股票杠杆ETF上市，以抑制市场波动\n泡泡玛特创始人王宁带队探访苹果总部\n亚马逊Leo与南非企业达成协议，预计明年启动卫星互联网服务\n日本拟采购2.75万颗英伟达Rubin芯片，打造本土机器人AI基础模型\nTOP 3大新闻\n长鑫科技：网上发行初步中签率为0.40995452%\n36氪获悉，长鑫科技公告，根据上交所提供的数据，本次网上发行有效申购户数为9,428,778户，有效申购股数为816,920,125,000股。网上发行初步中签率为0.40995452%。\n特朗普头像将被印上硬币，面值1美元\n美国财政部长贝森特15日说，为纪念美国建国250周年，美国铸币局将开始铸造正面印有特朗普总统头像的1美元硬币。该硬币的正面还印有“自由”“我们信仰上帝”“1776—2026”等，背面则是白头海雕图案。特朗普表示，这款硬币令他感到“荣幸”。\n但批评人士对该硬币的合法性提出了质疑。1866年的一项美国法律规定，在世人物的肖像不得用在美国货币上，但该法律指的是由美国印刷局印制的纸币，硬币则由美国铸币局铸造。（第一财经）\n多家NFC鲜榨果汁生产车间被曝无水果，相关产品仍在线上售卖\n近年来，NFC果汁广受消费者欢迎。不少打着“鲜榨”“100%果汁”和“NFC果汁”旗号的菠萝汁、西瓜汁、山竹汁，在电商平台单品销量动辄高达几十万件，但价格却低到让人难以置信。记者实地暗访河南多家代工厂发现，车间根本没有水果和鲜榨设备，所谓“鲜果冷榨果汁”，全靠水、浓缩原浆勾兑而成。厂家坦言，“低价不可能鲜果现榨”，他们往往靠调换包装上的“100%”“NFC”等标注顺序打擦边球。目前多家涉事企业已停产整改。不过，记者发现线上仍有相关产品售卖，且部分瓶身外包装标识未作更改。（齐鲁电视台）\nAI最前沿\n月之暗面将推出新模型Kimi K3\n月之暗面将推出新模型Kimi K3，该模型参数规模达2万亿至3万亿。（新浪财经）\n马斯克旗下SpaceXAI宣布开源Grok Build\n当地时间7月15日，马斯克旗下SpaceXAI宣布开源Grok Build，并重置所有用户的使用限制。针对用户关于隐私的问题，公司表示，自上线以来，Grok Build完全尊重零数据保留（ZDR）原则。所有用户始终能够在命令行界面中禁用数据上传。在早期测试版中，非ZDR用户默认启用了数据保留。自7月12日起，公司已为所有GrokBuild用户禁用默认数据保留，此外正在删除之前保留的所有编码数据，确保每位用户的偏好得到尊重。（界面新闻）\nDeepSeek估值超3500亿元\n开润股份16日晚间的一纸投资进展公告，意外披露了国内头部人工智能企业“深度求索”（DeepSeek）的最新市场估值。按公告数据推算，DeepSeek本轮融资后估值已攀升至约3510亿元。从接近DeepSeek处人士确认，随着本轮融资完成，该公司目前已经开始启动第二轮融资了，但是年底是否冲刺科创板，目前并未确定。 (上证报)\n日本拟采购2.75万颗英伟达Rubin芯片，打造本土机器人AI基础模型\n7月16日消息，日本计划采购2.75万颗英伟达下一代Rubin AI芯片，用于构建本土机器人基础AI模型。新成立的Noetra将负责建设大型数据中心，并计划于2027年3月发布首个AI模型，随后持续迭代，未来数年推出面向机器人应用的AI模型。Noetra截至2027年3月已获日本政府3873亿日元资金支持，由软银、丰田汽车支持的Preferred Networks、日本电气等数十家企业参与运营。该项目旨在降低对海外技术依赖，并推动日本到2040年占据全球约60万亿日元机器人市场30%以上份额。（界面新闻）\n孙正义预计AI机器人市场规模将超290万亿元\n近期，国际资本市场人工智能相关板块出现剧烈波动，有关“AI泡沫”的争论也愈发激烈。当地时间14日，日本软银集团创始人兼首席执行官孙正义在东京出席一场活动时表示，对AI泡沫的担忧毫无依据，今天质疑AI，就如同当年拒绝汽车和飞机一样荒谬。据共同社报道，当天的活动上，孙正义表示，2040年前后，将有约10亿台搭载AI的人形机器人投入运行，届时，AI机器人的市场规模将扩大到约7000万亿日元（约合人民币292.7万亿元），相当于全球经济总量的20%。（央视财经）\n大公司/大事件\n美股三大指数集体收跌，SpaceX盘后下跌3%\n美股三大指数集体收跌。半导体、存储芯片股大跌，费城半导体指数跌超4%，英特尔、美光科技、博通均跌超5%，SK海力士跌超13%，闪迪跌超12%。中概股逆势走强，纳斯达克中国金龙指数涨1.79%。\n大型科技股表现分化。苹果、微软上涨逾1%，特斯拉跌0.86%、亚马逊跌近2%、英伟达跌超2%，谷歌大跌逾4%。此外，SpaceX股价持续下行，当日跌超3%。该股从6月上市以来高点大幅回落逾31%，市场对其超高估值的质疑持续发酵。（中国证券报）\n巴菲特：重仓Alphabet系亲自决策，后悔买入过晚\n传奇投资者沃伦·巴菲特近日接受采访时表示，伯克希尔·哈撒韦近期对谷歌母公司Alphabet的重大投资是由他本人亲自促成，而非新任首席执行官格雷格·阿贝尔。巴菲特透露，是他发起了这笔交易，并坚称自己与接班人阿贝尔保持着极其密切的沟通，虽然两人在重大决策上彼此认可，但他才是此项投资的最终决定者。尽管亲自操刀了这笔巨额投资，现年95岁的巴菲特在受访时坦言，自己犯了未能及早投资Alphabet的错误，他长期以来一直对错失这家科技巨头的早期崛起表示遗憾。（界面新闻）\n苹果上调AppleCare+服务价格\n苹果上调AppleCare+服务价格，Mac和iPad月度套餐费用上涨0.5美分，年度套餐上涨5美元，仅影响新用户。（财联社）\n韩国将暂停新的单一股票杠杆ETF上市，以抑制市场波动\n韩国将暂停新的单一股票杠杆交易所交易产品上市，以抑制市场波动。此前与三星电子和SK海力士挂钩的杠杆基金需求激增。韩国金融服务委员会周四发表声明称，该禁令将持续有效，直至市场状况稳定。此外，当局还将自8月5日起把杠杆ETF的最低存款额从1000万韩元提高至3000万韩元（20300美元）。这是韩国政府迄今为抑制散户交易狂潮而推出的最全面举措。（新浪财经）\n泡泡玛特创始人王宁带队探访苹果总部\n36氪获悉，当地时间7月14日下午，泡泡玛特创始人王宁率领核心高管团队探访美国硅谷苹果总部Apple Park，并与苹果现任CEO Tim Cook、即将上任的新任CEO John Ternus等高管会面。双方围绕创意设计、数字生态与全球消费趋势展开了深入而友好的交流。\nAI手机概念爆发，智度股份等多股涨停\n7月16日，AI手机概念持续活跃，带动端侧AI概念整体走强，智度股份直线涨停走出2连板，此前格林精密、福日电子、国光电器、福蓉科技等涨停，豪声电子、慧为智能、电声股份、泓禧科技均涨超10%。消息面上，据界面新闻报道，字节跳动联合中兴努比亚打造的首款AI智能体手机（“豆包AI智能体手机”）今年将有多款机型发布，其中一款将于2026世界人工智能大会期间亮相，其整体备货约20万台，首批备货10万台以内。（财联社）\n深圳等一线城市租房需求攀升，租金房价比持续抬升\n与房价相比，房租是和居民生活成本关联更为直接的指标。随着2026年暑期租赁高峰全面到来，深圳等一线城市租房需求快速攀升，租赁市场率先走出调整通道。近日，走访深圳市罗湖区、龙岗区、福田区多个住宅小区与城中村发现，伴随毕业季求职、换房需求集中释放，深圳租赁市场活跃度显著提升，城市人口吸引力与经济活力在租房数据中得到直观体现。从全国范围来看，今年上半年一线城市平均租金实现小幅上涨，正式结束此前连续两年的调整态势。（证券时报）\n脑机接口迎政策资本双重加持，产业加速打通商业化落地链路\n7月15日，上海市科委消息，植入式脑机接口手部运动功能代偿系统（NEO）获批上市后的首张处方7月13日在上海开出，全球首例植入手术在复旦大学附属华山医院完成。该款脑机接口产品于今年3月获批上市。7月15日，A股脑机接口概念股走强。行业人士研判，中国脑机接口领域发展水平整体位列全球第一梯队，依托完整产业链与工程师红利具备弯道超车潜力，但仍在脑神经底层基础研究、专用芯片等领域存在短板，业内正从政策引导、产业集聚、技术迭代等多维度破局，稳步打造完整商业闭环。（中证网）\n现代汽车集团将把波士顿动力转为全资子公司\n现代汽车集团7月16日表示，将收购软银持有的波士顿动力公司近10%股份，把后者转变为全资子公司。该集团称，此举将有助于其在各项业务中部署先进机器人技术。此前有媒体报道称，这笔交易的价值预计近5000亿韩元（约合3.35亿美元）。（界面新闻）\n中信证券：建议重点关注医疗健康产业投资机会\n36氪获悉，中信证券研报称，医药板块继续凸显出刚需的高确定性，同时叠加国内生物医药融资数据的持续高增长，中信证券认为医药创新企业和全球医药产业链企业有望在未来3-5年持续迎来业绩的稳健增长。同时叠加今年Q3开始，国产创新药核心管线即将迎来重磅数据读出催化、具有全球潜力的资产国际化价值有望加速兑现。同时政策大变革也开始逐步重新回归到临床价值和需求导向的市场价格定价体系，带来稳定且持续的国内医药市场环境和长坡厚雪的发展主基调，带来行业成长确定性较高的阿尔法和贝塔。建议重点关注医疗健康产业投资机会。\n韩国央行将利率上调25个基点至2.75%\n韩国央行将利率上调25个基点至2.75%，为2023年1月以来首次加息，符合市场预期。（财联社）\n基金二季报科技调仓现分歧，多只绩优基金维持高仓位\n今年上半年，科技板块是A股市场当之无愧的“领头羊”，多只重仓科技赛道的权益类基金收益率表现亮眼。最新披露的公募基金二季报显示，尽管多数基金经理依然对科技板块保持着极高配置热情，但针对科技股内部的板块轮动以及估值逻辑，已经产生显著分歧。随着全球AI浪潮持续，科技板块呈现了极高景气度。从近期已披露的基金二季报来看，中欧基金、平安基金、融通基金、红土创新基金和金信基金等多家公募旗下多只绩优基金，对科技股仍然维持高仓位运作，且多只产品单季度取得超高收益。（证券时报）\n行业景气度得到验证，锂电产业链企业上半年业绩大面积预喜\n锂电企业2026年上半年业绩预告集中披露，行业上行周期逻辑得到进一步印证。Choice数据显示，截至7月15日收盘，已有35家锂电产业链上市公司发布上半年业绩预告，除3家业绩同比下滑，其余为预增、扭亏或减亏。各企业的“成绩单”显示，从上游锂矿、锂盐，到中游锂电材料，再到下游动力电池、储能赛道，产业链各环节景气度同步回暖。上游锂盐实现量价齐升，相关企业业绩大面积预增；中游隔膜、电解液与下游电池厂商盈利同步修复。（上证报）\n印度上调柴油和航空燃油出口税，下调汽油出口税\n印度政府宣布，自7月16日起调整石油产品出口暴利税。其中，柴油出口暴利税从每升8.5卢比上调至15.5卢比，航空涡轮燃料出口税从每升7.5卢比上调至14.5卢比；汽油出口税则从每升4卢比下调至2.5卢比。（财联社）\n日本议会通过法律，将加密货币重新归类为金融资产\n日本将加密货币重新归类为金融工具，这一结构性变化确立了加密资产单独征税的法律框架以及未来加密交易所交易基金（ETF）的基础。该立法周三经议会批准修订了《金融工具和交易法》及《支付服务法》（PSA）。该修订将加密货币从主要作为支付工具的框架转变为与其他金融工具一同作为投资对待。新规预计将于2027年生效。（新浪财经）\n前IBM金融掌门人范斌空降中关村科金，出任高级副总裁\n7月16日，中关村科金宣布，前IBM金融行业总经理范斌出任高级副总裁，他将负责银行及信贷事业部、财富及保险事业部、联合运营事业部以及海外业务战略及拓展。这步人事落子，透露出中关村科金两大战略意图：加固金融基本盘，提速出海新增长。范斌拥有25年金融咨询经验，是中国区唯一的IBM金融行业学院院士，曾操盘国内大量核心银行系统变革项目。\n亚马逊Leo与南非企业达成协议，预计明年启动卫星互联网服务\n亚马逊旗下低轨卫星网络Leo当地时间7月15日宣布，与南非最大固定互联网服务提供商Herotel达成协议，通过一项名为evry的新服务将卫星互联网引入南非。Evry预计将于2027年正式上线，为南非的住宅用户提供网络连接。这是Amazon Leo在非洲达成的首项此类协议。（界面新闻）\n成立世界人工智能合作组织协定签署仪式在上海举行\n7月16日，成立世界人工智能合作组织协定签署仪式在上海举行。中共中央政治局委员、外交部长王毅出席并代表中国政府签署协定。协定明确，世界人工智能合作组织是独立的政府间国际组织，遵循《联合国宪章》宗旨，秉持共商共建共享理念，坚持以人为本原则，旨在促进人工智能国际合作和全球治理，确保人工智能朝着有益、安全、公平方向健康有序发展，造福全人类。组织总部设在中国上海。哈萨克斯坦副总理兼人工智能和数字发展部部长马迪耶夫、老挝副总理兼外长通沙万、巴基斯坦副总理兼外长达尔、俄罗斯总统办公厅副主任奥列什金、印度尼西亚经济统筹部部长艾尔朗加等29个国家代表签署协定，成为创始成员国。联合国秘书长古特雷斯等国家和国际组织代表出席仪式。（新华社）\n上市进行时\n神州股份科创板IPO审核状态变更为“已问询”\n36氪获悉，上交所官网显示，7月15日，江苏神州半导体科技股份有限公司科创板IPO审核状态变更为“已问询”。\n百度：寻求在港交所主板自愿转化为双重主板上市\n36氪获悉，百度宣布，董事会批准根据香港联交所指引信HKEX-GL112-22寻求于香港联交所主板自愿转换为双重主要上市的动议。预期主要转换事项将于本年度内生效。董事会亦授权本公司管理层进行相关筹备工作并采取必要步骤以完成主要转换事项。主要转换事项后，本公司将成为于香港联交所主板及纳斯达克全球精选市场双重主要上市的公司，其A类普通股及美国存托股将继续于两个证券交易所内买卖（视情况而定），且仍可互相转换。\n大公司财报\n台积电二季度净利润为7065.6亿新台币，同比增长77.4%\n台积电7月16日公布截至6月30日的2026年二季度合并财务报告。合并营收为12703.8亿新台币，同比增长36%，净利润为7065.6亿新台币，同比增长77.4%；毛利率为67.7%，营业利润率为60.3%，净利润率为55.6%。二季度晶圆总营收中，2纳米、3纳米、5纳米和7纳米制程出货分别占比3%、30%、33%和11%，7纳米及更先进制程合计占晶圆总营收的77%。（界面新闻）\n摩尔线程：预计上半年营业收入同比增长135.12%-149.37%\n36氪获悉，摩尔线程公告，预计2026年上半年营业收入为16.5亿元—17.5亿元，同比增长135.12%至149.37%。报告期内，得益于人工智能产业的蓬勃发展及市场对全功能GPU的强劲需求，叠加公司夸娥智算集群商业化加速，产品性能获得客户高度认可并实现稳定供货，公司市场竞争优势进一步扩大，推动收入快速增长。\n海光信息：预计上半年净利润同比增长41.50%到52.32%\n36氪获悉，海光信息公告，预计2026年上半年实现归属于母公司所有者的净利润与上年同期（法定披露数据）相比，将增加49854.82万元到62854.82万元，同比增长41.50%到52.32%。扣除股份支付的影响后，将增加92478.07万元到105478.07万元，同比增长74.27%到84.71%。\n奈飞第二季度营收125.6亿美元，同比增长13%\n奈飞第二季度营收为125.6亿美元，同比增长13%，市场预期为125.9亿美元；营业利润为42亿美元，同比增长11%。公司将全年营收预期下调至510亿至514亿美元，同比增长13%至14%，预计2026年营业利润率为31.5%。（界面新闻）\n酷产品\n豆包AI手机今年将发布多款机型\n字节跳动联合中兴努比亚打造的首款AI智能体手机（“豆包AI智能体手机”）今年将有多款机型发布，其中一款将于2026世界人工智能大会期间亮相，其整体备货约20万台，首批备货10万台以内，截至发稿中兴方面对此消息暂无回应。",
-      "score": 48
-    },
-    {
-      "section": "投融资与并购",
-      "title": "押注智能体时代，灵睿智芯完成数亿元融资，RISC-V 迎算力新机遇",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Thu, 16 Jul 2026 20:33:09 GMT",
-      "summary": "点击查看原文>",
-      "score": 34
-    },
-    {
-      "section": "技术与研究",
-      "title": "Google Vids now lets you star in your own AI videos",
-      "company": "Google",
-      "source": "TechCrunch AI",
-      "publishedAt": "Thu, 16 Jul 2026 18:32:54 +0000",
-      "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
-      "score": 27
+      "publishedAt": "2026-07-18 16:00:27  +0800",
+      "summary": "记者今天从国家数据局了解到，我国持续加大优质数据供给，已建成高质量数据集12万个。截至今年6月底，全国已建成科学研究、工业制造、医疗卫生、教育教学等行业领域的高质量数据集总体量超1565拍字节（PB），较一季度末增长超60%，现有体量相当于中国国家图书馆数字资源总量的547倍左右，为人工智能发展提供有力支撑。与此同时，我国数据标注产业加快发展，有效支撑高质量数据集建设。截至今年6月底，四川成都、辽宁沈阳、安徽合肥、湖南长沙、海南海口、河北保定、山西大同七个数据标注先行先试城市标注规模超119拍字节（PB），数据标注从业人员达14万人。下一步，国家数据局将深化构建服务人工智能的高质量数据供给体系，以模型应用牵引数据供给、以数据驱动模型迭代，推动实现数据集有偿使用的价值闭环。",
+      "score": 35
     },
     {
       "section": "产品发布与更新",
-      "title": "谷歌 Genkit 推出 Agents API：支持分离式任务轮次与人机协同",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Thu, 16 Jul 2026 16:00:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 24
+      "title": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线",
+      "company": "腾讯",
+      "source": "36氪",
+      "publishedAt": "2026-07-18 17:30:23  +0800",
+      "summary": "7月18日，在2026世界人工智能大会（WAIC）上，腾讯面向具身智能与智能体领域带来多项产品技术的升级发布。在具身智能领域，腾讯正式升级发布具身智能全栈方案，贯穿云底座、模型层、平台层与应用层，全面助力机器人本体及系统开发商提质提效；在智能体领域，基于个人与企业提效需求，推出差异化的全矩阵解决方案。其中，面向企业用户的腾讯云企业级智能体开发平台ADP4.0海外版正式上线，同时发布「十大行业百大场景生态计划」，目前该平台已落地30多个行业，覆盖智能客服、知识管理、媒体生产等业务场景；面向个人用户的腾讯WorkBuddy正式发布独立App，成为业界首个登陆iOS、Android、鸿蒙三端的通用智能体应用。",
+      "score": 30
     },
     {
-      "section": "技术与研究",
-      "title": "Google’s AI Mode now lets you link and interact with select apps",
-      "company": "Google",
-      "source": "TechCrunch AI",
-      "publishedAt": "Thu, 16 Jul 2026 16:00:00 +0000",
-      "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-      "company": "OpenAI",
-      "source": "MIT Technology Review",
-      "publishedAt": "Thu, 16 Jul 2026 12:10:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other…",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "一句「哈哈」引发的苹果OpenAI窃密大战",
-      "company": "OpenAI",
-      "source": "量子位",
-      "publishedAt": "Thu, 16 Jul 2026 04:47:55 +0000",
-      "summary": "苹果怒斥：烂到骨子里",
-      "score": 20
-    },
-    {
-      "section": "投融资与并购",
-      "title": "工业母机进入“计算化时刻”：中国移动投资友机技术，押注工业AI下一代基础设施",
+      "section": "产品发布与更新",
+      "title": "WAIC 2026现场发布AI商业落地报告，海亮科服同时入选产业图谱、Top50",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Thu, 16 Jul 2026 09:29:09 +0000",
-      "summary": "暂无摘要",
+      "publishedAt": "Sat, 18 Jul 2026 10:12:52 +0000",
+      "summary": "全面演进为赋能千行百业的新型数字基础设施",
       "score": 19
     },
     {
-      "section": "产品发布与更新",
-      "title": "Roblox launches Build, a mobile tab that turns text prompts into playable games",
-      "company": "",
-      "source": "TNW AI",
-      "publishedAt": "Thu, 16 Jul 2026 21:27:10 +0000",
-      "summary": "Roblox announced Build on Wednesday, a new creation tab inside the Roblox mobile app that lets anyone turn a text prompt into a basic playable game without touching Roblox Studio or writing a line of code. A creator can describe something like a cozy forest adventure game with environmental obstacles, and Build will generate a […]\nThis story continues at The Next Web",
-      "score": 15
-    },
-    {
       "section": "技术与研究",
-      "title": "The driver who crashed a Tesla into a Texas home at 70 mph had pressed the accelerator to 100 percent, NTSB finds",
-      "company": "Tesla",
-      "source": "TNW AI",
-      "publishedAt": "Thu, 16 Jul 2026 20:18:56 +0000",
-      "summary": "The driver of a Tesla that crashed into a Texas home and killed a 76-year-old woman had manually overrode Full Self-Driving by pressing the accelerator pedal to 100 percent, the National Transportation Safety Board said in a preliminary report released on Wednesday. The 2025 Model 3 was travelling at more than 70 mph on a […]\nThis story continues at The Next Web",
-      "score": 15
-    },
-    {
-      "section": "技术与研究",
-      "title": "氪星晚报｜IDC：百度智能云蝉联中国金融大模型市场份额第一；腾讯云与RoboScience机器科学达成战略合作；商务部回应推动解决安世半导体问题进展",
-      "company": "百度",
-      "source": "36氪",
-      "publishedAt": "2026-07-16 18:58:17  +0800",
-      "summary": "大公司：\nOPPO：realme新品将聚焦海外市场，中国市场暂停产品更新\n36氪从OPPO方面获悉，为了进一步整合集团资源，实现全球产品战略的协同，未来 realme 新品将聚焦海外市场，在中国市场暂停产品更新；一加在中国市场的产品更新保持不变。realme和一加将持续在游戏和性能领域为用户提供优质的体验。\nIDC：百度智能云蝉联中国金融大模型市场份额第一\n36氪获悉，根据国际数据公司（IDC）最新发布的《中国金融行业生成式AI平台及应用解决方案市场份额，2025》报告，2025年中国金融行业生成式AI市场迎来爆发式增长，整体规模达到17.40亿元人民币，同比增速高达90.4%。在高速增长的赛道中，百度智能云凭借在技术底座与场景落地上的双重优势，以16.6%的市场份额位居中国金融行业生成式AI平台及应用解决方案市场第一。\n深圳华强：积极协助华为建设算力生态，相关工作已在尽快推进落地中\n36氪获悉，深圳华强在互动平台表示，公司是华为计算部件（含昇腾、鲲鹏）总经销商，将持续推进华为计算部件的技术和产品推广，积极协助华为建设算力生态，相关工作已在尽快推进落地中。二季度具体经营情况请以公司后续披露的定期报告为准。\n泡泡玛特创始人王宁带队探访苹果总部\n36氪获悉，当地时间7月14日下午，泡泡玛特创始人王宁率领核心高管团队探访美国硅谷苹果总部Apple Park，并与苹果现任CEO Tim Cook、即将上任的新任CEO John Ternus等高管会面。双方围绕创意设计、数字生态与全球消费趋势展开了深入而友好的交流。\n腾讯云与RoboScience机器科学达成战略合作\n36氪获悉，7月15日，腾讯云与全球领先的通用具身智能企业RoboScience机器科学签署战略合作协议。双方将基于腾讯云基础设施服务能力，共同打造面向具身智能产业的一体化底座，打通从数据采集、多地协同标注到模型训练与商业化落地的规模化路径，共同打造行业首个云端EaaS（Embodied-Al-as-a-Service）具身智能服务。\n百度文库、网盘7月底将升级GenFlow\n36氪获悉，百度文库、网盘将在近期升级GenFlow，面向专业人群和场景提供更专业服务，并将上线独立网页端、客户端，定位为专为金融、教育、办公等专业从业者打造的“多端通用Agent平台”，将于7月底开启内部邀测。据悉，GenFlow升级后的版本，首期将聚焦金融领域，为金融从业者、爱好者、金融公司及团队等，提供定制化金融行业解决方案。\n投融资：\n数据中心提供商Csquare敲定美国IPO定价，融资规模10.5亿美元\n7月16日，资管巨头博枫支持的数据中心提供商Csquare宣布，将在美国IPO中发行5000万股普通股，发行价定为每股21.00美元。此次发行预计将于当地时间7月17日完成，但需满足惯例成交条件。（界面）\n新产品：\n极氪9X五座版官宣28日上市\n7月16日，极氪官宣9X五座版将于7月28日上午10点直接开启大定，不举办线下发布会。公开信息显示，极氪9X上市以来连续7个月获得50万级大型SUV销冠，成交均价超过53万元，最近杰兰路报告显示其NPS用户净推荐值获得50万元以上全车型第一。迈莎锐、虏曼等欧洲改装品牌先后为其推出定制方案，其中迈莎锐版9X海外售价超40万美元。\n京东：推出京麦AI经营中心\n36氪获悉，7月16日，据京东黑板报消息，京东日前宣布正式推出京麦AI经营中心，并向商家全量开放22款核心AI工具。京东京麦相关负责人表示，京麦AI经营中心是京东专为商家打造的一站式AI经营聚合平台。目前，京麦AI经营中心首期功能已全面上线。\n金山办公连发两款AI办公智能体，覆盖个人级与组织级两大场景\n36氪获悉，7月15日，金山办公在上海举办“2026 AI生产力大会”，同日连发两款AI办公智能体，分别覆盖个人级与组织级两大场景：面向个人的灵犀专业版，与面向组织的 WPS Comate。其中，灵犀专业版为每一位用户提供专属AI办公助理；WPS Comate则作为全新组件助力WPS 365完成升级。金山办公CEO章庆元在会上表示，办公软件正在进入第三个时代——从单机办公、协同办公，走向AI办公。\n阿里巴巴将在WAIC展出多个智能体平台\n36氪获悉，7月17日，世界人工智能大会展览将在上海世博展览馆开展。此次大会，阿里巴巴集团展出了面向千行百业和前沿科研的多个AI智能体平台，包括阿里云百炼推理平台、“达摩灵枢”（DAMO Lingshu）科研智能体平台等。据了解，阿里云百炼推理平台截至目前已服务全球500万用户、120万付费用户。此前科研团队在达摩灵枢辅助下，基于材料基础模型Elements，预测出6.8万种可能的超导材料，其中4种全新材料已合成并证实存在超导性。\n其他值得关注的新闻：\n商务部回应推动解决安世半导体问题进展\n商务部新闻发言人何亚东在7月16日举行的商务部例行新闻发布会上回应推动解决安世半导体进展的有关提问时说，中荷建立开放务实的全面合作伙伴关系10多年来，双边经贸合作不断深化。7月7日，荷兰外贸与发展合作大臣舍尔茨玛访华，王文涛部长与其共同主持召开中荷经贸混委会第18次会议，就中荷、中欧经贸关系坦诚、深入交换意见。中荷双方同意，双方政府应创造良好环境，推动企业通过协商化解纠纷，保障全球半导体产供链安全稳定。（新华社）\n2030年我国光热发电规模将达1500万千瓦\n中国电力企业联合会数据显示，“十四五”以来，我国光热发电产业年度复合增长率达11.7%，显著高于全球4.24%的增速。“十五五”时期，我国光热发电产业将进一步进入发展快车道，到2030年，我国光热发电总装机规模将达到1500万千瓦左右。（央视新闻）\n韩国考虑对14岁及以下儿童实施社交媒体限制\n韩国媒体监管机构周四表示，鉴于对社交媒体过度使用问题日益担忧，正考虑对14岁及以下儿童实施社交媒体限制。韩国媒体通信委员会主席金钟哲在青瓦台举行的政策简报会上发表讲话，强调青少年过度使用社交媒体是全球性问题。韩国媒体监管机构的最新提议正值其他一些国家政府纷纷采取立法措施限制儿童和青少年使用社交媒体平台之际。欧盟表示，将在今年夏季之后提出一项立法，限制儿童访问此类平台。澳大利亚也成为了全球首个禁止16岁以下未成年人拥有社交媒体账号的国家。",
-      "score": 39
-    },
-    {
-      "section": "技术与研究",
-      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+      "title": "火速上架！空降即登顶Arena，Kimi K3当日登陆「模型广场」",
       "company": "Kimi",
-      "source": "TechCrunch AI",
-      "publishedAt": "Thu, 16 Jul 2026 14:26:29 +0000",
-      "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
-      "score": 21
+      "source": "InfoQ",
+      "publishedAt": "Sat, 18 Jul 2026 17:14:05 GMT",
+      "summary": "点击查看原文>",
+      "score": 19
     },
     {
       "section": "技术与研究",
-      "title": "RLinf v0.3来了！从模型生态到真机部署五大能力跃升，无问芯穹与清华大学联合打造",
+      "title": "The White House is now deciding who gets access to frontier AI models, not the labs",
       "company": "",
-      "source": "量子位",
-      "publishedAt": "Thu, 16 Jul 2026 09:25:17 +0000",
-      "summary": "为破解具身智能行业发展瓶颈构建了新一代“进化底座”",
+      "source": "TNW AI",
+      "publishedAt": "Sat, 18 Jul 2026 14:15:31 +0000",
+      "summary": "The Trump administration is now dictating which companies and entities get access to frontier AI models from Anthropic and OpenAI, CNBC reported on Friday, citing two people familiar with the matter. Until now, the labs made that decision themselves. Anthropic controlled access to its Mythos cybersecurity model through an initiative called Project Glasswing. OpenAI ran […]\nThis story continues at The Next Web",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "“我现在干得还行，但劝你别进来！”AI 蜜月期要结束了：打工人变成“快乐的行尸走肉”",
+      "title": "Meta patented an AI system that listens to your voice all day and tracks your mood",
+      "company": "Meta",
+      "source": "TNW AI",
+      "publishedAt": "Sat, 18 Jul 2026 13:45:03 +0000",
+      "summary": "Meta has been granted a patent for an AI system that continuously records a user’s voice, transcribes it, and feeds the audio through a machine learning model to detect their emotional state. The patent, published on July 2, describes a device that listens for “audible communications” including sighs, laughter, and vocal tone, and combines them […]\nThis story continues at The Next Web",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "Kimi: Threat or menace?",
+      "company": "Kimi",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sat, 18 Jul 2026 18:51:07 +0000",
+      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "WAIC看了一圈，这家公司的机器人在认真打工",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Sat, 18 Jul 2026 13:23:21 +0000",
+      "summary": "机器人真正具备了干活的完整能力",
+      "score": 15
+    },
+    {
+      "section": "技术与研究",
+      "title": "中国 AI 产业核心要素出海发展白皮书",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Thu, 16 Jul 2026 18:47:21 GMT",
+      "publishedAt": "Sat, 18 Jul 2026 12:02:12 GMT",
       "summary": "点击查看原文>",
+      "score": 14
+    },
+    {
+      "section": "技术与研究",
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "company": "",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sat, 18 Jul 2026 04:47:25 +0000",
+      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+      "score": 14
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "云迹科技发布“人机共生世界价值模型”",
+      "company": "",
+      "source": "36氪",
+      "publishedAt": "2026-07-18 16:15:26  +0800",
+      "summary": "在2026世界人工智能大会（WAIC）上，云迹科技发布“人机共生世界价值模型”。该模型基于超11亿次真实服务交互数据，旨在打造面向物理世界并以价值最优为目标的人机协同智能大脑。云迹的“世界价值模型”具备多机协同、长程规划、人机共生、价值驱动四大核心能力，其T1-T4架构，将复杂服务拆解为场景理解、任务规划、资源调度与原子执行四层，实现从规则控制到价值导向的智能决策。",
+      "score": 27
+    },
+    {
+      "section": "技术与研究",
+      "title": "Chinese car sales in the UK jumped from 384 in 2015 to 285,000 last year. The tariff gap explains why.",
+      "company": "",
+      "source": "TNW AI",
+      "publishedAt": "Sat, 18 Jul 2026 14:14:00 +0000",
+      "summary": "Brits bought 384 Chinese-made vehicles in 2015. Last year, they bought 285,000, according to automotive consulting firm Mobility Global. The growth is accelerating. BYD nearly doubled its UK sales in the first half of 2026 to over 37,000 units, and Chinese brands collectively hold roughly 13% of new car registrations in Britain, double their share […]\nThis story continues at The Next Web",
       "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "WAIC 2026现场直击：万兴科技旗下万兴剧厂“无限画布”、新品Filmora.AI与Virbo AI火爆首秀",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Sat, 18 Jul 2026 11:19:41 +0000",
+      "summary": "暂无摘要",
+      "score": 15
+    },
+    {
+      "section": "技术与研究",
+      "title": "AI 智能体算力消耗过快，传统账单风控跟不上速度",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Sat, 18 Jul 2026 09:00:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 14
     }
   ]
 }

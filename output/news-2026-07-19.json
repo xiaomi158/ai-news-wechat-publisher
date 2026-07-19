@@ -1,0 +1,274 @@
+{
+  "产品发布与更新": [
+    {
+      "title": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线",
+      "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+      "snippet": "7月18日，在2026世界人工智能大会（WAIC）上，腾讯面向具身智能与智能体领域带来多项产品技术的升级发布。在具身智能领域，腾讯正式升级发布具身智能全栈方案，贯穿云底座、模型层、平台层与应用层，全面助力机器人本体及系统开发商提质提效；在智能体领域，基于个人与企业提效需求，推出差异化的全矩阵解决方案。其中，面向企业用户的腾讯云企业级智能体开发平台ADP4.0海外版正式上线，同时发布「十大行业百大场景生态计划」，目前该平台已落地30多个行业，覆盖智能客服、知识管理、媒体生产等业务场景；面向个人用户的腾讯WorkBuddy正式发布独立App，成为业界首个登陆iOS、Android、鸿蒙三端的通用智能体应用。",
+      "source": "36氪",
+      "publishedAt": "2026-07-18 17:30:23  +0800",
+      "region": "国内",
+      "summary": "7月18日，在2026世界人工智能大会（WAIC）上，腾讯面向具身智能与智能体领域带来多项产品技术的升级发布。在具身智能领域，腾讯正式升级发布具身智能全栈方案，贯穿云底座、模型层、平台层与应用层，全面助力机器人本体及系统开发商提质提效；在智能体领域，基于个人与企业提效需求，推出差异化的全矩阵解决方案。其中，面向企业用户的腾讯云企业级智能体开发平台ADP4.0海外版正式上线，同时发布「十大行业百大场景生态计划」，目前该平台已落地30多个行业，覆盖智能客服、知识管理、媒体生产等业务场景；面向个人用户的腾讯WorkBuddy正式发布独立App，成为业界首个登陆iOS、Android、鸿蒙三端的通用智能体应用。",
+      "category": "产品发布与更新",
+      "company": "腾讯",
+      "score": 30,
+      "breakdown": {
+        "substance": 12,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 7
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "WAIC 2026现场发布AI商业落地报告，海亮科服同时入选产业图谱、Top50",
+      "url": "https://www.qbitai.com/2026/07/453889.html",
+      "snippet": "全面演进为赋能千行百业的新型数字基础设施",
+      "source": "量子位",
+      "publishedAt": "Sat, 18 Jul 2026 10:12:52 +0000",
+      "region": "国内",
+      "summary": "全面演进为赋能千行百业的新型数字基础设施",
+      "category": "产品发布与更新",
+      "company": "",
+      "score": 19,
+      "breakdown": {
+        "substance": 4,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "云迹科技发布“人机共生世界价值模型”",
+      "url": "https://36kr.com/newsflashes/3900822239758214?f=rss",
+      "snippet": "在2026世界人工智能大会（WAIC）上，云迹科技发布“人机共生世界价值模型”。该模型基于超11亿次真实服务交互数据，旨在打造面向物理世界并以价值最优为目标的人机协同智能大脑。云迹的“世界价值模型”具备多机协同、长程规划、人机共生、价值驱动四大核心能力，其T1-T4架构，将复杂服务拆解为场景理解、任务规划、资源调度与原子执行四层，实现从规则控制到价值导向的智能决策。",
+      "source": "36氪",
+      "publishedAt": "2026-07-18 16:15:26  +0800",
+      "region": "国内",
+      "summary": "在2026世界人工智能大会（WAIC）上，云迹科技发布“人机共生世界价值模型”。该模型基于超11亿次真实服务交互数据，旨在打造面向物理世界并以价值最优为目标的人机协同智能大脑。云迹的“世界价值模型”具备多机协同、长程规划、人机共生、价值驱动四大核心能力，其T1-T4架构，将复杂服务拆解为场景理解、任务规划、资源调度与原子执行四层，实现从规则控制到价值导向的智能决策。",
+      "category": "产品发布与更新",
+      "company": "",
+      "score": 27,
+      "breakdown": {
+        "substance": 14,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 7
+      },
+      "isDuplicate": false
+    }
+  ],
+  "技术与研究": [
+    {
+      "title": "国家数据局：全国已建成高质量数据集12万个",
+      "url": "https://36kr.com/newsflashes/3900807486293892?f=rss",
+      "snippet": "记者今天从国家数据局了解到，我国持续加大优质数据供给，已建成高质量数据集12万个。截至今年6月底，全国已建成科学研究、工业制造、医疗卫生、教育教学等行业领域的高质量数据集总体量超1565拍字节（PB），较一季度末增长超60%，现有体量相当于中国国家图书馆数字资源总量的547倍左右，为人工智能发展提供有力支撑。与此同时，我国数据标注产业加快发展，有效支撑高质量数据集建设。截至今年6月底，四川成都、辽宁沈阳、安徽合肥、湖南长沙、海南海口、河北保定、山西大同七个数据标注先行先试城市标注规模超119拍字节（PB），数据标注从业人员达14万人。下一步，国家数据局将深化构建服务人工智能的高质量数据供给体系，以模型应用牵引数据供给、以数据驱动模型迭代，推动实现数据集有偿使用的价值闭环。",
+      "source": "36氪",
+      "publishedAt": "2026-07-18 16:00:27  +0800",
+      "region": "国内",
+      "summary": "记者今天从国家数据局了解到，我国持续加大优质数据供给，已建成高质量数据集12万个。截至今年6月底，全国已建成科学研究、工业制造、医疗卫生、教育教学等行业领域的高质量数据集总体量超1565拍字节（PB），较一季度末增长超60%，现有体量相当于中国国家图书馆数字资源总量的547倍左右，为人工智能发展提供有力支撑。与此同时，我国数据标注产业加快发展，有效支撑高质量数据集建设。截至今年6月底，四川成都、辽宁沈阳、安徽合肥、湖南长沙、海南海口、河北保定、山西大同七个数据标注先行先试城市标注规模超119拍字节（PB），数据标注从业人员达14万人。下一步，国家数据局将深化构建服务人工智能的高质量数据供给体系，以模型应用牵引数据供给、以数据驱动模型迭代，推动实现数据集有偿使用的价值闭环。",
+      "category": "技术与研究",
+      "company": "",
+      "score": 35,
+      "breakdown": {
+        "substance": 17,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 7
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "火速上架！空降即登顶Arena，Kimi K3当日登陆「模型广场」",
+      "url": "https://www.infoq.cn/article/NtfFE25blBHubhNNTmkJ?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Sat, 18 Jul 2026 17:14:05 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "Kimi",
+      "score": 19,
+      "breakdown": {
+        "substance": 3,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "The White House is now deciding who gets access to frontier AI models, not the labs",
+      "url": "https://thenextweb.com/news/white-house-dictating-frontier-ai-model-access-anthropic-openai",
+      "snippet": "The Trump administration is now dictating which companies and entities get access to frontier AI models from Anthropic and OpenAI, CNBC reported on Friday, citing two people familiar with the matter. Until now, the labs made that decision themselves. Anthropic controlled access to its Mythos cybersecurity model through an initiative called Project Glasswing. OpenAI ran […]\nThis story continues at The Next Web",
+      "source": "TNW AI",
+      "publishedAt": "Sat, 18 Jul 2026 14:15:31 +0000",
+      "region": "海外",
+      "summary": "The Trump administration is now dictating which companies and entities get access to frontier AI models from Anthropic and OpenAI, CNBC reported on Friday, citing two people familiar with the matter. Until now, the labs made that decision themselves. Anthropic controlled access to its Mythos cybersecurity model through an initiative called Project Glasswing. OpenAI ran […]\nThis story continues at The Next Web",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 5
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Meta patented an AI system that listens to your voice all day and tracks your mood",
+      "url": "https://thenextweb.com/news/meta-patent-mood-tracking-voice-emotion-ai",
+      "snippet": "Meta has been granted a patent for an AI system that continuously records a user’s voice, transcribes it, and feeds the audio through a machine learning model to detect their emotional state. The patent, published on July 2, describes a device that listens for “audible communications” including sighs, laughter, and vocal tone, and combines them […]\nThis story continues at The Next Web",
+      "source": "TNW AI",
+      "publishedAt": "Sat, 18 Jul 2026 13:45:03 +0000",
+      "region": "海外",
+      "summary": "Meta has been granted a patent for an AI system that continuously records a user’s voice, transcribes it, and feeds the audio through a machine learning model to detect their emotional state. The patent, published on July 2, describes a device that listens for “audible communications” including sighs, laughter, and vocal tone, and combines them […]\nThis story continues at The Next Web",
+      "category": "技术与研究",
+      "company": "Meta",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 5
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Kimi: Threat or menace?",
+      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "snippet": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sat, 18 Jul 2026 18:51:07 +0000",
+      "region": "海外",
+      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+      "category": "技术与研究",
+      "company": "Kimi",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "WAIC看了一圈，这家公司的机器人在认真打工",
+      "url": "https://www.qbitai.com/2026/07/454040.html",
+      "snippet": "机器人真正具备了干活的完整能力",
+      "source": "量子位",
+      "publishedAt": "Sat, 18 Jul 2026 13:23:21 +0000",
+      "region": "国内",
+      "summary": "机器人真正具备了干活的完整能力",
+      "category": "技术与研究",
+      "company": "",
+      "score": 15,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "中国 AI 产业核心要素出海发展白皮书",
+      "url": "https://www.infoq.cn/minibook/GSbtyU9968lerf5gwPpU?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Sat, 18 Jul 2026 12:02:12 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 14,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "snippet": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sat, 18 Jul 2026 04:47:25 +0000",
+      "region": "海外",
+      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 14,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Chinese car sales in the UK jumped from 384 in 2015 to 285,000 last year. The tariff gap explains why.",
+      "url": "https://thenextweb.com/news/chinese-cars-uk-sales-surge-byd-geely-no-tariff",
+      "snippet": "Brits bought 384 Chinese-made vehicles in 2015. Last year, they bought 285,000, according to automotive consulting firm Mobility Global. The growth is accelerating. BYD nearly doubled its UK sales in the first half of 2026 to over 37,000 units, and Chinese brands collectively hold roughly 13% of new car registrations in Britain, double their share […]\nThis story continues at The Next Web",
+      "source": "TNW AI",
+      "publishedAt": "Sat, 18 Jul 2026 14:14:00 +0000",
+      "region": "海外",
+      "summary": "Brits bought 384 Chinese-made vehicles in 2015. Last year, they bought 285,000, according to automotive consulting firm Mobility Global. The growth is accelerating. BYD nearly doubled its UK sales in the first half of 2026 to over 37,000 units, and Chinese brands collectively hold roughly 13% of new car registrations in Britain, double their share […]\nThis story continues at The Next Web",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 3,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 5
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "WAIC 2026现场直击：万兴科技旗下万兴剧厂“无限画布”、新品Filmora.AI与Virbo AI火爆首秀",
+      "url": "https://www.qbitai.com/2026/07/454015.html",
+      "snippet": "",
+      "source": "量子位",
+      "publishedAt": "Sat, 18 Jul 2026 11:19:41 +0000",
+      "region": "国内",
+      "summary": "暂无摘要",
+      "category": "技术与研究",
+      "company": "",
+      "score": 15,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "AI 智能体算力消耗过快，传统账单风控跟不上速度",
+      "url": "https://www.infoq.cn/article/secM60Za0CNxIYvQO47m?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Sat, 18 Jul 2026 09:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 14,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    }
+  ],
+  "投融资与并购": [],
+  "政策与监管": []
+}
