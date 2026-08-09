@@ -1,105 +1,33 @@
 {
-  "date": "2026/8/8",
-  "count": 11,
+  "date": "2026/8/9",
+  "count": 3,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "蚂蚁开源Avernet，为多智能体协作搭建“操作系统”！内部跑通12大业务、任务完成率超90%",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Fri, 07 Aug 2026 18:16:44 GMT",
-      "summary": "点击查看原文>",
-      "score": 35
-    },
-    {
-      "section": "技术与研究",
-      "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
+      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Fri, 07 Aug 2026 03:08:51 +0000",
-      "summary": "蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线",
-      "score": 31
-    },
-    {
-      "section": "技术与研究",
-      "title": "MiniMax H3 团队 Reddit 被问爆：2K 要开源，图像模型在路上，Apache-2.0 也在考虑了",
-      "company": "MiniMax",
-      "source": "InfoQ",
-      "publishedAt": "Sat, 08 Aug 2026 08:00:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 30
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
-      "company": "阿里",
-      "source": "量子位",
-      "publishedAt": "Fri, 07 Aug 2026 07:43:06 +0000",
-      "summary": "AI语音“听、说、创”一站式满足",
-      "score": 25
-    },
-    {
-      "section": "技术与研究",
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "company": "OpenAI",
-      "source": "TechCrunch AI",
-      "publishedAt": "Fri, 07 Aug 2026 22:48:24 +0000",
-      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
-      "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Fri, 07 Aug 2026 14:00:00 +0000",
-      "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re forming a new government. And whether you’re thinking of Twitter’s old “town hall in your pocket” or Anthropic’s Claude constitution, it’s a theory that doesn’t paint Silicon Valley in a very flattering light.   In Lepore’s upcoming book, The Rise and Fall of the Artificial State, the Pulitzer […]",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Fri, 07 Aug 2026 14:20:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under…",
-      "score": 18
-    },
-    {
-      "section": "政策与监管",
-      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Fri, 07 Aug 2026 14:00:00 +0000",
-      "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.  For months, Elon Musk’s Department of Government Efficiency had been cutting a wide swath through…",
+      "publishedAt": "Sat, 08 Aug 2026 02:45:02 +0000",
+      "summary": "再花15亿美元买现成AI编程团队",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "蚂蚁集团开源Avernet：破解多智能体“找不到、对不齐”协作难题",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Fri, 07 Aug 2026 18:06:25 GMT",
-      "summary": "点击查看原文>",
-      "score": 28
-    },
-    {
-      "section": "技术与研究",
-      "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
+      "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
       "company": "ChatGPT",
       "source": "量子位",
-      "publishedAt": "Fri, 07 Aug 2026 03:23:01 +0000",
-      "summary": "Chat优化版",
-      "score": 21
+      "publishedAt": "Sat, 08 Aug 2026 07:57:35 +0000",
+      "summary": "这就有些尴尬了。",
+      "score": 15
     },
     {
       "section": "技术与研究",
-      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-      "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Fri, 07 Aug 2026 14:22:49 +0000",
-      "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
-      "score": 16
+      "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
+      "company": "Kimi",
+      "source": "量子位",
+      "publishedAt": "Sat, 08 Aug 2026 02:35:38 +0000",
+      "summary": "啊，这真是个AI“失控”的夏天",
+      "score": 15
     }
   ]
 }
