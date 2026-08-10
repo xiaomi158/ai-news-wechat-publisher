@@ -1,33 +1,60 @@
 {
-  "date": "2026/8/9",
-  "count": 3,
+  "date": "2026/8/10",
+  "count": 6,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "company": "Anthropic",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sun, 09 Aug 2026 19:20:32 +0000",
+      "summary": "Programming with Claude Code will soon require even less human oversight.",
+      "score": 23
+    },
+    {
+      "section": "技术与研究",
+      "title": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Sat, 08 Aug 2026 02:45:02 +0000",
-      "summary": "再花15亿美元买现成AI编程团队",
+      "publishedAt": "Sun, 09 Aug 2026 09:16:58 +0000",
+      "summary": "作者读博时就在研究，17年后被AI解开了",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "180万刀，连亚马逊都烧不起Claude了",
+      "company": "Claude",
+      "source": "量子位",
+      "publishedAt": "Sun, 09 Aug 2026 09:25:10 +0000",
+      "summary": "Claude不是我说你，钱真不能这么花",
+      "score": 18
+    },
+    {
+      "section": "投融资与并购",
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "company": "",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sun, 09 Aug 2026 20:35:17 +0000",
+      "summary": "The AI-focused hedge fund is still making some big bets.",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
-      "company": "ChatGPT",
-      "source": "量子位",
-      "publishedAt": "Sat, 08 Aug 2026 07:57:35 +0000",
-      "summary": "这就有些尴尬了。",
-      "score": 15
+      "title": "从失控到可控：基于系统控制论的 Agent 安全防御体系设计与实践｜AICon深圳",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Sun, 09 Aug 2026 10:00:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 14
     },
     {
       "section": "技术与研究",
-      "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
-      "company": "Kimi",
+      "title": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
+      "company": "",
       "source": "量子位",
-      "publishedAt": "Sat, 08 Aug 2026 02:35:38 +0000",
-      "summary": "啊，这真是个AI“失控”的夏天",
-      "score": 15
+      "publishedAt": "Sun, 09 Aug 2026 03:40:25 +0000",
+      "summary": "AI参与创造下一代AI",
+      "score": 18
     }
   ]
 }
