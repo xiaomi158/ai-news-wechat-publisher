@@ -1,105 +1,87 @@
 {
-  "date": "2026/8/11",
-  "count": 11,
+  "date": "2026/8/12",
+  "count": 9,
   "articles": [
     {
       "section": "投融资与并购",
-      "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
+      "title": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Mon, 10 Aug 2026 06:58:58 +0000",
-      "summary": "“我们90天就成了独角兽”",
-      "score": 28
+      "publishedAt": "Tue, 11 Aug 2026 04:31:39 +0000",
+      "summary": "真就把GPU当理财产品了～",
+      "score": 30
     },
     {
       "section": "技术与研究",
-      "title": "AI倒查论文100年！99.2%的顶刊都有问题…",
+      "title": "Google’s Gemini app surges to 1 billion users",
+      "company": "Google",
+      "source": "TechCrunch AI",
+      "publishedAt": "Tue, 11 Aug 2026 18:49:12 +0000",
+      "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
+      "score": 30
+    },
+    {
+      "section": "技术与研究",
+      "title": "为 Agentic Enterprise 实现 ROI：企业高管需要关注的 3 个关键因素",
       "company": "",
-      "source": "量子位",
-      "publishedAt": "Mon, 10 Aug 2026 13:58:46 +0000",
-      "summary": "科研人快来啊，天上掉选题了",
+      "source": "InfoQ",
+      "publishedAt": "Tue, 11 Aug 2026 17:19:14 GMT",
+      "summary": "点击查看原文>",
       "score": 23
     },
     {
       "section": "产品发布与更新",
-      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-      "company": "OpenAI",
-      "source": "TechCrunch AI",
-      "publishedAt": "Mon, 10 Aug 2026 23:56:15 +0000",
-      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "title": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
       "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Mon, 10 Aug 2026 20:53:02 +0000",
-      "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "These startups are chasing the next big thing in LLMs",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Mon, 10 Aug 2026 09:00:00 +0000",
-      "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new…",
+      "source": "量子位",
+      "publishedAt": "Tue, 11 Aug 2026 13:57:46 +0000",
+      "summary": "资本正从具身本体集体涌向触觉",
       "score": 21
     },
     {
-      "section": "产品发布与更新",
-      "title": "微软正式发布 Agent Framework Harness 和 Hosted Agents",
+      "section": "投融资与并购",
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
       "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Mon, 10 Aug 2026 17:14:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 20
+      "source": "TechCrunch AI",
+      "publishedAt": "Tue, 11 Aug 2026 21:39:11 +0000",
+      "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+      "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "AI professors are negotiating the new realities of academic research",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Mon, 10 Aug 2026 20:00:00 +0000",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI…",
-      "score": 20
-    },
-    {
-      "section": "技术与研究",
-      "title": "当 human in the loop 变成“闭着眼睛点确认”，企业Agent 安全还能靠谁？",
+      "title": "代理技能 Ponytail 在贡献者提出质疑后修正了自身的基准测试结果",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Mon, 10 Aug 2026 17:29:12 GMT",
+      "publishedAt": "Tue, 11 Aug 2026 17:48:00 GMT",
       "summary": "点击查看原文>",
-      "score": 16
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Mon, 10 Aug 2026 03:24:23 +0000",
-      "summary": "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台",
       "score": 19
     },
     {
       "section": "技术与研究",
-      "title": "04年连续创业者、华为天才少年同台！DGP地心引力集结机器人最强后浪，40余家资本现场“爆灯”",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Mon, 10 Aug 2026 16:33:22 GMT",
-      "summary": "点击查看原文>",
-      "score": 16
+      "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
+      "company": "Gemini",
+      "source": "量子位",
+      "publishedAt": "Tue, 11 Aug 2026 09:24:44 +0000",
+      "summary": "谷歌算力分配内耗严重",
+      "score": 21
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "company": "Anthropic",
+      "source": "TechCrunch AI",
+      "publishedAt": "Tue, 11 Aug 2026 16:25:20 +0000",
+      "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
+      "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "title": "把 AI 视频的钱花在刀刃上，不是每一刀上",
       "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Mon, 10 Aug 2026 12:00:00 +0000",
-      "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
-      "score": 14
+      "source": "InfoQ",
+      "publishedAt": "Tue, 11 Aug 2026 19:11:29 GMT",
+      "summary": "点击查看原文>",
+      "score": 18
     }
   ]
 }
