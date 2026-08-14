@@ -1,0 +1,256 @@
+{
+  "产品发布与更新": [
+    {
+      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "snippet": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
+      "source": "Ars Technica",
+      "publishedAt": "Thu, 13 Aug 2026 17:00:13 +0000",
+      "region": "海外",
+      "summary": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
+      "category": "产品发布与更新",
+      "company": "Google",
+      "score": 24,
+      "breakdown": {
+        "substance": 0,
+        "importance": 11,
+        "timeliness": 8,
+        "credibility": 5
+      },
+      "isDuplicate": false
+    }
+  ],
+  "技术与研究": [
+    {
+      "title": "从“开放模型”到“开放生态”，AI 开源进入下半场",
+      "url": "https://www.infoq.cn/article/oEMzispbWkEP8TtKdUtf?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Thu, 13 Aug 2026 18:21:46 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 31,
+      "breakdown": {
+        "substance": 10,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "snippet": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 13 Aug 2026 19:22:40 +0000",
+      "region": "海外",
+      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "category": "技术与研究",
+      "company": "OpenAI",
+      "score": 29,
+      "breakdown": {
+        "substance": 0,
+        "importance": 11,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "联想集团Q1再创史上最佳业绩，AI服务器业务迎来爆发期",
+      "url": "https://www.qbitai.com/2026/08/471697.html",
+      "snippet": "当季实现营收1834亿元人民币，同比猛增43%，创历史新高",
+      "source": "量子位",
+      "publishedAt": "Thu, 13 Aug 2026 06:33:52 +0000",
+      "region": "国内",
+      "summary": "当季实现营收1834亿元人民币，同比猛增43%，创历史新高",
+      "category": "技术与研究",
+      "company": "",
+      "score": 25,
+      "breakdown": {
+        "substance": 10,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "snippet": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 13 Aug 2026 19:19:49 +0000",
+      "region": "海外",
+      "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "category": "技术与研究",
+      "company": "OpenAI",
+      "score": 23,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "snippet": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:…",
+      "source": "MIT Technology Review",
+      "publishedAt": "Thu, 13 Aug 2026 13:41:10 +0000",
+      "region": "海外",
+      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:…",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 10
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "智象未来 (HiDream.ai)算法科学家潘滢炜博士确认出席AICon深圳，将分享“从 Token 预测到状态预测：迈向世界模型的原生全模态之路”",
+      "url": "https://www.infoq.cn/article/9d9Oik3uZpqfjbfElZaq?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Thu, 13 Aug 2026 10:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 17,
+      "breakdown": {
+        "substance": 3,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "How kids feel about AI, in their own words",
+      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "snippet": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were…",
+      "source": "MIT Technology Review",
+      "publishedAt": "Thu, 13 Aug 2026 09:00:00 +0000",
+      "region": "海外",
+      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were…",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 10
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
+      "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "snippet": "The mark flags anything Claude processed, even human writing it only edited.",
+      "source": "Ars Technica",
+      "publishedAt": "Thu, 13 Aug 2026 11:10:18 +0000",
+      "region": "海外",
+      "summary": "The mark flags anything Claude processed, even human writing it only edited.",
+      "category": "技术与研究",
+      "company": "Claude",
+      "score": 11,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 5
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "snippet": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 13 Aug 2026 15:30:52 +0000",
+      "region": "海外",
+      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+      "category": "技术与研究",
+      "company": "Microsoft",
+      "score": 21,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "微软 AI Gateway 新层级引热议：统一治理背后的权限隐忧",
+      "url": "https://www.infoq.cn/article/zYYwyGD3opKVwhTKYqaM?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Thu, 13 Aug 2026 17:46:14 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    }
+  ],
+  "投融资与并购": [
+    {
+      "title": "马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购",
+      "url": "https://www.qbitai.com/2026/08/472067.html",
+      "snippet": "马斯克版Workbuddy也来了",
+      "source": "量子位",
+      "publishedAt": "Thu, 13 Aug 2026 12:04:29 +0000",
+      "region": "国内",
+      "summary": "马斯克版Workbuddy也来了",
+      "category": "投融资与并购",
+      "company": "Grok",
+      "score": 19,
+      "breakdown": {
+        "substance": 4,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
+      "url": "https://www.qbitai.com/2026/08/472060.html",
+      "snippet": "重新定义物理AI数据基础设施",
+      "source": "量子位",
+      "publishedAt": "Thu, 13 Aug 2026 11:53:02 +0000",
+      "region": "国内",
+      "summary": "重新定义物理AI数据基础设施",
+      "category": "投融资与并购",
+      "company": "",
+      "score": 19,
+      "breakdown": {
+        "substance": 4,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    }
+  ],
+  "政策与监管": []
+}
