@@ -1,0 +1,235 @@
+{
+  "产品发布与更新": [],
+  "技术与研究": [
+    {
+      "title": "33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
+      "url": "https://www.infoq.cn/article/55mbodVKkHgiHYqfqkFG?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Sat, 15 Aug 2026 00:19:32 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 24,
+      "breakdown": {
+        "substance": 6,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
+      "url": "https://www.qbitai.com/2026/08/473144.html",
+      "snippet": "",
+      "source": "量子位",
+      "publishedAt": "Fri, 14 Aug 2026 08:36:00 +0000",
+      "region": "国内",
+      "summary": "暂无摘要",
+      "category": "技术与研究",
+      "company": "百度",
+      "score": 23,
+      "breakdown": {
+        "substance": 3,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」",
+      "url": "https://www.qbitai.com/2026/08/472722.html",
+      "snippet": "少花一半成本，部署效率提升80%！机器人研发可以不用重复造轮子了。",
+      "source": "量子位",
+      "publishedAt": "Fri, 14 Aug 2026 07:29:22 +0000",
+      "region": "国内",
+      "summary": "少花一半成本，部署效率提升80%！机器人研发可以不用重复造轮子了。",
+      "category": "技术与研究",
+      "company": "",
+      "score": 21,
+      "breakdown": {
+        "substance": 6,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "snippet": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 14 Aug 2026 16:13:40 +0000",
+      "region": "海外",
+      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "category": "技术与研究",
+      "company": "Google",
+      "score": 21,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "snippet": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 14 Aug 2026 15:43:28 +0000",
+      "region": "海外",
+      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
+      "category": "技术与研究",
+      "company": "",
+      "score": 21,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Zig 创始人直言，Bun 靠 Claude 生成的 Rust 重构版是“没人把关的烂代码”",
+      "url": "https://www.infoq.cn/article/5JAOs4xARzjGb5sj2LxG?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 14 Aug 2026 14:54:05 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "Claude",
+      "score": 19,
+      "breakdown": {
+        "substance": 3,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+      "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes…",
+      "source": "MIT Technology Review",
+      "publishedAt": "Fri, 14 Aug 2026 12:17:21 +0000",
+      "region": "海外",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes…",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 10
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "This scientist is helping build a missing map of childhood",
+      "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+      "snippet": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the…",
+      "source": "MIT Technology Review",
+      "publishedAt": "Fri, 14 Aug 2026 09:00:00 +0000",
+      "region": "海外",
+      "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the…",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 10
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
+      "url": "https://www.qbitai.com/2026/08/473149.html",
+      "snippet": "",
+      "source": "量子位",
+      "publishedAt": "Fri, 14 Aug 2026 10:25:36 +0000",
+      "region": "国内",
+      "summary": "暂无摘要",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 3,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷",
+      "url": "https://www.infoq.cn/article/YWXm26HRwC9ySEGZ9Lpp?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 14 Aug 2026 23:41:55 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "Claude",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "snippet": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 14 Aug 2026 14:50:11 +0000",
+      "region": "海外",
+      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Job titles of the future: Space travel agent",
+      "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+      "snippet": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman & Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an NDA.  The experiences earned him “the…",
+      "source": "MIT Technology Review",
+      "publishedAt": "Fri, 14 Aug 2026 09:00:00 +0000",
+      "region": "海外",
+      "summary": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman & Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an NDA.  The experiences earned him “the…",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 10
+      },
+      "isDuplicate": false
+    }
+  ],
+  "投融资与并购": [],
+  "政策与监管": []
+}
