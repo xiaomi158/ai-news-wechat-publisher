@@ -1,113 +1,113 @@
 {
-  "date": "2026/8/15",
+  "date": "2026/8/18",
   "count": 12,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
+      "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
       "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Sat, 15 Aug 2026 00:19:32 GMT",
-      "summary": "点击查看原文>",
+      "source": "量子位",
+      "publishedAt": "Mon, 17 Aug 2026 08:36:07 +0000",
+      "summary": "AI最近最出圈的数学突破，都在“找反例”",
       "score": 24
     },
     {
       "section": "技术与研究",
-      "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
-      "company": "百度",
-      "source": "量子位",
-      "publishedAt": "Fri, 14 Aug 2026 08:36:00 +0000",
-      "summary": "暂无摘要",
+      "title": "Anthropic’s annualized revenue surges to $65B",
+      "company": "Anthropic",
+      "source": "TechCrunch AI",
+      "publishedAt": "Mon, 17 Aug 2026 23:56:26 +0000",
+      "summary": "The model maker added $18 billion in annualized revenue in two months.",
       "score": 23
     },
     {
       "section": "技术与研究",
-      "title": "算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Fri, 14 Aug 2026 07:29:22 +0000",
-      "summary": "少花一半成本，部署效率提升80%！机器人研发可以不用重复造轮子了。",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
       "company": "Google",
       "source": "TechCrunch AI",
-      "publishedAt": "Fri, 14 Aug 2026 16:13:40 +0000",
-      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-      "score": 21
+      "publishedAt": "Mon, 17 Aug 2026 21:27:05 +0000",
+      "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+      "score": 23
     },
     {
       "section": "技术与研究",
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "title": "What Flock’s defenders are missing",
       "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Fri, 14 Aug 2026 15:43:28 +0000",
-      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
-      "score": 21
+      "source": "MIT Technology Review",
+      "publishedAt": "Mon, 17 Aug 2026 19:16:09 +0000",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent…",
+      "score": 20
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Mon, 17 Aug 2026 09:30:49 +0000",
+      "summary": "8月17日，具身智能初创公司共生知行发布双足人形机器人驾驶卡丁车Demo",
+      "score": 19
     },
     {
       "section": "技术与研究",
-      "title": "Zig 创始人直言，Bun 靠 Claude 生成的 Rust 重构版是“没人把关的烂代码”",
-      "company": "Claude",
+      "title": "AI 智能体改变代码评审逻辑，Rootly 废止小 PR 规则",
+      "company": "",
       "source": "InfoQ",
-      "publishedAt": "Fri, 14 Aug 2026 14:54:05 GMT",
+      "publishedAt": "Mon, 17 Aug 2026 14:34:49 GMT",
       "summary": "点击查看原文>",
       "score": 19
     },
     {
       "section": "技术与研究",
-      "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+      "title": "当 AI 遇见 FinOps：Snowflake 如何为 AI 时代重新定义成本管理 | 技术趋势",
       "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Fri, 14 Aug 2026 12:17:21 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes…",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "This scientist is helping build a missing map of childhood",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Fri, 14 Aug 2026 09:00:00 +0000",
-      "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the…",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Fri, 14 Aug 2026 10:25:36 +0000",
-      "summary": "暂无摘要",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷",
-      "company": "Claude",
       "source": "InfoQ",
-      "publishedAt": "Fri, 14 Aug 2026 23:41:55 GMT",
+      "publishedAt": "Mon, 17 Aug 2026 18:47:40 GMT",
       "summary": "点击查看原文>",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "title": "The Download: dead robot friends and the “censorship-industrial complex”",
       "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Fri, 14 Aug 2026 14:50:11 +0000",
-      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "source": "MIT Technology Review",
+      "publishedAt": "Mon, 17 Aug 2026 12:10:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years later, she…",
       "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "Job titles of the future: Space travel agent",
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "company": "",
+      "source": "TechCrunch AI",
+      "publishedAt": "Mon, 17 Aug 2026 16:15:12 +0000",
+      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+      "score": 21
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用",
+      "company": "智谱",
+      "source": "量子位",
+      "publishedAt": "Mon, 17 Aug 2026 08:26:25 +0000",
+      "summary": "智谱GLM-5.3首发上线范式PhanRouter，即日开放调用",
+      "score": 19
+    },
+    {
+      "section": "技术与研究",
+      "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Mon, 17 Aug 2026 15:15:57 GMT",
+      "summary": "点击查看原文>",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "How much hydrogen awaits us underground?",
       "company": "",
       "source": "MIT Technology Review",
-      "publishedAt": "Fri, 14 Aug 2026 09:00:00 +0000",
-      "summary": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman & Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an NDA.  The experiences earned him “the…",
+      "publishedAt": "Mon, 17 Aug 2026 09:00:00 +0000",
+      "summary": "In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America. There her team of geochemists found water that had been confined underground for more than a billion years. This ancient brine turned out to be a habitat…",
       "score": 16
     }
   ]
