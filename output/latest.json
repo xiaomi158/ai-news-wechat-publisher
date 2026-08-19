@@ -1,114 +1,96 @@
 {
-  "date": "2026/8/18",
-  "count": 12,
+  "date": "2026/8/19",
+  "count": 10,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
+      "title": "世界人工智能开源大赛（GOAI）初赛评审正式启动，全球AI创新项目进入首轮遴选",
       "company": "",
-      "source": "量子位",
-      "publishedAt": "Mon, 17 Aug 2026 08:36:07 +0000",
-      "summary": "AI最近最出圈的数学突破，都在“找反例”",
-      "score": 24
-    },
-    {
-      "section": "技术与研究",
-      "title": "Anthropic’s annualized revenue surges to $65B",
-      "company": "Anthropic",
-      "source": "TechCrunch AI",
-      "publishedAt": "Mon, 17 Aug 2026 23:56:26 +0000",
-      "summary": "The model maker added $18 billion in annualized revenue in two months.",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-      "company": "Google",
-      "source": "TechCrunch AI",
-      "publishedAt": "Mon, 17 Aug 2026 21:27:05 +0000",
-      "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "What Flock’s defenders are missing",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Mon, 17 Aug 2026 19:16:09 +0000",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent…",
-      "score": 20
+      "source": "InfoQ",
+      "publishedAt": "Tue, 18 Aug 2026 13:22:04 GMT",
+      "summary": "点击查看原文>",
+      "score": 28
     },
     {
       "section": "产品发布与更新",
-      "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
-      "company": "",
+      "title": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
+      "company": "阿里",
       "source": "量子位",
-      "publishedAt": "Mon, 17 Aug 2026 09:30:49 +0000",
-      "summary": "8月17日，具身智能初创公司共生知行发布双足人形机器人驾驶卡丁车Demo",
-      "score": 19
+      "publishedAt": "Tue, 18 Aug 2026 09:38:21 +0000",
+      "summary": "8月17日，阿里巴巴发布AI音乐模型HappyShrimp",
+      "score": 27
     },
     {
       "section": "技术与研究",
-      "title": "AI 智能体改变代码评审逻辑，Rootly 废止小 PR 规则",
-      "company": "",
+      "title": "650亿美元！IPO前夕，Anthropic营收底牌曝光",
+      "company": "Anthropic",
+      "source": "量子位",
+      "publishedAt": "Tue, 18 Aug 2026 05:58:57 +0000",
+      "summary": "回头看，A社就这样完成了反超",
+      "score": 27
+    },
+    {
+      "section": "技术与研究",
+      "title": "阿里云的野心，不在 Agent Builder",
+      "company": "阿里",
       "source": "InfoQ",
-      "publishedAt": "Mon, 17 Aug 2026 14:34:49 GMT",
+      "publishedAt": "Tue, 18 Aug 2026 15:32:44 GMT",
       "summary": "点击查看原文>",
-      "score": 19
-    },
-    {
-      "section": "技术与研究",
-      "title": "当 AI 遇见 FinOps：Snowflake 如何为 AI 时代重新定义成本管理 | 技术趋势",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Mon, 17 Aug 2026 18:47:40 GMT",
-      "summary": "点击查看原文>",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "The Download: dead robot friends and the “censorship-industrial complex”",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Mon, 17 Aug 2026 12:10:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years later, she…",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Mon, 17 Aug 2026 16:15:12 +0000",
-      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
       "score": 21
     },
     {
       "section": "产品发布与更新",
-      "title": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用",
-      "company": "智谱",
-      "source": "量子位",
-      "publishedAt": "Mon, 17 Aug 2026 08:26:25 +0000",
-      "summary": "智谱GLM-5.3首发上线范式PhanRouter，即日开放调用",
-      "score": 19
-    },
-    {
-      "section": "技术与研究",
-      "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
       "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Mon, 17 Aug 2026 15:15:57 GMT",
-      "summary": "点击查看原文>",
-      "score": 16
+      "source": "TechCrunch AI",
+      "publishedAt": "Tue, 18 Aug 2026 22:14:25 +0000",
+      "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+      "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "How much hydrogen awaits us underground?",
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "company": "OpenAI",
+      "source": "TechCrunch AI",
+      "publishedAt": "Tue, 18 Aug 2026 18:00:00 +0000",
+      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "AI’s recursive self-improvement might not come so quickly after all",
       "company": "",
       "source": "MIT Technology Review",
-      "publishedAt": "Mon, 17 Aug 2026 09:00:00 +0000",
-      "summary": "In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America. There her team of geochemists found water that had been confined underground for more than a billion years. This ancient brine turned out to be a habitat…",
+      "publishedAt": "Tue, 18 Aug 2026 09:00:00 +0000",
+      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon. …",
       "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "6个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Tue, 18 Aug 2026 07:33:00 +0000",
+      "summary": "代码能跑≠游戏能玩",
+      "score": 21
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "company": "OpenAI",
+      "source": "TechCrunch AI",
+      "publishedAt": "Tue, 18 Aug 2026 13:50:30 +0000",
+      "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "Snowflake CoCo AI 成本优化指南：7 个关键方法 | 技术实践",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Tue, 18 Aug 2026 16:29:05 GMT",
+      "summary": "点击查看原文>",
+      "score": 19
     }
   ]
 }
