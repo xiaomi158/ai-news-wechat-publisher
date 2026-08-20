@@ -1,96 +1,105 @@
 {
-  "date": "2026/8/19",
-  "count": 10,
+  "date": "2026/8/20",
+  "count": 11,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "世界人工智能开源大赛（GOAI）初赛评审正式启动，全球AI创新项目进入首轮遴选",
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "company": "Google",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 19 Aug 2026 19:00:00 +0000",
+      "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+      "score": 29
+    },
+    {
+      "section": "技术与研究",
+      "title": "具身数据底座开卖，首发5100元：机器人训练数据有了新解法",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Wed, 19 Aug 2026 07:42:27 +0000",
+      "summary": "构建全栈物理AI基础设施",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "中国“机器人第一股”来了，宇树科技开盘暴涨 620%",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Tue, 18 Aug 2026 13:22:04 GMT",
-      "summary": "点击查看原文>",
-      "score": 28
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
-      "company": "阿里",
-      "source": "量子位",
-      "publishedAt": "Tue, 18 Aug 2026 09:38:21 +0000",
-      "summary": "8月17日，阿里巴巴发布AI音乐模型HappyShrimp",
-      "score": 27
-    },
-    {
-      "section": "技术与研究",
-      "title": "650亿美元！IPO前夕，Anthropic营收底牌曝光",
-      "company": "Anthropic",
-      "source": "量子位",
-      "publishedAt": "Tue, 18 Aug 2026 05:58:57 +0000",
-      "summary": "回头看，A社就这样完成了反超",
-      "score": 27
-    },
-    {
-      "section": "技术与研究",
-      "title": "阿里云的野心，不在 Agent Builder",
-      "company": "阿里",
-      "source": "InfoQ",
-      "publishedAt": "Tue, 18 Aug 2026 15:32:44 GMT",
+      "publishedAt": "Wed, 19 Aug 2026 20:19:24 GMT",
       "summary": "点击查看原文>",
       "score": 21
     },
     {
-      "section": "产品发布与更新",
-      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "section": "技术与研究",
+      "title": "AI爬虫涌入电商，安全防线正在从“拦截”转向“判断”",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Wed, 19 Aug 2026 20:32:05 GMT",
+      "summary": "点击查看原文>",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
       "company": "",
       "source": "TechCrunch AI",
-      "publishedAt": "Tue, 18 Aug 2026 22:14:25 +0000",
-      "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-      "score": 21
+      "publishedAt": "Wed, 19 Aug 2026 23:32:00 +0000",
+      "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+      "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "company": "OpenAI",
-      "source": "TechCrunch AI",
-      "publishedAt": "Tue, 18 Aug 2026 18:00:00 +0000",
-      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "AI’s recursive self-improvement might not come so quickly after all",
+      "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
       "company": "",
       "source": "MIT Technology Review",
-      "publishedAt": "Tue, 18 Aug 2026 09:00:00 +0000",
-      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon. …",
+      "publishedAt": "Wed, 19 Aug 2026 12:10:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight.…",
       "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "6个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
+      "title": "Child-monitoring apps might need a reboot",
       "company": "",
-      "source": "量子位",
-      "publishedAt": "Tue, 18 Aug 2026 07:33:00 +0000",
-      "summary": "代码能跑≠游戏能玩",
-      "score": 21
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-      "company": "OpenAI",
-      "source": "TechCrunch AI",
-      "publishedAt": "Tue, 18 Aug 2026 13:50:30 +0000",
-      "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
-      "score": 21
+      "source": "MIT Technology Review",
+      "publishedAt": "Wed, 19 Aug 2026 09:00:00 +0000",
+      "summary": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. Online, she…",
+      "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "Snowflake CoCo AI 成本优化指南：7 个关键方法 | 技术实践",
+      "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Wed, 19 Aug 2026 10:54:07 +0000",
+      "summary": "暂无摘要",
+      "score": 15
+    },
+    {
+      "section": "技术与研究",
+      "title": "AI was supposed to win people over by now — it hasn’t",
+      "company": "",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 19 Aug 2026 19:11:40 +0000",
+      "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "明道云举办首届 Real AI Contest，面向真实落地的企业 AI 应用",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Tue, 18 Aug 2026 16:29:05 GMT",
-      "summary": "点击查看原文>",
-      "score": 19
+      "publishedAt": "Wed, 19 Aug 2026 15:50:11 GMT",
+      "summary": "明道云举办首届 Real AI Contest，把已经走完这段距离的团队放到同一套标准下比一次，现金总奖池 ¥80,000，报名免费。",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Wed, 19 Aug 2026 10:12:09 +0000",
+      "summary": "超维动力KAI全栈具身智能硬核登场",
+      "score": 15
     }
   ]
 }
