@@ -1,105 +1,87 @@
 {
-  "date": "2026/8/20",
-  "count": 11,
+  "date": "2026/8/21",
+  "count": 9,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "Google packs Search and Gemini with new AI study tools",
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "company": "OpenAI",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 20 Aug 2026 22:36:37 +0000",
+      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+      "score": 23
+    },
+    {
+      "section": "技术与研究",
+      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
       "company": "Google",
       "source": "TechCrunch AI",
-      "publishedAt": "Wed, 19 Aug 2026 19:00:00 +0000",
-      "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
-      "score": 29
+      "publishedAt": "Thu, 20 Aug 2026 19:18:21 +0000",
+      "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
+      "score": 23
     },
     {
       "section": "技术与研究",
-      "title": "具身数据底座开卖，首发5100元：机器人训练数据有了新解法",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Wed, 19 Aug 2026 07:42:27 +0000",
-      "summary": "构建全栈物理AI基础设施",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "中国“机器人第一股”来了，宇树科技开盘暴涨 620%",
+      "title": "CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Wed, 19 Aug 2026 20:19:24 GMT",
+      "publishedAt": "Thu, 20 Aug 2026 19:03:02 GMT",
       "summary": "点击查看原文>",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "AI爬虫涌入电商，安全防线正在从“拦截”转向“判断”",
+      "title": "AI Infra 正在诞生自己的石油期货？GPU 不够买之后，华尔街开始交易算力",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Wed, 19 Aug 2026 20:32:05 GMT",
+      "publishedAt": "Thu, 20 Aug 2026 18:00:00 GMT",
       "summary": "点击查看原文>",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-      "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Wed, 19 Aug 2026 23:32:00 +0000",
-      "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Wed, 19 Aug 2026 12:10:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight.…",
       "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "Child-monitoring apps might need a reboot",
+      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
       "company": "",
       "source": "MIT Technology Review",
-      "publishedAt": "Wed, 19 Aug 2026 09:00:00 +0000",
-      "summary": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. Online, she…",
+      "publishedAt": "Thu, 20 Aug 2026 12:10:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a car in Thailand when she saw a…",
       "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
+      "title": "The next big thing in hydrogen could be underground",
       "company": "",
-      "source": "量子位",
-      "publishedAt": "Wed, 19 Aug 2026 10:54:07 +0000",
-      "summary": "暂无摘要",
-      "score": 15
+      "source": "MIT Technology Review",
+      "publishedAt": "Thu, 20 Aug 2026 10:00:00 +0000",
+      "summary": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate solution because when burned, it produces water…",
+      "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "AI was supposed to win people over by now — it hasn’t",
-      "company": "",
+      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+      "company": "Meta",
       "source": "TechCrunch AI",
-      "publishedAt": "Wed, 19 Aug 2026 19:11:40 +0000",
-      "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
-      "score": 18
+      "publishedAt": "Thu, 20 Aug 2026 16:07:26 +0000",
+      "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
+      "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "明道云举办首届 Real AI Contest，面向真实落地的企业 AI 应用",
+      "title": "你的 Coding Agent 有多大价值，取决于它对你的数据了解多少 | 技术实践",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Wed, 19 Aug 2026 15:50:11 GMT",
-      "summary": "明道云举办首届 Real AI Contest，把已经走完这段距离的团队放到同一套标准下比一次，现金总奖池 ¥80,000，报名免费。",
+      "publishedAt": "Thu, 20 Aug 2026 16:12:45 GMT",
+      "summary": "点击查看原文>",
       "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
+      "title": "Unlocking hidden revenue streams with market models",
       "company": "",
-      "source": "量子位",
-      "publishedAt": "Wed, 19 Aug 2026 10:12:09 +0000",
-      "summary": "超维动力KAI全栈具身智能硬核登场",
-      "score": 15
+      "source": "MIT Technology Review",
+      "publishedAt": "Thu, 20 Aug 2026 09:47:22 +0000",
+      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name…",
+      "score": 16
     }
   ]
 }
