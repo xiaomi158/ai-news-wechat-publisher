@@ -1,87 +1,105 @@
 {
-  "date": "2026/8/21",
-  "count": 9,
+  "date": "2026/8/22",
+  "count": 11,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "company": "OpenAI",
-      "source": "TechCrunch AI",
-      "publishedAt": "Thu, 20 Aug 2026 22:36:37 +0000",
-      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-      "company": "Google",
-      "source": "TechCrunch AI",
-      "publishedAt": "Thu, 20 Aug 2026 19:18:21 +0000",
-      "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Thu, 20 Aug 2026 19:03:02 GMT",
-      "summary": "点击查看原文>",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "AI Infra 正在诞生自己的石油期货？GPU 不够买之后，华尔街开始交易算力",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Thu, 20 Aug 2026 18:00:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Thu, 20 Aug 2026 12:10:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a car in Thailand when she saw a…",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "The next big thing in hydrogen could be underground",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Thu, 20 Aug 2026 10:00:00 +0000",
-      "summary": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate solution because when burned, it produces water…",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+      "title": "本地运行、支持视觉与工具调用：Meta 开源智能体模型",
       "company": "Meta",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 21 Aug 2026 17:00:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 36
+    },
+    {
+      "section": "投融资与并购",
+      "title": "材科源图三个月完成两轮融资，AI全链路闭环加速材料产业化",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 21 Aug 2026 19:31:11 GMT",
+      "summary": "点击查看原文>",
+      "score": 26
+    },
+    {
+      "section": "技术与研究",
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "company": "Anthropic",
       "source": "TechCrunch AI",
-      "publishedAt": "Thu, 20 Aug 2026 16:07:26 +0000",
-      "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
+      "publishedAt": "Fri, 21 Aug 2026 23:07:25 +0000",
+      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+      "score": 23
+    },
+    {
+      "section": "技术与研究",
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "company": "NVIDIA",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 21 Aug 2026 22:37:38 +0000",
+      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+      "score": 23
+    },
+    {
+      "section": "技术与研究",
+      "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Fri, 21 Aug 2026 07:17:58 +0000",
+      "summary": "机器人看3秒演示就能学会",
       "score": 21
     },
     {
-      "section": "技术与研究",
-      "title": "你的 Coding Agent 有多大价值，取决于它对你的数据了解多少 | 技术实践",
+      "section": "产品发布与更新",
+      "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
       "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Thu, 20 Aug 2026 16:12:45 GMT",
-      "summary": "点击查看原文>",
+      "source": "量子位",
+      "publishedAt": "Fri, 21 Aug 2026 09:00:06 +0000",
+      "summary": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会",
+      "score": 19
+    },
+    {
+      "section": "技术与研究",
+      "title": "The Download: threats from space mirrors and credit for AI drugs",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Fri, 21 Aug 2026 12:10:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the…",
       "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "Unlocking hidden revenue streams with market models",
+      "title": "When AI designs a drug, who gets the credit?",
       "company": "",
       "source": "MIT Technology Review",
-      "publishedAt": "Thu, 20 Aug 2026 09:47:22 +0000",
-      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name…",
+      "publishedAt": "Fri, 21 Aug 2026 09:00:00 +0000",
+      "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up with drug ideas humans might never think…",
       "score": 16
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "DeepSeek 发布多模态模型，“小鲸鱼”长出了眼睛",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 21 Aug 2026 19:34:36 GMT",
+      "summary": "点击查看原文>",
+      "score": 25
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "company": "",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 21 Aug 2026 14:00:00 +0000",
+      "summary": "There's about to be a big fight to secure access to space.",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Fri, 21 Aug 2026 11:47:27 +0000",
+      "summary": "载重4.2吨、容积19.32m³",
+      "score": 15
     }
   ]
 }
