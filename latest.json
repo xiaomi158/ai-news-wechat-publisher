@@ -1,105 +1,78 @@
 {
-  "date": "2026/8/22",
-  "count": 11,
+  "date": "2026/8/24",
+  "count": 8,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "本地运行、支持视觉与工具调用：Meta 开源智能体模型",
-      "company": "Meta",
-      "source": "InfoQ",
-      "publishedAt": "Fri, 21 Aug 2026 17:00:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 36
+      "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
+      "company": "智谱",
+      "source": "量子位",
+      "publishedAt": "Sun, 23 Aug 2026 09:56:12 +0000",
+      "summary": "Tokenizer、视频编码、API报错全扒一遍",
+      "score": 30
     },
     {
-      "section": "投融资与并购",
-      "title": "材科源图三个月完成两轮融资，AI全链路闭环加速材料产业化",
+      "section": "技术与研究",
+      "title": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Fri, 21 Aug 2026 19:31:11 GMT",
+      "publishedAt": "Sun, 23 Aug 2026 17:00:00 GMT",
       "summary": "点击查看原文>",
-      "score": 26
+      "score": 28
     },
     {
       "section": "技术与研究",
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "company": "Anthropic",
-      "source": "TechCrunch AI",
-      "publishedAt": "Fri, 21 Aug 2026 23:07:25 +0000",
-      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "Nvidia partners with data center developer Cloverleaf",
-      "company": "NVIDIA",
-      "source": "TechCrunch AI",
-      "publishedAt": "Fri, 21 Aug 2026 22:37:38 +0000",
-      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
+      "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Fri, 21 Aug 2026 07:17:58 +0000",
-      "summary": "机器人看3秒演示就能学会",
-      "score": 21
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Fri, 21 Aug 2026 09:00:06 +0000",
-      "summary": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会",
-      "score": 19
+      "publishedAt": "Sun, 23 Aug 2026 23:19:06 +0000",
+      "summary": "Tim和胡彦斌亲自颁奖",
+      "score": 22
     },
     {
       "section": "技术与研究",
-      "title": "The Download: threats from space mirrors and credit for AI drugs",
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
       "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Fri, 21 Aug 2026 12:10:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the…",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sun, 23 Aug 2026 20:01:36 +0000",
+      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "company": "",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sun, 23 Aug 2026 19:14:08 +0000",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Sun, 23 Aug 2026 14:09:00 GMT",
+      "summary": "点击查看原文>",
       "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "When AI designs a drug, who gets the credit?",
+      "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
       "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Fri, 21 Aug 2026 09:00:00 +0000",
-      "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up with drug ideas humans might never think…",
-      "score": 16
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "DeepSeek 发布多模态模型，“小鲸鱼”长出了眼睛",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Fri, 21 Aug 2026 19:34:36 GMT",
-      "summary": "点击查看原文>",
-      "score": 25
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Fri, 21 Aug 2026 14:00:00 +0000",
-      "summary": "There's about to be a big fight to secure access to space.",
-      "score": 16
+      "source": "量子位",
+      "publishedAt": "Sun, 23 Aug 2026 11:17:22 +0000",
+      "summary": "多多支持像王兴兴这样优秀的具身机器人创业者",
+      "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
       "company": "",
-      "source": "量子位",
-      "publishedAt": "Fri, 21 Aug 2026 11:47:27 +0000",
-      "summary": "载重4.2吨、容积19.32m³",
-      "score": 15
+      "source": "TechCrunch AI",
+      "publishedAt": "Sun, 23 Aug 2026 15:00:00 +0000",
+      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+      "score": 16
     }
   ]
 }

@@ -1,0 +1,159 @@
+{
+  "产品发布与更新": [],
+  "技术与研究": [
+    {
+      "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
+      "url": "https://www.qbitai.com/2026/08/478191.html",
+      "snippet": "Tokenizer、视频编码、API报错全扒一遍",
+      "source": "量子位",
+      "publishedAt": "Sun, 23 Aug 2026 09:56:12 +0000",
+      "region": "国内",
+      "summary": "Tokenizer、视频编码、API报错全扒一遍",
+      "category": "技术与研究",
+      "company": "智谱",
+      "score": 30,
+      "breakdown": {
+        "substance": 10,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+      "url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Sun, 23 Aug 2026 17:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 28,
+      "breakdown": {
+        "substance": 7,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+      "url": "https://www.qbitai.com/2026/08/478358.html",
+      "snippet": "Tim和胡彦斌亲自颁奖",
+      "source": "量子位",
+      "publishedAt": "Sun, 23 Aug 2026 23:19:06 +0000",
+      "region": "国内",
+      "summary": "Tim和胡彦斌亲自颁奖",
+      "category": "技术与研究",
+      "company": "",
+      "score": 22,
+      "breakdown": {
+        "substance": 3,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "snippet": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sun, 23 Aug 2026 20:01:36 +0000",
+      "region": "海外",
+      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "snippet": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sun, 23 Aug 2026 19:14:08 +0000",
+      "region": "海外",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+      "url": "https://www.infoq.cn/article/9YicfQysexJdmx11xG4m?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Sun, 23 Aug 2026 14:09:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
+      "url": "https://www.qbitai.com/2026/08/478234.html",
+      "snippet": "多多支持像王兴兴这样优秀的具身机器人创业者",
+      "source": "量子位",
+      "publishedAt": "Sun, 23 Aug 2026 11:17:22 +0000",
+      "region": "国内",
+      "summary": "多多支持像王兴兴这样优秀的具身机器人创业者",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 3,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "snippet": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sun, 23 Aug 2026 15:00:00 +0000",
+      "region": "海外",
+      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    }
+  ],
+  "投融资与并购": [],
+  "政策与监管": []
+}
