@@ -1,78 +1,96 @@
 {
-  "date": "2026/8/24",
-  "count": 8,
+  "date": "2026/8/26",
+  "count": 10,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
-      "company": "智谱",
+      "title": "半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司",
+      "company": "",
       "source": "量子位",
-      "publishedAt": "Sun, 23 Aug 2026 09:56:12 +0000",
-      "summary": "Tokenizer、视频编码、API报错全扒一遍",
-      "score": 30
+      "publishedAt": "Tue, 25 Aug 2026 06:39:51 +0000",
+      "summary": "字节、汇川等已入股未来不远机器人最新一轮融资",
+      "score": 38
     },
     {
-      "section": "技术与研究",
-      "title": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+      "section": "产品发布与更新",
+      "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
       "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Sun, 23 Aug 2026 17:00:00 GMT",
-      "summary": "点击查看原文>",
+      "source": "量子位",
+      "publishedAt": "Tue, 25 Aug 2026 09:31:16 +0000",
+      "summary": "近日，范式正式举办 PhanthyMotus 生态社区共建计划发布会，宣布其首个通用具身Agent底座从“开源”迈入“多方共建”新阶段。",
       "score": 28
     },
     {
       "section": "技术与研究",
-      "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Sun, 23 Aug 2026 23:19:06 +0000",
-      "summary": "Tim和胡彦斌亲自颁奖",
+      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "company": "OpenAI",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 26 Aug 2026 00:06:20 +0000",
+      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+      "score": 23
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "SpaceXAI 推出面向自主 AI 智能代理的 Grok Bot",
+      "company": "xAI",
+      "source": "InfoQ",
+      "publishedAt": "Tue, 25 Aug 2026 09:00:00 GMT",
+      "summary": "点击查看原文>",
       "score": 22
     },
     {
       "section": "技术与研究",
-      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "company": "",
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "company": "Claude",
       "source": "TechCrunch AI",
-      "publishedAt": "Sun, 23 Aug 2026 20:01:36 +0000",
-      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-      "score": 18
+      "publishedAt": "Tue, 25 Aug 2026 17:50:33 +0000",
+      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+      "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "title": "Addressing a sticking point in sustainable adhesives",
       "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Sun, 23 Aug 2026 19:14:08 +0000",
-      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "score": 18
+      "source": "MIT Technology Review",
+      "publishedAt": "Tue, 25 Aug 2026 21:00:00 +0000",
+      "summary": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers.  “The labels on a container are held up with petroleum-based glue. And because of that, even though you’re putting the container in the recycle bin, it will not…",
+      "score": 20
     },
     {
       "section": "技术与研究",
-      "title": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+      "title": "A new stamp on cyberfraud prevention",
       "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Sun, 23 Aug 2026 14:09:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 16
+      "source": "MIT Technology Review",
+      "publishedAt": "Tue, 25 Aug 2026 21:00:00 +0000",
+      "summary": "For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “precise eye” for detail and nuance that his MIT application essay said would make him a good engineer. Young is now chief product officer…",
+      "score": 20
     },
     {
       "section": "技术与研究",
-      "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
+      "title": "人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Sun, 23 Aug 2026 11:17:22 +0000",
-      "summary": "多多支持像王兴兴这样优秀的具身机器人创业者",
-      "score": 18
+      "publishedAt": "Tue, 25 Aug 2026 04:08:21 +0000",
+      "summary": "2026年8月21日，小猿学习机在京举办“中小学课本学习智能体”首发上线活动。",
+      "score": 23
     },
     {
       "section": "技术与研究",
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "title": "Seeing through murky waters",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Tue, 25 Aug 2026 21:00:00 +0000",
+      "summary": "When remotely operated vehicles settle on the seafloor or dig through a sand bed, they can kick up clouds of sediment that onboard cameras struggle to see through. Often, the only thing to do is wait until the dust settles. But a new system developed by Amy Phung, SM ’23, PhD ’26, and her advisor…",
+      "score": 20
+    },
+    {
+      "section": "投融资与并购",
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
       "company": "",
       "source": "TechCrunch AI",
-      "publishedAt": "Sun, 23 Aug 2026 15:00:00 +0000",
-      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
-      "score": 16
+      "publishedAt": "Tue, 25 Aug 2026 19:03:47 +0000",
+      "summary": "The company's new fundraising total now stands at $232 million.",
+      "score": 18
     }
   ]
 }
