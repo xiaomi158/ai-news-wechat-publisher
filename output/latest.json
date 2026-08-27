@@ -1,96 +1,114 @@
 {
-  "date": "2026/8/26",
-  "count": 10,
+  "date": "2026/8/27",
+  "count": 12,
   "articles": [
     {
-      "section": "技术与研究",
-      "title": "半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Tue, 25 Aug 2026 06:39:51 +0000",
-      "summary": "字节、汇川等已入股未来不远机器人最新一轮融资",
-      "score": 38
-    },
-    {
       "section": "产品发布与更新",
-      "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
+      "title": "小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI等成讨论新趋势",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Tue, 25 Aug 2026 09:31:16 +0000",
-      "summary": "近日，范式正式举办 PhanthyMotus 生态社区共建计划发布会，宣布其首个通用具身Agent底座从“开源”迈入“多方共建”新阶段。",
-      "score": 28
+      "publishedAt": "Wed, 26 Aug 2026 10:17:15 +0000",
+      "summary": "AI内容创作者增长187%，相关节目数量增长239%",
+      "score": 29
     },
     {
       "section": "技术与研究",
-      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
-      "company": "OpenAI",
+      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "company": "Google",
       "source": "TechCrunch AI",
-      "publishedAt": "Wed, 26 Aug 2026 00:06:20 +0000",
-      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+      "publishedAt": "Wed, 26 Aug 2026 19:37:34 +0000",
+      "summary": "Consumer AI apps need to stop making users learn their product architecture.",
+      "score": 27
+    },
+    {
+      "section": "技术与研究",
+      "title": "DeepSeek 开源 Harness：AI 智能体基础设施开始“拆分”",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Wed, 26 Aug 2026 16:26:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 26
+    },
+    {
+      "section": "技术与研究",
+      "title": "ARR 超 8 亿美元，B 端收入占比升至 80%！MiniMax 第二份财报：增长与商业化来到验证时刻",
+      "company": "MiniMax",
+      "source": "InfoQ",
+      "publishedAt": "Thu, 27 Aug 2026 10:27:18 GMT",
+      "summary": "点击查看原文>",
+      "score": 24
+    },
+    {
+      "section": "技术与研究",
+      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+      "company": "Amazon",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 26 Aug 2026 23:47:18 +0000",
+      "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
       "score": 23
     },
     {
-      "section": "产品发布与更新",
-      "title": "SpaceXAI 推出面向自主 AI 智能代理的 Grok Bot",
-      "company": "xAI",
-      "source": "InfoQ",
-      "publishedAt": "Tue, 25 Aug 2026 09:00:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 22
-    },
-    {
       "section": "技术与研究",
-      "title": "Claude Cowork finally remembers what you told the app in chat",
-      "company": "Claude",
-      "source": "TechCrunch AI",
-      "publishedAt": "Tue, 25 Aug 2026 17:50:33 +0000",
-      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+      "title": "硅谷今日最热具身模型！不用后训练，看一遍就学会",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Wed, 26 Aug 2026 10:07:09 +0000",
+      "summary": "具身智能迈向GPT时刻",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "Addressing a sticking point in sustainable adhesives",
+      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
       "company": "",
       "source": "MIT Technology Review",
-      "publishedAt": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "summary": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers.  “The labels on a container are held up with petroleum-based glue. And because of that, even though you’re putting the container in the recycle bin, it will not…",
-      "score": 20
+      "publishedAt": "Wed, 26 Aug 2026 12:10:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids’ use of technology was once a subcurrent, it has become a raging flood. Countries around the world are banning children from…",
+      "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "A new stamp on cyberfraud prevention",
+      "title": "Raised on AI",
       "company": "",
       "source": "MIT Technology Review",
-      "publishedAt": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "summary": "For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “precise eye” for detail and nuance that his MIT application essay said would make him a good engineer. Young is now chief product officer…",
-      "score": 20
+      "publishedAt": "Wed, 26 Aug 2026 09:00:00 +0000",
+      "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.  Fast-forward a couple…",
+      "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Tue, 25 Aug 2026 04:08:21 +0000",
-      "summary": "2026年8月21日，小猿学习机在京举办“中小学课本学习智能体”首发上线活动。",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "Seeing through murky waters",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "summary": "When remotely operated vehicles settle on the seafloor or dig through a sand bed, they can kick up clouds of sediment that onboard cameras struggle to see through. Often, the only thing to do is wait until the dust settles. But a new system developed by Amy Phung, SM ’23, PhD ’26, and her advisor…",
-      "score": 20
-    },
-    {
-      "section": "投融资与并购",
-      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-      "company": "",
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "company": "Anthropic",
       "source": "TechCrunch AI",
-      "publishedAt": "Tue, 25 Aug 2026 19:03:47 +0000",
-      "summary": "The company's new fundraising total now stands at $232 million.",
+      "publishedAt": "Wed, 26 Aug 2026 21:37:39 +0000",
+      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡",
+      "company": "智谱",
+      "source": "量子位",
+      "publishedAt": "Wed, 26 Aug 2026 16:48:12 +0000",
+      "summary": "GLM-5.3 Flash",
       "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "如何把 Agent 的判断与行动变成可恢复的软件事实 | KDC 工程补篇",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Thu, 27 Aug 2026 10:00:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Wed, 26 Aug 2026 07:01:00 +0000",
+      "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in…",
+      "score": 16
     }
   ]
 }
