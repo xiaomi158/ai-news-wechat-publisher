@@ -1,114 +1,87 @@
 {
-  "date": "2026/8/27",
-  "count": 12,
+  "date": "2026/8/28",
+  "count": 9,
   "articles": [
     {
-      "section": "产品发布与更新",
-      "title": "小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI等成讨论新趋势",
+      "section": "技术与研究",
+      "title": "HuggingFace被曝卖身英伟达：129亿美元！全球最大AI开源平台改姓黄",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Wed, 26 Aug 2026 10:17:15 +0000",
-      "summary": "AI内容创作者增长187%，相关节目数量增长239%",
-      "score": 29
+      "publishedAt": "Fri, 28 Aug 2026 01:40:22 +0000",
+      "summary": "Hugging Face这把是真全员财富自由了啊o(╥﹏╥)o",
+      "score": 34
     },
     {
       "section": "技术与研究",
-      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
-      "company": "Google",
-      "source": "TechCrunch AI",
-      "publishedAt": "Wed, 26 Aug 2026 19:37:34 +0000",
-      "summary": "Consumer AI apps need to stop making users learn their product architecture.",
-      "score": 27
-    },
-    {
-      "section": "技术与研究",
-      "title": "DeepSeek 开源 Harness：AI 智能体基础设施开始“拆分”",
+      "title": "从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Wed, 26 Aug 2026 16:26:00 GMT",
+      "publishedAt": "Fri, 28 Aug 2026 14:20:17 GMT",
       "summary": "点击查看原文>",
-      "score": 26
+      "score": 30
     },
     {
       "section": "技术与研究",
-      "title": "ARR 超 8 亿美元，B 端收入占比升至 80%！MiniMax 第二份财报：增长与商业化来到验证时刻",
-      "company": "MiniMax",
+      "title": "1周半写64个PR、完成30%项目重构：一家成熟SaaS公司把Agent塞进研发全流程后",
+      "company": "",
       "source": "InfoQ",
-      "publishedAt": "Thu, 27 Aug 2026 10:27:18 GMT",
+      "publishedAt": "Fri, 28 Aug 2026 11:43:17 GMT",
       "summary": "点击查看原文>",
-      "score": 24
+      "score": 28
     },
     {
-      "section": "技术与研究",
-      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
-      "company": "Amazon",
-      "source": "TechCrunch AI",
-      "publishedAt": "Wed, 26 Aug 2026 23:47:18 +0000",
-      "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+      "section": "产品发布与更新",
+      "title": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持",
+      "company": "智谱",
+      "source": "量子位",
+      "publishedAt": "Fri, 28 Aug 2026 04:06:16 +0000",
+      "summary": "国产异构助力前沿智能进入普惠时代",
       "score": 23
     },
     {
       "section": "技术与研究",
-      "title": "硅谷今日最热具身模型！不用后训练，看一遍就学会",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Wed, 26 Aug 2026 10:07:09 +0000",
-      "summary": "具身智能迈向GPT时刻",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Wed, 26 Aug 2026 12:10:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids’ use of technology was once a subcurrent, it has become a raging flood. Countries around the world are banning children from…",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "Raised on AI",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Wed, 26 Aug 2026 09:00:00 +0000",
-      "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.  Fast-forward a couple…",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-      "company": "Anthropic",
+      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 ",
+      "company": "OpenAI",
       "source": "TechCrunch AI",
-      "publishedAt": "Wed, 26 Aug 2026 21:37:39 +0000",
-      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+      "publishedAt": "Thu, 27 Aug 2026 23:16:45 +0000",
+      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡",
-      "company": "智谱",
-      "source": "量子位",
-      "publishedAt": "Wed, 26 Aug 2026 16:48:12 +0000",
-      "summary": "GLM-5.3 Flash",
-      "score": 18
+      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+      "company": "OpenAI",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 27 Aug 2026 11:35:59 +0000",
+      "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+      "score": 19
     },
     {
-      "section": "技术与研究",
-      "title": "如何把 Agent 的判断与行动变成可恢复的软件事实 | KDC 工程补篇",
+      "section": "产品发布与更新",
+      "title": "全球首款专为iPhone用户打造的Agent耳机正式发布，有道AI耳机让声音变成生产力",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Fri, 28 Aug 2026 02:48:37 +0000",
+      "summary": "8月27日，网易有道正式发布OpenPods有道AI耳机。",
+      "score": 23
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Thu, 27 Aug 2026 10:00:00 GMT",
+      "publishedAt": "Fri, 28 Aug 2026 14:00:00 GMT",
       "summary": "点击查看原文>",
-      "score": 18
+      "score": 22
     },
     {
       "section": "技术与研究",
-      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
       "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Wed, 26 Aug 2026 07:01:00 +0000",
-      "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in…",
-      "score": 16
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 27 Aug 2026 14:56:52 +0000",
+      "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
+      "score": 14
     }
   ]
 }
