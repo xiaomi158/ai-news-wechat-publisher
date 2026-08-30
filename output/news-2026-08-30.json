@@ -1,0 +1,102 @@
+{
+  "产品发布与更新": [],
+  "技术与研究": [
+    {
+      "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+      "url": "https://www.qbitai.com/2026/08/481223.html",
+      "snippet": "AI「自进化」，越来越近了",
+      "source": "量子位",
+      "publishedAt": "Sat, 29 Aug 2026 12:50:31 +0000",
+      "region": "国内",
+      "summary": "AI「自进化」，越来越近了",
+      "category": "技术与研究",
+      "company": "Claude",
+      "score": 24,
+      "breakdown": {
+        "substance": 9,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
+      "url": "https://www.qbitai.com/2026/08/480787.html",
+      "snippet": "从剧本到成片",
+      "source": "量子位",
+      "publishedAt": "Sat, 29 Aug 2026 11:35:57 +0000",
+      "region": "国内",
+      "summary": "从剧本到成片",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 3,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "snippet": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sat, 29 Aug 2026 17:36:47 +0000",
+      "region": "海外",
+      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "一句话找图，低清图再增强：HarmonyOS7 视觉 AI 如何走进真实应用",
+      "url": "https://www.infoq.cn/article/3R8f57Bow3B4kEBkPv5J?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Sat, 29 Aug 2026 13:19:17 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 14,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+      "url": "https://www.qbitai.com/2026/08/481372.html",
+      "snippet": "推理软件栈的微小差异，就能改变输出token",
+      "source": "量子位",
+      "publishedAt": "Sat, 29 Aug 2026 13:11:08 +0000",
+      "region": "国内",
+      "summary": "推理软件栈的微小差异，就能改变输出token",
+      "category": "技术与研究",
+      "company": "",
+      "score": 15,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    }
+  ],
+  "投融资与并购": [],
+  "政策与监管": []
+}
