@@ -1,51 +1,15 @@
 {
-  "date": "2026/8/30",
-  "count": 5,
+  "date": "2026/8/31",
+  "count": 1,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
-      "company": "Claude",
-      "source": "量子位",
-      "publishedAt": "Sat, 29 Aug 2026 12:50:31 +0000",
-      "summary": "AI「自进化」，越来越近了",
-      "score": 24
-    },
-    {
-      "section": "技术与研究",
-      "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Sat, 29 Aug 2026 11:35:57 +0000",
-      "summary": "从剧本到成片",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
       "company": "",
       "source": "TechCrunch AI",
-      "publishedAt": "Sat, 29 Aug 2026 17:36:47 +0000",
-      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+      "publishedAt": "Sun, 30 Aug 2026 15:00:00 +0000",
+      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
       "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "一句话找图，低清图再增强：HarmonyOS7 视觉 AI 如何走进真实应用",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Sat, 29 Aug 2026 13:19:17 GMT",
-      "summary": "点击查看原文>",
-      "score": 14
-    },
-    {
-      "section": "技术与研究",
-      "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Sat, 29 Aug 2026 13:11:08 +0000",
-      "summary": "推理软件栈的微小差异，就能改变输出token",
-      "score": 15
     }
   ]
 }
