@@ -1,15 +1,96 @@
 {
-  "date": "2026/8/31",
-  "count": 1,
+  "date": "2026/9/2",
+  "count": 10,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "title": "3名开发者做出来的副业项目，半年冲进 4万人！亚马逊云科技把内部 Agent 工作台开源了",
       "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Tue, 01 Sep 2026 19:57:24 GMT",
+      "summary": "点击查看原文>",
+      "score": 33
+    },
+    {
+      "section": "技术与研究",
+      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+      "company": "Google",
       "source": "TechCrunch AI",
-      "publishedAt": "Sun, 30 Aug 2026 15:00:00 +0000",
-      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
-      "score": 16
+      "publishedAt": "Tue, 01 Sep 2026 20:53:05 +0000",
+      "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+      "score": 29
+    },
+    {
+      "section": "技术与研究",
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+      "company": "OpenAI",
+      "source": "TechCrunch AI",
+      "publishedAt": "Tue, 01 Sep 2026 21:06:24 +0000",
+      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+      "score": 23
+    },
+    {
+      "section": "技术与研究",
+      "title": "GitHub最热架构图Agent，开发者故事看哭了",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Tue, 01 Sep 2026 08:26:54 +0000",
+      "summary": "美观且支持实时更新的架构图，也能用AI一键生成了！",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
+      "company": "Claude",
+      "source": "量子位",
+      "publishedAt": "Tue, 01 Sep 2026 08:15:40 +0000",
+      "summary": "主打一个明升暗降，理直气壮",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "随着 AI 内存需求推高非 AI 基础设施价格，OVHcloud 将上调服务价格",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Wed, 02 Sep 2026 09:10:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "How AI plotted an interstellar journey to Alpha Centauri",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Tue, 01 Sep 2026 19:10:36 +0000",
+      "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.  It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. And the…",
+      "score": 18
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "company": "Anthropic",
+      "source": "TechCrunch AI",
+      "publishedAt": "Tue, 01 Sep 2026 19:39:22 +0000",
+      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
+      "company": "MiniMax",
+      "source": "量子位",
+      "publishedAt": "Tue, 01 Sep 2026 12:02:39 +0000",
+      "summary": "暂无摘要",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "云原生弹性的能力，迁移成为 Agent 时代的数据基座能力之一？",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Tue, 01 Sep 2026 21:24:38 GMT",
+      "summary": "点击查看原文>",
+      "score": 18
     }
   ]
 }
