@@ -1,96 +1,105 @@
 {
-  "date": "2026/9/2",
-  "count": 10,
+  "date": "2026/9/3",
+  "count": 11,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "3名开发者做出来的副业项目，半年冲进 4万人！亚马逊云科技把内部 Agent 工作台开源了",
+      "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
       "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Tue, 01 Sep 2026 19:57:24 GMT",
-      "summary": "点击查看原文>",
-      "score": 33
+      "source": "量子位",
+      "publishedAt": "Wed, 02 Sep 2026 06:20:17 +0000",
+      "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
+      "score": 32
     },
     {
-      "section": "技术与研究",
-      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-      "company": "Google",
-      "source": "TechCrunch AI",
-      "publishedAt": "Tue, 01 Sep 2026 20:53:05 +0000",
-      "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+      "section": "产品发布与更新",
+      "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
+      "company": "Claude",
+      "source": "量子位",
+      "publishedAt": "Wed, 02 Sep 2026 02:18:12 +0000",
+      "summary": "无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色",
+      "score": 30
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "Cursor 推出 Origin：面向智能体的 GitHub 替代方案",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Thu, 03 Sep 2026 09:09:00 GMT",
+      "summary": "点击查看原文>",
       "score": 29
     },
     {
       "section": "技术与研究",
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-      "company": "OpenAI",
-      "source": "TechCrunch AI",
-      "publishedAt": "Tue, 01 Sep 2026 21:06:24 +0000",
-      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "GitHub最热架构图Agent，开发者故事看哭了",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Tue, 01 Sep 2026 08:26:54 +0000",
-      "summary": "美观且支持实时更新的架构图，也能用AI一键生成了！",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
-      "company": "Claude",
-      "source": "量子位",
-      "publishedAt": "Tue, 01 Sep 2026 08:15:40 +0000",
-      "summary": "主打一个明升暗降，理直气壮",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "随着 AI 内存需求推高非 AI 基础设施价格，OVHcloud 将上调服务价格",
+      "title": "Cloudflare OS：Cloudflare 基于能力模型构建的开源企业级 AI 平台",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Wed, 02 Sep 2026 09:10:00 GMT",
+      "publishedAt": "Wed, 02 Sep 2026 13:00:00 GMT",
       "summary": "点击查看原文>",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "How AI plotted an interstellar journey to Alpha Centauri",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Tue, 01 Sep 2026 19:10:36 +0000",
-      "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.  It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. And the…",
-      "score": 18
+      "score": 29
     },
     {
       "section": "产品发布与更新",
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "company": "Anthropic",
-      "source": "TechCrunch AI",
-      "publishedAt": "Tue, 01 Sep 2026 19:39:22 +0000",
-      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
-      "score": 21
+      "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+      "company": "Google",
+      "source": "Ars Technica",
+      "publishedAt": "Wed, 02 Sep 2026 18:13:54 +0000",
+      "summary": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
+      "score": 24
     },
     {
       "section": "技术与研究",
-      "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
-      "company": "MiniMax",
-      "source": "量子位",
-      "publishedAt": "Tue, 01 Sep 2026 12:02:39 +0000",
-      "summary": "暂无摘要",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "云原生弹性的能力，迁移成为 Agent 时代的数据基座能力之一？",
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
       "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Tue, 01 Sep 2026 21:24:38 GMT",
-      "summary": "点击查看原文>",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 02 Sep 2026 22:44:56 +0000",
+      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
       "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "Facilitating AI integration with simplicity at scale",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Wed, 02 Sep 2026 14:00:00 +0000",
+      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than…",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+      "company": "",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 02 Sep 2026 16:04:10 +0000",
+      "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "The Download: AI puzzles and a path to our nearest star system",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Wed, 02 Sep 2026 12:10:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article…",
+      "score": 16
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "Fable 5.1 正式发布：性能翻倍、Agent成本下降45%，Anthropic 把顶级模型送进真实世界",
+      "company": "Anthropic",
+      "source": "InfoQ",
+      "publishedAt": "Wed, 02 Sep 2026 12:00:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 29
+    },
+    {
+      "section": "技术与研究",
+      "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
+      "company": "字节",
+      "source": "量子位",
+      "publishedAt": "Wed, 02 Sep 2026 06:06:50 +0000",
+      "summary": "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能",
+      "score": 20
     }
   ]
 }
