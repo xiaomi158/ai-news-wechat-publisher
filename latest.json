@@ -1,105 +1,96 @@
 {
-  "date": "2026/9/3",
-  "count": 11,
+  "date": "2026/9/4",
+  "count": 10,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Wed, 02 Sep 2026 06:20:17 +0000",
-      "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
-      "score": 32
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
-      "company": "Claude",
-      "source": "量子位",
-      "publishedAt": "Wed, 02 Sep 2026 02:18:12 +0000",
-      "summary": "无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色",
-      "score": 30
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "Cursor 推出 Origin：面向智能体的 GitHub 替代方案",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Thu, 03 Sep 2026 09:09:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 29
-    },
-    {
-      "section": "技术与研究",
-      "title": "Cloudflare OS：Cloudflare 基于能力模型构建的开源企业级 AI 平台",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Wed, 02 Sep 2026 13:00:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 29
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-      "company": "Google",
-      "source": "Ars Technica",
-      "publishedAt": "Wed, 02 Sep 2026 18:13:54 +0000",
-      "summary": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
-      "score": 24
-    },
-    {
-      "section": "技术与研究",
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "company": "",
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "company": "Meta",
       "source": "TechCrunch AI",
-      "publishedAt": "Wed, 02 Sep 2026 22:44:56 +0000",
-      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+      "publishedAt": "Thu, 03 Sep 2026 18:19:56 +0000",
+      "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+      "score": 29
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Thu, 03 Sep 2026 16:49:43 GMT",
+      "summary": "点击查看原文>",
+      "score": 26
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Thu, 03 Sep 2026 21:57:08 +0000",
+      "summary": "改进GPT Image 2的噪点问题",
+      "score": 23
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "谷歌云发布 AI 智能体，简化数据库生命周期管理",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 04 Sep 2026 09:21:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 22
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "company": "OpenAI",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 03 Sep 2026 18:01:45 +0000",
+      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "Scaling agentic AI pilots across the enterprise",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Thu, 03 Sep 2026 09:30:32 +0000",
+      "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 companies, progress toward meaningful scale remains…",
+      "score": 19
+    },
+    {
+      "section": "技术与研究",
+      "title": "陈大年复出，入局大模型",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Thu, 03 Sep 2026 10:13:24 +0000",
+      "summary": "首秀逼近DeepSeek万亿旗舰",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "Facilitating AI integration with simplicity at scale",
+      "title": "The Download: rethinking child safety and fossil-fueled farming",
       "company": "",
       "source": "MIT Technology Review",
-      "publishedAt": "Wed, 02 Sep 2026 14:00:00 +0000",
-      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than…",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-      "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Wed, 02 Sep 2026 16:04:10 +0000",
-      "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+      "publishedAt": "Thu, 03 Sep 2026 12:10:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning to content-monitoring apps that scan their children’s texts, photos, emails,…",
       "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "The Download: AI puzzles and a path to our nearest star system",
+      "title": "AI窗口期只剩3-4年，98%的企业却高估了自身的技术成熟度",
       "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Wed, 02 Sep 2026 12:10:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article…",
-      "score": 16
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "Fable 5.1 正式发布：性能翻倍、Agent成本下降45%，Anthropic 把顶级模型送进真实世界",
-      "company": "Anthropic",
       "source": "InfoQ",
-      "publishedAt": "Wed, 02 Sep 2026 12:00:00 GMT",
+      "publishedAt": "Thu, 03 Sep 2026 16:20:38 GMT",
       "summary": "点击查看原文>",
-      "score": 29
+      "score": 19
     },
     {
       "section": "技术与研究",
-      "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
-      "company": "字节",
-      "source": "量子位",
-      "publishedAt": "Wed, 02 Sep 2026 06:06:50 +0000",
-      "summary": "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能",
-      "score": 20
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "company": "NVIDIA",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 03 Sep 2026 12:42:45 +0000",
+      "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+      "score": 19
     }
   ]
 }

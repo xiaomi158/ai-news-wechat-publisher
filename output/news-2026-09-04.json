@@ -1,0 +1,198 @@
+{
+  "产品发布与更新": [
+    {
+      "title": "李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界",
+      "url": "https://www.infoq.cn/article/9YiEhb3hAFtUlxOpMdGC?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Thu, 03 Sep 2026 16:49:43 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "产品发布与更新",
+      "company": "",
+      "score": 26,
+      "breakdown": {
+        "substance": 10,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
+      "url": "https://www.qbitai.com/2026/09/483948.html",
+      "snippet": "改进GPT Image 2的噪点问题",
+      "source": "量子位",
+      "publishedAt": "Thu, 03 Sep 2026 21:57:08 +0000",
+      "region": "国内",
+      "summary": "改进GPT Image 2的噪点问题",
+      "category": "产品发布与更新",
+      "company": "",
+      "score": 23,
+      "breakdown": {
+        "substance": 4,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "谷歌云发布 AI 智能体，简化数据库生命周期管理",
+      "url": "https://www.infoq.cn/article/iV0rsPyO5XZDJ7797hLJ?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 04 Sep 2026 09:21:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "产品发布与更新",
+      "company": "",
+      "score": 22,
+      "breakdown": {
+        "substance": 4,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "snippet": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 03 Sep 2026 18:01:45 +0000",
+      "region": "海外",
+      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+      "category": "产品发布与更新",
+      "company": "OpenAI",
+      "score": 21,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    }
+  ],
+  "技术与研究": [
+    {
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "snippet": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 03 Sep 2026 18:19:56 +0000",
+      "region": "海外",
+      "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+      "category": "技术与研究",
+      "company": "Meta",
+      "score": 29,
+      "breakdown": {
+        "substance": 3,
+        "importance": 10,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Scaling agentic AI pilots across the enterprise",
+      "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+      "snippet": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 companies, progress toward meaningful scale remains…",
+      "source": "MIT Technology Review",
+      "publishedAt": "Thu, 03 Sep 2026 09:30:32 +0000",
+      "region": "海外",
+      "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 companies, progress toward meaningful scale remains…",
+      "category": "技术与研究",
+      "company": "",
+      "score": 19,
+      "breakdown": {
+        "substance": 3,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 10
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "陈大年复出，入局大模型",
+      "url": "https://www.qbitai.com/2026/09/483600.html",
+      "snippet": "首秀逼近DeepSeek万亿旗舰",
+      "source": "量子位",
+      "publishedAt": "Thu, 03 Sep 2026 10:13:24 +0000",
+      "region": "国内",
+      "summary": "首秀逼近DeepSeek万亿旗舰",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 3,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "The Download: rethinking child safety and fossil-fueled farming",
+      "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning to content-monitoring apps that scan their children’s texts, photos, emails,…",
+      "source": "MIT Technology Review",
+      "publishedAt": "Thu, 03 Sep 2026 12:10:00 +0000",
+      "region": "海外",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning to content-monitoring apps that scan their children’s texts, photos, emails,…",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 10
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "AI窗口期只剩3-4年，98%的企业却高估了自身的技术成熟度",
+      "url": "https://www.infoq.cn/article/Gz4w1NVNIJjs8fZOaQZD?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Thu, 03 Sep 2026 16:20:38 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 19,
+      "breakdown": {
+        "substance": 3,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "snippet": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 03 Sep 2026 12:42:45 +0000",
+      "region": "海外",
+      "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+      "category": "技术与研究",
+      "company": "NVIDIA",
+      "score": 19,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    }
+  ],
+  "投融资与并购": [],
+  "政策与监管": []
+}
