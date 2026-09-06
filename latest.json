@@ -1,87 +1,42 @@
 {
-  "date": "2026/9/5",
-  "count": 9,
+  "date": "2026/9/6",
+  "count": 4,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
+      "title": "GPT-6带火循环Transformer，阿里早已布局",
+      "company": "阿里",
+      "source": "量子位",
+      "publishedAt": "Sat, 05 Sep 2026 15:07:08 +0000",
+      "summary": "手握两篇顶会论文",
+      "score": 25
+    },
+    {
+      "section": "技术与研究",
+      "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Fri, 04 Sep 2026 07:09:43 +0000",
-      "summary": "5000支队伍同台做题，写尽行业四年变化",
-      "score": 30
+      "publishedAt": "Sat, 05 Sep 2026 04:18:54 +0000",
+      "summary": "如此“反骨”的方法，具体又是怎么实现的？",
+      "score": 25
     },
     {
       "section": "技术与研究",
-      "title": "GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
       "company": "OpenAI",
-      "source": "InfoQ",
-      "publishedAt": "Fri, 04 Sep 2026 13:00:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 27
-    },
-    {
-      "section": "技术与研究",
-      "title": "Google’s Gemini Spark can now manage your Google Photos library",
-      "company": "Google",
       "source": "TechCrunch AI",
-      "publishedAt": "Fri, 04 Sep 2026 14:47:11 +0000",
-      "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
-      "score": 27
-    },
-    {
-      "section": "技术与研究",
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Fri, 04 Sep 2026 21:12:11 +0000",
-      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+      "publishedAt": "Sat, 05 Sep 2026 22:49:55 +0000",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
       "score": 23
     },
     {
-      "section": "产品发布与更新",
-      "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+      "section": "技术与研究",
+      "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Fri, 04 Sep 2026 09:19:29 +0000",
-      "summary": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
-      "score": 22
-    },
-    {
-      "section": "技术与研究",
-      "title": "“美国大豆包”Gemini翻身：输出速度碾压同行、智能水平重回第一梯队",
-      "company": "豆包",
-      "source": "InfoQ",
-      "publishedAt": "Fri, 04 Sep 2026 10:16:42 GMT",
-      "summary": "点击查看原文>",
-      "score": 20
-    },
-    {
-      "section": "技术与研究",
-      "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
-      "company": "Claude",
-      "source": "量子位",
-      "publishedAt": "Sat, 05 Sep 2026 01:17:56 +0000",
-      "summary": "最后靠Harness救回来",
-      "score": 19
-    },
-    {
-      "section": "技术与研究",
-      "title": "鸿蒙 AI Coding 的研发新范式与工程实践",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Fri, 04 Sep 2026 22:18:31 GMT",
-      "summary": "点击查看原文>",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Fri, 04 Sep 2026 23:36:14 +0000",
-      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
-      "score": 18
+      "publishedAt": "Sat, 05 Sep 2026 04:24:25 +0000",
+      "summary": "AI直接吐出正确答案，但最关键的可能不是答案",
+      "score": 21
     }
   ]
 }

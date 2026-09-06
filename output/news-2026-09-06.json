@@ -1,0 +1,83 @@
+{
+  "产品发布与更新": [],
+  "技术与研究": [
+    {
+      "title": "GPT-6带火循环Transformer，阿里早已布局",
+      "url": "https://www.qbitai.com/2026/09/484726.html",
+      "snippet": "手握两篇顶会论文",
+      "source": "量子位",
+      "publishedAt": "Sat, 05 Sep 2026 15:07:08 +0000",
+      "region": "国内",
+      "summary": "手握两篇顶会论文",
+      "category": "技术与研究",
+      "company": "阿里",
+      "score": 25,
+      "breakdown": {
+        "substance": 3,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
+      "url": "https://www.qbitai.com/2026/09/484611.html",
+      "snippet": "如此“反骨”的方法，具体又是怎么实现的？",
+      "source": "量子位",
+      "publishedAt": "Sat, 05 Sep 2026 04:18:54 +0000",
+      "region": "国内",
+      "summary": "如此“反骨”的方法，具体又是怎么实现的？",
+      "category": "技术与研究",
+      "company": "",
+      "score": 25,
+      "breakdown": {
+        "substance": 10,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "snippet": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sat, 05 Sep 2026 22:49:55 +0000",
+      "region": "海外",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "category": "技术与研究",
+      "company": "OpenAI",
+      "score": 23,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
+      "url": "https://www.qbitai.com/2026/09/484649.html",
+      "snippet": "AI直接吐出正确答案，但最关键的可能不是答案",
+      "source": "量子位",
+      "publishedAt": "Sat, 05 Sep 2026 04:24:25 +0000",
+      "region": "国内",
+      "summary": "AI直接吐出正确答案，但最关键的可能不是答案",
+      "category": "技术与研究",
+      "company": "",
+      "score": 21,
+      "breakdown": {
+        "substance": 1,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    }
+  ],
+  "投融资与并购": [],
+  "政策与监管": []
+}
