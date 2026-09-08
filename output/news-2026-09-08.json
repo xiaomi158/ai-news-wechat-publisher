@@ -1,0 +1,141 @@
+{
+  "产品发布与更新": [
+    {
+      "title": "OpenClaw 2.0 发布：简化配置，支持智能体协作",
+      "url": "https://www.infoq.cn/article/hOJ5r8sQvQsGvm0KNHTd?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Tue, 08 Sep 2026 09:11:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "产品发布与更新",
+      "company": "",
+      "score": 22,
+      "breakdown": {
+        "substance": 4,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    }
+  ],
+  "技术与研究": [
+    {
+      "title": "AWS 开源 Kiro Crew，让 Coding Agent 异步跑起来",
+      "url": "https://www.infoq.cn/article/uTRvjxweSGdp2kzlhPiV?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Mon, 07 Sep 2026 16:32:04 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 28,
+      "breakdown": {
+        "substance": 7,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+      "url": "https://www.qbitai.com/2026/09/485431.html",
+      "snippet": "OpenAI研究院人均带3个AI实习生",
+      "source": "量子位",
+      "publishedAt": "Mon, 07 Sep 2026 09:04:06 +0000",
+      "region": "国内",
+      "summary": "OpenAI研究院人均带3个AI实习生",
+      "category": "技术与研究",
+      "company": "",
+      "score": 26,
+      "breakdown": {
+        "substance": 6,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布",
+      "url": "https://www.qbitai.com/2026/09/485154.html",
+      "snippet": "10 月 16–17 日，面向全球开发者的开源技术大会 GOSIM 将首次来到深圳，举办 GOSIM Shenzhen 2026。",
+      "source": "量子位",
+      "publishedAt": "Mon, 07 Sep 2026 08:51:30 +0000",
+      "region": "国内",
+      "summary": "10 月 16–17 日，面向全球开发者的开源技术大会 GOSIM 将首次来到深圳，举办 GOSIM Shenzhen 2026。",
+      "category": "技术与研究",
+      "company": "",
+      "score": 24,
+      "breakdown": {
+        "substance": 4,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "snippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Mon, 07 Sep 2026 19:24:00 +0000",
+      "region": "海外",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+      "url": "https://www.qbitai.com/2026/09/485108.html",
+      "snippet": "“在两个模型之间找到数学上的共同基础其实非常困难”",
+      "source": "量子位",
+      "publishedAt": "Mon, 07 Sep 2026 08:36:30 +0000",
+      "region": "国内",
+      "summary": "“在两个模型之间找到数学上的共同基础其实非常困难”",
+      "category": "技术与研究",
+      "company": "",
+      "score": 23,
+      "breakdown": {
+        "substance": 3,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面",
+      "url": "https://www.infoq.cn/article/dcIyMXGTNE2vY6NiH6tm?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Mon, 07 Sep 2026 19:33:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    }
+  ],
+  "投融资与并购": [],
+  "政策与监管": []
+}
