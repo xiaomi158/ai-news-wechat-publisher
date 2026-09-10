@@ -1,69 +1,96 @@
 {
-  "date": "2026/9/8",
-  "count": 7,
+  "date": "2026/9/10",
+  "count": 10,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "AWS 开源 Kiro Crew，让 Coding Agent 异步跑起来",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Mon, 07 Sep 2026 16:32:04 GMT",
-      "summary": "点击查看原文>",
-      "score": 28
+      "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
+      "company": "MiniMax",
+      "source": "量子位",
+      "publishedAt": "Wed, 09 Sep 2026 03:39:58 +0000",
+      "summary": "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.0模型限时免费活动",
+      "score": 31
     },
     {
-      "section": "技术与研究",
-      "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+      "section": "产品发布与更新",
+      "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Mon, 07 Sep 2026 09:04:06 +0000",
-      "summary": "OpenAI研究院人均带3个AI实习生",
-      "score": 26
-    },
-    {
-      "section": "技术与研究",
-      "title": "DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Mon, 07 Sep 2026 08:51:30 +0000",
-      "summary": "10 月 16–17 日，面向全球开发者的开源技术大会 GOSIM 将首次来到深圳，举办 GOSIM Shenzhen 2026。",
+      "publishedAt": "Wed, 09 Sep 2026 19:24:22 +0000",
+      "summary": "一比根号二的小胖折叠",
       "score": 24
     },
     {
       "section": "产品发布与更新",
-      "title": "OpenClaw 2.0 发布：简化配置，支持智能体协作",
+      "title": "Shopify 推出 Gisting 新技术：将大模型系统提示词压缩为主旨词元",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Tue, 08 Sep 2026 09:11:00 GMT",
+      "publishedAt": "Wed, 09 Sep 2026 16:30:00 GMT",
       "summary": "点击查看原文>",
-      "score": 22
+      "score": 24
     },
     {
       "section": "技术与研究",
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "company": "",
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "company": "OpenAI",
       "source": "TechCrunch AI",
-      "publishedAt": "Mon, 07 Sep 2026 19:24:00 +0000",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Mon, 07 Sep 2026 08:36:30 +0000",
-      "summary": "“在两个模型之间找到数学上的共同基础其实非常困难”",
+      "publishedAt": "Wed, 09 Sep 2026 22:25:22 +0000",
+      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
       "score": 23
     },
     {
       "section": "技术与研究",
-      "title": "HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面",
-      "company": "",
+      "title": "面向 Agent 开发的数据库新范式 | 腾讯云数据库 DBTalk",
+      "company": "腾讯",
       "source": "InfoQ",
-      "publishedAt": "Mon, 07 Sep 2026 19:33:00 GMT",
+      "publishedAt": "Wed, 09 Sep 2026 18:17:24 GMT",
       "summary": "点击查看原文>",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "Superintelligence is coming. Should we let it?",
+      "company": "Intel",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 09 Sep 2026 16:05:35 +0000",
+      "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these systems do?  On this episode of TechCrunch’s Equity podcast, Rebecca Bellan is joined by Connor Leahy, an AI researcher, entrepreneur, and now the U.S. Executive Director of […]",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "Batteries just broke another record in the US",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Wed, 09 Sep 2026 09:00:00 +0000",
+      "summary": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a trajectory to see 71 gigawatt-hours of…",
       "score": 16
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Wed, 09 Sep 2026 05:02:30 +0000",
+      "summary": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
+      "score": 22
+    },
+    {
+      "section": "技术与研究",
+      "title": "百度把Agent推进家庭：百度搭子接入小度，从“管家”走向“办事”和“创造”",
+      "company": "百度",
+      "source": "InfoQ",
+      "publishedAt": "Wed, 09 Sep 2026 15:44:01 GMT",
+      "summary": "点击查看原文>",
+      "score": 21
+    },
+    {
+      "section": "投融资与并购",
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "company": "Salesforce",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 10 Sep 2026 00:00:37 +0000",
+      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "score": 18
     }
   ]
 }
