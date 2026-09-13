@@ -1,96 +1,60 @@
 {
-  "date": "2026/9/12",
-  "count": 10,
+  "date": "2026/9/13",
+  "count": 6,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "啊？Anthropic最高320万招销售，只为服务Meta",
-      "company": "Meta",
-      "source": "量子位",
-      "publishedAt": "Fri, 11 Sep 2026 14:05:16 +0000",
-      "summary": "原来你俩互相下单呢",
-      "score": 25
+      "title": "两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云",
+      "company": "Kimi",
+      "source": "InfoQ",
+      "publishedAt": "Sat, 12 Sep 2026 10:19:25 GMT",
+      "summary": "点击查看原文>",
+      "score": 22
     },
     {
       "section": "技术与研究",
-      "title": "怒斥加密货币是旁氏骗局、放弃80%就业机会也不用 AI 写代码！Kotlin“J神”：AI 会让工程师变成可替换的齿轮",
+      "title": "模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Fri, 11 Sep 2026 21:00:00 GMT",
+      "publishedAt": "Sat, 12 Sep 2026 10:13:44 GMT",
       "summary": "点击查看原文>",
-      "score": 24
-    },
-    {
-      "section": "技术与研究",
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "company": "OpenAI",
-      "source": "TechCrunch AI",
-      "publishedAt": "Fri, 11 Sep 2026 20:57:36 +0000",
-      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-      "company": "Anthropic",
-      "source": "TechCrunch AI",
-      "publishedAt": "Fri, 11 Sep 2026 18:41:49 +0000",
-      "summary": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment lead even co-signed the message rather than walking it back. It’s the kind of doomer warning the AI industry has flirted with before, but the timing, with Anthropic reportedly preparing for an IPO, makes it land differently.  On […]",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Fri, 11 Sep 2026 18:02:36 +0000",
-      "summary": "看清「一个真正的人」",
       "score": 20
     },
     {
       "section": "技术与研究",
-      "title": "Roundtables: AI’s apocalypse crisis",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Fri, 11 Sep 2026 20:05:06 +0000",
-      "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction…",
-      "score": 20
+      "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+      "company": "Claude",
+      "source": "量子位",
+      "publishedAt": "Sat, 12 Sep 2026 08:49:02 +0000",
+      "summary": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。",
+      "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "当 AI 写出更多代码，企业为什么没有跑得更快？| JDD 大会现场观察",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Fri, 11 Sep 2026 16:10:31 GMT",
-      "summary": "点击查看原文>",
-      "score": 19
-    },
-    {
-      "section": "技术与研究",
-      "title": "3万台无人车之后，这家公司盯上了城市级物理AI",
+      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Fri, 11 Sep 2026 02:50:47 +0000",
-      "summary": "暂无摘要",
+      "publishedAt": "Sat, 12 Sep 2026 08:15:31 +0000",
+      "summary": "触觉、记忆、Ego数据、自进化……这个世界模型全都有",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "AI Coding 提速之后，如何补上稳定性“最后一公里”？快手柯南 AI 实践",
+      "title": "AI的新用法，被这群 Builder 带到了外滩大会开发者日",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Fri, 11 Sep 2026 21:06:08 GMT",
+      "publishedAt": "Sat, 12 Sep 2026 20:35:26 GMT",
       "summary": "点击查看原文>",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
       "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Fri, 11 Sep 2026 22:58:17 +0000",
-      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-      "score": 18
+      "source": "量子位",
+      "publishedAt": "Sat, 12 Sep 2026 07:33:54 +0000",
+      "summary": "FrontierMath Tier 4，饱和了",
+      "score": 15
     }
   ]
 }
