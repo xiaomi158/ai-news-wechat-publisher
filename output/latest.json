@@ -1,60 +1,78 @@
 {
-  "date": "2026/9/13",
-  "count": 6,
+  "date": "2026/9/14",
+  "count": 8,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云",
-      "company": "Kimi",
-      "source": "InfoQ",
-      "publishedAt": "Sat, 12 Sep 2026 10:19:25 GMT",
-      "summary": "点击查看原文>",
-      "score": 22
+      "title": "智谱提前剧透GLM-6.0：完全自训练方法公开了",
+      "company": "智谱",
+      "source": "量子位",
+      "publishedAt": "Mon, 14 Sep 2026 00:30:56 +0000",
+      "summary": "模型、论文都还没出，没想到先从财务公告上剧透了",
+      "score": 28
     },
     {
       "section": "技术与研究",
-      "title": "模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Sat, 12 Sep 2026 10:13:44 GMT",
-      "summary": "点击查看原文>",
+      "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
+      "company": "OpenAI",
+      "source": "量子位",
+      "publishedAt": "Sun, 13 Sep 2026 03:13:00 +0000",
+      "summary": "RSI太危险，得管！",
       "score": 20
     },
     {
-      "section": "技术与研究",
-      "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
-      "company": "Claude",
-      "source": "量子位",
-      "publishedAt": "Sat, 12 Sep 2026 08:49:02 +0000",
-      "summary": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Sat, 12 Sep 2026 08:15:31 +0000",
-      "summary": "触觉、记忆、Ego数据、自进化……这个世界模型全都有",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "AI的新用法，被这群 Builder 带到了外滩大会开发者日",
+      "section": "产品发布与更新",
+      "title": "Java 近期新闻：TornadoVM 6、JReleaser、LangChain4j、Java Operator SDK、JHipster、Yupiik Fusion",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Sat, 12 Sep 2026 20:35:26 GMT",
+      "publishedAt": "Mon, 14 Sep 2026 09:00:00 GMT",
       "summary": "点击查看原文>",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
+      "title": "Read, Don&#39;t Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Sun, 13 Sep 2026 10:00:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 17
+    },
+    {
+      "section": "技术与研究",
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "company": "",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sun, 13 Sep 2026 19:40:15 +0000",
+      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "company": "",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sun, 13 Sep 2026 16:30:00 +0000",
+      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Sat, 12 Sep 2026 07:33:54 +0000",
-      "summary": "FrontierMath Tier 4，饱和了",
-      "score": 15
+      "publishedAt": "Sun, 13 Sep 2026 07:38:20 +0000",
+      "summary": "亮源新创的Physical Al路线清晰了",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Sun, 13 Sep 2026 16:00:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 16
     }
   ]
 }

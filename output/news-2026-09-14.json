@@ -1,0 +1,160 @@
+{
+  "产品发布与更新": [
+    {
+      "title": "Java 近期新闻：TornadoVM 6、JReleaser、LangChain4j、Java Operator SDK、JHipster、Yupiik Fusion",
+      "url": "https://www.infoq.cn/article/VIjBCuNElpg2H4bLywVc?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Mon, 14 Sep 2026 09:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "产品发布与更新",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    }
+  ],
+  "技术与研究": [
+    {
+      "title": "智谱提前剧透GLM-6.0：完全自训练方法公开了",
+      "url": "https://www.qbitai.com/2026/09/488694.html",
+      "snippet": "模型、论文都还没出，没想到先从财务公告上剧透了",
+      "source": "量子位",
+      "publishedAt": "Mon, 14 Sep 2026 00:30:56 +0000",
+      "region": "国内",
+      "summary": "模型、论文都还没出，没想到先从财务公告上剧透了",
+      "category": "技术与研究",
+      "company": "智谱",
+      "score": 28,
+      "breakdown": {
+        "substance": 9,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
+      "url": "https://www.qbitai.com/2026/09/488380.html",
+      "snippet": "RSI太危险，得管！",
+      "source": "量子位",
+      "publishedAt": "Sun, 13 Sep 2026 03:13:00 +0000",
+      "region": "国内",
+      "summary": "RSI太危险，得管！",
+      "category": "技术与研究",
+      "company": "OpenAI",
+      "score": 20,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Read, Don&#39;t Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海",
+      "url": "https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Sun, 13 Sep 2026 10:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 17,
+      "breakdown": {
+        "substance": 3,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "snippet": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sun, 13 Sep 2026 19:40:15 +0000",
+      "region": "海外",
+      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "snippet": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sun, 13 Sep 2026 16:30:00 +0000",
+      "region": "海外",
+      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
+      "url": "https://www.qbitai.com/2026/09/488672.html",
+      "snippet": "亮源新创的Physical Al路线清晰了",
+      "source": "量子位",
+      "publishedAt": "Sun, 13 Sep 2026 07:38:20 +0000",
+      "region": "国内",
+      "summary": "亮源新创的Physical Al路线清晰了",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 3,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌",
+      "url": "https://www.infoq.cn/article/TDav5ojS854dZKyfJmhI?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Sun, 13 Sep 2026 16:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    }
+  ],
+  "投融资与并购": [],
+  "政策与监管": []
+}
