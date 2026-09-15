@@ -1,78 +1,105 @@
 {
-  "date": "2026/9/14",
-  "count": 8,
+  "date": "2026/9/15",
+  "count": 11,
   "articles": [
     {
+      "section": "产品发布与更新",
+      "title": "Arm 推出 AI Portal：当 AI 应用从“模型可用”走向“平台可用”",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Mon, 14 Sep 2026 21:50:38 GMT",
+      "summary": "点击查看原文>",
+      "score": 29
+    },
+    {
       "section": "技术与研究",
-      "title": "智谱提前剧透GLM-6.0：完全自训练方法公开了",
-      "company": "智谱",
-      "source": "量子位",
-      "publishedAt": "Mon, 14 Sep 2026 00:30:56 +0000",
-      "summary": "模型、论文都还没出，没想到先从财务公告上剧透了",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "company": "OpenAI",
+      "source": "TechCrunch AI",
+      "publishedAt": "Mon, 14 Sep 2026 20:44:14 +0000",
+      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
       "score": 28
     },
     {
       "section": "技术与研究",
-      "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
-      "company": "OpenAI",
-      "source": "量子位",
-      "publishedAt": "Sun, 13 Sep 2026 03:13:00 +0000",
-      "summary": "RSI太危险，得管！",
-      "score": 20
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "company": "NVIDIA",
+      "source": "TechCrunch AI",
+      "publishedAt": "Mon, 14 Sep 2026 21:51:02 +0000",
+      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "score": 23
     },
     {
-      "section": "产品发布与更新",
-      "title": "Java 近期新闻：TornadoVM 6、JReleaser、LangChain4j、Java Operator SDK、JHipster、Yupiik Fusion",
+      "section": "技术与研究",
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Mon, 14 Sep 2026 17:54:22 +0000",
+      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its…",
+      "score": 23
+    },
+    {
+      "section": "技术与研究",
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Mon, 14 Sep 2026 16:00:00 +0000",
+      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in…",
+      "score": 23
+    },
+    {
+      "section": "技术与研究",
+      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Mon, 14 Sep 2026 09:36:28 +0000",
+      "summary": "暂无摘要",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Mon, 14 Sep 2026 08:08:29 +0000",
+      "summary": "让模型和设备共同进化",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "AI 负责创造，人来干脏活，这事儿能否停一下？",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Mon, 14 Sep 2026 09:00:00 GMT",
+      "publishedAt": "Tue, 15 Sep 2026 00:08:00 GMT",
       "summary": "点击查看原文>",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "Read, Don&#39;t Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Sun, 13 Sep 2026 10:00:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 17
-    },
-    {
-      "section": "技术与研究",
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "company": "",
+      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+      "company": "Microsoft",
       "source": "TechCrunch AI",
-      "publishedAt": "Sun, 13 Sep 2026 19:40:15 +0000",
-      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-      "score": 16
+      "publishedAt": "Mon, 14 Sep 2026 16:27:53 +0000",
+      "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
+      "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Sun, 13 Sep 2026 16:30:00 +0000",
-      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
+      "title": "一年连融三轮，这家金融AI公司又拿下超3亿B轮",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Sun, 13 Sep 2026 07:38:20 +0000",
-      "summary": "亮源新创的Physical Al路线清晰了",
+      "publishedAt": "Mon, 14 Sep 2026 07:55:12 +0000",
+      "summary": "险资、券商与头部创投持续加码",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌",
+      "title": "发长文预警 AI 风险后，Dario 首次专访回应：AI 不能停，但必须慢下来",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Sun, 13 Sep 2026 16:00:00 GMT",
+      "publishedAt": "Mon, 14 Sep 2026 21:54:49 GMT",
       "summary": "点击查看原文>",
-      "score": 16
+      "score": 18
     }
   ]
 }
