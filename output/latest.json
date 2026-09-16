@@ -1,105 +1,114 @@
 {
-  "date": "2026/9/15",
-  "count": 11,
+  "date": "2026/9/16",
+  "count": 12,
   "articles": [
     {
-      "section": "产品发布与更新",
-      "title": "Arm 推出 AI Portal：当 AI 应用从“模型可用”走向“平台可用”",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Mon, 14 Sep 2026 21:50:38 GMT",
-      "summary": "点击查看原文>",
-      "score": 29
-    },
-    {
       "section": "技术与研究",
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "company": "OpenAI",
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "company": "Meta",
       "source": "TechCrunch AI",
-      "publishedAt": "Mon, 14 Sep 2026 20:44:14 +0000",
-      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+      "publishedAt": "Tue, 15 Sep 2026 20:12:53 +0000",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
       "score": 28
     },
     {
       "section": "技术与研究",
-      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-      "company": "NVIDIA",
-      "source": "TechCrunch AI",
-      "publishedAt": "Mon, 14 Sep 2026 21:51:02 +0000",
-      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Mon, 14 Sep 2026 17:54:22 +0000",
-      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its…",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "AI agents blew the whistle on their cheating colleagues",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Mon, 14 Sep 2026 16:00:00 +0000",
-      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in…",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+      "title": "无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Mon, 14 Sep 2026 09:36:28 +0000",
-      "summary": "暂无摘要",
-      "score": 18
+      "publishedAt": "Tue, 15 Sep 2026 10:43:28 +0000",
+      "summary": "卡位具身智能规模化落地“最后一公里”！",
+      "score": 27
     },
     {
-      "section": "技术与研究",
-      "title": "端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装",
+      "section": "产品发布与更新",
+      "title": "全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Mon, 14 Sep 2026 08:08:29 +0000",
-      "summary": "让模型和设备共同进化",
-      "score": 18
+      "publishedAt": "Tue, 15 Sep 2026 10:41:06 +0000",
+      "summary": "智象未来（HiDream.ai）正式发布首个原生全模态视频生成模型 HiDream-O1-Video-1.0",
+      "score": 22
     },
     {
       "section": "技术与研究",
-      "title": "AI 负责创造，人来干脏活，这事儿能否停一下？",
+      "title": "129亿美元卖身英伟达之后，是时候重新理解Hugging Face了",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Tue, 15 Sep 2026 00:08:00 GMT",
+      "publishedAt": "Wed, 16 Sep 2026 08:00:00 GMT",
       "summary": "点击查看原文>",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-      "company": "Microsoft",
-      "source": "TechCrunch AI",
-      "publishedAt": "Mon, 14 Sep 2026 16:27:53 +0000",
-      "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "一年连融三轮，这家金融AI公司又拿下超3亿B轮",
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "company": "OpenAI",
+      "source": "TechCrunch AI",
+      "publishedAt": "Tue, 15 Sep 2026 15:47:03 +0000",
+      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "Agent开始调用基础设施，Kubernetes准备好了吗？",
       "company": "",
-      "source": "量子位",
-      "publishedAt": "Mon, 14 Sep 2026 07:55:12 +0000",
-      "summary": "险资、券商与头部创投持续加码",
+      "source": "InfoQ",
+      "publishedAt": "Tue, 15 Sep 2026 20:38:38 GMT",
+      "summary": "点击查看原文>",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "发长文预警 AI 风险后，Dario 首次专访回应：AI 不能停，但必须慢下来",
+      "title": "Roundtables: Could AI really kill us all?",
       "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Mon, 14 Sep 2026 21:54:49 GMT",
-      "summary": "点击查看原文>",
+      "source": "MIT Technology Review",
+      "publishedAt": "Tue, 15 Sep 2026 17:47:51 +0000",
+      "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,…",
       "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Tue, 15 Sep 2026 12:10:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs…",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "首个AIGC长片大赛！RunningHub单项大奖100万，科幻IP免费改编",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Tue, 15 Sep 2026 07:48:48 +0000",
+      "summary": "刘慈欣督战",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "The AI data center boom is colliding with cities scarred by big industry ",
+      "company": "",
+      "source": "TechCrunch AI",
+      "publishedAt": "Tue, 15 Sep 2026 21:47:38 +0000",
+      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "飞书与豆包工作合体后首亮相：Agent 能进群，还能帮你写周报、做PPT",
+      "company": "豆包",
+      "source": "InfoQ",
+      "publishedAt": "Tue, 15 Sep 2026 18:37:10 GMT",
+      "summary": "点击查看原文>",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "What’s at stake in AI’s trillion-dollar gamble",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Tue, 15 Sep 2026 10:00:00 +0000",
+      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called…",
+      "score": 16
     }
   ]
 }
