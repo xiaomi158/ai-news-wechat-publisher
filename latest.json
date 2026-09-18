@@ -1,105 +1,96 @@
 {
-  "date": "2026/9/17",
-  "count": 11,
+  "date": "2026/9/18",
+  "count": 10,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Wed, 16 Sep 2026 13:08:20 +0000",
-      "summary": "九大空间测试10B规模通用模型中8项第一",
-      "score": 30
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "company": "OpenAI",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 17 Sep 2026 20:34:24 +0000",
+      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+      "score": 29
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "company": "Google",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 17 Sep 2026 23:21:17 +0000",
+      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
+      "score": 28
     },
     {
       "section": "技术与研究",
-      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-      "company": "Meta",
-      "source": "TechCrunch AI",
-      "publishedAt": "Wed, 16 Sep 2026 20:12:00 +0000",
-      "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+      "title": "百度智能云首发产业智能体操作系统，要实现 AI 的商业和技术飞轮",
+      "company": "百度",
+      "source": "InfoQ",
+      "publishedAt": "Thu, 17 Sep 2026 19:29:09 GMT",
+      "summary": "点击查看原文>",
+      "score": 25
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "阶跃发布全新语音大模型 StepAudio 3系列：覆盖语音识别、生成、实时交互与音乐创作",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Thu, 17 Sep 2026 15:50:57 GMT",
+      "summary": "点击查看原文>",
       "score": 23
     },
     {
       "section": "技术与研究",
-      "title": "Agent 的经济账，不能只算 Token——阿里用 Qoder Cloud Agents 给出答案",
-      "company": "阿里",
-      "source": "InfoQ",
-      "publishedAt": "Wed, 16 Sep 2026 18:36:54 GMT",
-      "summary": "点击查看原文>",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "Anthropic merges Claude chat and Cowork in one interface",
-      "company": "Anthropic",
-      "source": "TechCrunch AI",
-      "publishedAt": "Wed, 16 Sep 2026 16:30:00 +0000",
-      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
-      "score": 21
+      "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+      "company": "Claude",
+      "source": "量子位",
+      "publishedAt": "Fri, 18 Sep 2026 00:34:34 +0000",
+      "summary": "Git白学了？？？",
+      "score": 22
     },
     {
       "section": "产品发布与更新",
-      "title": "亚马逊 CTO 要来中国了，说实话，这比泛滥的 AI 发布会值得关注",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Wed, 16 Sep 2026 19:20:27 GMT",
-      "summary": "点击查看原文>",
-      "score": 20
-    },
-    {
-      "section": "技术与研究",
-      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
-      "company": "OpenAI",
-      "source": "MIT Technology Review",
-      "publishedAt": "Wed, 16 Sep 2026 12:10:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impact on the economy over the next few years,…",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用",
-      "company": "",
+      "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
+      "company": "Claude",
       "source": "量子位",
-      "publishedAt": "Wed, 16 Sep 2026 08:09:53 +0000",
-      "summary": "2026年 9 月 15 日，AI基础设施公司基元律动（TokenRhythm）与无问芯穹（Infinigence AI）签署战略合作协议。",
+      "publishedAt": "Thu, 17 Sep 2026 09:07:25 +0000",
+      "summary": "文档和PPT都能做了",
       "score": 19
     },
     {
       "section": "技术与研究",
-      "title": "Meet a mouse whose brain cortex is made up of human cells",
+      "title": "The Download: mice with part-human brains and climate tech innovators",
       "company": "",
       "source": "MIT Technology Review",
-      "publishedAt": "Wed, 16 Sep 2026 15:00:00 +0000",
-      "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.  The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tissues of distant species is…",
-      "score": 18
+      "publishedAt": "Thu, 17 Sep 2026 12:10:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed,…",
+      "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-      "company": "NVIDIA",
-      "source": "TechCrunch AI",
-      "publishedAt": "Wed, 16 Sep 2026 15:00:00 +0000",
-      "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+      "title": "700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 18 Sep 2026 09:04:00 GMT",
+      "summary": "点击查看原文>",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
       "company": "",
-      "source": "量子位",
-      "publishedAt": "Wed, 16 Sep 2026 08:51:02 +0000",
-      "summary": "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 17 Sep 2026 23:25:52 +0000",
+      "summary": "The round values the data center giant at $30.9 billion.",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "Snowflake World Tour 上海站 Keynote——Snowflake 企业级智能体",
+      "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
       "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Thu, 17 Sep 2026 10:00:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 18
+      "source": "量子位",
+      "publishedAt": "Thu, 17 Sep 2026 12:03:24 +0000",
+      "summary": "构建个体专属AI助理",
+      "score": 15
     }
   ]
 }
