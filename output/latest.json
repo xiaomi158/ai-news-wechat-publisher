@@ -1,96 +1,105 @@
 {
-  "date": "2026/9/18",
-  "count": 10,
+  "date": "2026/9/19",
+  "count": 11,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "company": "OpenAI",
-      "source": "TechCrunch AI",
-      "publishedAt": "Thu, 17 Sep 2026 20:34:24 +0000",
-      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
-      "score": 29
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "Google DeepMind launches institute to widen the AGI debate",
-      "company": "Google",
-      "source": "TechCrunch AI",
-      "publishedAt": "Thu, 17 Sep 2026 23:21:17 +0000",
-      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
-      "score": 28
+      "title": "Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化",
+      "company": "Anthropic",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 18 Sep 2026 17:00:25 GMT",
+      "summary": "点击查看原文>",
+      "score": 27
     },
     {
       "section": "技术与研究",
-      "title": "百度智能云首发产业智能体操作系统，要实现 AI 的商业和技术飞轮",
-      "company": "百度",
-      "source": "InfoQ",
-      "publishedAt": "Thu, 17 Sep 2026 19:29:09 GMT",
-      "summary": "点击查看原文>",
-      "score": 25
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "阶跃发布全新语音大模型 StepAudio 3系列：覆盖语音识别、生成、实时交互与音乐创作",
+      "title": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
       "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Thu, 17 Sep 2026 15:50:57 GMT",
-      "summary": "点击查看原文>",
+      "source": "量子位",
+      "publishedAt": "Fri, 18 Sep 2026 12:22:47 +0000",
+      "summary": "LimiX让模型理解数据背后的因果机制",
       "score": 23
     },
     {
       "section": "技术与研究",
-      "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
-      "company": "Claude",
-      "source": "量子位",
-      "publishedAt": "Fri, 18 Sep 2026 00:34:34 +0000",
-      "summary": "Git白学了？？？",
-      "score": 22
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
-      "company": "Claude",
-      "source": "量子位",
-      "publishedAt": "Thu, 17 Sep 2026 09:07:25 +0000",
-      "summary": "文档和PPT都能做了",
-      "score": 19
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "company": "Anthropic",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 18 Sep 2026 23:13:31 +0000",
+      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "score": 23
     },
     {
       "section": "技术与研究",
-      "title": "The Download: mice with part-human brains and climate tech innovators",
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "company": "Anthropic",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 18 Sep 2026 21:44:33 +0000",
+      "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "score": 23
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Fri, 18 Sep 2026 15:50:20 +0000",
+      "summary": "成果中唯一聚焦算电协同全链路运营的AI技术产品",
+      "score": 21
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "ColorOS 17 发布，OPPO 开始把手机 OS 推向 AgentOS",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 18 Sep 2026 15:53:51 GMT",
+      "summary": "点击查看原文>",
+      "score": 20
+    },
+    {
+      "section": "技术与研究",
+      "title": "The Download: AI’s extinction risk and bioweapons threat",
       "company": "",
       "source": "MIT Technology Review",
-      "publishedAt": "Thu, 17 Sep 2026 12:10:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed,…",
+      "publishedAt": "Fri, 18 Sep 2026 12:10:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could…",
       "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件",
+      "title": "US government website used Chinese model the FBI called \"malicious\"",
       "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Fri, 18 Sep 2026 09:04:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 21
+      "source": "Ars Technica",
+      "publishedAt": "Fri, 18 Sep 2026 17:28:50 +0000",
+      "summary": "The Federal Register website briefly used an open source Chinese AI search tool.",
+      "score": 13
     },
     {
       "section": "技术与研究",
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
       "company": "",
       "source": "TechCrunch AI",
-      "publishedAt": "Thu, 17 Sep 2026 23:25:52 +0000",
-      "summary": "The round values the data center giant at $30.9 billion.",
+      "publishedAt": "Sat, 19 Sep 2026 00:12:07 +0000",
+      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+      "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Thu, 17 Sep 2026 12:03:24 +0000",
-      "summary": "构建个体专属AI助理",
-      "score": 15
+      "publishedAt": "Fri, 18 Sep 2026 15:58:21 +0000",
+      "summary": "协同布局AI基础设施",
+      "score": 17
+    },
+    {
+      "section": "技术与研究",
+      "title": "Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 18 Sep 2026 18:00:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 16
     }
   ]
 }
