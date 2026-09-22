@@ -1,104 +1,113 @@
 {
-  "date": "2026/9/19",
-  "count": 11,
+  "date": "2026/9/22",
+  "count": 12,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化",
-      "company": "Anthropic",
+      "title": "MiniMax H3 开源后，本地 AIGC 走到了哪里？",
+      "company": "MiniMax",
       "source": "InfoQ",
-      "publishedAt": "Fri, 18 Sep 2026 17:00:25 GMT",
+      "publishedAt": "Mon, 21 Sep 2026 21:31:00 GMT",
       "summary": "点击查看原文>",
+      "score": 30
+    },
+    {
+      "section": "技术与研究",
+      "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Mon, 21 Sep 2026 06:22:37 +0000",
+      "summary": "在物理世界真正干活的具身智能体",
       "score": 27
     },
     {
       "section": "技术与研究",
-      "title": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "company": "Google",
+      "source": "TechCrunch AI",
+      "publishedAt": "Mon, 21 Sep 2026 14:39:22 +0000",
+      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
+      "score": 27
+    },
+    {
+      "section": "技术与研究",
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "company": "OpenAI",
+      "source": "TechCrunch AI",
+      "publishedAt": "Mon, 21 Sep 2026 20:15:58 +0000",
+      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+      "score": 23
+    },
+    {
+      "section": "技术与研究",
+      "title": "70强项目观察之具身未来：机器人走进现实世界，关键不只是完成动作",
       "company": "",
-      "source": "量子位",
-      "publishedAt": "Fri, 18 Sep 2026 12:22:47 +0000",
-      "summary": "LimiX让模型理解数据背后的因果机制",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "company": "Anthropic",
-      "source": "TechCrunch AI",
-      "publishedAt": "Fri, 18 Sep 2026 23:13:31 +0000",
-      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "Anthropic’s first embedded evaluator is … Accenture?",
-      "company": "Anthropic",
-      "source": "TechCrunch AI",
-      "publishedAt": "Fri, 18 Sep 2026 21:44:33 +0000",
-      "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
-      "score": 23
+      "source": "InfoQ",
+      "publishedAt": "Mon, 21 Sep 2026 18:23:23 GMT",
+      "summary": "点击查看原文>",
+      "score": 20
     },
     {
       "section": "产品发布与更新",
-      "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
+      "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Fri, 18 Sep 2026 15:50:20 +0000",
-      "summary": "成果中唯一聚焦算电协同全链路运营的AI技术产品",
+      "publishedAt": "Mon, 21 Sep 2026 07:52:46 +0000",
+      "summary": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。",
+      "score": 19
+    },
+    {
+      "section": "投融资与并购",
+      "title": "The Download: investigating deaths at the US border’s “virtual wall”",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Mon, 21 Sep 2026 12:20:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in April 2024, the day before…",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Mon, 21 Sep 2026 12:00:00 +0000",
+      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for…",
+      "score": 16
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "company": "Meta",
+      "source": "TechCrunch AI",
+      "publishedAt": "Mon, 21 Sep 2026 19:19:21 +0000",
+      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
       "score": 21
     },
     {
-      "section": "产品发布与更新",
-      "title": "ColorOS 17 发布，OPPO 开始把手机 OS 推向 AgentOS",
+      "section": "技术与研究",
+      "title": "70强项目观察之无界应用：AI应用正在从“有功能”走向“能完成任务”",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Fri, 18 Sep 2026 15:53:51 GMT",
+      "publishedAt": "Mon, 21 Sep 2026 18:18:29 GMT",
       "summary": "点击查看原文>",
       "score": 20
     },
     {
       "section": "技术与研究",
-      "title": "The Download: AI’s extinction risk and bioweapons threat",
+      "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
       "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Fri, 18 Sep 2026 12:10:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could…",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "US government website used Chinese model the FBI called \"malicious\"",
-      "company": "",
-      "source": "Ars Technica",
-      "publishedAt": "Fri, 18 Sep 2026 17:28:50 +0000",
-      "summary": "The Federal Register website briefly used an open source Chinese AI search tool.",
-      "score": 13
-    },
-    {
-      "section": "技术与研究",
-      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-      "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Sat, 19 Sep 2026 00:12:07 +0000",
-      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "source": "量子位",
+      "publishedAt": "Mon, 21 Sep 2026 08:21:55 +0000",
+      "summary": "97%尝试危险行为",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
+      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
       "company": "",
-      "source": "量子位",
-      "publishedAt": "Fri, 18 Sep 2026 15:58:21 +0000",
-      "summary": "协同布局AI基础设施",
-      "score": 17
-    },
-    {
-      "section": "技术与研究",
-      "title": "Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Fri, 18 Sep 2026 18:00:00 GMT",
-      "summary": "点击查看原文>",
+      "source": "MIT Technology Review",
+      "publishedAt": "Mon, 21 Sep 2026 12:00:00 +0000",
+      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.  As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed…",
       "score": 16
     }
   ]
