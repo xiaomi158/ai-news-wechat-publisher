@@ -1,114 +1,78 @@
 {
-  "date": "2026/9/22",
-  "count": 12,
+  "date": "2026/9/23",
+  "count": 8,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "MiniMax H3 开源后，本地 AIGC 走到了哪里？",
-      "company": "MiniMax",
+      "title": "阿里 Open Code Review 登顶 GitHub Trending 周榜第一，作者李峥峰将在 QCon 上海站揭秘百万任务验证的 Agent 工程实践",
+      "company": "阿里",
       "source": "InfoQ",
-      "publishedAt": "Mon, 21 Sep 2026 21:31:00 GMT",
+      "publishedAt": "Wed, 23 Sep 2026 10:05:17 GMT",
       "summary": "点击查看原文>",
-      "score": 30
-    },
-    {
-      "section": "技术与研究",
-      "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Mon, 21 Sep 2026 06:22:37 +0000",
-      "summary": "在物理世界真正干活的具身智能体",
-      "score": 27
-    },
-    {
-      "section": "技术与研究",
-      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-      "company": "Google",
-      "source": "TechCrunch AI",
-      "publishedAt": "Mon, 21 Sep 2026 14:39:22 +0000",
-      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
-      "score": 27
-    },
-    {
-      "section": "技术与研究",
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "company": "OpenAI",
-      "source": "TechCrunch AI",
-      "publishedAt": "Mon, 21 Sep 2026 20:15:58 +0000",
-      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
       "score": 23
     },
     {
       "section": "技术与研究",
-      "title": "70强项目观察之具身未来：机器人走进现实世界，关键不只是完成动作",
+      "title": "从生成内容到创造体验，多模态大模型如何改变内容生产？",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Mon, 21 Sep 2026 18:23:23 GMT",
+      "publishedAt": "Tue, 22 Sep 2026 20:12:00 GMT",
       "summary": "点击查看原文>",
-      "score": 20
+      "score": 21
     },
     {
       "section": "产品发布与更新",
-      "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Mon, 21 Sep 2026 07:52:46 +0000",
-      "summary": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。",
-      "score": 19
-    },
-    {
-      "section": "投融资与并购",
-      "title": "The Download: investigating deaths at the US border’s “virtual wall”",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Mon, 21 Sep 2026 12:20:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in April 2024, the day before…",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Mon, 21 Sep 2026 12:00:00 +0000",
-      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for…",
-      "score": 16
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "company": "Meta",
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "company": "Anthropic",
       "source": "TechCrunch AI",
-      "publishedAt": "Mon, 21 Sep 2026 19:19:21 +0000",
-      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+      "publishedAt": "Tue, 22 Sep 2026 16:30:07 +0000",
+      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "70强项目观察之无界应用：AI应用正在从“有功能”走向“能完成任务”",
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
       "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Mon, 21 Sep 2026 18:18:29 GMT",
-      "summary": "点击查看原文>",
-      "score": 20
+      "source": "TechCrunch AI",
+      "publishedAt": "Tue, 22 Sep 2026 15:00:00 +0000",
+      "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
+      "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Mon, 21 Sep 2026 08:21:55 +0000",
-      "summary": "97%尝试危险行为",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "title": "Don’t be fooled by this summer of AI hype ",
       "company": "",
       "source": "MIT Technology Review",
-      "publishedAt": "Mon, 21 Sep 2026 12:00:00 +0000",
-      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.  As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed…",
+      "publishedAt": "Tue, 22 Sep 2026 11:04:51 +0000",
+      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed…",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Tue, 22 Sep 2026 12:10:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Don’t be fooled by this summer of AI hype  —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender, professor of linguistics at the University of…",
       "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+      "company": "",
+      "source": "TechCrunch AI",
+      "publishedAt": "Tue, 22 Sep 2026 14:30:00 +0000",
+      "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
+      "score": 19
+    },
+    {
+      "section": "技术与研究",
+      "title": "飞猪 AI Native 交付大脑：用超级流程重构需求交付｜QCon上海",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Wed, 23 Sep 2026 10:00:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 18
     }
   ]
 }
