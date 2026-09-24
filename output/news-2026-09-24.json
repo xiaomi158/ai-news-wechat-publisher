@@ -1,0 +1,217 @@
+{
+  "产品发布与更新": [
+    {
+      "title": "Claude Opus 5.5 发布：一天内迁移 68 万行代码，单任务成本比 GPT-6 Astra 便宜 80%",
+      "url": "https://www.infoq.cn/article/jG9ksSRvpkfP20Qif8Ov?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Wed, 23 Sep 2026 22:41:27 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "产品发布与更新",
+      "company": "Claude",
+      "score": 31,
+      "breakdown": {
+        "substance": 13,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”",
+      "url": "https://www.qbitai.com/2026/09/496471.html",
+      "snippet": "9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2.0-23B-A3B",
+      "source": "量子位",
+      "publishedAt": "Wed, 23 Sep 2026 08:45:22 +0000",
+      "region": "国内",
+      "summary": "9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2.0-23B-A3B",
+      "category": "产品发布与更新",
+      "company": "",
+      "score": 22,
+      "breakdown": {
+        "substance": 7,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    }
+  ],
+  "技术与研究": [
+    {
+      "title": "Meta introduces camera-free AI glasses",
+      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "snippet": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 23 Sep 2026 23:39:44 +0000",
+      "region": "海外",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "category": "技术与研究",
+      "company": "Meta",
+      "score": 23,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Anthropic says its biology lab has already found something big",
+      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "snippet": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 23 Sep 2026 22:17:39 +0000",
+      "region": "海外",
+      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "category": "技术与研究",
+      "company": "Anthropic",
+      "score": 23,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "DeepSeek新论文公开Agent训练！梁文锋署名",
+      "url": "https://www.qbitai.com/2026/09/496393.html",
+      "snippet": "每秒能产生5000+个沙盒",
+      "source": "量子位",
+      "publishedAt": "Wed, 23 Sep 2026 07:29:50 +0000",
+      "region": "国内",
+      "summary": "每秒能产生5000+个沙盒",
+      "category": "技术与研究",
+      "company": "",
+      "score": 21,
+      "breakdown": {
+        "substance": 6,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "利用 AI 搭建内部开发者平台",
+      "url": "https://www.infoq.cn/article/su9aJV7kiibMfxwzLpOJ?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Thu, 24 Sep 2026 09:05:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
+      "url": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
+      "snippet": "Trump focus on winning “AI race” may deter China from sharing safety intel.",
+      "source": "Ars Technica",
+      "publishedAt": "Wed, 23 Sep 2026 20:52:28 +0000",
+      "region": "海外",
+      "summary": "Trump focus on winning “AI race” may deter China from sharing safety intel.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 15,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 5
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "YouTube promises custom feeds and a lot more AI later this year",
+      "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
+      "snippet": "YouTube's next year could change the content you see with a big focus on AI and livestreams.",
+      "source": "Ars Technica",
+      "publishedAt": "Wed, 23 Sep 2026 19:35:53 +0000",
+      "region": "海外",
+      "summary": "YouTube's next year could change the content you see with a big focus on AI and livestreams.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 13,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 5
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "YouTube will let you build your own algorithm with AI",
+      "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+      "snippet": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 23 Sep 2026 14:30:00 +0000",
+      "region": "海外",
+      "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 22,
+      "breakdown": {
+        "substance": 0,
+        "importance": 6,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
+      "url": "https://www.qbitai.com/2026/09/496609.html",
+      "snippet": "联想天禧AI携全场景多端产品矩阵亮相阿里云栖大会",
+      "source": "量子位",
+      "publishedAt": "Wed, 23 Sep 2026 10:35:16 +0000",
+      "region": "国内",
+      "summary": "联想天禧AI携全场景多端产品矩阵亮相阿里云栖大会",
+      "category": "技术与研究",
+      "company": "阿里",
+      "score": 20,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "AI 改变跨平台开发取舍，Shopify 弃用 React Native，改用 Swift 和 Kotlin",
+      "url": "https://www.infoq.cn/article/2FFH5EHF2SMusaYQhjlX?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Wed, 23 Sep 2026 17:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    }
+  ],
+  "投融资与并购": [],
+  "政策与监管": []
+}

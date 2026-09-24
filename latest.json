@@ -1,78 +1,105 @@
 {
-  "date": "2026/9/23",
-  "count": 8,
+  "date": "2026/9/24",
+  "count": 11,
   "articles": [
     {
-      "section": "技术与研究",
-      "title": "阿里 Open Code Review 登顶 GitHub Trending 周榜第一，作者李峥峰将在 QCon 上海站揭秘百万任务验证的 Agent 工程实践",
-      "company": "阿里",
+      "section": "产品发布与更新",
+      "title": "Claude Opus 5.5 发布：一天内迁移 68 万行代码，单任务成本比 GPT-6 Astra 便宜 80%",
+      "company": "Claude",
       "source": "InfoQ",
-      "publishedAt": "Wed, 23 Sep 2026 10:05:17 GMT",
+      "publishedAt": "Wed, 23 Sep 2026 22:41:27 GMT",
       "summary": "点击查看原文>",
+      "score": 31
+    },
+    {
+      "section": "技术与研究",
+      "title": "Meta introduces camera-free AI glasses",
+      "company": "Meta",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 23 Sep 2026 23:39:44 +0000",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
       "score": 23
     },
     {
       "section": "技术与研究",
-      "title": "从生成内容到创造体验，多模态大模型如何改变内容生产？",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Tue, 22 Sep 2026 20:12:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 21
+      "title": "Anthropic says its biology lab has already found something big",
+      "company": "Anthropic",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 23 Sep 2026 22:17:39 +0000",
+      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "score": 23
     },
     {
       "section": "产品发布与更新",
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "company": "Anthropic",
-      "source": "TechCrunch AI",
-      "publishedAt": "Tue, 22 Sep 2026 16:30:07 +0000",
-      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+      "title": "斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Wed, 23 Sep 2026 08:45:22 +0000",
+      "summary": "9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2.0-23B-A3B",
+      "score": 22
+    },
+    {
+      "section": "技术与研究",
+      "title": "DeepSeek新论文公开Agent训练！梁文锋署名",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Wed, 23 Sep 2026 07:29:50 +0000",
+      "summary": "每秒能产生5000+个沙盒",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-      "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Tue, 22 Sep 2026 15:00:00 +0000",
-      "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "Don’t be fooled by this summer of AI hype ",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Tue, 22 Sep 2026 11:04:51 +0000",
-      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed…",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Tue, 22 Sep 2026 12:10:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Don’t be fooled by this summer of AI hype  —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender, professor of linguistics at the University of…",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-      "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Tue, 22 Sep 2026 14:30:00 +0000",
-      "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
-      "score": 19
-    },
-    {
-      "section": "技术与研究",
-      "title": "飞猪 AI Native 交付大脑：用超级流程重构需求交付｜QCon上海",
+      "title": "利用 AI 搭建内部开发者平台",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Wed, 23 Sep 2026 10:00:00 GMT",
+      "publishedAt": "Thu, 24 Sep 2026 09:05:00 GMT",
       "summary": "点击查看原文>",
       "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
+      "company": "",
+      "source": "Ars Technica",
+      "publishedAt": "Wed, 23 Sep 2026 20:52:28 +0000",
+      "summary": "Trump focus on winning “AI race” may deter China from sharing safety intel.",
+      "score": 15
+    },
+    {
+      "section": "技术与研究",
+      "title": "YouTube promises custom feeds and a lot more AI later this year",
+      "company": "",
+      "source": "Ars Technica",
+      "publishedAt": "Wed, 23 Sep 2026 19:35:53 +0000",
+      "summary": "YouTube's next year could change the content you see with a big focus on AI and livestreams.",
+      "score": 13
+    },
+    {
+      "section": "技术与研究",
+      "title": "YouTube will let you build your own algorithm with AI",
+      "company": "",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 23 Sep 2026 14:30:00 +0000",
+      "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+      "score": 22
+    },
+    {
+      "section": "技术与研究",
+      "title": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
+      "company": "阿里",
+      "source": "量子位",
+      "publishedAt": "Wed, 23 Sep 2026 10:35:16 +0000",
+      "summary": "联想天禧AI携全场景多端产品矩阵亮相阿里云栖大会",
+      "score": 20
+    },
+    {
+      "section": "技术与研究",
+      "title": "AI 改变跨平台开发取舍，Shopify 弃用 React Native，改用 Swift 和 Kotlin",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Wed, 23 Sep 2026 17:00:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 16
     }
   ]
 }
