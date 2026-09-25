@@ -1,104 +1,104 @@
 {
-  "date": "2026/9/24",
+  "date": "2026/9/25",
   "count": 11,
   "articles": [
     {
-      "section": "产品发布与更新",
-      "title": "Claude Opus 5.5 发布：一天内迁移 68 万行代码，单任务成本比 GPT-6 Astra 便宜 80%",
-      "company": "Claude",
-      "source": "InfoQ",
-      "publishedAt": "Wed, 23 Sep 2026 22:41:27 GMT",
-      "summary": "点击查看原文>",
-      "score": 31
-    },
-    {
       "section": "技术与研究",
-      "title": "Meta introduces camera-free AI glasses",
-      "company": "Meta",
-      "source": "TechCrunch AI",
-      "publishedAt": "Wed, 23 Sep 2026 23:39:44 +0000",
-      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "Anthropic says its biology lab has already found something big",
-      "company": "Anthropic",
-      "source": "TechCrunch AI",
-      "publishedAt": "Wed, 23 Sep 2026 22:17:39 +0000",
-      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
-      "score": 23
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”",
+      "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Wed, 23 Sep 2026 08:45:22 +0000",
-      "summary": "9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2.0-23B-A3B",
+      "publishedAt": "Thu, 24 Sep 2026 05:19:55 +0000",
+      "summary": "开源一座具身智能的新“塔台”",
+      "score": 37
+    },
+    {
+      "section": "技术与研究",
+      "title": "世界人工智能开源大赛（GOAI）总决赛暨颁奖盛典在杭州举行",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Thu, 24 Sep 2026 18:11:27 GMT",
+      "summary": "点击查看原文>",
+      "score": 28
+    },
+    {
+      "section": "技术与研究",
+      "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
+      "company": "腾讯",
+      "source": "量子位",
+      "publishedAt": "Thu, 24 Sep 2026 14:20:14 +0000",
+      "summary": "懂出海，能记忆，自进化",
       "score": 22
     },
     {
       "section": "技术与研究",
-      "title": "DeepSeek新论文公开Agent训练！梁文锋署名",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Wed, 23 Sep 2026 07:29:50 +0000",
-      "summary": "每秒能产生5000+个沙盒",
+      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+      "company": "Google",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 24 Sep 2026 17:00:00 +0000",
+      "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "利用 AI 搭建内部开发者平台",
+      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+      "company": "",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 24 Sep 2026 14:31:00 +0000",
+      "summary": "The app gives agents their own identities and inboxes and lets them partake in conversations as naturally as people can.",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "数据、模型、算力越来越难分开，Data+AI 基础设施怎么进化？",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Thu, 24 Sep 2026 09:05:00 GMT",
+      "publishedAt": "Thu, 24 Sep 2026 16:34:30 GMT",
+      "summary": "点击查看原文>",
+      "score": 19
+    },
+    {
+      "section": "技术与研究",
+      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Thu, 24 Sep 2026 12:10:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has announced plans to introduce legislation to terminate the surveillance tower program along…",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
+      "company": "",
+      "source": "Ars Technica",
+      "publishedAt": "Thu, 24 Sep 2026 18:20:58 +0000",
+      "summary": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear.",
+      "score": 13
+    },
+    {
+      "section": "技术与研究",
+      "title": "时隔十年，AI大牛署名新论文",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Thu, 24 Sep 2026 12:58:55 +0000",
+      "summary": "让自动驾驶“走一步想十步”",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "当 Vibe Coding 撞上企业级现实：真实工程中的 AI 效能之路｜QCon上海",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 25 Sep 2026 10:00:00 GMT",
       "summary": "点击查看原文>",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
-      "company": "",
-      "source": "Ars Technica",
-      "publishedAt": "Wed, 23 Sep 2026 20:52:28 +0000",
-      "summary": "Trump focus on winning “AI race” may deter China from sharing safety intel.",
-      "score": 15
-    },
-    {
-      "section": "技术与研究",
-      "title": "YouTube promises custom feeds and a lot more AI later this year",
-      "company": "",
-      "source": "Ars Technica",
-      "publishedAt": "Wed, 23 Sep 2026 19:35:53 +0000",
-      "summary": "YouTube's next year could change the content you see with a big focus on AI and livestreams.",
-      "score": 13
-    },
-    {
-      "section": "技术与研究",
-      "title": "YouTube will let you build your own algorithm with AI",
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
       "company": "",
       "source": "TechCrunch AI",
-      "publishedAt": "Wed, 23 Sep 2026 14:30:00 +0000",
-      "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
-      "score": 22
-    },
-    {
-      "section": "技术与研究",
-      "title": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
-      "company": "阿里",
-      "source": "量子位",
-      "publishedAt": "Wed, 23 Sep 2026 10:35:16 +0000",
-      "summary": "联想天禧AI携全场景多端产品矩阵亮相阿里云栖大会",
-      "score": 20
-    },
-    {
-      "section": "技术与研究",
-      "title": "AI 改变跨平台开发取舍，Shopify 弃用 React Native，改用 Swift 和 Kotlin",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Wed, 23 Sep 2026 17:00:00 GMT",
-      "summary": "点击查看原文>",
+      "publishedAt": "Thu, 24 Sep 2026 19:00:42 +0000",
+      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
       "score": 16
     }
   ]
