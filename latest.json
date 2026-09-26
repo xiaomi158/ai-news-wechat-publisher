@@ -1,105 +1,78 @@
 {
-  "date": "2026/9/25",
-  "count": 11,
+  "date": "2026/9/26",
+  "count": 8,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
+      "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Thu, 24 Sep 2026 05:19:55 +0000",
-      "summary": "开源一座具身智能的新“塔台”",
-      "score": 37
+      "publishedAt": "Fri, 25 Sep 2026 10:00:14 +0000",
+      "summary": "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。",
+      "score": 27
     },
     {
       "section": "技术与研究",
-      "title": "世界人工智能开源大赛（GOAI）总决赛暨颁奖盛典在杭州举行",
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "company": "Anthropic",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 25 Sep 2026 19:13:38 +0000",
+      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
+      "score": 24
+    },
+    {
+      "section": "技术与研究",
+      "title": "DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Thu, 24 Sep 2026 18:11:27 GMT",
+      "publishedAt": "Sat, 26 Sep 2026 09:20:21 GMT",
       "summary": "点击查看原文>",
-      "score": 28
-    },
-    {
-      "section": "技术与研究",
-      "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
-      "company": "腾讯",
-      "source": "量子位",
-      "publishedAt": "Thu, 24 Sep 2026 14:20:14 +0000",
-      "summary": "懂出海，能记忆，自进化",
-      "score": 22
-    },
-    {
-      "section": "技术与研究",
-      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-      "company": "Google",
-      "source": "TechCrunch AI",
-      "publishedAt": "Thu, 24 Sep 2026 17:00:00 +0000",
-      "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
       "company": "",
       "source": "TechCrunch AI",
-      "publishedAt": "Thu, 24 Sep 2026 14:31:00 +0000",
-      "summary": "The app gives agents their own identities and inboxes and lets them partake in conversations as naturally as people can.",
+      "publishedAt": "Fri, 25 Sep 2026 18:33:59 +0000",
+      "summary": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "数据、模型、算力越来越难分开，Data+AI 基础设施怎么进化？",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Thu, 24 Sep 2026 16:34:30 GMT",
-      "summary": "点击查看原文>",
-      "score": 19
-    },
-    {
-      "section": "技术与研究",
-      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Thu, 24 Sep 2026 12:10:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has announced plans to introduce legislation to terminate the surveillance tower program along…",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
-      "company": "",
-      "source": "Ars Technica",
-      "publishedAt": "Thu, 24 Sep 2026 18:20:58 +0000",
-      "summary": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear.",
-      "score": 13
-    },
-    {
-      "section": "技术与研究",
-      "title": "时隔十年，AI大牛署名新论文",
-      "company": "",
+      "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
+      "company": "OpenAI",
       "source": "量子位",
-      "publishedAt": "Thu, 24 Sep 2026 12:58:55 +0000",
-      "summary": "让自动驾驶“走一步想十步”",
-      "score": 18
+      "publishedAt": "Fri, 25 Sep 2026 13:15:45 +0000",
+      "summary": "暂无摘要",
+      "score": 20
     },
     {
       "section": "技术与研究",
-      "title": "当 Vibe Coding 撞上企业级现实：真实工程中的 AI 效能之路｜QCon上海",
+      "title": "AI 时代，技术人靠什么赢？｜QCon上海",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Fri, 25 Sep 2026 10:00:00 GMT",
+      "publishedAt": "Sat, 26 Sep 2026 10:00:00 GMT",
       "summary": "点击查看原文>",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "company": "",
+      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "company": "OpenAI",
       "source": "TechCrunch AI",
-      "publishedAt": "Thu, 24 Sep 2026 19:00:42 +0000",
-      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-      "score": 16
+      "publishedAt": "Fri, 25 Sep 2026 18:22:47 +0000",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is headed for smart glasses and […]",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Fri, 25 Sep 2026 06:14:07 +0000",
+      "summary": "一场物理世界的基模实验",
+      "score": 18
     }
   ]
 }
