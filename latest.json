@@ -1,78 +1,87 @@
 {
-  "date": "2026/9/26",
-  "count": 8,
+  "date": "2026/9/27",
+  "count": 9,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
+      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Fri, 25 Sep 2026 10:00:14 +0000",
-      "summary": "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。",
-      "score": 27
+      "publishedAt": "Sat, 26 Sep 2026 09:01:00 +0000",
+      "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
+      "score": 36
     },
     {
       "section": "技术与研究",
-      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "company": "Anthropic",
+      "title": "阿里巴巴开源 AI 辅助代码评审工具 OpenCodeReview",
+      "company": "阿里",
+      "source": "InfoQ",
+      "publishedAt": "Sat, 26 Sep 2026 17:00:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 36
+    },
+    {
+      "section": "技术与研究",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "company": "Google",
       "source": "TechCrunch AI",
-      "publishedAt": "Fri, 25 Sep 2026 19:13:38 +0000",
-      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
-      "score": 24
+      "publishedAt": "Sun, 27 Sep 2026 01:30:00 +0000",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "score": 29
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Sat, 26 Sep 2026 11:49:43 +0000",
+      "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
+      "score": 26
     },
     {
       "section": "技术与研究",
-      "title": "DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag",
+      "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Sat, 26 Sep 2026 09:20:21 GMT",
+      "publishedAt": "Sun, 27 Sep 2026 10:00:00 GMT",
       "summary": "点击查看原文>",
-      "score": 21
+      "score": 22
     },
     {
       "section": "技术与研究",
-      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "title": "Insurers claim AI is already increasing healthcare costs",
       "company": "",
       "source": "TechCrunch AI",
-      "publishedAt": "Fri, 25 Sep 2026 18:33:59 +0000",
-      "summary": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.",
-      "score": 21
+      "publishedAt": "Sat, 26 Sep 2026 21:02:06 +0000",
+      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
-      "company": "OpenAI",
+      "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
+      "company": "Kimi",
       "source": "量子位",
-      "publishedAt": "Fri, 25 Sep 2026 13:15:45 +0000",
-      "summary": "暂无摘要",
+      "publishedAt": "Sat, 26 Sep 2026 07:04:15 +0000",
+      "summary": "还把「密钥」叫战利品",
       "score": 20
     },
     {
       "section": "技术与研究",
-      "title": "AI 时代，技术人靠什么赢？｜QCon上海",
+      "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Sat, 26 Sep 2026 10:00:00 GMT",
+      "publishedAt": "Sun, 27 Sep 2026 10:00:00 GMT",
       "summary": "点击查看原文>",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-      "company": "OpenAI",
-      "source": "TechCrunch AI",
-      "publishedAt": "Fri, 25 Sep 2026 18:22:47 +0000",
-      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is headed for smart glasses and […]",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
       "company": "",
-      "source": "量子位",
-      "publishedAt": "Fri, 25 Sep 2026 06:14:07 +0000",
-      "summary": "一场物理世界的基模实验",
-      "score": 18
+      "source": "TechCrunch AI",
+      "publishedAt": "Sat, 26 Sep 2026 14:00:00 +0000",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "score": 14
     }
   ]
 }

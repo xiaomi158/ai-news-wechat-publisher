@@ -1,0 +1,179 @@
+{
+  "产品发布与更新": [
+    {
+      "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
+      "url": "https://www.qbitai.com/2026/09/498478.html",
+      "snippet": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
+      "source": "量子位",
+      "publishedAt": "Sat, 26 Sep 2026 11:49:43 +0000",
+      "region": "国内",
+      "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
+      "category": "产品发布与更新",
+      "company": "",
+      "score": 26,
+      "breakdown": {
+        "substance": 11,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    }
+  ],
+  "技术与研究": [
+    {
+      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+      "url": "https://www.qbitai.com/2026/09/497624.html",
+      "snippet": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
+      "source": "量子位",
+      "publishedAt": "Sat, 26 Sep 2026 09:01:00 +0000",
+      "region": "国内",
+      "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
+      "category": "技术与研究",
+      "company": "",
+      "score": 36,
+      "breakdown": {
+        "substance": 16,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "阿里巴巴开源 AI 辅助代码评审工具 OpenCodeReview",
+      "url": "https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Sat, 26 Sep 2026 17:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "阿里",
+      "score": 36,
+      "breakdown": {
+        "substance": 10,
+        "importance": 10,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "snippet": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sun, 27 Sep 2026 01:30:00 +0000",
+      "region": "海外",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "category": "技术与研究",
+      "company": "Google",
+      "score": 29,
+      "breakdown": {
+        "substance": 0,
+        "importance": 11,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+      "url": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Sun, 27 Sep 2026 10:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 22,
+      "breakdown": {
+        "substance": 4,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "snippet": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sat, 26 Sep 2026 21:02:06 +0000",
+      "region": "海外",
+      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
+      "url": "https://www.qbitai.com/2026/09/497382.html",
+      "snippet": "还把「密钥」叫战利品",
+      "source": "量子位",
+      "publishedAt": "Sat, 26 Sep 2026 07:04:15 +0000",
+      "region": "国内",
+      "summary": "还把「密钥」叫战利品",
+      "category": "技术与研究",
+      "company": "Kimi",
+      "score": 20,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+      "url": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Sun, 27 Sep 2026 10:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "snippet": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sat, 26 Sep 2026 14:00:00 +0000",
+      "region": "海外",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 14,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    }
+  ],
+  "投融资与并购": [],
+  "政策与监管": []
+}
