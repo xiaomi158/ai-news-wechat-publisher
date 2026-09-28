@@ -1,0 +1,102 @@
+{
+  "产品发布与更新": [],
+  "技术与研究": [
+    {
+      "title": "啥题啊能干崩OpenAI最强模型训练…",
+      "url": "https://www.qbitai.com/2026/09/498546.html",
+      "snippet": "",
+      "source": "量子位",
+      "publishedAt": "Sun, 27 Sep 2026 09:44:16 +0000",
+      "region": "国内",
+      "summary": "暂无摘要",
+      "category": "技术与研究",
+      "company": "OpenAI",
+      "score": 26,
+      "breakdown": {
+        "substance": 6,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+      "url": "https://www.qbitai.com/2026/09/498633.html",
+      "snippet": "",
+      "source": "量子位",
+      "publishedAt": "Sun, 27 Sep 2026 14:20:35 +0000",
+      "region": "国内",
+      "summary": "暂无摘要",
+      "category": "技术与研究",
+      "company": "",
+      "score": 23,
+      "breakdown": {
+        "substance": 6,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "snippet": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sun, 27 Sep 2026 20:34:28 +0000",
+      "region": "海外",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "category": "技术与研究",
+      "company": "Anthropic",
+      "score": 23,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "snippet": "\"AI is the devil and I its maker.\"",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sun, 27 Sep 2026 16:30:00 +0000",
+      "region": "海外",
+      "summary": "\"AI is the devil and I its maker.\"",
+      "category": "技术与研究",
+      "company": "Anthropic",
+      "score": 21,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "生成式到代理式跃迁：构建保险后援数字分身｜QCon上海",
+      "url": "https://www.infoq.cn/article/9UvorlMxKgjEoFauQ4py?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Mon, 28 Sep 2026 10:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    }
+  ],
+  "投融资与并购": [],
+  "政策与监管": []
+}

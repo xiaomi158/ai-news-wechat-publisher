@@ -1,87 +1,51 @@
 {
-  "date": "2026/9/27",
-  "count": 9,
+  "date": "2026/9/28",
+  "count": 5,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
-      "company": "",
+      "title": "啥题啊能干崩OpenAI最强模型训练…",
+      "company": "OpenAI",
       "source": "量子位",
-      "publishedAt": "Sat, 26 Sep 2026 09:01:00 +0000",
-      "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
-      "score": 36
-    },
-    {
-      "section": "技术与研究",
-      "title": "阿里巴巴开源 AI 辅助代码评审工具 OpenCodeReview",
-      "company": "阿里",
-      "source": "InfoQ",
-      "publishedAt": "Sat, 26 Sep 2026 17:00:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 36
-    },
-    {
-      "section": "技术与研究",
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "company": "Google",
-      "source": "TechCrunch AI",
-      "publishedAt": "Sun, 27 Sep 2026 01:30:00 +0000",
-      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
-      "score": 29
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Sat, 26 Sep 2026 11:49:43 +0000",
-      "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
+      "publishedAt": "Sun, 27 Sep 2026 09:44:16 +0000",
+      "summary": "暂无摘要",
       "score": 26
     },
     {
       "section": "技术与研究",
-      "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+      "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
       "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Sun, 27 Sep 2026 10:00:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 22
-    },
-    {
-      "section": "技术与研究",
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Sat, 26 Sep 2026 21:02:06 +0000",
-      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
-      "company": "Kimi",
       "source": "量子位",
-      "publishedAt": "Sat, 26 Sep 2026 07:04:15 +0000",
-      "summary": "还把「密钥」叫战利品",
-      "score": 20
+      "publishedAt": "Sun, 27 Sep 2026 14:20:35 +0000",
+      "summary": "暂无摘要",
+      "score": 23
     },
     {
       "section": "技术与研究",
-      "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "company": "Anthropic",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sun, 27 Sep 2026 20:34:28 +0000",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "score": 23
+    },
+    {
+      "section": "技术与研究",
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "company": "Anthropic",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sun, 27 Sep 2026 16:30:00 +0000",
+      "summary": "\"AI is the devil and I its maker.\"",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "生成式到代理式跃迁：构建保险后援数字分身｜QCon上海",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Sun, 27 Sep 2026 10:00:00 GMT",
+      "publishedAt": "Mon, 28 Sep 2026 10:00:00 GMT",
       "summary": "点击查看原文>",
       "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "I created an interactive digital avatar of myself — and you can talk to it",
-      "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Sat, 26 Sep 2026 14:00:00 +0000",
-      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-      "score": 14
     }
   ]
 }
