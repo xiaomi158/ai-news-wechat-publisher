@@ -1,51 +1,105 @@
 {
-  "date": "2026/9/28",
-  "count": 5,
+  "date": "2026/9/29",
+  "count": 11,
   "articles": [
     {
-      "section": "技术与研究",
-      "title": "啥题啊能干崩OpenAI最强模型训练…",
-      "company": "OpenAI",
-      "source": "量子位",
-      "publishedAt": "Sun, 27 Sep 2026 09:44:16 +0000",
-      "summary": "暂无摘要",
-      "score": 26
-    },
-    {
-      "section": "技术与研究",
-      "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+      "section": "产品发布与更新",
+      "title": "Imagination 发布 E 系列 GPU IP 新进展：一套架构支持图形、计算与AI",
       "company": "",
-      "source": "量子位",
-      "publishedAt": "Sun, 27 Sep 2026 14:20:35 +0000",
-      "summary": "暂无摘要",
+      "source": "InfoQ",
+      "publishedAt": "Mon, 28 Sep 2026 18:23:47 GMT",
+      "summary": "点击查看原文>",
+      "score": 28
+    },
+    {
+      "section": "技术与研究",
+      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+      "company": "Google",
+      "source": "TechCrunch AI",
+      "publishedAt": "Mon, 28 Sep 2026 17:29:50 +0000",
+      "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
+      "score": 27
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "Cloudflare 推出智能体开发栈生命周期，以取代传统 SDLC",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Mon, 28 Sep 2026 22:17:00 GMT",
+      "summary": "点击查看原文>",
       "score": 23
     },
     {
       "section": "技术与研究",
-      "title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "company": "Anthropic",
-      "source": "TechCrunch AI",
-      "publishedAt": "Sun, 27 Sep 2026 20:34:28 +0000",
-      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "title": "When can we say AI made a scientific discovery?",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Mon, 28 Sep 2026 17:03:16 +0000",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what…",
       "score": 23
     },
     {
-      "section": "技术与研究",
-      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "section": "产品发布与更新",
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
       "company": "Anthropic",
       "source": "TechCrunch AI",
-      "publishedAt": "Sun, 27 Sep 2026 16:30:00 +0000",
-      "summary": "\"AI is the devil and I its maker.\"",
+      "publishedAt": "Mon, 28 Sep 2026 18:00:00 +0000",
+      "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "生成式到代理式跃迁：构建保险后援数字分身｜QCon上海",
+      "title": "Who’s liable when AI agents go rogue?",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Mon, 28 Sep 2026 08:06:22 +0000",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents…",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Mon, 28 Sep 2026 12:43:53 +0000",
+      "summary": "工业平台已经卷到帮伙伴拿线索、做Agent、出海了",
+      "score": 15
+    },
+    {
+      "section": "技术与研究",
+      "title": "HC归来，华为正重新定义AIDC基础设施",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Mon, 28 Sep 2026 11:18:27 +0000",
+      "summary": "AI基础设施下一站：算电协同",
+      "score": 15
+    },
+    {
+      "section": "技术与研究",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Mon, 28 Sep 2026 22:17:07 +0000",
+      "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who…",
+      "score": 20
+    },
+    {
+      "section": "技术与研究",
+      "title": "自主数据工程：迈向真正智能体成熟度的五个阶段 ｜ 技术趋势",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Mon, 28 Sep 2026 10:00:00 GMT",
+      "publishedAt": "Tue, 29 Sep 2026 10:36:23 GMT",
       "summary": "点击查看原文>",
       "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "The AI boom took over Climate Week and not everyone is happy about it",
+      "company": "",
+      "source": "TechCrunch AI",
+      "publishedAt": "Mon, 28 Sep 2026 19:21:59 +0000",
+      "summary": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
+      "score": 16
     }
   ]
 }
