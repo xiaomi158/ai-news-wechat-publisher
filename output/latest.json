@@ -1,104 +1,86 @@
 {
-  "date": "2026/9/29",
-  "count": 11,
+  "date": "2026/10/1",
+  "count": 9,
   "articles": [
     {
+      "section": "技术与研究",
+      "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+      "company": "OpenAI",
+      "source": "量子位",
+      "publishedAt": "Wed, 30 Sep 2026 14:03:43 +0000",
+      "summary": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
+      "score": 35
+    },
+    {
       "section": "产品发布与更新",
-      "title": "Imagination 发布 E 系列 GPU IP 新进展：一套架构支持图形、计算与AI",
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "company": "Google",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 30 Sep 2026 23:43:07 +0000",
+      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "score": 29
+    },
+    {
+      "section": "技术与研究",
+      "title": "谷歌开源面向自主 AI 代理的 Kubernetes 风格编排器 AX",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Mon, 28 Sep 2026 18:23:47 GMT",
+      "publishedAt": "Wed, 30 Sep 2026 20:40:07 GMT",
       "summary": "点击查看原文>",
       "score": 28
     },
     {
       "section": "技术与研究",
-      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-      "company": "Google",
-      "source": "TechCrunch AI",
-      "publishedAt": "Mon, 28 Sep 2026 17:29:50 +0000",
-      "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
-      "score": 27
+      "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Wed, 30 Sep 2026 05:18:05 +0000",
+      "summary": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
+      "score": 22
     },
     {
-      "section": "产品发布与更新",
-      "title": "Cloudflare 推出智能体开发栈生命周期，以取代传统 SDLC",
+      "section": "技术与研究",
+      "title": "GitLab Duo 通过微软 Foundry 扩展自托管 AI 选项",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Mon, 28 Sep 2026 22:17:00 GMT",
+      "publishedAt": "Wed, 30 Sep 2026 20:37:48 GMT",
       "summary": "点击查看原文>",
-      "score": 23
+      "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "When can we say AI made a scientific discovery?",
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
       "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Mon, 28 Sep 2026 17:03:16 +0000",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what…",
-      "score": 23
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-      "company": "Anthropic",
       "source": "TechCrunch AI",
-      "publishedAt": "Mon, 28 Sep 2026 18:00:00 +0000",
-      "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
-      "score": 21
+      "publishedAt": "Wed, 30 Sep 2026 18:23:57 +0000",
+      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+      "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "Who’s liable when AI agents go rogue?",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Mon, 28 Sep 2026 08:06:22 +0000",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents…",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
-      "company": "",
+      "title": "Anthropic，你是来给智谱打广告的吧！",
+      "company": "智谱",
       "source": "量子位",
-      "publishedAt": "Mon, 28 Sep 2026 12:43:53 +0000",
-      "summary": "工业平台已经卷到帮伙伴拿线索、做Agent、出海了",
-      "score": 15
-    },
-    {
-      "section": "技术与研究",
-      "title": "HC归来，华为正重新定义AIDC基础设施",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Mon, 28 Sep 2026 11:18:27 +0000",
-      "summary": "AI基础设施下一站：算电协同",
-      "score": 15
-    },
-    {
-      "section": "技术与研究",
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Mon, 28 Sep 2026 22:17:07 +0000",
-      "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who…",
+      "publishedAt": "Wed, 30 Sep 2026 10:04:12 +0000",
+      "summary": "实测说GLM-5.3很强",
       "score": 20
     },
     {
       "section": "技术与研究",
-      "title": "自主数据工程：迈向真正智能体成熟度的五个阶段 ｜ 技术趋势",
+      "title": "从 AI 试点到营收增长：Snowflake 销售与营销团队如何跨越落地鸿沟 ｜ 技术实践",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Tue, 29 Sep 2026 10:36:23 GMT",
+      "publishedAt": "Wed, 30 Sep 2026 15:12:35 GMT",
       "summary": "点击查看原文>",
-      "score": 18
+      "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "The AI boom took over Climate Week and not everyone is happy about it",
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
       "company": "",
       "source": "TechCrunch AI",
-      "publishedAt": "Mon, 28 Sep 2026 19:21:59 +0000",
-      "summary": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
+      "publishedAt": "Wed, 30 Sep 2026 17:45:00 +0000",
+      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
       "score": 16
     }
   ]

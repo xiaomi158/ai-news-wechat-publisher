@@ -1,0 +1,179 @@
+{
+  "产品发布与更新": [
+    {
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "snippet": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 30 Sep 2026 23:43:07 +0000",
+      "region": "海外",
+      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "category": "产品发布与更新",
+      "company": "Google",
+      "score": 29,
+      "breakdown": {
+        "substance": 0,
+        "importance": 11,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    }
+  ],
+  "技术与研究": [
+    {
+      "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+      "url": "https://www.qbitai.com/2026/09/499654.html",
+      "snippet": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
+      "source": "量子位",
+      "publishedAt": "Wed, 30 Sep 2026 14:03:43 +0000",
+      "region": "国内",
+      "summary": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
+      "category": "技术与研究",
+      "company": "OpenAI",
+      "score": 35,
+      "breakdown": {
+        "substance": 10,
+        "importance": 10,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "谷歌开源面向自主 AI 代理的 Kubernetes 风格编排器 AX",
+      "url": "https://www.infoq.cn/article/M6BRTrsyJvUg8y0M0kyh?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Wed, 30 Sep 2026 20:40:07 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 28,
+      "breakdown": {
+        "substance": 7,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
+      "url": "https://www.qbitai.com/2026/09/499308.html",
+      "snippet": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
+      "source": "量子位",
+      "publishedAt": "Wed, 30 Sep 2026 05:18:05 +0000",
+      "region": "国内",
+      "summary": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
+      "category": "技术与研究",
+      "company": "",
+      "score": 22,
+      "breakdown": {
+        "substance": 7,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "GitLab Duo 通过微软 Foundry 扩展自托管 AI 选项",
+      "url": "https://www.infoq.cn/article/cA9rSEGKphbJHIiTQKMv?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Wed, 30 Sep 2026 20:37:48 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "snippet": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 30 Sep 2026 18:23:57 +0000",
+      "region": "海外",
+      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Anthropic，你是来给智谱打广告的吧！",
+      "url": "https://www.qbitai.com/2026/09/499597.html",
+      "snippet": "实测说GLM-5.3很强",
+      "source": "量子位",
+      "publishedAt": "Wed, 30 Sep 2026 10:04:12 +0000",
+      "region": "国内",
+      "summary": "实测说GLM-5.3很强",
+      "category": "技术与研究",
+      "company": "智谱",
+      "score": 20,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "从 AI 试点到营收增长：Snowflake 销售与营销团队如何跨越落地鸿沟 ｜ 技术实践",
+      "url": "https://www.infoq.cn/article/hw3PpM2ZlCmCArsNo1y7?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Wed, 30 Sep 2026 15:12:35 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "snippet": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 30 Sep 2026 17:45:00 +0000",
+      "region": "海外",
+      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    }
+  ],
+  "投融资与并购": [],
+  "政策与监管": []
+}
