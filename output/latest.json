@@ -1,87 +1,105 @@
 {
-  "date": "2026/10/1",
-  "count": 9,
+  "date": "2026/10/3",
+  "count": 11,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
-      "company": "OpenAI",
-      "source": "量子位",
-      "publishedAt": "Wed, 30 Sep 2026 14:03:43 +0000",
-      "summary": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
-      "score": 35
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-      "company": "Google",
+      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+      "company": "Intel",
       "source": "TechCrunch AI",
-      "publishedAt": "Wed, 30 Sep 2026 23:43:07 +0000",
-      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
-      "score": 29
+      "publishedAt": "Fri, 02 Oct 2026 17:56:00 +0000",
+      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]",
+      "score": 24
     },
     {
       "section": "技术与研究",
-      "title": "谷歌开源面向自主 AI 代理的 Kubernetes 风格编排器 AX",
+      "title": "企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Wed, 30 Sep 2026 20:40:07 GMT",
+      "publishedAt": "Sat, 03 Oct 2026 10:00:00 GMT",
       "summary": "点击查看原文>",
-      "score": 28
+      "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "company": "Intel",
+      "source": "MIT Technology Review",
+      "publishedAt": "Fri, 02 Oct 2026 15:49:04 +0000",
+      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has…",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Wed, 30 Sep 2026 05:18:05 +0000",
-      "summary": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
-      "score": 22
+      "publishedAt": "Fri, 02 Oct 2026 07:34:15 +0000",
+      "summary": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
+      "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "GitLab Duo 通过微软 Foundry 扩展自托管 AI 选项",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Wed, 30 Sep 2026 20:37:48 GMT",
-      "summary": "点击查看原文>",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Wed, 30 Sep 2026 18:23:57 +0000",
-      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "Anthropic，你是来给智谱打广告的吧！",
-      "company": "智谱",
+      "title": "丘成桐新论文致谢了GPT和Claude",
+      "company": "Claude",
       "source": "量子位",
-      "publishedAt": "Wed, 30 Sep 2026 10:04:12 +0000",
-      "summary": "实测说GLM-5.3很强",
-      "score": 20
+      "publishedAt": "Fri, 02 Oct 2026 07:27:03 +0000",
+      "summary": "44年前被亲自列入问题清单",
+      "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "从 AI 试点到营收增长：Snowflake 销售与营销团队如何跨越落地鸿沟 ｜ 技术实践",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Wed, 30 Sep 2026 15:12:35 GMT",
-      "summary": "点击查看原文>",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "title": "Sean Parker is rebuilding Stability AI around music",
       "company": "",
       "source": "TechCrunch AI",
-      "publishedAt": "Wed, 30 Sep 2026 17:45:00 +0000",
-      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+      "publishedAt": "Fri, 02 Oct 2026 21:09:14 +0000",
+      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
+      "company": "NVIDIA",
+      "source": "Ars Technica",
+      "publishedAt": "Fri, 02 Oct 2026 14:52:16 +0000",
+      "summary": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Fri, 02 Oct 2026 08:00:00 +0000",
+      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…",
       "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "Andrew Kelley 专访：他为何创建 Zig、禁止 AI 贡献以及将 Zig 从 GitHub 移出",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 02 Oct 2026 13:00:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 14
+    },
+    {
+      "section": "技术与研究",
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "company": "Apple",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 02 Oct 2026 18:11:27 +0000",
+      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "别再给 Agent 一个“毛坯房”了：构建 Agent 拎包入住的开发环境实践｜QCon上海",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 02 Oct 2026 10:00:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 14
     }
   ]
 }
