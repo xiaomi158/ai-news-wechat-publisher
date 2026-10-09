@@ -1,24 +1,114 @@
 {
-  "date": "2026/10/4",
-  "count": 2,
+  "date": "2026/10/9",
+  "count": 12,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
-      "company": "OpenAI",
+      "title": "浪子回头！Manus重启北京办公室大举招聘",
+      "company": "",
       "source": "量子位",
-      "publishedAt": "Sat, 03 Oct 2026 04:41:24 +0000",
-      "summary": "又咋啦。。。",
+      "publishedAt": "Thu, 08 Oct 2026 09:30:17 +0000",
+      "summary": "开始和国产Agent抢人，还拿到5亿美元新融资",
+      "score": 30
+    },
+    {
+      "section": "技术与研究",
+      "title": "Kimi 现代高速开源治理的 AI Native 实践｜QCon上海",
+      "company": "Kimi",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 09 Oct 2026 10:00:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 30
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
+      "company": "Claude",
+      "source": "量子位",
+      "publishedAt": "Fri, 09 Oct 2026 00:16:56 +0000",
+      "summary": "新的“缝合怪”已经出现，怎么能够停滞不前",
+      "score": 29
+    },
+    {
+      "section": "技术与研究",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "company": "Google",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 08 Oct 2026 18:18:00 +0000",
+      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+      "score": 27
+    },
+    {
+      "section": "技术与研究",
+      "title": "2万亿美元估值靠什么撑？Anthropic 核心技术负责人：蒸馏会毁掉前沿研发，中美 AI 竞赛不会单边暂停",
+      "company": "Anthropic",
+      "source": "InfoQ",
+      "publishedAt": "Thu, 08 Oct 2026 14:10:29 GMT",
+      "summary": "点击查看原文>",
+      "score": 22
+    },
+    {
+      "section": "政策与监管",
+      "title": "Anthropic changes usage policy to ban model abuse and election interference",
+      "company": "Anthropic",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 08 Oct 2026 18:16:24 +0000",
+      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Fri, 09 Oct 2026 00:08:24 +0000",
+      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter…",
       "score": 20
     },
     {
       "section": "技术与研究",
-      "title": "Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海",
+      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Thu, 08 Oct 2026 12:10:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the idea that the same AI…",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
+      "company": "OpenAI",
+      "source": "量子位",
+      "publishedAt": "Fri, 09 Oct 2026 00:35:57 +0000",
+      "summary": "彻底撕破脸了",
+      "score": 24
+    },
+    {
+      "section": "技术与研究",
+      "title": "谷歌借助 AI 与差分模糊测试将 C 语言依赖库改写为 Rust",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Sun, 04 Oct 2026 10:00:00 GMT",
+      "publishedAt": "Thu, 08 Oct 2026 17:12:00 GMT",
       "summary": "点击查看原文>",
-      "score": 18
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "company": "",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 08 Oct 2026 21:00:00 +0000",
+      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Thu, 08 Oct 2026 09:00:00 +0000",
+      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or…",
+      "score": 16
     }
   ]
 }
