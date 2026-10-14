@@ -1,78 +1,114 @@
 {
-  "date": "2026/10/12",
-  "count": 8,
+  "date": "2026/10/14",
+  "count": 12,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Sun, 11 Oct 2026 05:18:04 +0000",
-      "summary": "初代4o的API快照进入停用倒计时",
+      "title": "Meta 新模型杀回AI第一梯队，Alexandr Wang 亲述 Muse 7个月翻身内幕",
+      "company": "Meta",
+      "source": "InfoQ",
+      "publishedAt": "Tue, 13 Oct 2026 18:32:43 GMT",
+      "summary": "点击查看原文>",
+      "score": 27
+    },
+    {
+      "section": "技术与研究",
+      "title": "Claude 开始自己写程序管理 Agent 了：Anthropic 披露动态工作流架构",
+      "company": "Anthropic",
+      "source": "InfoQ",
+      "publishedAt": "Tue, 13 Oct 2026 17:41:43 GMT",
+      "summary": "点击查看原文>",
       "score": 24
     },
     {
       "section": "技术与研究",
-      "title": "阿里巴巴中国电商事业群/飞猪CTO陈烨博士已确认出席QCon上海，分享“从 Coding 到消费：AI 的下一场革命”",
-      "company": "阿里",
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "company": "OpenAI",
+      "source": "TechCrunch AI",
+      "publishedAt": "Tue, 13 Oct 2026 20:36:44 +0000",
+      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+      "score": 23
+    },
+    {
+      "section": "技术与研究",
+      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+      "company": "Google",
+      "source": "TechCrunch AI",
+      "publishedAt": "Tue, 13 Oct 2026 17:00:00 +0000",
+      "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "The Download: open model trade-offs and geothermal power’s promise",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Tue, 13 Oct 2026 12:00:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report arguing that a powerful new model released by the Chinese company Z.ai, poses a major cyberattack…",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "9大赛道，23份企业真实考卷！上海具身智能大考，邀千队共解题",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Tue, 13 Oct 2026 04:07:04 +0000",
+      "summary": "赢奖金、拿融资、送出海",
+      "score": 19
+    },
+    {
+      "section": "技术与研究",
+      "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+      "company": "Gemini",
+      "source": "Ars Technica",
+      "publishedAt": "Tue, 13 Oct 2026 16:00:02 +0000",
+      "summary": "Developers will get 50 percent discounted API rates through November.",
+      "score": 19
+    },
+    {
+      "section": "技术与研究",
+      "title": "AI labs are buying data from dead startups to train their models",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Tue, 13 Oct 2026 09:00:00 +0000",
+      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pending amount (likely around…",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Tue, 13 Oct 2026 11:05:39 +0000",
+      "summary": "让VLA从“演示可用”逼近“产线可用”",
+      "score": 15
+    },
+    {
+      "section": "投融资与并购",
+      "title": "刚亮相就传被英伟达收购：Gemini老兵团队凭什么还敢押注Coding Agent？",
+      "company": "Gemini",
       "source": "InfoQ",
-      "publishedAt": "Mon, 12 Oct 2026 10:00:00 GMT",
+      "publishedAt": "Tue, 13 Oct 2026 17:57:05 GMT",
       "summary": "点击查看原文>",
       "score": 23
     },
     {
       "section": "技术与研究",
-      "title": "利用 AI 代码智能体优化软件架构的五种方法",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Sun, 11 Oct 2026 10:04:31 GMT",
-      "summary": "点击查看原文>",
-      "score": 20
-    },
-    {
-      "section": "技术与研究",
-      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
       "company": "",
       "source": "TechCrunch AI",
-      "publishedAt": "Sun, 11 Oct 2026 16:52:33 +0000",
-      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-      "score": 16
+      "publishedAt": "Tue, 13 Oct 2026 23:13:31 +0000",
+      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "硅谷AI现状：谁有算力谁是爹",
+      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Sun, 11 Oct 2026 05:22:38 +0000",
-      "summary": "马斯克连横A社，硅谷VC开始囤GPU",
+      "publishedAt": "Tue, 13 Oct 2026 09:33:37 +0000",
+      "summary": "Winverse AI",
       "score": 15
-    },
-    {
-      "section": "技术与研究",
-      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "company": "ChatGPT",
-      "source": "TechCrunch AI",
-      "publishedAt": "Sun, 11 Oct 2026 14:00:00 +0000",
-      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
-      "score": 14
-    },
-    {
-      "section": "技术与研究",
-      "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Sun, 11 Oct 2026 03:27:08 +0000",
-      "summary": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？",
-      "score": 15
-    },
-    {
-      "section": "技术与研究",
-      "title": "AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Sun, 11 Oct 2026 10:00:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 14
     }
   ]
 }
