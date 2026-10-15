@@ -1,114 +1,96 @@
 {
-  "date": "2026/10/14",
-  "count": 12,
+  "date": "2026/10/15",
+  "count": 10,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "Meta 新模型杀回AI第一梯队，Alexandr Wang 亲述 Muse 7个月翻身内幕",
-      "company": "Meta",
+      "title": "从 App 到 Agent：字节跳动 Supabase 的 Agent-Native 规模化实践｜QCon上海",
+      "company": "字节",
       "source": "InfoQ",
-      "publishedAt": "Tue, 13 Oct 2026 18:32:43 GMT",
-      "summary": "点击查看原文>",
-      "score": 27
-    },
-    {
-      "section": "技术与研究",
-      "title": "Claude 开始自己写程序管理 Agent 了：Anthropic 披露动态工作流架构",
-      "company": "Anthropic",
-      "source": "InfoQ",
-      "publishedAt": "Tue, 13 Oct 2026 17:41:43 GMT",
-      "summary": "点击查看原文>",
-      "score": 24
-    },
-    {
-      "section": "技术与研究",
-      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "company": "OpenAI",
-      "source": "TechCrunch AI",
-      "publishedAt": "Tue, 13 Oct 2026 20:36:44 +0000",
-      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-      "company": "Google",
-      "source": "TechCrunch AI",
-      "publishedAt": "Tue, 13 Oct 2026 17:00:00 +0000",
-      "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "The Download: open model trade-offs and geothermal power’s promise",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Tue, 13 Oct 2026 12:00:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report arguing that a powerful new model released by the Chinese company Z.ai, poses a major cyberattack…",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "9大赛道，23份企业真实考卷！上海具身智能大考，邀千队共解题",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Tue, 13 Oct 2026 04:07:04 +0000",
-      "summary": "赢奖金、拿融资、送出海",
-      "score": 19
-    },
-    {
-      "section": "技术与研究",
-      "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
-      "company": "Gemini",
-      "source": "Ars Technica",
-      "publishedAt": "Tue, 13 Oct 2026 16:00:02 +0000",
-      "summary": "Developers will get 50 percent discounted API rates through November.",
-      "score": 19
-    },
-    {
-      "section": "技术与研究",
-      "title": "AI labs are buying data from dead startups to train their models",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Tue, 13 Oct 2026 09:00:00 +0000",
-      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pending amount (likely around…",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Tue, 13 Oct 2026 11:05:39 +0000",
-      "summary": "让VLA从“演示可用”逼近“产线可用”",
-      "score": 15
-    },
-    {
-      "section": "投融资与并购",
-      "title": "刚亮相就传被英伟达收购：Gemini老兵团队凭什么还敢押注Coding Agent？",
-      "company": "Gemini",
-      "source": "InfoQ",
-      "publishedAt": "Tue, 13 Oct 2026 17:57:05 GMT",
+      "publishedAt": "Thu, 15 Oct 2026 10:00:00 GMT",
       "summary": "点击查看原文>",
       "score": 23
     },
     {
       "section": "技术与研究",
-      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
       "company": "",
       "source": "TechCrunch AI",
-      "publishedAt": "Tue, 13 Oct 2026 23:13:31 +0000",
-      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "publishedAt": "Wed, 14 Oct 2026 15:13:24 +0000",
+      "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+      "score": 22
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Wed, 14 Oct 2026 08:01:18 +0000",
+      "summary": "这妥妥是个物理版Agent啊！",
+      "score": 19
+    },
+    {
+      "section": "技术与研究",
+      "title": "千问办公杀入电商经营！3万开店成本压至几百元，一个Agent接管多平台生意",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Wed, 14 Oct 2026 17:48:46 GMT",
+      "summary": "点击查看原文>",
+      "score": 19
+    },
+    {
+      "section": "技术与研究",
+      "title": "TechCrunch Disrupt 2026: Day 2",
+      "company": "",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 14 Oct 2026 14:30:00 +0000",
+      "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass.",
+      "score": 19
+    },
+    {
+      "section": "技术与研究",
+      "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Wed, 14 Oct 2026 04:51:32 +0000",
+      "summary": "给Ego补上缺失的交互信息",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+      "company": "OpenAI",
+      "source": "Ars Technica",
+      "publishedAt": "Wed, 14 Oct 2026 16:41:49 +0000",
+      "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Tue, 13 Oct 2026 09:33:37 +0000",
-      "summary": "Winverse AI",
-      "score": 15
+      "publishedAt": "Wed, 14 Oct 2026 04:09:29 +0000",
+      "summary": "从“懂空间”到“能干活”",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "company": "Intel",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 15 Oct 2026 01:01:32 +0000",
+      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "企业真正需要的，不是更聪明的 Agent ？",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Wed, 14 Oct 2026 18:36:53 GMT",
+      "summary": "点击查看原文>",
+      "score": 16
     }
   ]
 }
