@@ -1,94 +1,76 @@
 {
-  "date": "2026/10/15",
-  "count": 10,
+  "date": "2026/10/16",
+  "count": 8,
   "articles": [
     {
-      "section": "技术与研究",
-      "title": "从 App 到 Agent：字节跳动 Supabase 的 Agent-Native 规模化实践｜QCon上海",
-      "company": "字节",
-      "source": "InfoQ",
-      "publishedAt": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "summary": "点击查看原文>",
+      "section": "产品发布与更新",
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "company": "Google",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 15 Oct 2026 14:29:33 +0000",
+      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+      "score": 27
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "company": "Meta",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 15 Oct 2026 20:04:53 +0000",
+      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
       "score": 23
     },
     {
       "section": "技术与研究",
-      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-      "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Wed, 14 Oct 2026 15:13:24 +0000",
-      "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
-      "score": 22
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Wed, 14 Oct 2026 08:01:18 +0000",
-      "summary": "这妥妥是个物理版Agent啊！",
-      "score": 19
-    },
-    {
-      "section": "技术与研究",
-      "title": "千问办公杀入电商经营！3万开店成本压至几百元，一个Agent接管多平台生意",
+      "title": "拍照和翻译救不了AI眼镜？千问2218元起推新硬件，要抢现实世界里的上下文",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Wed, 14 Oct 2026 17:48:46 GMT",
+      "publishedAt": "Thu, 15 Oct 2026 23:06:01 GMT",
       "summary": "点击查看原文>",
-      "score": 19
+      "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "TechCrunch Disrupt 2026: Day 2",
-      "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Wed, 14 Oct 2026 14:30:00 +0000",
-      "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass.",
-      "score": 19
-    },
-    {
-      "section": "技术与研究",
-      "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Wed, 14 Oct 2026 04:51:32 +0000",
-      "summary": "给Ego补上缺失的交互信息",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-      "company": "OpenAI",
-      "source": "Ars Technica",
-      "publishedAt": "Wed, 14 Oct 2026 16:41:49 +0000",
-      "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Wed, 14 Oct 2026 04:09:29 +0000",
-      "summary": "从“懂空间”到“能干活”",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "company": "Intel",
-      "source": "TechCrunch AI",
-      "publishedAt": "Thu, 15 Oct 2026 01:01:32 +0000",
-      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "企业真正需要的，不是更聪明的 Agent ？",
+      "title": "阶跃星辰开放 Step 5 Preview 权重：长程 Agent 的竞争，延伸到上下文管理与训练系统",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Wed, 14 Oct 2026 18:36:53 GMT",
+      "publishedAt": "Thu, 15 Oct 2026 20:09:59 GMT",
+      "summary": "点击查看原文>",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Thu, 15 Oct 2026 12:10:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been…",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "Six wild ideas for perpetuating your mind",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Thu, 15 Oct 2026 09:00:00 +0000",
+      "summary": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections. But it’s a lot trickier to explain why we have a sense of self-awareness or to pin down precisely where that…",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "company": "Anthropic",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 15 Oct 2026 19:14:26 +0000",
+      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "国产 GPU 越来越多，为什么反而更难用？",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Thu, 15 Oct 2026 19:25:28 GMT",
       "summary": "点击查看原文>",
       "score": 16
     }
