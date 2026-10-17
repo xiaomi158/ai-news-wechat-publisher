@@ -1,77 +1,86 @@
 {
-  "date": "2026/10/16",
-  "count": 8,
+  "date": "2026/10/17",
+  "count": 9,
   "articles": [
     {
       "section": "产品发布与更新",
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "company": "Google",
-      "source": "TechCrunch AI",
-      "publishedAt": "Thu, 15 Oct 2026 14:29:33 +0000",
-      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-      "score": 27
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "company": "Meta",
-      "source": "TechCrunch AI",
-      "publishedAt": "Thu, 15 Oct 2026 20:04:53 +0000",
-      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-      "score": 23
+      "title": "范式智能联合睿思智联推出开源一站式生产级AI部署平台 “模域ModelSphere”",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 16 Oct 2026 16:38:02 GMT",
+      "summary": "点击查看原文>",
+      "score": 36
     },
     {
       "section": "技术与研究",
-      "title": "拍照和翻译救不了AI眼镜？千问2218元起推新硬件，要抢现实世界里的上下文",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Thu, 15 Oct 2026 23:06:01 GMT",
-      "summary": "点击查看原文>",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "company": "NVIDIA",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 16 Oct 2026 16:30:00 +0000",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.  This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
+      "score": 21
+    },
+    {
+      "section": "投融资与并购",
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "company": "NVIDIA",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 16 Oct 2026 16:30:00 +0000",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.  This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "阶跃星辰开放 Step 5 Preview 权重：长程 Agent 的竞争，延伸到上下文管理与训练系统",
+      "title": "生产级大模型平台工程实战手册",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Thu, 15 Oct 2026 20:09:59 GMT",
+      "publishedAt": "Fri, 16 Oct 2026 17:00:00 GMT",
       "summary": "点击查看原文>",
-      "score": 21
+      "score": 19
     },
     {
       "section": "技术与研究",
-      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "company": "",
       "source": "MIT Technology Review",
-      "publishedAt": "Thu, 15 Oct 2026 12:10:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been…",
+      "publishedAt": "Fri, 16 Oct 2026 18:00:00 +0000",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch…",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "The Download: failed social media bans, and extending pets’ lives",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Fri, 16 Oct 2026 12:10:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve.   —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up. In July, France joined…",
       "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "Six wild ideas for perpetuating your mind",
+      "title": "AI 生成的代码，怎么才能进得了工程体系？",
       "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Thu, 15 Oct 2026 09:00:00 +0000",
-      "summary": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections. But it’s a lot trickier to explain why we have a sense of self-awareness or to pin down precisely where that…",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 16 Oct 2026 16:56:30 GMT",
+      "summary": "点击查看原文>",
+      "score": 19
+    },
+    {
+      "section": "技术与研究",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "company": "",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 16 Oct 2026 17:52:24 +0000",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
       "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "company": "Anthropic",
-      "source": "TechCrunch AI",
-      "publishedAt": "Thu, 15 Oct 2026 19:14:26 +0000",
-      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "国产 GPU 越来越多，为什么反而更难用？",
+      "title": "Love is infrastructure",
       "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Thu, 15 Oct 2026 19:25:28 GMT",
-      "summary": "点击查看原文>",
+      "source": "MIT Technology Review",
+      "publishedAt": "Fri, 16 Oct 2026 09:00:00 +0000",
+      "summary": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close. They traded glimpses and occasional hellos and then went about their business. Both of them carried on livelier conversations with farther-flung neighbors, who were richer and had more to…",
       "score": 16
     }
   ]

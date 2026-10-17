@@ -1,0 +1,180 @@
+{
+  "产品发布与更新": [
+    {
+      "title": "范式智能联合睿思智联推出开源一站式生产级AI部署平台 “模域ModelSphere”",
+      "url": "https://www.infoq.cn/article/VZPlIIdGRg062mgwJe5y?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 16 Oct 2026 16:38:02 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "产品发布与更新",
+      "company": "",
+      "score": 36,
+      "breakdown": {
+        "substance": 15,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    }
+  ],
+  "技术与研究": [
+    {
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "snippet": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.  This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 16 Oct 2026 16:30:00 +0000",
+      "region": "海外",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.  This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
+      "category": "技术与研究",
+      "company": "NVIDIA",
+      "score": 21,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "生产级大模型平台工程实战手册",
+      "url": "https://www.infoq.cn/article/xQLd004RGWrzFhwqBOyC?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 16 Oct 2026 17:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 19,
+      "breakdown": {
+        "substance": 3,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "snippet": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch…",
+      "source": "MIT Technology Review",
+      "publishedAt": "Fri, 16 Oct 2026 18:00:00 +0000",
+      "region": "海外",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch…",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 10
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "The Download: failed social media bans, and extending pets’ lives",
+      "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve.   —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up. In July, France joined…",
+      "source": "MIT Technology Review",
+      "publishedAt": "Fri, 16 Oct 2026 12:10:00 +0000",
+      "region": "海外",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve.   —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up. In July, France joined…",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 10
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "AI 生成的代码，怎么才能进得了工程体系？",
+      "url": "https://www.infoq.cn/article/8iKz8xNQvxDfeuxH1QLA?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 16 Oct 2026 16:56:30 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 19,
+      "breakdown": {
+        "substance": 3,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "snippet": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 16 Oct 2026 17:52:24 +0000",
+      "region": "海外",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Love is infrastructure",
+      "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
+      "snippet": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close. They traded glimpses and occasional hellos and then went about their business. Both of them carried on livelier conversations with farther-flung neighbors, who were richer and had more to…",
+      "source": "MIT Technology Review",
+      "publishedAt": "Fri, 16 Oct 2026 09:00:00 +0000",
+      "region": "海外",
+      "summary": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close. They traded glimpses and occasional hellos and then went about their business. Both of them carried on livelier conversations with farther-flung neighbors, who were richer and had more to…",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 10
+      },
+      "isDuplicate": false
+    }
+  ],
+  "投融资与并购": [
+    {
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "snippet": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.  This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 16 Oct 2026 16:30:00 +0000",
+      "region": "海外",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.  This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
+      "category": "投融资与并购",
+      "company": "NVIDIA",
+      "score": 21,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    }
+  ],
+  "政策与监管": []
+}
