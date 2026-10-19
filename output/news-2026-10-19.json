@@ -1,0 +1,104 @@
+{
+  "产品发布与更新": [
+    {
+      "title": "Meta 联手苹果推出全美最强开源模型，编码基测输给智谱、Kimi",
+      "url": "https://www.infoq.cn/article/EuYOPRUBAeBgBGBu5ktk?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Sun, 18 Oct 2026 23:01:33 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "产品发布与更新",
+      "company": "智谱",
+      "score": 46,
+      "breakdown": {
+        "substance": 18,
+        "importance": 10,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    }
+  ],
+  "技术与研究": [
+    {
+      "title": "打造生产级的 Agent｜QCon上海",
+      "url": "https://www.infoq.cn/article/oZHrjYAsXvjOZXRwLt6T?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Mon, 19 Oct 2026 10:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "snippet": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sun, 18 Oct 2026 16:30:00 +0000",
+      "region": "海外",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "17岁 Kimi 架构核心参与者离职，确认将赴湾区，下一站引发猜想",
+      "url": "https://www.infoq.cn/article/UdT804ujpGxrv0pQfxv2?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Sun, 18 Oct 2026 22:58:03 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "Kimi",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    }
+  ],
+  "投融资与并购": [
+    {
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "snippet": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sun, 18 Oct 2026 20:37:40 +0000",
+      "region": "海外",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "category": "投融资与并购",
+      "company": "Anthropic",
+      "score": 29,
+      "breakdown": {
+        "substance": 6,
+        "importance": 5,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    }
+  ],
+  "政策与监管": []
+}
