@@ -1,105 +1,105 @@
 {
-  "date": "2026/10/20",
+  "date": "2026/10/22",
   "count": 11,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
-      "company": "Claude",
-      "source": "量子位",
-      "publishedAt": "Tue, 20 Oct 2026 01:09:43 +0000",
-      "summary": "OpenAI只掏出一个6.1 Terra…",
-      "score": 27
-    },
-    {
-      "section": "技术与研究",
-      "title": "阿里云 7 个样板间，探索 AI 原生研发组织的实践",
-      "company": "阿里",
+      "title": "代码迁移准确率从 5.4% 飙至 97.9%！OpenAI 挑战 COBOL，几十年的老系统真能交给 AI 了？",
+      "company": "OpenAI",
       "source": "InfoQ",
-      "publishedAt": "Mon, 19 Oct 2026 14:38:24 GMT",
+      "publishedAt": "Wed, 21 Oct 2026 15:00:29 GMT",
       "summary": "点击查看原文>",
-      "score": 24
+      "score": 33
     },
     {
       "section": "技术与研究",
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "company": "Anthropic",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "company": "Meta",
       "source": "TechCrunch AI",
-      "publishedAt": "Mon, 19 Oct 2026 23:39:38 +0000",
-      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "company": "Microsoft",
-      "source": "TechCrunch AI",
-      "publishedAt": "Mon, 19 Oct 2026 22:04:28 +0000",
-      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "publishedAt": "Wed, 21 Oct 2026 21:14:19 +0000",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
       "score": 23
     },
     {
       "section": "产品发布与更新",
-      "title": "Cloudflare 推出面向 AI 代理的 CLI，并逐步停用 Wrangler",
-      "company": "",
+      "title": "豆包工作上线 IGA Pages 插件，一句话让网页变得可分享、可共创",
+      "company": "豆包",
       "source": "InfoQ",
-      "publishedAt": "Mon, 19 Oct 2026 11:27:00 GMT",
+      "publishedAt": "Thu, 22 Oct 2026 10:00:00 GMT",
       "summary": "点击查看原文>",
       "score": 22
     },
     {
       "section": "技术与研究",
-      "title": "AI 开始挑战最复杂的系统：生命",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Mon, 19 Oct 2026 10:04:18 +0000",
-      "summary": "10 月 17 日，哲源科技发布 WHIRLPO 计算医学平台。",
-      "score": 19
-    },
-    {
-      "section": "技术与研究",
-      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Mon, 19 Oct 2026 17:45:55 +0000",
-      "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautious) celebration. Cammarata’s claim is…",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Mon, 19 Oct 2026 09:22:17 +0000",
-      "summary": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.  The blaze, possibly sparked by lightning, burned across the dry carpet of feather mosses and lichen before climbing into the…",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "company": "Amazon",
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "company": "OpenAI",
       "source": "TechCrunch AI",
-      "publishedAt": "Mon, 19 Oct 2026 20:09:24 +0000",
-      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+      "publishedAt": "Wed, 21 Oct 2026 17:59:12 +0000",
+      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "Gemini 4 Argon：为您解决最棘手的问题",
-      "company": "Gemini",
-      "source": "InfoQ",
-      "publishedAt": "Mon, 19 Oct 2026 11:10:27 GMT",
-      "summary": "点击查看原文>",
-      "score": 20
+      "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Wed, 21 Oct 2026 09:45:22 +0000",
+      "summary": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
+      "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
+      "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Mon, 19 Oct 2026 10:27:39 +0000",
-      "summary": "2026年10月19日下午，医疗健康世界模型分会场在南京国际博览中心钟山厅举行",
+      "publishedAt": "Wed, 21 Oct 2026 07:15:05 +0000",
+      "summary": "世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。",
       "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "The Download: introducing the Impossible issue",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Wed, 21 Oct 2026 12:10:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Because it’s fun to dream about…",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "We can do impossible things",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Wed, 21 Oct 2026 09:00:00 +0000",
+      "summary": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle off my line: “I say no to myself too much.”  I won’t lie. It’s a bit shameless—a definite humblebrag. I’m a systems thinker:…",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "17岁Kimi前研究员陈广宇被曝投奔Jeff Dean创业团队，新公司正寻求500亿美元估值",
+      "company": "Kimi",
+      "source": "InfoQ",
+      "publishedAt": "Wed, 21 Oct 2026 14:39:11 GMT",
+      "summary": "点击查看原文>",
+      "score": 19
+    },
+    {
+      "section": "技术与研究",
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "company": "",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 21 Oct 2026 22:51:22 +0000",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Wed, 21 Oct 2026 11:30:59 +0000",
+      "summary": "医疗AI质变时刻",
+      "score": 15
     }
   ]
 }
