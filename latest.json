@@ -1,105 +1,87 @@
 {
-  "date": "2026/10/22",
-  "count": 11,
+  "date": "2026/10/23",
+  "count": 9,
   "articles": [
     {
-      "section": "技术与研究",
-      "title": "代码迁移准确率从 5.4% 飙至 97.9%！OpenAI 挑战 COBOL，几十年的老系统真能交给 AI 了？",
-      "company": "OpenAI",
-      "source": "InfoQ",
-      "publishedAt": "Wed, 21 Oct 2026 15:00:29 GMT",
-      "summary": "点击查看原文>",
-      "score": 33
-    },
-    {
-      "section": "技术与研究",
-      "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "company": "Meta",
-      "source": "TechCrunch AI",
-      "publishedAt": "Wed, 21 Oct 2026 21:14:19 +0000",
-      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
-      "score": 23
-    },
-    {
       "section": "产品发布与更新",
-      "title": "豆包工作上线 IGA Pages 插件，一句话让网页变得可分享、可共创",
-      "company": "豆包",
+      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Thu, 22 Oct 2026 07:11:14 +0000",
+      "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
+      "score": 34
+    },
+    {
+      "section": "投融资与并购",
+      "title": "DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能",
+      "company": "",
       "source": "InfoQ",
-      "publishedAt": "Thu, 22 Oct 2026 10:00:00 GMT",
+      "publishedAt": "Fri, 23 Oct 2026 08:46:30 GMT",
       "summary": "点击查看原文>",
-      "score": 22
+      "score": 30
     },
     {
       "section": "技术与研究",
-      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-      "company": "OpenAI",
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "company": "Microsoft",
       "source": "TechCrunch AI",
-      "publishedAt": "Wed, 21 Oct 2026 17:59:12 +0000",
-      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+      "publishedAt": "Thu, 22 Oct 2026 18:43:53 +0000",
+      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+      "title": "企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本？｜ 技术趋势",
       "company": "",
-      "source": "量子位",
-      "publishedAt": "Wed, 21 Oct 2026 09:45:22 +0000",
-      "summary": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Wed, 21 Oct 2026 07:15:05 +0000",
-      "summary": "世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "The Download: introducing the Impossible issue",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Wed, 21 Oct 2026 12:10:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Because it’s fun to dream about…",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "We can do impossible things",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Wed, 21 Oct 2026 09:00:00 +0000",
-      "summary": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle off my line: “I say no to myself too much.”  I won’t lie. It’s a bit shameless—a definite humblebrag. I’m a systems thinker:…",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "17岁Kimi前研究员陈广宇被曝投奔Jeff Dean创业团队，新公司正寻求500亿美元估值",
-      "company": "Kimi",
       "source": "InfoQ",
-      "publishedAt": "Wed, 21 Oct 2026 14:39:11 GMT",
+      "publishedAt": "Thu, 22 Oct 2026 18:00:00 GMT",
       "summary": "点击查看原文>",
       "score": 19
     },
     {
       "section": "技术与研究",
-      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "company": "Anthropic",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 22 Oct 2026 13:53:26 +0000",
+      "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
+      "score": 19
+    },
+    {
+      "section": "技术与研究",
+      "title": "The Download: computing’s next leap and permafrost’s climate threat",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Thu, 22 Oct 2026 12:10:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.” There is no physical…",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "Making the case for context-aware AI",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Thu, 22 Oct 2026 10:00:00 +0000",
+      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead…",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "Left alone with nothing to do, AI agents started playing",
       "company": "",
       "source": "TechCrunch AI",
-      "publishedAt": "Wed, 21 Oct 2026 22:51:22 +0000",
-      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "publishedAt": "Fri, 23 Oct 2026 00:45:37 +0000",
+      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+      "title": "企业有需求，FDE 团队有能力，为什么 AI 项目仍难落地？",
       "company": "",
-      "source": "量子位",
-      "publishedAt": "Wed, 21 Oct 2026 11:30:59 +0000",
-      "summary": "医疗AI质变时刻",
-      "score": 15
+      "source": "InfoQ",
+      "publishedAt": "Thu, 22 Oct 2026 16:24:28 GMT",
+      "summary": "点击查看原文>",
+      "score": 16
     }
   ]
 }
