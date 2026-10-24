@@ -1,85 +1,85 @@
 {
-  "date": "2026/10/23",
+  "date": "2026/10/24",
   "count": 9,
   "articles": [
     {
-      "section": "产品发布与更新",
-      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
-      "company": "",
+      "section": "技术与研究",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "company": "OpenAI",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 23 Oct 2026 23:05:49 +0000",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "score": 23
+    },
+    {
+      "section": "技术与研究",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "company": "NVIDIA",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 23 Oct 2026 21:59:19 +0000",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "score": 23
+    },
+    {
+      "section": "技术与研究",
+      "title": "奥特曼最新 45 分钟访谈：一年不写代码、压力大到不想起床，还嫌 ChatGPT 太谄媚",
+      "company": "ChatGPT",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 23 Oct 2026 17:35:04 GMT",
+      "summary": "点击查看原文>",
+      "score": 22
+    },
+    {
+      "section": "技术与研究",
+      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+      "company": "百度",
       "source": "量子位",
-      "publishedAt": "Thu, 22 Oct 2026 07:11:14 +0000",
-      "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
-      "score": 34
+      "publishedAt": "Fri, 23 Oct 2026 07:35:51 +0000",
+      "summary": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
+      "score": 20
     },
     {
-      "section": "投融资与并购",
-      "title": "DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能",
+      "section": "政策与监管",
+      "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+      "company": "Google",
+      "source": "Ars Technica",
+      "publishedAt": "Fri, 23 Oct 2026 20:19:55 +0000",
+      "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
+      "score": 20
+    },
+    {
+      "section": "技术与研究",
+      "title": "刘铁岩、诺奖、图灵奖得主等嘉宾共话AI的下一个十年：Transformer一统天下之后，AI的下一张王牌是什么？",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Fri, 23 Oct 2026 08:46:30 GMT",
+      "publishedAt": "Fri, 23 Oct 2026 17:54:19 GMT",
       "summary": "点击查看原文>",
-      "score": 30
-    },
-    {
-      "section": "技术与研究",
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "company": "Microsoft",
-      "source": "TechCrunch AI",
-      "publishedAt": "Thu, 22 Oct 2026 18:43:53 +0000",
-      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本？｜ 技术趋势",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Thu, 22 Oct 2026 18:00:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 19
-    },
-    {
-      "section": "技术与研究",
-      "title": "Claude Duet app is Anthropic’s bet on agents",
-      "company": "Anthropic",
-      "source": "TechCrunch AI",
-      "publishedAt": "Thu, 22 Oct 2026 13:53:26 +0000",
-      "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
-      "score": 19
-    },
-    {
-      "section": "技术与研究",
-      "title": "The Download: computing’s next leap and permafrost’s climate threat",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Thu, 22 Oct 2026 12:10:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.” There is no physical…",
       "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "Making the case for context-aware AI",
+      "title": "The Download: testing six tech promises and biotech’s blind spots",
       "company": "",
       "source": "MIT Technology Review",
-      "publishedAt": "Thu, 22 Oct 2026 10:00:00 +0000",
-      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead…",
+      "publishedAt": "Fri, 23 Oct 2026 12:10:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips? Absolutely. Scrubbing…",
       "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "company": "",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+      "company": "NVIDIA",
       "source": "TechCrunch AI",
-      "publishedAt": "Fri, 23 Oct 2026 00:45:37 +0000",
-      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-      "score": 18
+      "publishedAt": "Fri, 23 Oct 2026 04:00:00 +0000",
+      "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "score": 19
     },
     {
       "section": "技术与研究",
-      "title": "企业有需求，FDE 团队有能力，为什么 AI 项目仍难落地？",
+      "title": "PostgreSQL 19 发不出来？AI“找茬”太快，人类修Bug的速度跟不上了",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Thu, 22 Oct 2026 16:24:28 GMT",
+      "publishedAt": "Fri, 23 Oct 2026 17:48:25 GMT",
       "summary": "点击查看原文>",
       "score": 16
     }
