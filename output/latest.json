@@ -1,87 +1,42 @@
 {
-  "date": "2026/10/24",
-  "count": 9,
+  "date": "2026/10/25",
+  "count": 4,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. ",
       "company": "OpenAI",
       "source": "TechCrunch AI",
-      "publishedAt": "Fri, 23 Oct 2026 23:05:49 +0000",
-      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-      "score": 23
+      "publishedAt": "Sat, 24 Oct 2026 15:00:00 +0000",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "score": 24
     },
     {
       "section": "技术与研究",
-      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "company": "NVIDIA",
+      "title": "Java 近期新闻：Grails 8、Open Liberty、GlassFish、Infinispan、LangChain4j、Spock",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Sun, 25 Oct 2026 09:06:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "Block’s new voice model sounds eerily human",
+      "company": "",
       "source": "TechCrunch AI",
-      "publishedAt": "Fri, 23 Oct 2026 21:59:19 +0000",
-      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "奥特曼最新 45 分钟访谈：一年不写代码、压力大到不想起床，还嫌 ChatGPT 太谄媚",
-      "company": "ChatGPT",
-      "source": "InfoQ",
-      "publishedAt": "Fri, 23 Oct 2026 17:35:04 GMT",
-      "summary": "点击查看原文>",
-      "score": 22
-    },
-    {
-      "section": "技术与研究",
-      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
-      "company": "百度",
-      "source": "量子位",
-      "publishedAt": "Fri, 23 Oct 2026 07:35:51 +0000",
-      "summary": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
-      "score": 20
-    },
-    {
-      "section": "政策与监管",
-      "title": "Updated Google privacy policy says your Gmail might be used for advertising",
-      "company": "Google",
-      "source": "Ars Technica",
-      "publishedAt": "Fri, 23 Oct 2026 20:19:55 +0000",
-      "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
-      "score": 20
-    },
-    {
-      "section": "技术与研究",
-      "title": "刘铁岩、诺奖、图灵奖得主等嘉宾共话AI的下一个十年：Transformer一统天下之后，AI的下一张王牌是什么？",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Fri, 23 Oct 2026 17:54:19 GMT",
-      "summary": "点击查看原文>",
+      "publishedAt": "Sat, 24 Oct 2026 16:00:00 +0000",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
       "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "The Download: testing six tech promises and biotech’s blind spots",
+      "title": "Here are the top AI agents that can live in your text messages ",
       "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Fri, 23 Oct 2026 12:10:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips? Absolutely. Scrubbing…",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-      "company": "NVIDIA",
       "source": "TechCrunch AI",
-      "publishedAt": "Fri, 23 Oct 2026 04:00:00 +0000",
-      "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-      "score": 19
-    },
-    {
-      "section": "技术与研究",
-      "title": "PostgreSQL 19 发不出来？AI“找茬”太快，人类修Bug的速度跟不上了",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Fri, 23 Oct 2026 17:48:25 GMT",
-      "summary": "点击查看原文>",
-      "score": 16
+      "publishedAt": "Sat, 24 Oct 2026 14:00:00 +0000",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "score": 14
     }
   ]
 }
