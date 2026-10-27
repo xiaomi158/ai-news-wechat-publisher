@@ -1,42 +1,69 @@
 {
-  "date": "2026/10/25",
-  "count": 4,
+  "date": "2026/10/27",
+  "count": 7,
   "articles": [
     {
-      "section": "技术与研究",
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. ",
-      "company": "OpenAI",
-      "source": "TechCrunch AI",
-      "publishedAt": "Sat, 24 Oct 2026 15:00:00 +0000",
-      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-      "score": 24
-    },
-    {
-      "section": "技术与研究",
-      "title": "Java 近期新闻：Grails 8、Open Liberty、GlassFish、Infinispan、LangChain4j、Spock",
+      "section": "投融资与并购",
+      "title": "中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Sun, 25 Oct 2026 09:06:00 GMT",
+      "publishedAt": "Mon, 26 Oct 2026 18:30:50 GMT",
       "summary": "点击查看原文>",
-      "score": 18
+      "score": 35
     },
     {
       "section": "技术与研究",
-      "title": "Block’s new voice model sounds eerily human",
-      "company": "",
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "company": "Anthropic",
       "source": "TechCrunch AI",
-      "publishedAt": "Sat, 24 Oct 2026 16:00:00 +0000",
-      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "publishedAt": "Mon, 26 Oct 2026 16:49:42 +0000",
+      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+      "score": 21
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "让 AI 从需求一路干到上线，软件开发组织要变了？",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Mon, 26 Oct 2026 18:08:13 GMT",
+      "summary": "点击查看原文>",
+      "score": 20
+    },
+    {
+      "section": "技术与研究",
+      "title": "Anthropic officially files for its public debut",
+      "company": "Anthropic",
+      "source": "TechCrunch AI",
+      "publishedAt": "Mon, 26 Oct 2026 14:35:22 +0000",
+      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+      "score": 19
+    },
+    {
+      "section": "技术与研究",
+      "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Mon, 26 Oct 2026 12:40:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the Responsible Technology Youth Power Fund at…",
       "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "Here are the top AI agents that can live in your text messages ",
+      "title": "30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Mon, 26 Oct 2026 15:05:27 GMT",
+      "summary": "点击查看原文>",
+      "score": 19
+    },
+    {
+      "section": "技术与研究",
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
       "company": "",
       "source": "TechCrunch AI",
-      "publishedAt": "Sat, 24 Oct 2026 14:00:00 +0000",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "score": 14
+      "publishedAt": "Mon, 26 Oct 2026 16:46:36 +0000",
+      "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+      "score": 16
     }
   ]
 }
