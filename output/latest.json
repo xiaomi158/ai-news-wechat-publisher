@@ -1,69 +1,78 @@
 {
-  "date": "2026/10/27",
-  "count": 7,
+  "date": "2026/10/28",
+  "count": 8,
   "articles": [
     {
-      "section": "投融资与并购",
-      "title": "中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付",
+      "section": "技术与研究",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "company": "OpenAI",
+      "source": "TechCrunch AI",
+      "publishedAt": "Tue, 27 Oct 2026 23:34:27 +0000",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "score": 29
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "GPT-6.1 Terra 发布：比旗舰快 3 倍，价格仅1/10！事实错误率暴降近 70%",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Mon, 26 Oct 2026 18:30:50 GMT",
+      "publishedAt": "Wed, 28 Oct 2026 10:37:05 GMT",
       "summary": "点击查看原文>",
-      "score": 35
+      "score": 28
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "TypeSafe AI发布Jev：一种只返回类型化概率而非文本的决策模型",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Tue, 27 Oct 2026 15:22:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 23
     },
     {
       "section": "技术与研究",
-      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "title": "Who’s really in charge at Anthropic after the IPO?",
       "company": "Anthropic",
       "source": "TechCrunch AI",
-      "publishedAt": "Mon, 26 Oct 2026 16:49:42 +0000",
-      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+      "publishedAt": "Tue, 27 Oct 2026 21:38:28 +0000",
+      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "score": 23
+    },
+    {
+      "section": "技术与研究",
+      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+      "company": "",
+      "source": "Ars Technica",
+      "publishedAt": "Tue, 27 Oct 2026 16:00:22 +0000",
+      "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "How solid-state transformers could help power the AI boom",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Tue, 27 Oct 2026 09:00:00 +0000",
+      "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade.  As the world races to meet rising electricity demand from…",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "company": "",
+      "source": "TechCrunch AI",
+      "publishedAt": "Tue, 27 Oct 2026 17:08:08 +0000",
+      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
       "score": 21
     },
     {
       "section": "产品发布与更新",
-      "title": "让 AI 从需求一路干到上线，软件开发组织要变了？",
+      "title": "Azure Container Apps Express在新的通用沙箱层上正式发布",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Mon, 26 Oct 2026 18:08:13 GMT",
+      "publishedAt": "Tue, 27 Oct 2026 17:17:00 GMT",
       "summary": "点击查看原文>",
       "score": 20
-    },
-    {
-      "section": "技术与研究",
-      "title": "Anthropic officially files for its public debut",
-      "company": "Anthropic",
-      "source": "TechCrunch AI",
-      "publishedAt": "Mon, 26 Oct 2026 14:35:22 +0000",
-      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
-      "score": 19
-    },
-    {
-      "section": "技术与研究",
-      "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Mon, 26 Oct 2026 12:40:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the Responsible Technology Youth Power Fund at…",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Mon, 26 Oct 2026 15:05:27 GMT",
-      "summary": "点击查看原文>",
-      "score": 19
-    },
-    {
-      "section": "技术与研究",
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Mon, 26 Oct 2026 16:46:36 +0000",
-      "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-      "score": 16
     }
   ]
 }
