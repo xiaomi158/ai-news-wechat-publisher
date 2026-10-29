@@ -1,78 +1,87 @@
 {
-  "date": "2026/10/28",
-  "count": 8,
+  "date": "2026/10/29",
+  "count": 9,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "company": "OpenAI",
-      "source": "TechCrunch AI",
-      "publishedAt": "Tue, 27 Oct 2026 23:34:27 +0000",
-      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-      "score": 29
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "GPT-6.1 Terra 发布：比旗舰快 3 倍，价格仅1/10！事实错误率暴降近 70%",
+      "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
       "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Wed, 28 Oct 2026 10:37:05 GMT",
-      "summary": "点击查看原文>",
-      "score": 28
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "TypeSafe AI发布Jev：一种只返回类型化概率而非文本的决策模型",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Tue, 27 Oct 2026 15:22:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 23
+      "source": "量子位",
+      "publishedAt": "Wed, 28 Oct 2026 04:04:48 +0000",
+      "summary": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。",
+      "score": 30
     },
     {
       "section": "技术与研究",
-      "title": "Who’s really in charge at Anthropic after the IPO?",
-      "company": "Anthropic",
-      "source": "TechCrunch AI",
-      "publishedAt": "Tue, 27 Oct 2026 21:38:28 +0000",
-      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
-      "score": 23
+      "title": "亚马逊云科技开源智能体“决策器”和“安全箱”，但并发与冷启动仍待解决",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Thu, 29 Oct 2026 08:00:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 30
     },
     {
       "section": "技术与研究",
-      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "company": "Google",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 28 Oct 2026 17:00:00 +0000",
+      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+      "score": 27
+    },
+    {
+      "section": "技术与研究",
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "company": "Microsoft",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 28 Oct 2026 21:25:30 +0000",
+      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+      "score": 26
+    },
+    {
+      "section": "技术与研究",
+      "title": "不再逐个生成 Token：扩散模型迈向 35B，开始挑战 Agent 编程",
       "company": "",
-      "source": "Ars Technica",
-      "publishedAt": "Tue, 27 Oct 2026 16:00:22 +0000",
-      "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
+      "source": "InfoQ",
+      "publishedAt": "Wed, 28 Oct 2026 22:53:53 GMT",
+      "summary": "点击查看原文>",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "Creating AI value with enterprise context",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Wed, 28 Oct 2026 20:32:02 +0000",
+      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a…",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "How solid-state transformers could help power the AI boom",
+      "title": "Pairing industrial AI autonomy and human control",
       "company": "",
       "source": "MIT Technology Review",
-      "publishedAt": "Tue, 27 Oct 2026 09:00:00 +0000",
-      "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade.  As the world races to meet rising electricity demand from…",
+      "publishedAt": "Wed, 28 Oct 2026 12:00:00 +0000",
+      "summary": "暂无摘要",
       "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO ",
       "company": "",
       "source": "TechCrunch AI",
-      "publishedAt": "Tue, 27 Oct 2026 17:08:08 +0000",
-      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-      "score": 21
+      "publishedAt": "Wed, 28 Oct 2026 18:50:39 +0000",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]",
+      "score": 24
     },
     {
-      "section": "产品发布与更新",
-      "title": "Azure Container Apps Express在新的通用沙箱层上正式发布",
+      "section": "技术与研究",
+      "title": "AI 用起来了，业务价值谁来打分？",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Tue, 27 Oct 2026 17:17:00 GMT",
+      "publishedAt": "Thu, 29 Oct 2026 10:37:25 GMT",
       "summary": "点击查看原文>",
-      "score": 20
+      "score": 18
     }
   ]
 }
