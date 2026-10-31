@@ -1,87 +1,96 @@
 {
-  "date": "2026/10/29",
-  "count": 9,
+  "date": "2026/10/31",
+  "count": 10,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
-      "company": "",
+      "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+      "company": "MiniMax",
       "source": "量子位",
-      "publishedAt": "Wed, 28 Oct 2026 04:04:48 +0000",
-      "summary": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。",
-      "score": 30
+      "publishedAt": "Fri, 30 Oct 2026 07:31:11 +0000",
+      "summary": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
+      "score": 34
     },
     {
       "section": "技术与研究",
-      "title": "亚马逊云科技开源智能体“决策器”和“安全箱”，但并发与冷启动仍待解决",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "company": "NVIDIA",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sat, 31 Oct 2026 01:20:05 +0000",
+      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "score": 23
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "谷歌推出 EnvHarness，支持自进化智能体动态环境学习",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Thu, 29 Oct 2026 08:00:00 GMT",
+      "publishedAt": "Fri, 30 Oct 2026 11:22:00 GMT",
       "summary": "点击查看原文>",
-      "score": 30
+      "score": 22
     },
     {
       "section": "技术与研究",
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "title": "Google’s first data center satellite is online and writing poetry",
       "company": "Google",
       "source": "TechCrunch AI",
-      "publishedAt": "Wed, 28 Oct 2026 17:00:00 +0000",
-      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-      "score": 27
-    },
-    {
-      "section": "技术与研究",
-      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-      "company": "Microsoft",
-      "source": "TechCrunch AI",
-      "publishedAt": "Wed, 28 Oct 2026 21:25:30 +0000",
-      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
-      "score": 26
-    },
-    {
-      "section": "技术与研究",
-      "title": "不再逐个生成 Token：扩散模型迈向 35B，开始挑战 Agent 编程",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Wed, 28 Oct 2026 22:53:53 GMT",
-      "summary": "点击查看原文>",
+      "publishedAt": "Fri, 30 Oct 2026 17:00:00 +0000",
+      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "Creating AI value with enterprise context",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Wed, 28 Oct 2026 20:32:02 +0000",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a…",
+      "title": "Claude新模型曝光：新Fable，新Opus…",
+      "company": "Claude",
+      "source": "量子位",
+      "publishedAt": "Fri, 30 Oct 2026 05:50:44 +0000",
+      "summary": "暂无摘要",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "Pairing industrial AI autonomy and human control",
+      "title": "终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Sat, 31 Oct 2026 08:00:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
       "company": "",
       "source": "MIT Technology Review",
-      "publishedAt": "Wed, 28 Oct 2026 12:00:00 +0000",
-      "summary": "暂无摘要",
+      "publishedAt": "Fri, 30 Oct 2026 11:30:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinicians, they can…",
       "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO ",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
       "company": "",
       "source": "TechCrunch AI",
-      "publishedAt": "Wed, 28 Oct 2026 18:50:39 +0000",
-      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]",
-      "score": 24
+      "publishedAt": "Fri, 30 Oct 2026 22:56:13 +0000",
+      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+      "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "AI 用起来了，业务价值谁来打分？",
+      "title": "AI+垂类Agent：任务跑得久、工具用得熟，撑不起Agent公司长期竞争力｜贝联珠贯创始人兼CEO 毕玄分享",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Thu, 29 Oct 2026 10:37:25 GMT",
+      "publishedAt": "Fri, 30 Oct 2026 19:27:01 GMT",
       "summary": "点击查看原文>",
-      "score": 18
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Fri, 30 Oct 2026 03:48:04 +0000",
+      "summary": "让机器人成为彼此的“老师”",
+      "score": 15
     }
   ]
 }
