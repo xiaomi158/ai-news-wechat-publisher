@@ -1,78 +1,96 @@
 {
-  "date": "2026/11/1",
-  "count": 8,
+  "date": "2026/11/3",
+  "count": 10,
   "articles": [
     {
-      "section": "技术与研究",
-      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Sat, 31 Oct 2026 05:11:19 +0000",
-      "summary": "AI算力利用“九九成”",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
-      "company": "Claude",
-      "source": "量子位",
-      "publishedAt": "Sat, 31 Oct 2026 05:05:29 +0000",
-      "summary": "200美元Ultra用户先用",
-      "score": 21
-    },
-    {
-      "section": "投融资与并购",
-      "title": "OpenAI reportedly lowers funding target for new round",
+      "section": "产品发布与更新",
+      "title": "爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程",
       "company": "OpenAI",
+      "source": "量子位",
+      "publishedAt": "Tue, 03 Nov 2026 01:46:55 +0000",
+      "summary": "近日，爱诗科技（AIsphere）旗下模型和开放平台PixVerse 与 OpenAI 宣布开启深度合作",
+      "score": 32
+    },
+    {
+      "section": "技术与研究",
+      "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Tue, 03 Nov 2026 10:00:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 27
+    },
+    {
+      "section": "技术与研究",
+      "title": "谷歌宁愿少卖云算力，也要先把算力留给 Gemini：皮查伊罕见长访谈，披露 AI 自我改进与算力争夺内幕",
+      "company": "Gemini",
+      "source": "InfoQ",
+      "publishedAt": "Tue, 03 Nov 2026 10:45:58 GMT",
+      "summary": "点击查看原文>",
+      "score": 24
+    },
+    {
+      "section": "技术与研究",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "company": "Google",
       "source": "TechCrunch AI",
-      "publishedAt": "Sat, 31 Oct 2026 16:12:55 +0000",
-      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "publishedAt": "Tue, 03 Nov 2026 03:30:00 +0000",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "score": 23
+    },
+    {
+      "section": "技术与研究",
+      "title": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Tue, 03 Nov 2026 01:57:30 +0000",
+      "summary": "指令执行能力也同步提升",
+      "score": 22
+    },
+    {
+      "section": "技术与研究",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "company": "Anthropic",
+      "source": "TechCrunch AI",
+      "publishedAt": "Mon, 02 Nov 2026 22:14:50 +0000",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "如果 AI 幻觉也有预算，超支之后该怎么办？",
+      "title": "The agentic web is here",
       "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Sun, 01 Nov 2026 10:00:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "company": "Apple",
-      "source": "TechCrunch AI",
-      "publishedAt": "Sat, 31 Oct 2026 21:41:00 +0000",
-      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "AI 编程导师挑战低端 Android 手机！不用服务器，Python 和 SQL 直接在浏览器里运行",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Sat, 31 Oct 2026 20:43:05 GMT",
-      "summary": "点击查看原文>",
+      "source": "MIT Technology Review",
+      "publishedAt": "Mon, 02 Nov 2026 09:35:19 +0000",
+      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every…",
       "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "company": "xAI",
-      "source": "TechCrunch AI",
-      "publishedAt": "Sat, 31 Oct 2026 21:17:03 +0000",
-      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-      "score": 18
+      "title": "从英伟达到 Pika，硅谷巨头为何“反向借力”这个国产模型？",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Mon, 02 Nov 2026 22:48:56 GMT",
+      "summary": "点击查看原文>",
+      "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "每天上千万次创建：Agent Sandbox 为什么会成为新算力形态？",
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
       "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Sat, 31 Oct 2026 16:15:46 GMT",
-      "summary": "点击查看原文>",
-      "score": 16
+      "source": "TechCrunch AI",
+      "publishedAt": "Mon, 02 Nov 2026 19:19:17 +0000",
+      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义",
+      "company": "IBM",
+      "source": "量子位",
+      "publishedAt": "Tue, 03 Nov 2026 03:16:23 +0000",
+      "summary": "GPU迭代一百次的事，它一步做完",
+      "score": 19
     }
   ]
 }
