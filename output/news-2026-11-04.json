@@ -1,0 +1,178 @@
+{
+  "产品发布与更新": [],
+  "技术与研究": [
+    {
+      "title": "AI教AI开车！百度首次披露Apollo World世界模型，让无人驾驶突破“不可能三角”",
+      "url": "https://www.infoq.cn/article/tIt75FRqU2hwy4eWrOIu?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Tue, 03 Nov 2026 21:26:32 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "百度",
+      "score": 30,
+      "breakdown": {
+        "substance": 4,
+        "importance": 10,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答",
+      "url": "https://www.infoq.cn/article/bFKTeyCOlydWMYi91H4q?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Wed, 04 Nov 2026 11:02:35 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 21,
+      "breakdown": {
+        "substance": 3,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Anthropic is still grappling with the economics of compute",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "snippet": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Tue, 03 Nov 2026 17:07:01 +0000",
+      "region": "海外",
+      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+      "category": "技术与研究",
+      "company": "Anthropic",
+      "score": 21,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "模型谁都买得到，拉开差距的是AI生产力系统",
+      "url": "https://www.qbitai.com/2026/11/507448.html",
+      "snippet": "AI的下一程是生产力系统之争",
+      "source": "量子位",
+      "publishedAt": "Tue, 03 Nov 2026 11:13:49 +0000",
+      "region": "国内",
+      "summary": "AI的下一程是生产力系统之争",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 3,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间",
+      "url": "https://www.qbitai.com/2026/11/507410.html",
+      "snippet": "TeleAI智慧看护助手",
+      "source": "量子位",
+      "publishedAt": "Tue, 03 Nov 2026 06:29:11 +0000",
+      "region": "国内",
+      "summary": "TeleAI智慧看护助手",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 3,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "snippet": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Tue, 03 Nov 2026 22:19:53 +0000",
+      "region": "海外",
+      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "给 AI 业务单独划一块地：帆软怎么重新安排事、人和组织｜AICon北京",
+      "url": "https://www.infoq.cn/article/BGkTakB51rl6ybIh4sYJ?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Wed, 04 Nov 2026 10:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "snippet": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Tue, 03 Nov 2026 19:34:43 +0000",
+      "region": "海外",
+      "summary": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
+      "url": "https://www.qbitai.com/2026/11/507507.html",
+      "snippet": "AI接管调度运营，仓库越干越聪明",
+      "source": "量子位",
+      "publishedAt": "Tue, 03 Nov 2026 13:57:11 +0000",
+      "region": "国内",
+      "summary": "AI接管调度运营，仓库越干越聪明",
+      "category": "技术与研究",
+      "company": "",
+      "score": 15,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    }
+  ],
+  "投融资与并购": [],
+  "政策与监管": []
+}
