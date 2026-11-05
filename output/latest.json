@@ -1,87 +1,105 @@
 {
-  "date": "2026/11/4",
-  "count": 9,
+  "date": "2026/11/5",
+  "count": 11,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "AI教AI开车！百度首次披露Apollo World世界模型，让无人驾驶突破“不可能三角”",
-      "company": "百度",
-      "source": "InfoQ",
-      "publishedAt": "Tue, 03 Nov 2026 21:26:32 GMT",
-      "summary": "点击查看原文>",
+      "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
+      "company": "OpenAI",
+      "source": "量子位",
+      "publishedAt": "Thu, 05 Nov 2026 01:54:44 +0000",
+      "summary": "被轰成筛子了…",
       "score": 30
     },
     {
       "section": "技术与研究",
-      "title": "大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答",
-      "company": "",
+      "title": "谷歌用 Gemini 4 Argon 一夜优化 ADK 代码库的 20 万行代码",
+      "company": "Gemini",
       "source": "InfoQ",
-      "publishedAt": "Wed, 04 Nov 2026 11:02:35 GMT",
+      "publishedAt": "Thu, 05 Nov 2026 11:00:00 GMT",
       "summary": "点击查看原文>",
+      "score": 30
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Thu, 05 Nov 2026 01:59:37 +0000",
+      "summary": "最快6秒出图",
+      "score": 26
+    },
+    {
+      "section": "技术与研究",
+      "title": "混元 Hy4 实测：腾讯的产品基因，模型继承了几分？",
+      "company": "腾讯",
+      "source": "InfoQ",
+      "publishedAt": "Thu, 05 Nov 2026 09:44:25 GMT",
+      "summary": "点击查看原文>",
+      "score": 26
+    },
+    {
+      "section": "政策与监管",
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "company": "Google",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 04 Nov 2026 19:29:52 +0000",
+      "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "Anthropic is still grappling with the economics of compute",
-      "company": "Anthropic",
-      "source": "TechCrunch AI",
-      "publishedAt": "Tue, 03 Nov 2026 17:07:01 +0000",
-      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "模型谁都买得到，拉开差距的是AI生产力系统",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Tue, 03 Nov 2026 11:13:49 +0000",
-      "summary": "AI的下一程是生产力系统之争",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Tue, 03 Nov 2026 06:29:11 +0000",
-      "summary": "TeleAI智慧看护助手",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
       "company": "",
       "source": "TechCrunch AI",
-      "publishedAt": "Tue, 03 Nov 2026 22:19:53 +0000",
-      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+      "publishedAt": "Wed, 04 Nov 2026 22:45:09 +0000",
+      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "给 AI 业务单独划一块地：帆软怎么重新安排事、人和组织｜AICon北京",
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Wed, 04 Nov 2026 18:21:40 +0000",
+      "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring possible paths to keep your mind going, including gradual…",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+      "company": "",
+      "source": "Ars Technica",
+      "publishedAt": "Wed, 04 Nov 2026 20:55:50 +0000",
+      "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
+      "score": 13
+    },
+    {
+      "section": "技术与研究",
+      "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Thu, 05 Nov 2026 00:41:34 +0000",
+      "summary": "薪资+期权不限！",
+      "score": 22
+    },
+    {
+      "section": "技术与研究",
+      "title": "Token 暴涨 5000 倍之后，企业 Agent 落地还卡在哪里？",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Wed, 04 Nov 2026 10:00:00 GMT",
+      "publishedAt": "Wed, 04 Nov 2026 21:56:58 GMT",
       "summary": "点击查看原文>",
-      "score": 18
+      "score": 19
     },
     {
       "section": "技术与研究",
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
       "company": "",
       "source": "TechCrunch AI",
-      "publishedAt": "Tue, 03 Nov 2026 19:34:43 +0000",
-      "summary": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
+      "publishedAt": "Wed, 04 Nov 2026 19:30:04 +0000",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?  On this episode of […]",
       "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Tue, 03 Nov 2026 13:57:11 +0000",
-      "summary": "AI接管调度运营，仓库越干越聪明",
-      "score": 15
     }
   ]
 }
