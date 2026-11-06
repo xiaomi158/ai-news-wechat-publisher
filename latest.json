@@ -1,104 +1,77 @@
 {
-  "date": "2026/11/5",
-  "count": 11,
+  "date": "2026/11/6",
+  "count": 8,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
-      "company": "OpenAI",
+      "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
+      "company": "百度",
       "source": "量子位",
-      "publishedAt": "Thu, 05 Nov 2026 01:54:44 +0000",
-      "summary": "被轰成筛子了…",
+      "publishedAt": "Thu, 05 Nov 2026 07:15:13 +0000",
+      "summary": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
+      "score": 38
+    },
+    {
+      "section": "技术与研究",
+      "title": "当 Coding Agent 走进研发团队：我们打造并开源了自进化研发平台 LoopForge",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 06 Nov 2026 07:14:48 GMT",
+      "summary": "点击查看原文>",
       "score": 30
     },
     {
       "section": "技术与研究",
-      "title": "谷歌用 Gemini 4 Argon 一夜优化 ADK 代码库的 20 万行代码",
-      "company": "Gemini",
+      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+      "company": "NVIDIA",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 05 Nov 2026 14:00:00 +0000",
+      "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+      "score": 25
+    },
+    {
+      "section": "技术与研究",
+      "title": "AI Native 企业研发工具链：架构重构与持续演进｜AICon北京",
+      "company": "",
       "source": "InfoQ",
-      "publishedAt": "Thu, 05 Nov 2026 11:00:00 GMT",
+      "publishedAt": "Fri, 06 Nov 2026 10:00:00 GMT",
       "summary": "点击查看原文>",
-      "score": 30
+      "score": 21
     },
     {
       "section": "产品发布与更新",
-      "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "company": "",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 05 Nov 2026 22:40:55 +0000",
+      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "score": 18
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Thu, 05 Nov 2026 01:59:37 +0000",
-      "summary": "最快6秒出图",
-      "score": 26
+      "publishedAt": "Thu, 05 Nov 2026 05:25:37 +0000",
+      "summary": "像雇人一样雇机器人",
+      "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "混元 Hy4 实测：腾讯的产品基因，模型继承了几分？",
-      "company": "腾讯",
+      "title": "AI 狂烧 2000亿美元，谷歌全球启动“自愿买断”计划：最高补偿12个月工资",
+      "company": "",
       "source": "InfoQ",
-      "publishedAt": "Thu, 05 Nov 2026 09:44:25 GMT",
+      "publishedAt": "Fri, 06 Nov 2026 08:00:00 GMT",
       "summary": "点击查看原文>",
-      "score": 26
-    },
-    {
-      "section": "政策与监管",
-      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-      "company": "Google",
-      "source": "TechCrunch AI",
-      "publishedAt": "Wed, 04 Nov 2026 19:29:52 +0000",
-      "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-      "company": "",
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "company": "Claude",
       "source": "TechCrunch AI",
-      "publishedAt": "Wed, 04 Nov 2026 22:45:09 +0000",
-      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Wed, 04 Nov 2026 18:21:40 +0000",
-      "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring possible paths to keep your mind going, including gradual…",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
-      "company": "",
-      "source": "Ars Technica",
-      "publishedAt": "Wed, 04 Nov 2026 20:55:50 +0000",
-      "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
-      "score": 13
-    },
-    {
-      "section": "技术与研究",
-      "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Thu, 05 Nov 2026 00:41:34 +0000",
-      "summary": "薪资+期权不限！",
-      "score": 22
-    },
-    {
-      "section": "技术与研究",
-      "title": "Token 暴涨 5000 倍之后，企业 Agent 落地还卡在哪里？",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Wed, 04 Nov 2026 21:56:58 GMT",
-      "summary": "点击查看原文>",
-      "score": 19
-    },
-    {
-      "section": "技术与研究",
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Wed, 04 Nov 2026 19:30:04 +0000",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?  On this episode of […]",
+      "publishedAt": "Thu, 05 Nov 2026 18:00:00 +0000",
+      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
       "score": 16
     }
   ]
