@@ -1,78 +1,105 @@
 {
-  "date": "2026/11/6",
-  "count": 8,
+  "date": "2026/11/7",
+  "count": 11,
   "articles": [
     {
-      "section": "技术与研究",
-      "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
-      "company": "百度",
+      "section": "产品发布与更新",
+      "title": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
+      "company": "阿里",
       "source": "量子位",
-      "publishedAt": "Thu, 05 Nov 2026 07:15:13 +0000",
-      "summary": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
-      "score": 38
-    },
-    {
-      "section": "技术与研究",
-      "title": "当 Coding Agent 走进研发团队：我们打造并开源了自进化研发平台 LoopForge",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Fri, 06 Nov 2026 07:14:48 GMT",
-      "summary": "点击查看原文>",
-      "score": 30
-    },
-    {
-      "section": "技术与研究",
-      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-      "company": "NVIDIA",
-      "source": "TechCrunch AI",
-      "publishedAt": "Thu, 05 Nov 2026 14:00:00 +0000",
-      "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
-      "score": 25
-    },
-    {
-      "section": "技术与研究",
-      "title": "AI Native 企业研发工具链：架构重构与持续演进｜AICon北京",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Fri, 06 Nov 2026 10:00:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 21
+      "publishedAt": "Fri, 06 Nov 2026 09:19:00 +0000",
+      "summary": "11月5日，阿里巴巴发布《2026 AI向善行动报告》",
+      "score": 24
     },
     {
       "section": "产品发布与更新",
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "title": "Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
       "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 06 Nov 2026 17:00:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 24
+    },
+    {
+      "section": "技术与研究",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "company": "Google",
       "source": "TechCrunch AI",
-      "publishedAt": "Thu, 05 Nov 2026 22:40:55 +0000",
-      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "publishedAt": "Sat, 07 Nov 2026 01:40:28 +0000",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "score": 23
+    },
+    {
+      "section": "技术与研究",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "company": "OpenAI",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 06 Nov 2026 22:53:46 +0000",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "score": 23
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 06 Nov 2026 15:25:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 22
+    },
+    {
+      "section": "技术与研究",
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Fri, 06 Nov 2026 10:00:00 +0000",
+      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Fri, 06 Nov 2026 05:01:47 +0000",
+      "summary": "一举刷新「AI安全世界杯」CyberGym世界纪录",
       "score": 18
     },
     {
-      "section": "产品发布与更新",
-      "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Thu, 05 Nov 2026 05:25:37 +0000",
-      "summary": "像雇人一样雇机器人",
+      "section": "技术与研究",
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "company": "Samsung",
+      "source": "MIT Technology Review",
+      "publishedAt": "Fri, 06 Nov 2026 13:10:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in…",
       "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "AI 狂烧 2000亿美元，谷歌全球启动“自愿买断”计划：最高补偿12个月工资",
+      "title": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Fri, 06 Nov 2026 08:00:00 GMT",
+      "publishedAt": "Sat, 07 Nov 2026 10:00:00 GMT",
       "summary": "点击查看原文>",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "company": "Claude",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "company": "",
       "source": "TechCrunch AI",
-      "publishedAt": "Thu, 05 Nov 2026 18:00:00 +0000",
-      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+      "publishedAt": "Fri, 06 Nov 2026 18:44:38 +0000",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
       "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Fri, 06 Nov 2026 09:25:59 +0000",
+      "summary": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
+      "score": 15
     }
   ]
 }

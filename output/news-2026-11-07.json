@@ -1,0 +1,217 @@
+{
+  "产品发布与更新": [
+    {
+      "title": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
+      "url": "https://www.qbitai.com/2026/11/508165.html",
+      "snippet": "11月5日，阿里巴巴发布《2026 AI向善行动报告》",
+      "source": "量子位",
+      "publishedAt": "Fri, 06 Nov 2026 09:19:00 +0000",
+      "region": "国内",
+      "summary": "11月5日，阿里巴巴发布《2026 AI向善行动报告》",
+      "category": "产品发布与更新",
+      "company": "阿里",
+      "score": 24,
+      "breakdown": {
+        "substance": 4,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
+      "url": "https://www.infoq.cn/article/lGoA1ZSw6ojeh68GVlBl?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 06 Nov 2026 17:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "产品发布与更新",
+      "company": "",
+      "score": 24,
+      "breakdown": {
+        "substance": 8,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代",
+      "url": "https://www.infoq.cn/article/upfROwtEl8R75H24D13J?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 06 Nov 2026 15:25:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "产品发布与更新",
+      "company": "",
+      "score": 22,
+      "breakdown": {
+        "substance": 8,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    }
+  ],
+  "技术与研究": [
+    {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "snippet": "The deal highlights the challenges of developing massive AI data centers.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sat, 07 Nov 2026 01:40:28 +0000",
+      "region": "海外",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "category": "技术与研究",
+      "company": "Google",
+      "score": 23,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "snippet": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 06 Nov 2026 22:53:46 +0000",
+      "region": "海外",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "category": "技术与研究",
+      "company": "OpenAI",
+      "score": 23,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "snippet": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…",
+      "source": "MIT Technology Review",
+      "publishedAt": "Fri, 06 Nov 2026 10:00:00 +0000",
+      "region": "海外",
+      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…",
+      "category": "技术与研究",
+      "company": "",
+      "score": 21,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 10
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
+      "url": "https://www.qbitai.com/2026/11/508107.html",
+      "snippet": "一举刷新「AI安全世界杯」CyberGym世界纪录",
+      "source": "量子位",
+      "publishedAt": "Fri, 06 Nov 2026 05:01:47 +0000",
+      "region": "国内",
+      "summary": "一举刷新「AI安全世界杯」CyberGym世界纪录",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 3,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in…",
+      "source": "MIT Technology Review",
+      "publishedAt": "Fri, 06 Nov 2026 13:10:00 +0000",
+      "region": "海外",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in…",
+      "category": "技术与研究",
+      "company": "Samsung",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 10
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+      "url": "https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Sat, 07 Nov 2026 10:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 21,
+      "breakdown": {
+        "substance": 3,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "snippet": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 06 Nov 2026 18:44:38 +0000",
+      "region": "海外",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
+      "url": "https://www.qbitai.com/2026/11/508174.html",
+      "snippet": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
+      "source": "量子位",
+      "publishedAt": "Fri, 06 Nov 2026 09:25:59 +0000",
+      "region": "国内",
+      "summary": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
+      "category": "技术与研究",
+      "company": "",
+      "score": 15,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    }
+  ],
+  "投融资与并购": [],
+  "政策与监管": []
+}
