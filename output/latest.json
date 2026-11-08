@@ -1,104 +1,41 @@
 {
-  "date": "2026/11/7",
-  "count": 11,
+  "date": "2026/11/8",
+  "count": 4,
   "articles": [
     {
-      "section": "产品发布与更新",
-      "title": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
-      "company": "阿里",
-      "source": "量子位",
-      "publishedAt": "Fri, 06 Nov 2026 09:19:00 +0000",
-      "summary": "11月5日，阿里巴巴发布《2026 AI向善行动报告》",
-      "score": 24
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Fri, 06 Nov 2026 17:00:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 24
-    },
-    {
       "section": "技术与研究",
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "company": "Google",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "company": "NVIDIA",
       "source": "TechCrunch AI",
-      "publishedAt": "Sat, 07 Nov 2026 01:40:28 +0000",
-      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "publishedAt": "Sat, 07 Nov 2026 21:17:08 +0000",
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
       "score": 23
     },
     {
       "section": "技术与研究",
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "company": "OpenAI",
-      "source": "TechCrunch AI",
-      "publishedAt": "Fri, 06 Nov 2026 22:53:46 +0000",
-      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-      "score": 23
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代",
+      "title": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Fri, 06 Nov 2026 15:25:00 GMT",
+      "publishedAt": "Sun, 08 Nov 2026 10:00:00 GMT",
       "summary": "点击查看原文>",
-      "score": 22
-    },
-    {
-      "section": "技术与研究",
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Fri, 06 Nov 2026 10:00:00 +0000",
-      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Fri, 06 Nov 2026 05:01:47 +0000",
-      "summary": "一举刷新「AI安全世界杯」CyberGym世界纪录",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-      "company": "Samsung",
-      "source": "MIT Technology Review",
-      "publishedAt": "Fri, 06 Nov 2026 13:10:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in…",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Sat, 07 Nov 2026 10:00:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Fri, 06 Nov 2026 18:44:38 +0000",
-      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
+      "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Fri, 06 Nov 2026 09:25:59 +0000",
-      "summary": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
+      "publishedAt": "Sat, 07 Nov 2026 05:01:17 +0000",
+      "summary": "苦单Session久矣，两大Agent玩家不谋而合。",
+      "score": 15
+    },
+    {
+      "section": "技术与研究",
+      "title": "AGENTS.MD，危险危险危险！！！",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Sat, 07 Nov 2026 03:43:55 +0000",
+      "summary": "全新的电脑病毒",
       "score": 15
     }
   ]
