@@ -1,42 +1,33 @@
 {
-  "date": "2026/11/8",
-  "count": 4,
+  "date": "2026/11/9",
+  "count": 3,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "company": "NVIDIA",
-      "source": "TechCrunch AI",
-      "publishedAt": "Sat, 07 Nov 2026 21:17:08 +0000",
-      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "score": 23
+      "title": "从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
+      "company": "腾讯",
+      "source": "InfoQ",
+      "publishedAt": "Mon, 09 Nov 2026 10:00:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 26
     },
     {
       "section": "技术与研究",
-      "title": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+      "title": "2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Sun, 08 Nov 2026 10:00:00 GMT",
+      "publishedAt": "Mon, 09 Nov 2026 10:25:36 GMT",
+      "summary": "点击查看原文>",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "Harness 已经很准了，为什么还需要一个 Agent Native Database",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Mon, 09 Nov 2026 10:44:00 GMT",
       "summary": "点击查看原文>",
       "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Sat, 07 Nov 2026 05:01:17 +0000",
-      "summary": "苦单Session久矣，两大Agent玩家不谋而合。",
-      "score": 15
-    },
-    {
-      "section": "技术与研究",
-      "title": "AGENTS.MD，危险危险危险！！！",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Sat, 07 Nov 2026 03:43:55 +0000",
-      "summary": "全新的电脑病毒",
-      "score": 15
     }
   ]
 }
