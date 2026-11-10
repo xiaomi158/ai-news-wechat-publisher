@@ -1,0 +1,236 @@
+{
+  "产品发布与更新": [
+    {
+      "title": "触觉也能 Token 化！蚂蚁灵波发布通用触觉模型，把“具身原生”推进到机器人指尖",
+      "url": "https://www.infoq.cn/article/W7VPoeNBPX4y2u72WAGM?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Tue, 10 Nov 2026 10:40:29 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "产品发布与更新",
+      "company": "",
+      "score": 25,
+      "breakdown": {
+        "substance": 7,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
+      "url": "https://www.qbitai.com/2026/11/508603.html",
+      "snippet": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。",
+      "source": "量子位",
+      "publishedAt": "Mon, 09 Nov 2026 05:09:23 +0000",
+      "region": "国内",
+      "summary": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。",
+      "category": "产品发布与更新",
+      "company": "",
+      "score": 22,
+      "breakdown": {
+        "substance": 7,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+      "url": "https://www.qbitai.com/2026/11/508694.html",
+      "snippet": "11月9日，千问办公发布2.0版本",
+      "source": "量子位",
+      "publishedAt": "Mon, 09 Nov 2026 08:34:03 +0000",
+      "region": "国内",
+      "summary": "11月9日，千问办公发布2.0版本",
+      "category": "产品发布与更新",
+      "company": "",
+      "score": 19,
+      "breakdown": {
+        "substance": 4,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    }
+  ],
+  "技术与研究": [
+    {
+      "title": "Anthropic 重做源代码管理系统：提交量增长 12 倍，传统架构开始失效",
+      "url": "https://www.infoq.cn/article/sBjhhysFKZibZpXQZEGy?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Tue, 10 Nov 2026 11:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "Anthropic",
+      "score": 29,
+      "breakdown": {
+        "substance": 6,
+        "importance": 5,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "The race is on to sue Nvidia",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "snippet": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Mon, 09 Nov 2026 22:23:42 +0000",
+      "region": "海外",
+      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+      "category": "技术与研究",
+      "company": "NVIDIA",
+      "score": 24,
+      "breakdown": {
+        "substance": 3,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "snippet": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Tue, 10 Nov 2026 01:27:12 +0000",
+      "region": "海外",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "category": "技术与研究",
+      "company": "Anthropic",
+      "score": 23,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "The backlash about data centers might really just be about electricity",
+      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where…",
+      "source": "MIT Technology Review",
+      "publishedAt": "Mon, 09 Nov 2026 19:35:33 +0000",
+      "region": "海外",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where…",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 10
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "snippet": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.  I spoke with Wiener on Friday, only a…",
+      "source": "MIT Technology Review",
+      "publishedAt": "Mon, 09 Nov 2026 17:05:43 +0000",
+      "region": "海外",
+      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.  I spoke with Wiener on Friday, only a…",
+      "category": "技术与研究",
+      "company": "",
+      "score": 18,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 8,
+        "credibility": 10
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "ADD 资产驱动开发：让 AI Coding 懂业务、守规范、稳架构、实现端到端交付｜AICon北京",
+      "url": "https://www.infoq.cn/article/rsMuS4cuc2ir68ulGgEs?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Tue, 10 Nov 2026 10:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "",
+      "score": 25,
+      "breakdown": {
+        "substance": 7,
+        "importance": 0,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "snippet": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Mon, 09 Nov 2026 22:46:09 +0000",
+      "region": "海外",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "category": "技术与研究",
+      "company": "NVIDIA",
+      "score": 21,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Innovating with AI in the special chemicals industry",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "snippet": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed…",
+      "source": "MIT Technology Review",
+      "publishedAt": "Mon, 09 Nov 2026 13:00:00 +0000",
+      "region": "海外",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed…",
+      "category": "技术与研究",
+      "company": "",
+      "score": 16,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 10
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "“AI毁了我的计算机学位”",
+      "url": "https://www.qbitai.com/2026/11/508706.html",
+      "snippet": "教授也用Claude糊弄…",
+      "source": "量子位",
+      "publishedAt": "Mon, 09 Nov 2026 08:57:20 +0000",
+      "region": "国内",
+      "summary": "教授也用Claude糊弄…",
+      "category": "技术与研究",
+      "company": "",
+      "score": 15,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    }
+  ],
+  "投融资与并购": [],
+  "政策与监管": []
+}

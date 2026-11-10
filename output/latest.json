@@ -1,33 +1,114 @@
 {
-  "date": "2026/11/9",
-  "count": 3,
+  "date": "2026/11/10",
+  "count": 12,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
-      "company": "腾讯",
+      "title": "Anthropic 重做源代码管理系统：提交量增长 12 倍，传统架构开始失效",
+      "company": "Anthropic",
       "source": "InfoQ",
-      "publishedAt": "Mon, 09 Nov 2026 10:00:00 GMT",
+      "publishedAt": "Tue, 10 Nov 2026 11:00:00 GMT",
       "summary": "点击查看原文>",
-      "score": 26
+      "score": 29
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "触觉也能 Token 化！蚂蚁灵波发布通用触觉模型，把“具身原生”推进到机器人指尖",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Tue, 10 Nov 2026 10:40:29 GMT",
+      "summary": "点击查看原文>",
+      "score": 25
     },
     {
       "section": "技术与研究",
-      "title": "2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个",
+      "title": "The race is on to sue Nvidia",
+      "company": "NVIDIA",
+      "source": "TechCrunch AI",
+      "publishedAt": "Mon, 09 Nov 2026 22:23:42 +0000",
+      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+      "score": 24
+    },
+    {
+      "section": "技术与研究",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "company": "Anthropic",
+      "source": "TechCrunch AI",
+      "publishedAt": "Tue, 10 Nov 2026 01:27:12 +0000",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "score": 23
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Mon, 09 Nov 2026 05:09:23 +0000",
+      "summary": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。",
+      "score": 22
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Mon, 09 Nov 2026 08:34:03 +0000",
+      "summary": "11月9日，千问办公发布2.0版本",
+      "score": 19
+    },
+    {
+      "section": "技术与研究",
+      "title": "The backlash about data centers might really just be about electricity",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Mon, 09 Nov 2026 19:35:33 +0000",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where…",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Mon, 09 Nov 2026 17:05:43 +0000",
+      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.  I spoke with Wiener on Friday, only a…",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "ADD 资产驱动开发：让 AI Coding 懂业务、守规范、稳架构、实现端到端交付｜AICon北京",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Mon, 09 Nov 2026 10:25:36 GMT",
+      "publishedAt": "Tue, 10 Nov 2026 10:00:00 GMT",
       "summary": "点击查看原文>",
+      "score": 25
+    },
+    {
+      "section": "技术与研究",
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "company": "NVIDIA",
+      "source": "TechCrunch AI",
+      "publishedAt": "Mon, 09 Nov 2026 22:46:09 +0000",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "Harness 已经很准了，为什么还需要一个 Agent Native Database",
+      "title": "Innovating with AI in the special chemicals industry",
       "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Mon, 09 Nov 2026 10:44:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 18
+      "source": "MIT Technology Review",
+      "publishedAt": "Mon, 09 Nov 2026 13:00:00 +0000",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed…",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "“AI毁了我的计算机学位”",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Mon, 09 Nov 2026 08:57:20 +0000",
+      "summary": "教授也用Claude糊弄…",
+      "score": 15
     }
   ]
 }
