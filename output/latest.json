@@ -1,96 +1,78 @@
 {
-  "date": "2026/11/11",
-  "count": 10,
+  "date": "2026/11/12",
+  "count": 8,
   "articles": [
     {
-      "section": "技术与研究",
-      "title": "Token卷到触觉了！机器人终于有了通用手感",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Tue, 10 Nov 2026 07:26:53 +0000",
-      "summary": "蚂蚁灵波开源LingBot-Touch",
-      "score": 27
-    },
-    {
       "section": "产品发布与更新",
-      "title": "Cloudflare 推出面向 AI 应用程序的 Web Search API",
-      "company": "",
+      "title": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+      "company": "Gemini",
       "source": "InfoQ",
-      "publishedAt": "Wed, 11 Nov 2026 11:06:00 GMT",
+      "publishedAt": "Thu, 12 Nov 2026 11:00:00 GMT",
       "summary": "点击查看原文>",
-      "score": 26
+      "score": 37
     },
     {
       "section": "技术与研究",
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "company": "OpenAI",
+      "title": "谷歌最强模型 Gemini 4 Carbon 全面开放：一夜重写 OpenCode 桌面应用、价格仅为 Fable 5.2 的 1/4",
+      "company": "Gemini",
+      "source": "InfoQ",
+      "publishedAt": "Wed, 11 Nov 2026 21:05:37 GMT",
+      "summary": "点击查看原文>",
+      "score": 25
+    },
+    {
+      "section": "技术与研究",
+      "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Wed, 11 Nov 2026 06:18:09 +0000",
+      "summary": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
+      "score": 23
+    },
+    {
+      "section": "技术与研究",
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "company": "",
       "source": "TechCrunch AI",
-      "publishedAt": "Tue, 10 Nov 2026 21:08:52 +0000",
-      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-      "score": 21
+      "publishedAt": "Thu, 12 Nov 2026 03:13:10 +0000",
+      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "score": 23
     },
     {
       "section": "技术与研究",
-      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "company": "NVIDIA",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 11 Nov 2026 23:28:45 +0000",
+      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "score": 23
+    },
+    {
+      "section": "技术与研究",
+      "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Wed, 11 Nov 2026 06:41:26 +0000",
+      "summary": "价格、门槛全打穿",
+      "score": 15
+    },
+    {
+      "section": "技术与研究",
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "company": "NVIDIA",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 11 Nov 2026 23:17:05 +0000",
+      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+      "score": 23
+    },
+    {
+      "section": "技术与研究",
+      "title": "Anthropic 一夜逼疯微软？Claude 杀入办公软件腹地：能自己参会、做表格、生成PPT",
       "company": "Anthropic",
-      "source": "TechCrunch AI",
-      "publishedAt": "Tue, 10 Nov 2026 19:57:52 +0000",
-      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "接大模型别再自己配 Key、搭代理了，火山引擎 IGA Pages 一步搞定",
-      "company": "",
       "source": "InfoQ",
-      "publishedAt": "Tue, 10 Nov 2026 18:58:56 GMT",
+      "publishedAt": "Wed, 11 Nov 2026 20:52:45 GMT",
       "summary": "点击查看原文>",
-      "score": 19
-    },
-    {
-      "section": "技术与研究",
-      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Tue, 10 Nov 2026 13:10:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a…",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Tue, 10 Nov 2026 07:56:29 +0000",
-      "summary": "让每一次任务，都成为下一次进步的起点",
-      "score": 15
-    },
-    {
-      "section": "技术与研究",
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "company": "OpenAI",
-      "source": "TechCrunch AI",
-      "publishedAt": "Tue, 10 Nov 2026 18:49:52 +0000",
-      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
       "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "给 AI 腾内存？Discord 抛弃Electron，省70%内存还秒开：Windows应用该跟进了",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Tue, 10 Nov 2026 16:04:53 GMT",
-      "summary": "点击查看原文>",
-      "score": 19
-    },
-    {
-      "section": "技术与研究",
-      "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Tue, 10 Nov 2026 07:33:19 +0000",
-      "summary": "加速东部城市型智算中心向E-AIDC演进",
-      "score": 15
     }
   ]
 }

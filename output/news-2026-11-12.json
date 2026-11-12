@@ -1,0 +1,160 @@
+{
+  "产品发布与更新": [
+    {
+      "title": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+      "url": "https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Thu, 12 Nov 2026 11:00:00 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "产品发布与更新",
+      "company": "Gemini",
+      "score": 37,
+      "breakdown": {
+        "substance": 13,
+        "importance": 6,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    }
+  ],
+  "技术与研究": [
+    {
+      "title": "谷歌最强模型 Gemini 4 Carbon 全面开放：一夜重写 OpenCode 桌面应用、价格仅为 Fable 5.2 的 1/4",
+      "url": "https://www.infoq.cn/article/YiANe38yfSYitvZOtab0?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Wed, 11 Nov 2026 21:05:37 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "Gemini",
+      "score": 25,
+      "breakdown": {
+        "substance": 3,
+        "importance": 6,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+      "url": "https://www.qbitai.com/2026/11/509085.html",
+      "snippet": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
+      "source": "量子位",
+      "publishedAt": "Wed, 11 Nov 2026 06:18:09 +0000",
+      "region": "国内",
+      "summary": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
+      "category": "技术与研究",
+      "company": "",
+      "score": 23,
+      "breakdown": {
+        "substance": 3,
+        "importance": 5,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "snippet": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 12 Nov 2026 03:13:10 +0000",
+      "region": "海外",
+      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "category": "技术与研究",
+      "company": "",
+      "score": 23,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "snippet": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 11 Nov 2026 23:28:45 +0000",
+      "region": "海外",
+      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "category": "技术与研究",
+      "company": "NVIDIA",
+      "score": 23,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
+      "url": "https://www.qbitai.com/2026/11/509146.html",
+      "snippet": "价格、门槛全打穿",
+      "source": "量子位",
+      "publishedAt": "Wed, 11 Nov 2026 06:41:26 +0000",
+      "region": "国内",
+      "summary": "价格、门槛全打穿",
+      "category": "技术与研究",
+      "company": "",
+      "score": 15,
+      "breakdown": {
+        "substance": 0,
+        "importance": 0,
+        "timeliness": 6,
+        "credibility": 9
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "snippet": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 11 Nov 2026 23:17:05 +0000",
+      "region": "海外",
+      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+      "category": "技术与研究",
+      "company": "NVIDIA",
+      "score": 23,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 10,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    },
+    {
+      "title": "Anthropic 一夜逼疯微软？Claude 杀入办公软件腹地：能自己参会、做表格、生成PPT",
+      "url": "https://www.infoq.cn/article/1PdshF8SLevbGZbbZHoP?utm_source=rss&utm_medium=article",
+      "snippet": "点击查看原文>",
+      "source": "InfoQ",
+      "publishedAt": "Wed, 11 Nov 2026 20:52:45 GMT",
+      "region": "国内",
+      "summary": "点击查看原文>",
+      "category": "技术与研究",
+      "company": "Anthropic",
+      "score": 21,
+      "breakdown": {
+        "substance": 0,
+        "importance": 5,
+        "timeliness": 8,
+        "credibility": 8
+      },
+      "isDuplicate": false
+    }
+  ],
+  "投融资与并购": [],
+  "政策与监管": []
+}
