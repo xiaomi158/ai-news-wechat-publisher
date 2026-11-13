@@ -1,78 +1,96 @@
 {
-  "date": "2026/11/12",
-  "count": 8,
+  "date": "2026/11/13",
+  "count": 10,
   "articles": [
     {
+      "section": "技术与研究",
+      "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
+      "company": "MiniMax",
+      "source": "量子位",
+      "publishedAt": "Thu, 12 Nov 2026 11:36:20 +0000",
+      "summary": "「CAD拆解」",
+      "score": 30
+    },
+    {
       "section": "产品发布与更新",
-      "title": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
-      "company": "Gemini",
+      "title": "谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+      "company": "",
       "source": "InfoQ",
-      "publishedAt": "Thu, 12 Nov 2026 11:00:00 GMT",
+      "publishedAt": "Fri, 13 Nov 2026 09:17:00 GMT",
       "summary": "点击查看原文>",
-      "score": 37
+      "score": 29
     },
     {
       "section": "技术与研究",
-      "title": "谷歌最强模型 Gemini 4 Carbon 全面开放：一夜重写 OpenCode 桌面应用、价格仅为 Fable 5.2 的 1/4",
-      "company": "Gemini",
-      "source": "InfoQ",
-      "publishedAt": "Wed, 11 Nov 2026 21:05:37 GMT",
-      "summary": "点击查看原文>",
-      "score": 25
-    },
-    {
-      "section": "技术与研究",
-      "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Wed, 11 Nov 2026 06:18:09 +0000",
-      "summary": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-      "company": "",
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "company": "Google",
       "source": "TechCrunch AI",
-      "publishedAt": "Thu, 12 Nov 2026 03:13:10 +0000",
-      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
-      "score": 23
+      "publishedAt": "Thu, 12 Nov 2026 19:27:45 +0000",
+      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+      "score": 27
     },
     {
       "section": "技术与研究",
-      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "company": "NVIDIA",
-      "source": "TechCrunch AI",
-      "publishedAt": "Wed, 11 Nov 2026 23:28:45 +0000",
-      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Wed, 11 Nov 2026 06:41:26 +0000",
-      "summary": "价格、门槛全打穿",
-      "score": 15
-    },
-    {
-      "section": "技术与研究",
-      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-      "company": "NVIDIA",
-      "source": "TechCrunch AI",
-      "publishedAt": "Wed, 11 Nov 2026 23:17:05 +0000",
-      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "Anthropic 一夜逼疯微软？Claude 杀入办公软件腹地：能自己参会、做表格、生成PPT",
+      "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
       "company": "Anthropic",
+      "source": "量子位",
+      "publishedAt": "Thu, 12 Nov 2026 10:11:29 +0000",
+      "summary": "全世界都在踩刹车，达里奥一个人踩油门",
+      "score": 23
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "company": "NVIDIA",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 12 Nov 2026 22:42:51 +0000",
+      "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+      "score": 23
+    },
+    {
+      "section": "技术与研究",
+      "title": "Docker 呼吁通过隔离与治理保障智能体安全",
+      "company": "",
       "source": "InfoQ",
-      "publishedAt": "Wed, 11 Nov 2026 20:52:45 GMT",
+      "publishedAt": "Fri, 13 Nov 2026 11:00:00 GMT",
       "summary": "点击查看原文>",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "The Download: COP31’s climate challenge and the quest for immortality",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Thu, 12 Nov 2026 13:10:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN climate talks. But this year’s negotiations…",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "company": "",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 12 Nov 2026 21:27:10 +0000",
+      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
       "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Thu, 12 Nov 2026 10:45:33 +0000",
+      "summary": "银河智学首席科学家邓澍军博士发表主题演讲",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 13 Nov 2026 10:00:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 18
     }
   ]
 }
