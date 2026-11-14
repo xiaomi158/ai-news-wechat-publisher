@@ -1,96 +1,96 @@
 {
-  "date": "2026/11/13",
+  "date": "2026/11/14",
   "count": 10,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
-      "company": "MiniMax",
-      "source": "量子位",
-      "publishedAt": "Thu, 12 Nov 2026 11:36:20 +0000",
-      "summary": "「CAD拆解」",
-      "score": 30
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+      "title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
       "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Fri, 13 Nov 2026 09:17:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 29
-    },
-    {
-      "section": "技术与研究",
-      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-      "company": "Google",
-      "source": "TechCrunch AI",
-      "publishedAt": "Thu, 12 Nov 2026 19:27:45 +0000",
-      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+      "source": "量子位",
+      "publishedAt": "Fri, 13 Nov 2026 07:06:32 +0000",
+      "summary": "数据不出域、本地可部署",
       "score": 27
     },
     {
       "section": "技术与研究",
-      "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
-      "company": "Anthropic",
-      "source": "量子位",
-      "publishedAt": "Thu, 12 Nov 2026 10:11:29 +0000",
-      "summary": "全世界都在踩刹车，达里奥一个人踩油门",
-      "score": 23
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-      "company": "NVIDIA",
-      "source": "TechCrunch AI",
-      "publishedAt": "Thu, 12 Nov 2026 22:42:51 +0000",
-      "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "Docker 呼吁通过隔离与治理保障智能体安全",
+      "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Fri, 13 Nov 2026 11:00:00 GMT",
+      "publishedAt": "Sat, 14 Nov 2026 10:00:00 GMT",
       "summary": "点击查看原文>",
-      "score": 18
+      "score": 27
     },
     {
       "section": "技术与研究",
-      "title": "The Download: COP31’s climate challenge and the quest for immortality",
+      "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
       "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Thu, 12 Nov 2026 13:10:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN climate talks. But this year’s negotiations…",
-      "score": 16
+      "source": "量子位",
+      "publishedAt": "Fri, 13 Nov 2026 07:43:03 +0000",
+      "summary": "250名国内顶尖三甲医院医生联合评测",
+      "score": 24
     },
     {
       "section": "技术与研究",
-      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "title": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
       "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Thu, 12 Nov 2026 21:27:10 +0000",
-      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+      "source": "InfoQ",
+      "publishedAt": "Sat, 14 Nov 2026 10:00:00 GMT",
+      "summary": "点击查看原文>",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
       "company": "",
-      "source": "量子位",
-      "publishedAt": "Thu, 12 Nov 2026 10:45:33 +0000",
-      "summary": "银河智学首席科学家邓澍军博士发表主题演讲",
-      "score": 18
+      "source": "MIT Technology Review",
+      "publishedAt": "Fri, 13 Nov 2026 10:00:00 +0000",
+      "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investors before its public offering that it was unconcerned…",
+      "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "company": "ChatGPT",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 13 Nov 2026 16:00:12 +0000",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Fri, 13 Nov 2026 10:00:00 +0000",
+      "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be recognized for their…",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "company": "",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 13 Nov 2026 14:44:48 +0000",
+      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+      "score": 14
+    },
+    {
+      "section": "技术与研究",
+      "title": "中国机器人学会隔墙“递眼色”！成功率从0飙到100%，组队干活不烧心",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Fri, 13 Nov 2026 06:29:23 +0000",
+      "summary": "信息少传80%，准确率反而提高",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "从快速部署到记忆共享，数据库如何支撑 Agent 应用？",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Fri, 13 Nov 2026 10:00:00 GMT",
+      "publishedAt": "Fri, 13 Nov 2026 20:54:12 GMT",
       "summary": "点击查看原文>",
-      "score": 18
+      "score": 16
     }
   ]
 }
