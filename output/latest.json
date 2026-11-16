@@ -1,60 +1,51 @@
 {
-  "date": "2026/11/15",
-  "count": 6,
+  "date": "2026/11/16",
+  "count": 5,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
       "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Sun, 15 Nov 2026 10:00:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 24
-    },
-    {
-      "section": "技术与研究",
-      "title": "Where was Nvidia’s security team?",
-      "company": "NVIDIA",
       "source": "TechCrunch AI",
-      "publishedAt": "Sun, 15 Nov 2026 00:08:07 +0000",
-      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+      "publishedAt": "Sun, 15 Nov 2026 21:56:35 +0000",
+      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
       "score": 23
     },
     {
       "section": "技术与研究",
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "company": "NVIDIA",
-      "source": "TechCrunch AI",
-      "publishedAt": "Sat, 14 Nov 2026 21:41:22 +0000",
-      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-      "score": 23
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
+      "title": "AI 硬件能玩出多少新花样？这场黑客松正在寻找 20 支开发者团队",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Sun, 15 Nov 2026 09:00:00 GMT",
+      "publishedAt": "Mon, 16 Nov 2026 10:28:58 GMT",
       "summary": "点击查看原文>",
-      "score": 19
+      "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+      "title": "Super Agent 进群：今年11.11，多了个会主动干活的“数字人队长”",
       "company": "",
-      "source": "量子位",
-      "publishedAt": "Sat, 14 Nov 2026 10:08:08 +0000",
-      "summary": "马斯克也签名了",
-      "score": 15
+      "source": "InfoQ",
+      "publishedAt": "Mon, 16 Nov 2026 08:00:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
       "company": "",
       "source": "TechCrunch AI",
-      "publishedAt": "Sat, 14 Nov 2026 17:30:00 +0000",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "score": 21
+      "publishedAt": "Sun, 15 Nov 2026 23:30:00 +0000",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "Yelp AI 助手融合原生 UI 与服务端驱动 UI",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Sun, 15 Nov 2026 15:00:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 14
     }
   ]
 }
