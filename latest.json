@@ -1,51 +1,96 @@
 {
-  "date": "2026/11/16",
-  "count": 5,
+  "date": "2026/11/17",
+  "count": 10,
   "articles": [
     {
+      "section": "产品发布与更新",
+      "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+      "company": "阿里",
+      "source": "量子位",
+      "publishedAt": "Mon, 16 Nov 2026 07:51:57 +0000",
+      "summary": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
+      "score": 27
+    },
+    {
       "section": "技术与研究",
-      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "company": "",
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "company": "NVIDIA",
       "source": "TechCrunch AI",
-      "publishedAt": "Sun, 15 Nov 2026 21:56:35 +0000",
-      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-      "score": 23
+      "publishedAt": "Mon, 16 Nov 2026 22:03:02 +0000",
+      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+      "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "AI 硬件能玩出多少新花样？这场黑客松正在寻找 20 支开发者团队",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Mon, 16 Nov 2026 10:28:58 GMT",
-      "summary": "点击查看原文>",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "Super Agent 进群：今年11.11，多了个会主动干活的“数字人队长”",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Mon, 16 Nov 2026 08:00:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "company": "",
+      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+      "company": "NVIDIA",
       "source": "TechCrunch AI",
-      "publishedAt": "Sun, 15 Nov 2026 23:30:00 +0000",
-      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "publishedAt": "Mon, 16 Nov 2026 18:11:10 +0000",
+      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "Spring 近期资讯：Boot、Framework、Data、Security、Modulith 和 AI 的首个候选版本",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Tue, 17 Nov 2026 12:42:35 GMT",
+      "summary": "点击查看原文>",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "Yelp AI 助手融合原生 UI 与服务端驱动 UI",
+      "title": "openEuler 进军 Agentic Infra！主席熊伟：不讲大故事，先解决真问题",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Sun, 15 Nov 2026 15:00:00 GMT",
+      "publishedAt": "Tue, 17 Nov 2026 10:41:20 GMT",
       "summary": "点击查看原文>",
-      "score": 14
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "The Download: testing tech promises and searching for cognitive immortality",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Mon, 16 Nov 2026 13:10:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Technology Review, our series “Are…",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Mon, 16 Nov 2026 10:57:31 +0000",
+      "summary": "具身智能的真正价值是“把人的经验、技能复刻出来”",
+      "score": 15
+    },
+    {
+      "section": "产品发布与更新",
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "company": "OpenAI",
+      "source": "TechCrunch AI",
+      "publishedAt": "Mon, 16 Nov 2026 17:00:00 +0000",
+      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+      "score": 19
+    },
+    {
+      "section": "技术与研究",
+      "title": "从 SDLC 到 ADLC：宝洁的 AI 原生组织实验",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Tue, 17 Nov 2026 10:15:13 GMT",
+      "summary": "点击查看原文>",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Mon, 16 Nov 2026 08:45:17 +0000",
+      "summary": "12月1日，细数AI的未竟之问。",
+      "score": 15
     }
   ]
 }
