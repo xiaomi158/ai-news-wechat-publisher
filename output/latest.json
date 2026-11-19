@@ -1,105 +1,105 @@
 {
-  "date": "2026/11/18",
+  "date": "2026/11/19",
   "count": 11,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "“AI生成的代码必须开源！”开发者吵翻了，被开源代码喂大的Anthropic怕是第一个不同意",
+      "title": "从业者正在对 Anthropic “没人需要 Claude Code 心理模型”的说法进行验证",
       "company": "Anthropic",
       "source": "InfoQ",
-      "publishedAt": "Tue, 17 Nov 2026 15:09:45 GMT",
+      "publishedAt": "Thu, 19 Nov 2026 12:00:00 GMT",
       "summary": "点击查看原文>",
-      "score": 34
+      "score": 26
     },
     {
-      "section": "技术与研究",
-      "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Tue, 17 Nov 2026 06:09:40 +0000",
-      "summary": "筛材料、找配方、开发新模型…拿下多项科研任务",
-      "score": 30
-    },
-    {
-      "section": "技术与研究",
-      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-      "company": "Google",
-      "source": "TechCrunch AI",
-      "publishedAt": "Tue, 17 Nov 2026 22:29:05 +0000",
-      "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
-      "score": 30
-    },
-    {
-      "section": "技术与研究",
-      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-      "company": "Google",
-      "source": "TechCrunch AI",
-      "publishedAt": "Tue, 17 Nov 2026 19:02:20 +0000",
-      "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
-      "score": 27
-    },
-    {
-      "section": "技术与研究",
-      "title": "GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？",
+      "section": "产品发布与更新",
+      "title": "Bug0 发布 QA Agent，利用缓存的 Playwright 回放实现回归测试自动化",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "publishedAt": "Thu, 19 Nov 2026 11:00:00 GMT",
       "summary": "点击查看原文>",
+      "score": 26
+    },
+    {
+      "section": "技术与研究",
+      "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+      "company": "Gemini",
+      "source": "量子位",
+      "publishedAt": "Wed, 18 Nov 2026 09:41:55 +0000",
+      "summary": "氖人寻味！",
       "score": 24
     },
     {
       "section": "技术与研究",
-      "title": "Hydropower hit record lows in the US Southwest this summer",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Tue, 17 Nov 2026 17:52:10 +0000",
-      "summary": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating reservoirs. The water can be released through turbines, generating electricity on demand. But an…",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+      "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Wed, 18 Nov 2026 02:49:23 +0000",
-      "summary": "小红书校招沙龙，一群技术高手认真对待年轻人的野心",
-      "score": 19
-    },
-    {
-      "section": "技术与研究",
-      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Tue, 17 Nov 2026 18:46:47 +0000",
-      "summary": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado explore possible paths to keep your mind going, including gradual brain…",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
-      "company": "NVIDIA",
-      "source": "TechCrunch AI",
-      "publishedAt": "Wed, 18 Nov 2026 01:44:21 +0000",
-      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+      "publishedAt": "Thu, 19 Nov 2026 00:26:40 +0000",
+      "summary": "国产AI工具实现「一个人就是一个剧组」",
       "score": 23
     },
     {
       "section": "技术与研究",
-      "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Wed, 18 Nov 2026 01:03:42 +0000",
-      "summary": "英伟达公布了老黄离职后的首份财报",
-      "score": 19
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "company": "Microsoft",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 19 Nov 2026 00:42:56 +0000",
+      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+      "score": 23
     },
     {
       "section": "技术与研究",
-      "title": "面向多智能体应用的大模型推理调度与缓存优化｜AICon北京",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "company": "",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 18 Nov 2026 22:58:11 +0000",
+      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "score": 23
+    },
+    {
+      "section": "技术与研究",
+      "title": "The AI Hype Index: AI is everywhere",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Wed, 18 Nov 2026 14:42:44 +0000",
+      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and…",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Wed, 18 Nov 2026 10:20:30 +0000",
+      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation…",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+      "company": "NVIDIA",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 18 Nov 2026 21:57:40 +0000",
+      "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "GPT-6.2难产！OpenAI怕了",
+      "company": "OpenAI",
+      "source": "量子位",
+      "publishedAt": "Wed, 18 Nov 2026 07:53:29 +0000",
+      "summary": "OpenAI也终于活成了2022年谷歌的样子",
+      "score": 20
+    },
+    {
+      "section": "技术与研究",
+      "title": "从 AI 试点到规模化生产：Snowflake 驻场前沿工程师如何助力企业实现 AI 落地 ｜ 技术趋势",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Tue, 17 Nov 2026 18:53:07 GMT",
+      "publishedAt": "Wed, 18 Nov 2026 18:44:20 GMT",
       "summary": "点击查看原文>",
-      "score": 19
+      "score": 20
     }
   ]
 }
