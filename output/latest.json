@@ -1,105 +1,87 @@
 {
-  "date": "2026/11/19",
-  "count": 11,
+  "date": "2026/11/21",
+  "count": 9,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "从业者正在对 Anthropic “没人需要 Claude Code 心理模型”的说法进行验证",
-      "company": "Anthropic",
-      "source": "InfoQ",
-      "publishedAt": "Thu, 19 Nov 2026 12:00:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 26
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "Bug0 发布 QA Agent，利用缓存的 Playwright 回放实现回归测试自动化",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Thu, 19 Nov 2026 11:00:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 26
-    },
-    {
-      "section": "技术与研究",
-      "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
-      "company": "Gemini",
-      "source": "量子位",
-      "publishedAt": "Wed, 18 Nov 2026 09:41:55 +0000",
-      "summary": "氖人寻味！",
-      "score": 24
-    },
-    {
-      "section": "技术与研究",
-      "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+      "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Thu, 19 Nov 2026 00:26:40 +0000",
-      "summary": "国产AI工具实现「一个人就是一个剧组」",
-      "score": 23
+      "publishedAt": "Fri, 20 Nov 2026 05:24:11 +0000",
+      "summary": "已开源Agnes Harness",
+      "score": 30
     },
     {
       "section": "技术与研究",
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "company": "Microsoft",
-      "source": "TechCrunch AI",
-      "publishedAt": "Thu, 19 Nov 2026 00:42:56 +0000",
-      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "title": "智能体 AI 架构：当前挑战与未来机遇",
       "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Wed, 18 Nov 2026 22:58:11 +0000",
-      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "The AI Hype Index: AI is everywhere",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Wed, 18 Nov 2026 14:42:44 +0000",
-      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and…",
+      "source": "InfoQ",
+      "publishedAt": "Sat, 21 Nov 2026 11:00:00 GMT",
+      "summary": "点击查看原文>",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "This smell startup says its AI nose is as good as a human’s",
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "company": "NVIDIA",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 20 Nov 2026 14:55:44 +0000",
+      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]",
+      "score": 19
+    },
+    {
+      "section": "技术与研究",
+      "title": "TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Sat, 21 Nov 2026 10:00:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "The most misunderstood graph in AI just got a major update",
       "company": "",
       "source": "MIT Technology Review",
-      "publishedAt": "Wed, 18 Nov 2026 10:20:30 +0000",
-      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation…",
+      "publishedAt": "Fri, 20 Nov 2026 18:15:15 +0000",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s time horizon plot, which was widely…",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "company": "",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 20 Nov 2026 19:53:41 +0000",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
       "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-      "company": "NVIDIA",
-      "source": "TechCrunch AI",
-      "publishedAt": "Wed, 18 Nov 2026 21:57:40 +0000",
-      "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
-      "score": 21
+      "title": "The Download: inside the quest to make our minds immortal",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Fri, 20 Nov 2026 13:10:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brains going—even beyond…",
+      "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "GPT-6.2难产！OpenAI怕了",
-      "company": "OpenAI",
-      "source": "量子位",
-      "publishedAt": "Wed, 18 Nov 2026 07:53:29 +0000",
-      "summary": "OpenAI也终于活成了2022年谷歌的样子",
-      "score": 20
-    },
-    {
-      "section": "技术与研究",
-      "title": "从 AI 试点到规模化生产：Snowflake 驻场前沿工程师如何助力企业实现 AI 落地 ｜ 技术趋势",
+      "title": "Entire Git Forge：面向编码智能体重构 Git 协作方式",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Wed, 18 Nov 2026 18:44:20 GMT",
+      "publishedAt": "Sat, 21 Nov 2026 10:00:00 GMT",
       "summary": "点击查看原文>",
-      "score": 20
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "company": "",
+      "source": "TechCrunch AI",
+      "publishedAt": "Fri, 20 Nov 2026 19:32:08 +0000",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "score": 16
     }
   ]
 }
