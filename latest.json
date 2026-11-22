@@ -1,86 +1,77 @@
 {
-  "date": "2026/11/21",
-  "count": 9,
+  "date": "2026/11/22",
+  "count": 8,
   "articles": [
     {
-      "section": "技术与研究",
-      "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
+      "section": "产品发布与更新",
+      "title": "亚马逊云科技推出 TorchNeuron，可以直接在 AWS Trainium 上运行 PyTorch 模型，无需任何修改",
       "company": "",
-      "source": "量子位",
-      "publishedAt": "Fri, 20 Nov 2026 05:24:11 +0000",
-      "summary": "已开源Agnes Harness",
-      "score": 30
+      "source": "InfoQ",
+      "publishedAt": "Sun, 22 Nov 2026 10:00:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 29
     },
     {
       "section": "技术与研究",
-      "title": "智能体 AI 架构：当前挑战与未来机遇",
+      "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
       "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Sat, 21 Nov 2026 11:00:00 GMT",
-      "summary": "点击查看原文>",
+      "source": "量子位",
+      "publishedAt": "Sat, 21 Nov 2026 06:32:31 +0000",
+      "summary": "专为本地部署而生",
+      "score": 27
+    },
+    {
+      "section": "技术与研究",
+      "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Sat, 21 Nov 2026 06:35:59 +0000",
+      "summary": "还实现可变形物体操控全球首通",
+      "score": 22
+    },
+    {
+      "section": "技术与研究",
+      "title": "A tale of two Nvidias",
+      "company": "NVIDIA",
+      "source": "TechCrunch AI",
+      "publishedAt": "Sat, 21 Nov 2026 21:07:42 +0000",
+      "summary": "We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-      "company": "NVIDIA",
-      "source": "TechCrunch AI",
-      "publishedAt": "Fri, 20 Nov 2026 14:55:44 +0000",
-      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]",
-      "score": 19
-    },
-    {
-      "section": "技术与研究",
-      "title": "TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+      "title": "智能体身份国际标准化：体系布局与研制实践｜AICon北京",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Sat, 21 Nov 2026 10:00:00 GMT",
+      "publishedAt": "Sun, 22 Nov 2026 10:00:00 GMT",
       "summary": "点击查看原文>",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "The most misunderstood graph in AI just got a major update",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Fri, 20 Nov 2026 18:15:15 +0000",
-      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s time horizon plot, which was widely…",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
       "company": "",
       "source": "TechCrunch AI",
-      "publishedAt": "Fri, 20 Nov 2026 19:53:41 +0000",
-      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "publishedAt": "Sat, 21 Nov 2026 21:37:10 +0000",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
       "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "The Download: inside the quest to make our minds immortal",
+      "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
       "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Fri, 20 Nov 2026 13:10:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brains going—even beyond…",
-      "score": 16
+      "source": "量子位",
+      "publishedAt": "Sat, 21 Nov 2026 06:30:55 +0000",
+      "summary": "还透露了不少训练背后的秘诀",
+      "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "Entire Git Forge：面向编码智能体重构 Git 协作方式",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Sat, 21 Nov 2026 10:00:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
       "company": "",
       "source": "TechCrunch AI",
-      "publishedAt": "Fri, 20 Nov 2026 19:32:08 +0000",
-      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "publishedAt": "Sat, 21 Nov 2026 16:00:00 +0000",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
       "score": 16
     }
   ]
