@@ -1,49 +1,103 @@
 {
-  "date": "2026/11/23",
-  "count": 5,
+  "date": "2026/11/24",
+  "count": 11,
   "articles": [
     {
-      "section": "技术与研究",
-      "title": "Anthropic 创纪录 IPO 未能扭转 AI 市场悲观情绪，Claude 上市当天突发性能降级！靠失业焦虑撑起的万亿估值，该踩刹车了",
-      "company": "Anthropic",
-      "source": "InfoQ",
-      "publishedAt": "Mon, 23 Nov 2026 09:20:56 GMT",
-      "summary": "点击查看原文>",
-      "score": 23
-    },
-    {
-      "section": "技术与研究",
-      "title": "「AI 圈有局」第 01 期｜5 场活动、12 个社区找到你的同路人",
+      "section": "产品发布与更新",
+      "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
       "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Mon, 23 Nov 2026 11:42:34 GMT",
-      "summary": "点击查看原文>",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "company": "OpenAI",
-      "source": "TechCrunch AI",
-      "publishedAt": "Sun, 22 Nov 2026 21:14:07 +0000",
-      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
-      "company": "Claude",
       "source": "量子位",
-      "publishedAt": "Sun, 22 Nov 2026 06:03:54 +0000",
-      "summary": "暂无摘要",
-      "score": 15
+      "publishedAt": "Tue, 24 Nov 2026 03:30:46 +0000",
+      "summary": "中国AI数据平台加速崛起",
+      "score": 35
     },
     {
       "section": "技术与研究",
-      "title": "广告风控为何越审越强？轻量基座与审核 Agent 的协同进化实践｜AICon北京",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "company": "Google",
+      "source": "TechCrunch AI",
+      "publishedAt": "Mon, 23 Nov 2026 19:14:46 +0000",
+      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+      "score": 30
+    },
+    {
+      "section": "技术与研究",
+      "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Mon, 23 Nov 2026 11:01:15 +0000",
+      "summary": "零Token成本，断网也能自由Vibe Coding",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "Pinterest 让大模型取代多阶段聚类，但最大的提速来自“少推理”",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Mon, 23 Nov 2026 11:31:44 GMT",
+      "publishedAt": "Tue, 24 Nov 2026 11:00:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "company": "NVIDIA",
+      "source": "TechCrunch AI",
+      "publishedAt": "Mon, 23 Nov 2026 21:47:41 +0000",
+      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Mon, 23 Nov 2026 11:00:00 +0000",
+      "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A number of influential models…",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "当 AI 改变一切，下一步如何构建？",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Tue, 24 Nov 2026 14:12:36 GMT",
+      "summary": "点击查看原文>",
+      "score": 18
+    },
+    {
+      "section": "技术与研究",
+      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Mon, 23 Nov 2026 13:10:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but models aren’t as good…",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "company": "NVIDIA",
+      "source": "TechCrunch AI",
+      "publishedAt": "Mon, 23 Nov 2026 20:38:53 +0000",
+      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Tue, 24 Nov 2026 03:33:48 +0000",
+      "summary": "12.9 北京，来MEET2027现场",
+      "score": 19
+    },
+    {
+      "section": "技术与研究",
+      "title": "谷歌发现，技术债务会通过“智能体分心”导致编码智能体偏离正轨",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Tue, 24 Nov 2026 13:00:00 GMT",
       "summary": "点击查看原文>",
       "score": 18
     }
