@@ -1,105 +1,105 @@
 {
-  "date": "2026/11/24",
+  "date": "2026/11/25",
   "count": 11,
   "articles": [
     {
-      "section": "产品发布与更新",
-      "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Tue, 24 Nov 2026 03:30:46 +0000",
-      "summary": "中国AI数据平台加速崛起",
-      "score": 35
-    },
-    {
       "section": "技术与研究",
-      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-      "company": "Google",
-      "source": "TechCrunch AI",
-      "publishedAt": "Mon, 23 Nov 2026 19:14:46 +0000",
-      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+      "title": "谷歌开源环境质量智能体 AQuA，用于诊断生产环境 AI 智能体故障",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Wed, 25 Nov 2026 13:00:00 GMT",
+      "summary": "点击查看原文>",
       "score": 30
     },
     {
       "section": "技术与研究",
-      "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
+      "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Mon, 23 Nov 2026 11:01:15 +0000",
-      "summary": "零Token成本，断网也能自由Vibe Coding",
-      "score": 21
+      "publishedAt": "Tue, 24 Nov 2026 06:22:28 +0000",
+      "summary": "暂无摘要",
+      "score": 27
     },
     {
       "section": "技术与研究",
-      "title": "Pinterest 让大模型取代多阶段聚类，但最大的提速来自“少推理”",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Tue, 24 Nov 2026 11:00:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
       "company": "NVIDIA",
       "source": "TechCrunch AI",
-      "publishedAt": "Mon, 23 Nov 2026 21:47:41 +0000",
-      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
-      "score": 21
+      "publishedAt": "Wed, 25 Nov 2026 00:12:02 +0000",
+      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
+      "score": 23
     },
     {
       "section": "技术与研究",
-      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Mon, 23 Nov 2026 11:00:00 +0000",
-      "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A number of influential models…",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "当 AI 改变一切，下一步如何构建？",
-      "company": "",
+      "title": "GLM-5.4 编程能力暴涨、3D惊艳，但推理变久了？智谱押注双路线：首发Loop架构，下一代继续 Scaling",
+      "company": "智谱",
       "source": "InfoQ",
-      "publishedAt": "Tue, 24 Nov 2026 14:12:36 GMT",
+      "publishedAt": "Wed, 25 Nov 2026 13:27:15 GMT",
       "summary": "点击查看原文>",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "company": "Anthropic",
+      "source": "TechCrunch AI",
+      "publishedAt": "Tue, 24 Nov 2026 18:30:42 +0000",
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Tue, 24 Nov 2026 06:35:06 +0000",
+      "summary": "端侧老炮辛米尔，打通物理AI规模化落地之路",
       "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "title": "The Download: AI’s gas power boom and a consciousness reality check",
       "company": "",
       "source": "MIT Technology Review",
-      "publishedAt": "Mon, 23 Nov 2026 13:10:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but models aren’t as good…",
+      "publishedAt": "Tue, 24 Nov 2026 13:10:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to the grid, a wait that…",
       "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-      "company": "NVIDIA",
-      "source": "TechCrunch AI",
-      "publishedAt": "Mon, 23 Nov 2026 20:38:53 +0000",
-      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+      "title": "Data centers are getting their own natural gas power plants",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Tue, 24 Nov 2026 11:00:00 +0000",
+      "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI boom.   xAI’s…",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "company": "",
+      "source": "Ars Technica",
+      "publishedAt": "Tue, 24 Nov 2026 17:34:34 +0000",
+      "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
+      "score": 11
+    },
+    {
+      "section": "技术与研究",
+      "title": "Octop 托管 CodeBuddy 实战：打造 7×24 小时在线的 AI 程序员",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Wed, 25 Nov 2026 10:30:02 GMT",
+      "summary": "点击查看原文>",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
+      "title": "Even the best AI agents struggle with everyday life",
       "company": "",
-      "source": "量子位",
-      "publishedAt": "Tue, 24 Nov 2026 03:33:48 +0000",
-      "summary": "12.9 北京，来MEET2027现场",
-      "score": 19
-    },
-    {
-      "section": "技术与研究",
-      "title": "谷歌发现，技术债务会通过“智能体分心”导致编码智能体偏离正轨",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Tue, 24 Nov 2026 13:00:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 18
+      "source": "TechCrunch AI",
+      "publishedAt": "Tue, 24 Nov 2026 21:33:29 +0000",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "score": 16
     }
   ]
 }
