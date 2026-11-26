@@ -1,105 +1,105 @@
 {
-  "date": "2026/11/25",
+  "date": "2026/11/26",
   "count": 11,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "谷歌开源环境质量智能体 AQuA，用于诊断生产环境 AI 智能体故障",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Wed, 25 Nov 2026 13:00:00 GMT",
-      "summary": "点击查看原文>",
-      "score": 30
-    },
-    {
-      "section": "技术与研究",
-      "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+      "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Tue, 24 Nov 2026 06:22:28 +0000",
-      "summary": "暂无摘要",
-      "score": 27
+      "publishedAt": "Wed, 25 Nov 2026 14:32:57 +0000",
+      "summary": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA",
+      "score": 26
     },
     {
       "section": "技术与研究",
-      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Thu, 26 Nov 2026 03:23:35 +0000",
+      "summary": "李斌坦言：不做AI变革可能活不下去",
+      "score": 25
+    },
+    {
+      "section": "技术与研究",
+      "title": "AI写代码，谁来交付？",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Thu, 26 Nov 2026 11:28:47 GMT",
+      "summary": "点击查看原文>",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "前苹果空间智能首席科学家权龙再创业，成立 Envision AI 研发空间物理基础模型",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Thu, 26 Nov 2026 11:00:08 GMT",
+      "summary": "点击查看原文>",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
       "company": "NVIDIA",
       "source": "TechCrunch AI",
-      "publishedAt": "Wed, 25 Nov 2026 00:12:02 +0000",
-      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
-      "score": 23
+      "publishedAt": "Wed, 25 Nov 2026 22:44:32 +0000",
+      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "GLM-5.4 编程能力暴涨、3D惊艳，但推理变久了？智谱押注双路线：首发Loop架构，下一代继续 Scaling",
-      "company": "智谱",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "company": "OpenAI",
+      "source": "TechCrunch AI",
+      "publishedAt": "Wed, 25 Nov 2026 20:03:27 +0000",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "score": 21
+    },
+    {
+      "section": "技术与研究",
+      "title": "The Download: AI swamping open records, and firefighting for permafrost",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Wed, 25 Nov 2026 13:10:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors’ interest in public records. Over the last few years, venture-backed startups have raised upwards of $100 million to collect data…",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "AI is straining America’s open records systems",
+      "company": "",
+      "source": "MIT Technology Review",
+      "publishedAt": "Wed, 25 Nov 2026 10:00:00 +0000",
+      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he…",
+      "score": 16
+    },
+    {
+      "section": "技术与研究",
+      "title": "从语音基座到语音应用：讯飞语音大模型能力全解",
+      "company": "",
       "source": "InfoQ",
-      "publishedAt": "Wed, 25 Nov 2026 13:27:15 GMT",
+      "publishedAt": "Thu, 26 Nov 2026 10:29:57 GMT",
       "summary": "点击查看原文>",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-      "company": "Anthropic",
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "company": "NVIDIA",
       "source": "TechCrunch AI",
-      "publishedAt": "Tue, 24 Nov 2026 18:30:42 +0000",
-      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "publishedAt": "Wed, 25 Nov 2026 19:54:57 +0000",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+      "title": "沈向洋刚讲了好多AI非共识啊",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Tue, 24 Nov 2026 06:35:06 +0000",
-      "summary": "端侧老炮辛米尔，打通物理AI规模化落地之路",
-      "score": 18
-    },
-    {
-      "section": "技术与研究",
-      "title": "The Download: AI’s gas power boom and a consciousness reality check",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Tue, 24 Nov 2026 13:10:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to the grid, a wait that…",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "Data centers are getting their own natural gas power plants",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Tue, 24 Nov 2026 11:00:00 +0000",
-      "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI boom.   xAI’s…",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
-      "company": "",
-      "source": "Ars Technica",
-      "publishedAt": "Tue, 24 Nov 2026 17:34:34 +0000",
-      "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
-      "score": 11
-    },
-    {
-      "section": "技术与研究",
-      "title": "Octop 托管 CodeBuddy 实战：打造 7×24 小时在线的 AI 程序员",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Wed, 25 Nov 2026 10:30:02 GMT",
-      "summary": "点击查看原文>",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "Even the best AI agents struggle with everyday life",
-      "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Tue, 24 Nov 2026 21:33:29 +0000",
-      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
-      "score": 16
+      "publishedAt": "Thu, 26 Nov 2026 03:13:16 +0000",
+      "summary": "“灵巧手是人类最后的尊严”",
+      "score": 19
     }
   ]
 }
