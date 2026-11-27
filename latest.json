@@ -1,104 +1,77 @@
 {
-  "date": "2026/11/26",
-  "count": 11,
+  "date": "2026/11/27",
+  "count": 8,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
+      "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Wed, 25 Nov 2026 14:32:57 +0000",
-      "summary": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA",
-      "score": 26
+      "publishedAt": "Fri, 27 Nov 2026 03:53:49 +0000",
+      "summary": "Quickwit查询总耗时降31%，最高降87%",
+      "score": 29
     },
     {
-      "section": "技术与研究",
-      "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
-      "company": "",
+      "section": "产品发布与更新",
+      "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
+      "company": "腾讯",
       "source": "量子位",
-      "publishedAt": "Thu, 26 Nov 2026 03:23:35 +0000",
-      "summary": "李斌坦言：不做AI变革可能活不下去",
-      "score": 25
+      "publishedAt": "Fri, 27 Nov 2026 03:45:19 +0000",
+      "summary": "3D生成的竞争重点正在从“能看”转向“能用”",
+      "score": 28
     },
     {
-      "section": "技术与研究",
-      "title": "AI写代码，谁来交付？",
+      "section": "产品发布与更新",
+      "title": "Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Thu, 26 Nov 2026 11:28:47 GMT",
+      "publishedAt": "Thu, 26 Nov 2026 14:00:00 GMT",
+      "summary": "点击查看原文>",
+      "score": 22
+    },
+    {
+      "section": "技术与研究",
+      "title": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+      "company": "",
+      "source": "InfoQ",
+      "publishedAt": "Fri, 27 Nov 2026 13:00:00 GMT",
       "summary": "点击查看原文>",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "前苹果空间智能首席科学家权龙再创业，成立 Envision AI 研发空间物理基础模型",
-      "company": "",
-      "source": "InfoQ",
-      "publishedAt": "Thu, 26 Nov 2026 11:00:08 GMT",
-      "summary": "点击查看原文>",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
       "company": "NVIDIA",
       "source": "TechCrunch AI",
-      "publishedAt": "Wed, 25 Nov 2026 22:44:32 +0000",
-      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "publishedAt": "Thu, 26 Nov 2026 20:03:54 +0000",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
       "score": 21
     },
     {
       "section": "技术与研究",
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "company": "",
+      "source": "TechCrunch AI",
+      "publishedAt": "Thu, 26 Nov 2026 16:00:00 +0000",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "score": 19
+    },
+    {
+      "section": "技术与研究",
+      "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
+      "company": "",
+      "source": "量子位",
+      "publishedAt": "Fri, 27 Nov 2026 03:33:11 +0000",
+      "summary": "暂无摘要",
+      "score": 22
+    },
+    {
+      "section": "技术与研究",
+      "title": "破发不算最疼，Claude Code核心班底被OpenAI疯狂收割才是：Anthropic的编程王座悬了？",
       "company": "OpenAI",
-      "source": "TechCrunch AI",
-      "publishedAt": "Wed, 25 Nov 2026 20:03:27 +0000",
-      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "The Download: AI swamping open records, and firefighting for permafrost",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Wed, 25 Nov 2026 13:10:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors’ interest in public records. Over the last few years, venture-backed startups have raised upwards of $100 million to collect data…",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "AI is straining America’s open records systems",
-      "company": "",
-      "source": "MIT Technology Review",
-      "publishedAt": "Wed, 25 Nov 2026 10:00:00 +0000",
-      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he…",
-      "score": 16
-    },
-    {
-      "section": "技术与研究",
-      "title": "从语音基座到语音应用：讯飞语音大模型能力全解",
-      "company": "",
       "source": "InfoQ",
-      "publishedAt": "Thu, 26 Nov 2026 10:29:57 GMT",
+      "publishedAt": "Thu, 26 Nov 2026 15:35:51 GMT",
       "summary": "点击查看原文>",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-      "company": "NVIDIA",
-      "source": "TechCrunch AI",
-      "publishedAt": "Wed, 25 Nov 2026 19:54:57 +0000",
-      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "沈向洋刚讲了好多AI非共识啊",
-      "company": "",
-      "source": "量子位",
-      "publishedAt": "Thu, 26 Nov 2026 03:13:16 +0000",
-      "summary": "“灵巧手是人类最后的尊严”",
       "score": 19
     }
   ]
