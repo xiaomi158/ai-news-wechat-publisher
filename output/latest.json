@@ -1,78 +1,60 @@
 {
-  "date": "2026/11/27",
-  "count": 8,
+  "date": "2026/11/28",
+  "count": 6,
   "articles": [
     {
       "section": "技术与研究",
-      "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+      "title": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Fri, 27 Nov 2026 03:53:49 +0000",
-      "summary": "Quickwit查询总耗时降31%，最高降87%",
-      "score": 29
+      "publishedAt": "Fri, 27 Nov 2026 07:01:20 +0000",
+      "summary": "地图能随时修，记忆能跨任务用",
+      "score": 27
     },
     {
       "section": "产品发布与更新",
-      "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
-      "company": "腾讯",
-      "source": "量子位",
-      "publishedAt": "Fri, 27 Nov 2026 03:45:19 +0000",
-      "summary": "3D生成的竞争重点正在从“能看”转向“能用”",
-      "score": 28
-    },
-    {
-      "section": "产品发布与更新",
-      "title": "Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
+      "title": "十年：谷歌更新 SRE 著作，拥抱 AI 时代",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Thu, 26 Nov 2026 14:00:00 GMT",
+      "publishedAt": "Sat, 28 Nov 2026 11:00:00 GMT",
       "summary": "点击查看原文>",
-      "score": 22
+      "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+      "title": "华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力",
       "company": "",
       "source": "InfoQ",
-      "publishedAt": "Fri, 27 Nov 2026 13:00:00 GMT",
+      "publishedAt": "Sat, 28 Nov 2026 10:00:00 GMT",
       "summary": "点击查看原文>",
-      "score": 21
+      "score": 18
     },
     {
       "section": "技术与研究",
-      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-      "company": "NVIDIA",
-      "source": "TechCrunch AI",
-      "publishedAt": "Thu, 26 Nov 2026 20:03:54 +0000",
-      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
-      "score": 21
-    },
-    {
-      "section": "技术与研究",
-      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
       "company": "",
-      "source": "TechCrunch AI",
-      "publishedAt": "Thu, 26 Nov 2026 16:00:00 +0000",
-      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
-      "score": 19
+      "source": "MIT Technology Review",
+      "publishedAt": "Fri, 27 Nov 2026 13:00:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Our 2027 Innovators Under 35 competition is now open Every year, MIT Technology Review honors 35 of the world’s brightest young scientists, entrepreneurs, and inventors in our Innovators Under 35 list.…",
+      "score": 16
     },
     {
       "section": "技术与研究",
-      "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
+      "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
       "company": "",
       "source": "量子位",
-      "publishedAt": "Fri, 27 Nov 2026 03:33:11 +0000",
-      "summary": "暂无摘要",
-      "score": 22
+      "publishedAt": "Fri, 27 Nov 2026 14:07:33 +0000",
+      "summary": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
+      "score": 15
     },
     {
       "section": "技术与研究",
-      "title": "破发不算最疼，Claude Code核心班底被OpenAI疯狂收割才是：Anthropic的编程王座悬了？",
-      "company": "OpenAI",
+      "title": "Netflix将GPU可靠性视为分布式系统的问题",
+      "company": "",
       "source": "InfoQ",
-      "publishedAt": "Thu, 26 Nov 2026 15:35:51 GMT",
+      "publishedAt": "Sat, 28 Nov 2026 10:00:00 GMT",
       "summary": "点击查看原文>",
-      "score": 19
+      "score": 18
     }
   ]
 }
